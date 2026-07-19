@@ -1,0 +1,166 @@
+<title>Planner 工作流 AI 化 — 总体设计</title>
+<style>
+:root{
+  --paper:#FAF9F7; --ink:#22252B; --ink-2:#6B6E76; --accent:#E8590C; --accent-soft:#FBEADD;
+  --done:#0F766E; --done-soft:#E4F0EE; --warn:#B45309; --warn-soft:#F7EDDC;
+  --line:#E6E1D8; --card:#FFFFFF; --code:#F1EEE8;
+  --mono:ui-monospace,"SF Mono","JetBrains Mono",Menlo,monospace;
+  --sans:"PingFang SC","Noto Sans SC","Microsoft YaHei",-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root{
+  --paper:#191A1E; --ink:#EAE6DF; --ink-2:#9B9EA6; --accent:#F1793B; --accent-soft:#33231A;
+  --done:#4DB6A9; --done-soft:#1C2E2B; --warn:#D9A44A; --warn-soft:#2E2718;
+  --line:#33353B; --card:#212226; --code:#26272C;
+}}
+:root[data-theme="dark"]{
+  --paper:#191A1E; --ink:#EAE6DF; --ink-2:#9B9EA6; --accent:#F1793B; --accent-soft:#33231A;
+  --done:#4DB6A9; --done-soft:#1C2E2B; --warn:#D9A44A; --warn-soft:#2E2718;
+  --line:#33353B; --card:#212226; --code:#26272C;
+}
+:root[data-theme="light"]{
+  --paper:#FAF9F7; --ink:#22252B; --ink-2:#6B6E76; --accent:#E8590C; --accent-soft:#FBEADD;
+  --done:#0F766E; --done-soft:#E4F0EE; --warn:#B45309; --warn-soft:#F7EDDC;
+  --line:#E6E1D8; --card:#FFFFFF; --code:#F1EEE8;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.65;font-size:15px}
+.wrap{max-width:980px;margin:0 auto;padding:40px 24px 80px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:0 0 10px}
+h1{font-size:30px;line-height:1.25;margin:0 0 6px;text-wrap:balance;font-weight:700}
+.sub{color:var(--ink-2);margin:0 0 22px;font-size:14px}
+h2{font-size:19px;margin:52px 0 6px;padding-top:22px;border-top:1px solid var(--line);font-weight:700}
+h2 .no{font-family:var(--mono);color:var(--accent);font-size:13px;margin-right:8px}
+.h2note{color:var(--ink-2);font-size:13px;margin:0 0 16px}
+.statusbar{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 4px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:10px 14px;flex:1;min-width:150px}
+.stat b{display:block;font-size:17px;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--ink-2)}
+.stat.hot{border-color:var(--accent);background:var(--accent-soft)}
+.pipe{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 8px}
+.pipe .step{background:var(--card);border:1px solid var(--line);border-radius:5px;padding:7px 11px;font-size:13px;display:flex;align-items:center;gap:7px}
+.pipe .step .n{font-family:var(--mono);font-size:11px;color:var(--accent)}
+.pipe .arrow{align-self:center;color:var(--ink-2);font-size:12px}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+.tblwrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--card);margin:14px 0}
+th{font-size:12px;text-align:left;color:var(--ink-2);font-weight:600;letter-spacing:.03em;padding:10px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:9px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:none}
+td.k,.mono{font-family:var(--mono);font-size:12.5px;white-space:nowrap}
+.tag{display:inline-block;font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;border-radius:4px;padding:2px 7px;vertical-align:1px}
+.tag.p0{background:var(--accent);color:#fff}
+.tag.p1{background:var(--accent-soft);color:var(--accent)}
+.tag.p2{background:var(--code);color:var(--ink-2)}
+.tag.ok{background:var(--done-soft);color:var(--done)}
+.tag.todo{background:var(--warn-soft);color:var(--warn)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:16px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 16px}
+.card h3{margin:0 0 6px;font-size:14.5px;display:flex;gap:8px;align-items:baseline}
+.card h3 .id{font-family:var(--mono);color:var(--accent);font-size:12px}
+.card p{margin:0;font-size:13px;color:var(--ink-2)}
+.card .io{margin-top:9px;padding-top:9px;border-top:1px dashed var(--line);font-size:12px;color:var(--ink-2)}
+.card .io b{color:var(--ink);font-weight:600}
+ul.tight{margin:8px 0;padding-left:20px}
+ul.tight li{margin:5px 0}
+.dec{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;font-size:13.5px;margin:14px 0}
+.dec .d{font-family:var(--mono);font-size:11px;color:var(--done);white-space:nowrap;padding-top:2px}
+.dec .d.open{color:var(--warn)}
+.bar{height:7px;border-radius:4px;background:var(--code);overflow:hidden;min-width:90px}
+.bar i{display:block;height:100%;background:var(--done)}
+.bar.part i{background:var(--warn)}
+.foot{margin-top:56px;padding-top:16px;border-top:1px solid var(--line);color:var(--ink-2);font-size:12px}
+a{color:var(--accent)}
+</style>
+
+<div class="wrap">
+<p class="eyebrow">WEBUY · Group Commercial · Product Line</p>
+<h1>Planner 工作流 AI 化 — 总体设计</h1>
+<p class="sub">从市场洞察到 Skybear 上架的全链路拆解 · 架构 v0.1 已定稿 · Lark Product Base 已实建 · 2026-07-19</p>
+
+<div class="statusbar">
+  <div class="stat"><b>9 步</b><span>工作流全景（访谈 6 轮定稿）</span></div>
+  <div class="stat"><b>8 个</b><span>AI 动作（A1–A8）</span></div>
+  <div class="stat"><b>8 张表</b><span>Lark Product Base 已建</span></div>
+  <div class="stat hot"><b>4 公式列</b><span>Departures 唯一剩余项</span></div>
+</div>
+
+<h2><span class="no">01</span>工作流全景</h2>
+<p class="h2note">六位 Planner（Bernice / Jasmin / Dorothy / Jaccy / Leen / Xinmei）· 目标 = 各自区域 Sales + Margin</p>
+<div class="pipe">
+  <div class="step"><span class="n">①</span>市场洞察</div><span class="arrow">→</span>
+  <div class="step"><span class="n">②</span>构思立项</div><span class="arrow">→</span>
+  <div class="step"><span class="n">③</span>航司谈判</div><span class="arrow">→</span>
+  <div class="step"><span class="n">④</span>地接询价</div><span class="arrow">→</span>
+  <div class="step"><span class="n">⑤</span>成本定价</div><span class="arrow">→</span>
+  <div class="step"><span class="n">⑥</span>行程文件</div><span class="arrow">→</span>
+  <div class="step"><span class="n">⑦</span>Skybear 上架</div><span class="arrow">→</span>
+  <div class="step"><span class="n">⑧</span>文案培训</div><span class="arrow">→</span>
+  <div class="step"><span class="n">⑨</span>在售运营</div>
+</div>
+<div class="tblwrap"><table>
+<tr><th>步骤</th><th>Input</th><th>Output</th><th>Goal</th><th>AI 动作</th></tr>
+<tr><td>① 市场洞察</td><td>竞品价格 / 销售反馈 / 供应商推介（+补 Skybear 自有数据）</td><td>区域机会判断</td><td>找到能卖、有毛利的方向</td><td class="k">A1</td></tr>
+<tr><td>② 构思立项</td><td>机会 + BU 定位约束</td><td>产品概念（目的地/天数/价带）</td><td>立一个值得做的产品</td><td class="k">A2</td></tr>
+<tr><td>③ 航司谈判</td><td>班期需求、目标成本</td><td>series fare + 班期 + 条款</td><td>锁定机票成本和班期</td><td class="k">A3 辅助</td></tr>
+<tr><td>④ 地接询价</td><td>行程需求单</td><td>各家报价（Excel/Word/PDF）</td><td>拿到最优地接成本</td><td class="k">A3</td></tr>
+<tr><td>⑤ 成本定价</td><td>机票+地接+汇率+杂费+目标 margin</td><td>每日期成本 + 各档售价矩阵</td><td>算对数、达标 margin</td><td class="k">A4</td></tr>
+<tr><td>⑥ 行程文件</td><td>地接中文行程底稿</td><td>双语 PDF（电子+印刷）</td><td>客户可看、可印刷</td><td class="k">A5</td></tr>
+<tr><td>⑦ Skybear 上架</td><td>价格矩阵 + 行程内容</td><td>Tour Type + Tour Code 价格 + Package Content</td><td>1–2 天 → 1 小时</td><td class="k">A6</td></tr>
+<tr><td>⑧ 文案培训</td><td>ProductSpec + costing</td><td>群发图文 + 卖点卡/FAQ + 培训材料</td><td>上架当天弹药到位</td><td class="k">A7</td></tr>
+<tr><td>⑨ 在售运营</td><td>收客进度、竞品价差</td><td>砍班/加班/调价建议</td><td>收客率和毛利守住</td><td class="k">A8</td></tr>
+</table></div>
+
+<h2><span class="no">02</span>架构核心：一份产品主数据，处处渲染</h2>
+<p class="h2note">Planner 改数据只改一处（Lark Base / ProductSpec），行程 PDF、Skybear 字段、文案培训全部重新渲染即得 —— 直接消灭「多处手抄、多日期摊算、变动重算」三大痛点。</p>
+<div class="grid">
+  <div class="card"><h3><span class="id">A1</span>市场雷达 <span class="tag p2">P2</span></h3><p>每周竞品扫描按区域切分推送 + 接入 Skybear 自有销售 / lost deal 数据（目前完全没用上）。</p><div class="io"><b>Out</b> 每周一每人一份区域机会简报（试运行 3–4 周后定是否进 Product Committee 例会）</div></div>
+  <div class="card"><h3><span class="id">A2</span>立项一页纸 <span class="tag p2">低</span></h3><p>一句话方向 → 竞品价带 + 历史销售 + BU 定位校验 → 立项 brief。</p><div class="io"><b>Out</b> 目的地 / 天数 / 目标价带 / 预期 margin / 竞品对比</div></div>
+  <div class="card"><h3><span class="id">A3</span>报价转录官 <span class="tag p0">P0</span></h3><p>地接 Excel / Word / PDF 报价 → 归一化入 Quotes 表 + 漏项检查 + 多家比价表。</p><div class="io"><b>Out</b> Quote_Lines 明细（日期段 × 人数档 × 单价）+ 砍价点提示</div></div>
+  <div class="card"><h3><span class="id">A4</span>Costing 引擎 <span class="tag p0">P0</span></h3><p>毛利倒推 + 竞品对标并排；档位规则一次定义全日期生成；改一个成本全日期重算 + 低毛利红旗。</p><div class="io"><b>Out</b> 每 Tour Code 成本 + 5 价格档 + Margin 红旗视图</div></div>
+  <div class="card"><h3><span class="id">A5</span>Itinerary Studio <span class="tag p1">P1</span></h3><p>webuy-itinerary skill v3：地接中文行程 → TourSpec → 双语 PDF（电子版 + 印刷版）+ 可编辑校样。</p><div class="io"><b>Out</b> WEBUY 模板 PDF；TourSpec 并入 ProductSpec 体系</div></div>
+  <div class="card"><h3><span class="id">A6</span>Skybear 发布器 <span class="tag p0">P0→P1</span></h3><p>Cheng Tai 确认写 API 已上线周期内 —— 一键建 Tour Type / 批量改价 / 上传 Package Content，写入前 diff 预览。</p><div class="io"><b>Out</b> 上架 1–2 天 → 1 小时；改价批量一次过</div></div>
+  <div class="card"><h3><span class="id">A7</span>销售弹药生成器 <span class="tag p1">P1</span></h3><p>三件套同源生成：群发图文 + 卖点卡/FAQ/异议话术 + 培训材料。</p><div class="io"><b>Out</b> 沉淀 Group Commercial 空间 Lark 知识库（Planner 可写 / 销售只读）</div></div>
+  <div class="card"><h3><span class="id">A8</span>在售驾驶舱 <span class="tag p2">P2</span></h3><p>定时扫 webuy-data：收客进度 × 起飞倒计时 × margin × 竞品价差。</p><div class="io"><b>Out</b> 每周砍班 / 加班 / 调价建议，lost deal 摘要回流 Product Committee</div></div>
+</div>
+<p class="h2note">交付形态：A2–A7 = <b>planner-suite 双平台包</b>（Claude Skill + ChatGPT 移植版，ChatGPT 可用为底线 —— 6 位 Planner 中 4 位双持 Codex+Cowork，2 位仅 ChatGPT）；A1 / A8 中心化定时跑推 Lark。</p>
+
+<h2><span class="no">03</span>数据底座：Lark Product Base（已实建）</h2>
+<p class="h2note">Base：WEBUY Product Base · 成本三来源分离（机票 / 地接 / 杂费），Departures 只做引用汇总 —— 改源头，全部日期自动重算</p>
+<div class="tblwrap"><table>
+<tr><th>表</th><th>角色</th><th>关键字段</th><th>建表状态</th></tr>
+<tr><td class="k">Products</td><td>Tour Type 级产品档案</td><td>Code / BU / Region(10) / Planner / Target Margin / Status(7) / Skybear ID</td><td><span class="tag ok">15 字段 ✓</span></td></tr>
+<tr><td class="k">Departures</td><td>Tour Code 级 · 主战场</td><td>日期 / Air Block↗ / Quote Line↗ / 杂费5列 / 5价格档 / Status(7) / Sync</td><td><span class="tag ok">25/29</span> <span class="tag todo">剩 4 公式列</span></td></tr>
+<tr><td class="k">Quotes</td><td>地接/航司报价单</td><td>Supplier↗ / Currency(9) / Inclusions(7) / 原始附件 / Gap Notes</td><td><span class="tag ok">14 字段 ✓</span></td></tr>
+<tr><td class="k">Quote_Lines</td><td>报价明细行</td><td>日期段 × Pax Tier × 单价/单房差/儿童价</td><td><span class="tag ok">9 字段 ✓</span></td></tr>
+<tr><td class="k">Air_Blocks</td><td>机票批次（航司谈判落点）</td><td>Base Fare 与 Tax 拆列 / 团位 / 订金·名单 deadline</td><td><span class="tag ok">13 字段 ✓</span></td></tr>
+<tr><td class="k">Price_Rules</td><td>促销档位规则</td><td>减额/减%/覆盖价 × 预订窗口 × 出发窗口 × 可叠加</td><td><span class="tag ok">12 字段 ✓</span></td></tr>
+<tr><td class="k">Suppliers</td><td>供应商档案</td><td>类型(5) / 区域 / 评级 / 合作状态</td><td><span class="tag ok">7 字段 ✓</span></td></tr>
+<tr><td class="k">FX_Rates</td><td>汇率表（变动重算开关）</td><td>币种 / Rate to SGD(4位小数) / 生效日 / Active</td><td><span class="tag ok">5 字段 ✓</span></td></tr>
+</table></div>
+<p class="h2note">待补 4 公式列（约 10 分钟手工或下次会话）：<span class="mono">Total Cost = Air+Land+杂费5列</span> · <span class="mono">Suggested Price = Cost÷(1−Margin%) 取整尾88</span> · <span class="mono">Margin % = (Adult−Cost)÷Adult</span> · <span class="mono">Margin Flag = Margin&lt;Target→🔴</span>。另：7 个视图（每人默认 / 低毛利红旗 / 待同步等）+ 权限设置。</p>
+
+<h2><span class="no">04</span>已拍板决策</h2>
+<div class="dec">
+  <span class="d">07-17</span><span>痛点优先级：成本定价 &gt; Skybear 上架 &gt; 行程/文案培训（地接询价只做转录不做谈判）</span>
+  <span class="d">07-17</span><span>Skybear 写入走官方 API —— Cheng Tai 确认已排上线，无需需求单；「填写包」降级为 fallback</span>
+  <span class="d">07-17</span><span>Costing 收敛为统一 Lark 多维表格；销售弹药沉淀统一 Lark 知识库（Planner 可写 / 销售只读）</span>
+  <span class="d">07-17</span><span>Planner 自己跑：Claude+Skill / ChatGPT+Skill 双平台交付，ChatGPT 可用为底线</span>
+  <span class="d">07-17</span><span>Xinmei 由 OP 升职 Junior Planner + OP（协助中国线），Planner 团队 6 人</span>
+  <span class="d">07-18</span><span>Schema 8 项定稿：杂费 5 列 + 机场税燃油拆列 / 5 价格档含三人房 / GC 会员价不进 Base / 汇率引用最新+红旗 / 售价取整尾 88 / 命名纯英文</span>
+  <span class="d">07-18</span><span>Target Margin 默认：China 18 · Europe 12 · Asia 15 · SEA 15 · Exotic 15 · ALTITUDE = 区域基准 +5pp（做成公式默认）</span>
+  <span class="d open">待确认</span><span>SEA 15% 与 Jaccy 年度 target 20% 双口径关系 · Americas 暂按 Europe 12% · 仅 ChatGPT 的 2 位 Planner 是谁</span>
+</div>
+
+<h2><span class="no">05</span>落地路线</h2>
+<div class="tblwrap"><table>
+<tr><th>阶段</th><th>内容</th><th>状态</th></tr>
+<tr><td class="k">P0</td><td>Lark Product Base 建表（8 表）· A3 报价转录官 · A4 Costing 引擎 · 中国线试点（Bernice 从 All China Costing Sheet 迁移 1–2 产品）</td><td><div class="bar part"><i style="width:60%"></i></div>建表近完成，A3/A4 提示词包待做</td></tr>
+<tr><td class="k">P1</td><td>Skybear API 联调（A6）· A7 弹药三件套 + 知识库结构 · itinerary v3 P0/P1 · Jaccy 日韩台高频改价试点</td><td><div class="bar part"><i style="width:15%"></i></div>API 上线即启动</td></tr>
+<tr><td class="k">P2</td><td>A1 市场雷达升级（分区订阅 + 自有数据）· A8 在售驾驶舱 · itinerary v3 P2 视觉对齐</td><td><div class="bar"><i style="width:5%"></i></div>规划中</td></tr>
+</table></div>
+<p class="h2note">节奏对齐「看季节批量」：目标下一个批量上新窗口（如 NATAS 前）P0+P1 可用。</p>
+
+<div class="foot">
+源文档（vault）：00_Inbox/AI_Capture/2026-07-17_Planner_Workflow_AI_Architecture_v0.1.md · 2026-07-17_Lark_Product_Base_Schema_v0.1.md<br>
+Lark Base：WEBUY Product Base（x5mcu0hena.sg.larksuite.com/base/WcsIbxs1CakUK9sWxjDlvWMfg2d）
+</div>
+</div>
