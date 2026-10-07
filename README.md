@@ -15,7 +15,7 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | 架构设计 v0.1 | ✅ 定稿（6 轮访谈 + 2 轮逐项拍板） |
 | Lark Product Base schema | ✅ 定稿（8 项口径全部确认） |
 | Lark Base 实建 | 🟡 8 张表已建；7 张字段 100%，Departures 25/29（剩 4 个公式列） |
-| planner-suite skill 包 | 🟡 A5 行程生成知识包 + 校验器已落地（research/japan_kb、itinerary_skill）；A3 / A4 未开始 |
+| planner-suite skill 包 | 🟡 A5 行程生成知识包 + 校验器已落地（独立仓库 [Japan-Tour-Planner](https://github.com/webuytravel/Japan-Tour-Planner)）；A3 / A4 未开始 |
 | Skybear 写 API 联调 | ⬜ 等 IT 上线后启动 |
 
 ## 文档
@@ -26,8 +26,7 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | [docs/02_lark_product_base_schema.md](docs/02_lark_product_base_schema.md) | Lark Product Base 8 张表字段级设计 + 核心机制 + 视图 + 建表进度 |
 | [docs/03_itinerary_skill_v3_proposal.md](docs/03_itinerary_skill_v3_proposal.md) | A5 行程 PDF skill v3 重设计（基于 5 份设计师成品逆向分析） |
 | [docs/overview.html](docs/overview.html) | 一页总览（可直接在浏览器打开） |
-| [research/](research/) | 竞品/参考站整理（直接抓取）：selfguidejapan.com（110 条自助游线路，全部含逐日/酒店/价格）、japan-navi-journey.com（11 条私人定制行程）、两站合并的 22 个行程家族 + 596 个按城市 tag 的可选景点（`research/japan_merged/`） |
-| [research/japan_kb/](research/japan_kb/) + [research/itinerary_skill/](research/itinerary_skill/) | **A5 行程生成知识包**：22 家族骨架 / 121 线路 / 城市交通图 / 596 景点 / 酒店 / 季节约束（JSON），配检索器、确定性校验器、生成驱动脚本与 Claude/ChatGPT 提示词 |
+| [Japan-Tour-Planner](https://github.com/webuytravel/Japan-Tour-Planner) | 日本线行程知识库（独立仓库）：121 条在售线路、22 个行程家族、城市交通图、596 个按城市 tag 的景点、酒店、季节约束，配检索器、校验器、生成驱动与 A5 行程生成 skill |
 
 ## 架构一句话
 
