@@ -75,26 +75,38 @@ def normalize_attraction(name):
     """拆分复合名称、去修饰，返回名称列表。"""
     n = name.strip()
     n = re.split(r"\s+-\s+|\s*:\s*|\s*–\s*|\s*→\s*", n)[0].strip()   # "Name - description" / "Name :description"
+    alias = re.search(r"\(([^()]{3,40})\)\s*$", n)
     n = STRIP_PREFIX.sub("", n); n = STRIP_SUFFIX.sub("", n).strip(" .,:;")
     if not n or n.endswith("?") or len(n) < 3: return []
-    parts = re.split(r"\s*,\s*|\s+&\s+|\s+and\s+|\s*/\s*", n)
+    if alias and re.match(r"^[A-Z]", alias.group(1)) and not re.search(r"\b(optional|fee|not included|approx|min|hour|km|day)\b", alias.group(1), re.I):
+        n = n + " / " + alias.group(1).strip()
+    parts = re.split(r"\s*,\s*|\s+&\s+|\s+and\s+(?=[A-Z])", n)   # " / " 保留为别名
     out = []
     for p in parts:
-        p = p.strip(" .")
-        if len(p) < 3 or re.match(r"^(area|the town|town|town area)$", p, re.I): continue
+        p = re.sub(r"^(the|a|an)\s+(of\s+)?", "", p.strip(" ."), flags=re.I).strip()
+        p = re.sub(r"^of\s+", "", p)
+        if len(p) < 3 or re.match(r"^(area|the town|town|town area|landscape)$", p, re.I): continue
+        if p[0].islower(): continue                      # 描述性短语（"art installations in ..."）
+        if re.match(r"^(UNESCO|World Heritage)\b", p, re.I) and len(p.split()) <= 5: continue
+        if len(p.split()) >= 6 and sum(1 for w in p.split()[1:] if w[:1].isupper()) == 0: continue   # 长句不是地名
         out.append(p)
-    return out or [n]
+    return out
 def parse_day(d, meals_map, hotels_by_city, duration):
     desc = d.get("description") or ""
     lines = [l.strip() for l in desc.replace("\r", "").split("\n")]
     attractions, transport, activities, optional, notes = [], [], [], [], []
+    in_spots = False
     for l in lines:
         if not l: continue
-        if l.startswith("★") or l.startswith("☆"):
-            body = l[1:].strip()
-            parts = re.split(r"→|->|⇒", body, maxsplit=1)
+        if re.match(r"^<\s*recommended", l, re.I): in_spots = True; continue
+        if l.startswith("★") or l.startswith("☆") or re.match(r"^[-•・●]\s*\S", l):
+            body = re.sub(r"^[★☆\-•・●]\s*", "", l).strip()
+            # 分隔：→ / -> / ： / : （冒号后紧跟空格，避免误切 "Mt. Fuji 5th Station" 之类）
+            parts = re.split(r"→|->|⇒|：|:\s", body, maxsplit=1)
             name = parts[0].strip(" :：")
             a_desc = parts[1].strip() if len(parts) > 1 else ""
+            if len(name) > 70 or re.match(r"^(breakfast|lunch|dinner|hotel|check|free|optional|note|tip|please|you|we|the tour|transfer|travel)\b", name, re.I):
+                activities.append(body); continue
             for nm in normalize_attraction(name):
                 attractions.append({"name_en": nm, "desc": a_desc})
         elif l[0] in TRANSPORT_ICONS:

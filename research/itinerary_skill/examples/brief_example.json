@@ -1,0 +1,17 @@
+{
+  "name": "日本中部世界遗产温泉 10 天（WEBUY 跟团）",
+  "bu": "WEBUY_SG",
+  "tour_type": "group_coach",
+  "days": 10,
+  "entry_airport": "Tokyo (HND/NRT)",
+  "exit_airport": "Osaka (KIX)",
+  "travel_month": 11,
+  "season": "autumn",
+  "themes": ["world heritage", "onsen", "autumn leaves"],
+  "must_cities": ["Takayama", "Kyoto"],
+  "must_attractions": ["Shirakawa-go", "Fushimi Inari Taisha"],
+  "avoid": ["theme parks"],
+  "pax_profile": "40–65 岁华人家庭与夫妻，首次或二次访日",
+  "target_price_sgd": 3288,
+  "notes": "需含白川乡与一晚温泉旅馆；大巴团，每天不超过 6 个点"
+}

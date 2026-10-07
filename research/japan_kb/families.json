@@ -1,0 +1,1331 @@
+[
+ {
+  "id": "F01",
+  "name_cn": "黄金路线 7 天（东京 > 京都 > 大阪）",
+  "name_en": "Golden Route Classic 7D",
+  "standard": "BF001",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "key": "osaka",
+    "nights": 2
+   }
+  ],
+  "days_band": "6–7D",
+  "days_min": 4,
+  "days_max": 7,
+  "price_usd_min": 900,
+  "price_usd_max": 3700,
+  "members": [
+   "BF001",
+   "KA001",
+   "KR003",
+   "EX003"
+  ],
+  "note_cn": "首访日本的最短闭环；KA001 为关西进出的 6 天版（大阪 2N > 奈良 1N > 京都 2N），KR003 为大阪基地 4 天樱花短线（仅 2027-04-08～04-17 出发）。",
+  "themes": [
+   "Art & Culture",
+   "Golden Route",
+   "Hidden Gems",
+   "Onsen & Relaxation",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "hakone",
+   "kyoto",
+   "nara",
+   "nihondaira",
+   "nishinagahori,osaka",
+   "osaka",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F02",
+  "name_cn": "东京 > 金泽 > 京都（北陆文化线）",
+  "name_en": "Tokyo–Kanazawa–Kyoto",
+  "standard": "BF002",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Kanazawa",
+    "key": "kanazawa",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 2
+   }
+  ],
+  "days_band": "7–12D",
+  "days_min": 7,
+  "days_max": 13,
+  "price_usd_min": 1200,
+  "price_usd_max": 6400,
+  "members": [
+   "BF002",
+   "GR006",
+   "GR106",
+   "KA002",
+   "EX004",
+   "SK009"
+  ],
+  "note_cn": "北陆新干线 + 敦贺转特急；GR006/GR106 为 12 天版（加大阪进出、京都 3N）；KA002 为关西出发 7 天、加白川乡包车到高山；NT009 为美食铁道版（富士/伊势/金泽，标题待核）。",
+  "themes": [
+   "Art&Culture",
+   "Golden Route",
+   "Ski Resorts",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "hakone",
+   "hakuba",
+   "kanazawa",
+   "kashikojima",
+   "kyoto",
+   "nihondaira",
+   "osaka",
+   "takayama",
+   "tokyo",
+   "yudanakaonsen"
+  ]
+ },
+ {
+  "id": "F03",
+  "name_cn": "东京 > 高山·白川乡 > 京都（飞驒世界遗产线）",
+  "name_en": "Golden Route Plus: Takayama & Shirakawa-go",
+  "standard": "GR002",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Takayama",
+    "key": "takayama",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Nara",
+    "key": "nara",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   }
+  ],
+  "days_band": "7–14D",
+  "days_min": 7,
+  "days_max": 14,
+  "price_usd_min": 1300,
+  "price_usd_max": 6800,
+  "members": [
+   "BF003",
+   "GR002",
+   "GR102",
+   "GR003",
+   "GR103",
+   "TP003",
+   "TP103",
+   "FG002",
+   "FG003",
+   "GR009",
+   "GR109",
+   "HS002",
+   "EX002",
+   "SK010"
+  ],
+  "note_cn": "站点最主力的 12 天骨架：Tokyo 2N > Takayama 2N（包车白川乡）> Kyoto 3N > Nara 2N > Tokyo 2N。BF003 是 7 天缩减版；GR003 把奈良换成金泽 2N；TP003 把奈良换成大阪环球影城；FG002/FG003 为家庭 13 天（加箱根/广岛）；GR009 14 天加箱根 1N + 广岛；HS002 为温泉版（金泽 2N > 白川乡住 1N > 高山 > 下吕）。",
+  "themes": [
+   "Family",
+   "Golden Route",
+   "Hidden Gems",
+   "Onsen & Relaxation",
+   "Ski Resorts",
+   "Theme Parks",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "gero",
+   "hakone",
+   "hiroshima",
+   "inuyama",
+   "kanazawa",
+   "kinosaki",
+   "kyoto",
+   "nara",
+   "nihondaira",
+   "osaka",
+   "shirakawago",
+   "takayama",
+   "tokyo",
+   "yudanakaonsen"
+  ]
+ },
+ {
+  "id": "F04",
+  "name_cn": "东京 > 京都 > 姬路 > 广岛·宫岛（西日本名城线）",
+  "name_en": "West Japan: Castles, Hiroshima & Miyajima",
+  "standard": "GR005",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Himeji",
+    "key": "himeji",
+    "nights": 1
+   },
+   {
+    "city": "Hiroshima",
+    "key": "hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "key": "osaka",
+    "nights": 2
+   }
+  ],
+  "days_band": "7–16D",
+  "days_min": 7,
+  "days_max": 16,
+  "price_usd_min": 1400,
+  "price_usd_max": 8400,
+  "members": [
+   "BF004",
+   "BF005",
+   "KA003",
+   "GR004",
+   "GR104",
+   "GR005",
+   "GR105",
+   "SL004",
+   "SL005",
+   "GR010",
+   "GR110",
+   "FG001",
+   "TP002",
+   "TP102",
+   "LX003",
+   "HS001",
+   "KM004",
+   "KM104",
+   "KM002",
+   "KM102"
+  ],
+  "note_cn": "7 天版（BF004 Tokyo > Hiroshima 2N > Himeji > Osaka；BF005 延伸到福冈）；15 天版加金泽/冈山/直岛（GR004、GR005 及其豪华版、SOLO 版）；GR010 16 天 Tokyo > Takayama > Kyoto > Okayama > Fukuoka > Hiroshima > Tokyo；KA003 关西进出 8 天加城崎温泉；LX003 奢华 10 天（包车 + 高速船宫岛）；KM004 把姬路/城崎与高野山组合。",
+  "themes": [
+   "Family",
+   "Golden Route",
+   "Luxury Travel",
+   "Nature & Outdoors",
+   "Onsen & Relaxation",
+   "Solo (1 person)",
+   "Theme Parks",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "arashiyama",
+   "fukuoka",
+   "gero",
+   "hakone",
+   "himeji",
+   "hiroshima",
+   "kanazawa",
+   "kinosaki",
+   "koyasan",
+   "kyoto",
+   "okayama",
+   "osaka",
+   "shirakawago",
+   "takayama",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F05",
+  "name_cn": "伊势志摩·贤岛（Hidden Gems 线）",
+  "name_en": "Ise-Shima / Kashikojima",
+  "standard": "GR001",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Nagoya",
+    "key": "nagoya",
+    "nights": 1
+   },
+   {
+    "city": "Kashikojima",
+    "key": "kashikojima",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "key": "osaka",
+    "nights": 2
+   },
+   {
+    "city": "Nara",
+    "key": "nara",
+    "nights": 1
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 3
+   }
+  ],
+  "days_band": "9–16D",
+  "days_min": 2,
+  "days_max": 16,
+  "price_usd_min": 1400,
+  "price_usd_max": 11700,
+  "members": [
+   "GR001",
+   "GR101",
+   "SL001",
+   "GR007",
+   "GR107",
+   "SL007",
+   "GR008",
+   "GR108",
+   "TP001",
+   "TP101",
+   "LX001",
+   "FG005",
+   "KM001",
+   "KM101",
+   "EX004",
+   "EX005",
+   "KR002",
+   "KR004",
+   "NT009"
+  ],
+  "note_cn": "站点特色产品：伊势神宫（内外宫、宇治桥日出）+ 夫妇岩 + 御木本真珠岛 + 英虞湾游船 + 海女小屋午餐 + 观光特急 Shimakaze。GR007 加箱根与广岛（13 天）；GR008 为美食主题 16 天（松阪牛/怀石）；TP001/TP101 加大阪环球影城 2 天与高山；LX001 奢华版（帝国饭店、Green Car）；FG005 家庭忍者版（赤目四十八瀑忍者训练）；KM001/KM002 与高野山组合 15 天。",
+  "themes": [
+   "Art & Culture",
+   "Art&Culture",
+   "Family",
+   "Golden Route",
+   "Hidden Gems",
+   "Luxury Travel",
+   "Nature & Outdoors",
+   "Onsen & Relaxation",
+   "Solo (1 person)",
+   "Special Experience",
+   "Special experience",
+   "Theme Parks",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "fukuoka",
+   "hakone",
+   "hiroshima",
+   "igaueno",
+   "iseshima",
+   "kanazawa",
+   "kashikojima",
+   "kiikatsuura",
+   "kinosaki",
+   "koyasan",
+   "kyoto",
+   "nagoya",
+   "nara",
+   "nihondaira",
+   "okayama",
+   "osaka",
+   "takayama",
+   "toba",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F06",
+  "name_cn": "高野山 · 熊野古道 · 纪伊半岛（灵场徒步线）",
+  "name_en": "Koyasan & Kumano Kodo",
+  "standard": "KM003",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Koyasan",
+    "key": "koyasan",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Takayama",
+    "key": "takayama",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   }
+  ],
+  "days_band": "4–15D",
+  "days_min": 4,
+  "days_max": 15,
+  "price_usd_min": 1400,
+  "price_usd_max": 6600,
+  "members": [
+   "KM003",
+   "KM103",
+   "SL003",
+   "NT009",
+   "KR001",
+   "KM004",
+   "KM104",
+   "KM001",
+   "KM101",
+   "KM002",
+   "KM102"
+  ],
+  "note_cn": "高野山宿坊（福智院）两晚 + 奥之院；KM003/KM103/SL003 为 12 天 Tokyo 2N > Koyasan 2N > Kyoto 3N > Takayama 2N（白川乡包车）> Tokyo 2N；KM004/KM104 把高山换成城崎温泉 + 姬路；KM001/KM101 加伊势志摩（15 天）；KM002/KM102 加广岛宫岛（15 天）；NT009 为熊野版 10 天（Tokyo > Kyoto > Toba > Kii-Katsuura 2N > Osaka：那智瀑布、熊野本宫、瀞峡、海女小屋）；KR001 为近铁 4 天吉野 + 橿原 + 高野山短线。站点 2026-10 已下架 NT002/NT006/NT007/NT008（熊野古道徒步、筏流等线路）。",
+  "themes": [
+   "Art & Culture",
+   "Golden Route",
+   "Hidden Gems",
+   "Nature & Outdoors",
+   "Onsen & Relaxation",
+   "Solo (1 person)",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "himeji",
+   "hiroshima",
+   "kashihara",
+   "kashikojima",
+   "kiikatsuura",
+   "kinosaki",
+   "koyasan",
+   "kyoto",
+   "nara",
+   "osaka",
+   "takayama",
+   "toba",
+   "tokyo",
+   "yoshino"
+  ]
+ },
+ {
+  "id": "F07",
+  "name_cn": "濑户内 · 四国（艺术岛与港町线）",
+  "name_en": "Setouchi & Shikoku",
+  "standard": "SE003",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Onomichi",
+    "key": "onomichi",
+    "nights": 1
+   },
+   {
+    "city": "Tomonoura",
+    "key": "tomonoura",
+    "nights": 1
+   },
+   {
+    "city": "Hiroshima",
+    "key": "hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Dogo Onsen",
+    "key": "dogoonsen",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "key": "osaka",
+    "nights": 2
+   }
+  ],
+  "days_band": "11–15D",
+  "days_min": 11,
+  "days_max": 15,
+  "price_usd_min": 2500,
+  "price_usd_max": 5700,
+  "members": [
+   "SE001",
+   "SE002",
+   "SE003",
+   "SE004",
+   "SE005"
+  ],
+  "note_cn": "直岛/丰岛艺术岛、仓敷美观地区、尾道、鞆之浦、岛波海道、松山道后温泉；SE002 15 天深入四国；SE005 加出云大社；SE001 加姬路城与温泉旅馆。",
+  "themes": [
+   "Art & Culture",
+   "Hidden Gems",
+   "Onsen & Relaxation",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "dogoonsen",
+   "himeji",
+   "hiroshima",
+   "kinosaki",
+   "kotohira",
+   "kurashiki",
+   "matsue",
+   "matsuyama",
+   "onomichi",
+   "osaka",
+   "takamatsu",
+   "tamatsukurionsen",
+   "tokyo",
+   "tomonoura",
+   "tottori"
+  ]
+ },
+ {
+  "id": "F08",
+  "name_cn": "九州温泉线（福冈进出）",
+  "name_en": "Kyushu Onsen Circuit",
+  "standard": "KY003",
+  "skeleton": [
+   {
+    "city": "Fukuoka",
+    "key": "fukuoka",
+    "nights": 2
+   },
+   {
+    "city": "Kagoshima",
+    "key": "kagoshima",
+    "nights": 1
+   },
+   {
+    "city": "Ibusuki",
+    "key": "ibusuki",
+    "nights": 1
+   },
+   {
+    "city": "Kumamoto",
+    "key": "kumamoto",
+    "nights": 1
+   },
+   {
+    "city": "Takachiho",
+    "key": "takachiho",
+    "nights": 1
+   },
+   {
+    "city": "Beppu",
+    "key": "beppu",
+    "nights": 2
+   }
+  ],
+  "days_band": "9–13D",
+  "days_min": 9,
+  "days_max": 13,
+  "price_usd_min": 2800,
+  "price_usd_max": 8900,
+  "members": [
+   "KY001",
+   "KY002",
+   "KY003",
+   "KY004",
+   "KY005"
+  ],
+  "note_cn": "KY003 南九州版（仙岩园、指宿砂浴、玉手箱观光列车、阿苏、高千穗峡、别府地狱）；KY001 西九州版（长崎、熊本、高千穗、别府）；KY002 陶瓷小镇 + 嬉野 + 豪斯登堡 + 长崎 3N；KY004/KY005 尊享版 12–13 天（云仙、柳川、日田，旅馆含晚餐）。",
+  "themes": [
+   "Art & Culture",
+   "Hidden Gems",
+   "Luxury Travel",
+   "Nature & Outdoors",
+   "Onsen & Relaxation",
+   "Theme Parks",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "beppu",
+   "fukuoka",
+   "hita",
+   "huistenbosch",
+   "ibusuki",
+   "kagoshima",
+   "kumamoto",
+   "nagasaki",
+   "takachiho",
+   "unzen",
+   "ureshino",
+   "yanagawa"
+  ]
+ },
+ {
+  "id": "F09",
+  "name_cn": "北海道夏季自然线（5–10 月）",
+  "name_en": "Hokkaido Summer",
+  "standard": "HD001",
+  "skeleton": [
+   {
+    "city": "Sapporo",
+    "key": "sapporo",
+    "nights": 2
+   },
+   {
+    "city": "Sounkyo",
+    "key": "sounkyo",
+    "nights": 1
+   },
+   {
+    "city": "Lake Akan",
+    "key": "lakeakan",
+    "nights": 1
+   },
+   {
+    "city": "Shiretoko",
+    "key": "shiretoko",
+    "nights": 2
+   }
+  ],
+  "days_band": "7D",
+  "days_min": 7,
+  "days_max": 7,
+  "price_usd_min": 2200,
+  "price_usd_max": 4300,
+  "members": [
+   "HD001",
+   "HD002"
+  ],
+  "note_cn": "HD001 道东（层云峡、屈斜路湖、知床、阿寒湖，3 天包车）；HD002 道南（札幌/小樽 > 登别地狱谷·洞爷湖包车 > 函馆 2N）。",
+  "themes": [
+   "Hidden Gems",
+   "Nature & Outdoors"
+  ],
+  "cities": [
+   "akan",
+   "hakodate",
+   "sapporo",
+   "sounkyo",
+   "toyakoonsen"
+  ]
+ },
+ {
+  "id": "F10",
+  "name_cn": "北海道滑雪线（12–3 月）",
+  "name_en": "Hokkaido Ski",
+  "standard": "HK005",
+  "skeleton": [
+   {
+    "city": "Sapporo",
+    "key": "sapporo",
+    "nights": 3
+   },
+   {
+    "city": "Rusutsu",
+    "key": "rusutsu",
+    "nights": 4
+   }
+  ],
+  "days_band": "8–12D",
+  "days_min": 8,
+  "days_max": 12,
+  "price_usd_min": 2400,
+  "price_usd_max": 6400,
+  "members": [
+   "HK001",
+   "HK002",
+   "HK003",
+   "HK004",
+   "HK005",
+   "HK006",
+   "HK007",
+   "HK008",
+   "HK102"
+  ],
+  "note_cn": "留寿都 / 富良野 / 佐幌 / 旭川周边雪场两两组合，前后接札幌或温泉（定山溪、登别）；HK006 为 12 天 + 北海道精华；HK001 跨本州白马栂池。",
+  "themes": [
+   "Ski Resorts"
+  ],
+  "cities": [
+   "asahikawa",
+   "furano",
+   "hakuba",
+   "jozankeionsen",
+   "noboribetsu",
+   "rusutsu",
+   "sahoro",
+   "sapporo",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F11",
+  "name_cn": "本州滑雪线（白马 / 志贺高原 / 藏王）",
+  "name_en": "Honshu Ski",
+  "standard": "SK005",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Yudanaka Onsen",
+    "key": "yudanakaonsen",
+    "nights": 1
+   },
+   {
+    "city": "Hakuba",
+    "key": "hakuba",
+    "nights": 6
+   },
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   }
+  ],
+  "days_band": "9–14D",
+  "days_min": 9,
+  "days_max": 14,
+  "price_usd_min": 2900,
+  "price_usd_max": 6600,
+  "members": [
+   "SK001",
+   "SK002",
+   "SK003",
+   "SK004",
+   "SK005",
+   "SK006",
+   "SK007",
+   "SK008",
+   "SK009",
+   "SK010",
+   "SK102",
+   "SK105",
+   "SK108",
+   "SK205",
+   "SK208"
+  ],
+  "note_cn": "雪猴（地狱谷野猿公苑）+ 汤田中温泉 1N + 雪场 6N；两周版加藏王树冰。",
+  "themes": [
+   "Ski Resorts"
+  ],
+  "cities": [
+   "appi",
+   "hakone",
+   "hakuba",
+   "kanazawa",
+   "kyoto",
+   "shigakogen",
+   "takayama",
+   "tokyo",
+   "yudanakaonsen",
+   "zao"
+  ]
+ },
+ {
+  "id": "F12",
+  "name_cn": "日本阿尔卑斯 · 立山黑部（6–10 月 / 4–5 月雪墙）",
+  "name_en": "Japan Alps & Tateyama-Kurobe",
+  "standard": "NT005",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Matsumoto",
+    "key": "matsumoto",
+    "nights": 2
+   },
+   {
+    "city": "Takayama",
+    "key": "takayama",
+    "nights": 2
+   },
+   {
+    "city": "Kanazawa",
+    "key": "kanazawa",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 2
+   }
+  ],
+  "days_band": "11–12D",
+  "days_min": 11,
+  "days_max": 12,
+  "price_usd_min": 2800,
+  "price_usd_max": 6600,
+  "members": [
+   "NT004",
+   "NT104",
+   "NT005",
+   "NT105"
+  ],
+  "note_cn": "立山黑部阿尔卑斯路线（4–5 月雪之大谷版 NT104/NT105）、松本城、上高地、新穗高、美原高原；NT004 从富士山出发 12 天。",
+  "themes": [
+   "Nature & Outdoors",
+   "Onsen & Relaxation",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "isawaonsen",
+   "kanazawa",
+   "kyoto",
+   "matsumoto",
+   "osaka",
+   "takayama",
+   "tokyo",
+   "toyama",
+   "utsukushigahara",
+   "utsukushigaharaonsen",
+   "yamanashi",
+   "yudanakaonsen"
+  ]
+ },
+ {
+  "id": "F13",
+  "name_cn": "温泉主题线",
+  "name_en": "Onsen Journeys",
+  "standard": "HS003",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Hakone",
+    "key": "hakone",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Kinosaki Onsen",
+    "key": "kinosakionsen",
+    "nights": 1
+   }
+  ],
+  "days_band": "11–14D",
+  "days_min": 7,
+  "days_max": 14,
+  "price_usd_min": 2200,
+  "price_usd_max": 7600,
+  "members": [
+   "HS001",
+   "HS002",
+   "HS003",
+   "KA003",
+   "KM004",
+   "EX003"
+  ],
+  "note_cn": "箱根 2N 含晚餐 > 京都 > 城崎温泉七汤；HS001 14 天（东京/姬路/广岛）；HS002 金泽 > 白川乡 > 高山 > 下吕。与 F03/F04 交叉。",
+  "themes": [
+   "Art & Culture",
+   "Golden Route",
+   "Nature & Outdoors",
+   "Onsen & Relaxation",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "gero",
+   "hakone",
+   "himeji",
+   "hiroshima",
+   "kanazawa",
+   "kinosaki",
+   "koyasan",
+   "kyoto",
+   "nihondaira",
+   "osaka",
+   "shirakawago",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F14",
+  "name_cn": "主题乐园线",
+  "name_en": "Theme Parks",
+  "standard": "TP004",
+  "skeleton": [
+   {
+    "city": "Maihama (Tokyo Bay)",
+    "key": "maihama",
+    "nights": 3
+   },
+   {
+    "city": "Nagoya",
+    "key": "nagoya",
+    "nights": 2
+   },
+   {
+    "city": "Universal City (Osaka)",
+    "key": "osaka",
+    "nights": 3
+   }
+  ],
+  "days_band": "9–15D",
+  "days_min": 9,
+  "days_max": 15,
+  "price_usd_min": 2000,
+  "price_usd_max": 6500,
+  "members": [
+   "TP004",
+   "FG004",
+   "TP001",
+   "TP101",
+   "TP002",
+   "TP102",
+   "TP003",
+   "TP103",
+   "TP005",
+   "TP006"
+  ],
+  "note_cn": "TP004/FG004 纯乐园 9 天（东京迪士尼两园 > 名古屋乐高/吉卜力 > 大阪环球影城）；TP001–TP003 为黄金路线 + 环球影城 2 天。",
+  "themes": [
+   "Family",
+   "Theme Parks"
+  ],
+  "cities": [
+   "hiroshima",
+   "iseshima",
+   "kanazawa",
+   "kashikojima",
+   "kyoto",
+   "maihama",
+   "nagoya",
+   "nara",
+   "osaka",
+   "takayama",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F15",
+  "name_cn": "奢华线（帝国饭店 / Green Car / 包车）",
+  "name_en": "Luxury",
+  "standard": "LX001",
+  "skeleton": [
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Kashikojima",
+    "key": "kashikojima",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "key": "kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Kanazawa",
+    "key": "kanazawa",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "key": "tokyo",
+    "nights": 2
+   }
+  ],
+  "days_band": "10–12D",
+  "days_min": 10,
+  "days_max": 12,
+  "price_usd_min": 6500,
+  "price_usd_max": 11700,
+  "members": [
+   "LX001",
+   "LX002",
+   "LX003"
+  ],
+  "note_cn": "LX002 琵琶湖·彦根城·近江八幡·大原（4 天包车，椿山庄/Prince 京都宝池/InterContinental 大阪）；LX003 广岛 + 京都（Suiran 岚山）。",
+  "themes": [
+   "Golden Route",
+   "Luxury Travel",
+   "Onsen & Relaxation",
+   "World Heritage & National Treasures"
+  ],
+  "cities": [
+   "arashiyama",
+   "hiroshima",
+   "kanazawa",
+   "kashikojima",
+   "kyoto",
+   "osaka",
+   "otsu",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F16",
+  "name_cn": "青森·东北深度（私人定制）",
+  "name_en": "Aomori & Tohoku Bespoke",
+  "standard": "JNJ-AOMORI-UNVEILED",
+  "skeleton": [
+   {
+    "city": "Hakkoda / Oirase",
+    "key": "hakkoda/oirase",
+    "nights": 1
+   },
+   {
+    "city": "Goshogawara",
+    "key": "goshogawara",
+    "nights": 1
+   },
+   {
+    "city": "Shimokita Peninsula",
+    "key": "shimokitapeninsula",
+    "nights": 1
+   },
+   {
+    "city": "Hachinohe",
+    "key": "hachinohe",
+    "nights": 3
+   }
+  ],
+  "days_band": "3–10D",
+  "days_min": 3,
+  "days_max": 10,
+  "price_usd_min": null,
+  "price_usd_max": null,
+  "members": [
+   "JNJ-AOMORI-UNVEILED",
+   "JNJ-PREMIUM-TOHOKU-GOURMET-TOUR",
+   "JNJ-SLOW-TRAVEL-IN-TSUGARU",
+   "JNJ-TOKYO-TOHOKU-SNOW-MONSTERS-ONSEN"
+  ],
+  "note_cn": "Japan Navi Journey 主打区域（团队驻青森）：八甲田·奥入濑·十和田湖、下北半岛（恐山、仏之浦、大间金枪鱼）、八户早市·种差海岸、弘前·岩木山温泉旅馆、睡魔祭工作坊；冬季版东京进出看八甲田树冰 + 秘汤（酸汤、青荷灯之宿）。私家车 + 英语导游，按询价。selfguidejapan 无东北线路，属**互补区域**。",
+  "themes": [
+   "Aomori",
+   "Private custom tour",
+   "Tohoku",
+   "Tokyo"
+  ],
+  "cities": [
+   "aizuwakamatsu",
+   "aomoricity",
+   "goshogawara",
+   "hachinohe",
+   "hakkoda/oirase",
+   "hirosaki",
+   "kakunodate",
+   "nyutoonsen",
+   "oma",
+   "sendai",
+   "shimokitapeninsula",
+   "tokyo"
+  ]
+ },
+ {
+  "id": "F17",
+  "name_cn": "信州·长野深度（私人定制）",
+  "name_en": "Nagano Bespoke",
+  "standard": "JNJ-NAGANO-PREMIUM-RETREAT",
+  "skeleton": [
+   {
+    "city": "Matsumoto",
+    "key": "matsumoto",
+    "nights": 1
+   },
+   {
+    "city": "Suwa",
+    "key": "suwa",
+    "nights": 1
+   },
+   {
+    "city": "Ina",
+    "key": "ina",
+    "nights": 1
+   },
+   {
+    "city": "Hirugami Onsen",
+    "key": "hirugamionsen",
+    "nights": 2
+   },
+   {
+    "city": "Kiso",
+    "key": "kiso",
+    "nights": 1
+   }
+  ],
+  "days_band": "5–7D",
+  "days_min": 5,
+  "days_max": 11,
+  "price_usd_min": 2800,
+  "price_usd_max": 4000,
+  "members": [
+   "JNJ-NAGANO-PREMIUM-RETREAT",
+   "JNJ-EASTERN-NAGANO-ESCAPE",
+   "SK005",
+   "SK006",
+   "NT005"
+  ],
+  "note_cn": "南信州：松本城 + 扉温泉明神馆、富士见全景缆车、诹访五藏、伊那谷（驹岳缆车千叠敷、天龙峡）、昼神温泉 + 阿智村观星、木曾福岛；东信州版以轻井泽·小诸为中心。与 selfguidejapan 的 F11（雪猴 + 志贺/白马滑雪）、F12（立山黑部·松本）在松本/长野节点交叉，可拼成「雪猴 + 南信州温泉」组合。",
+  "themes": [
+   "Nagano",
+   "Nature & Outdoors",
+   "Private custom tour",
+   "Ski Resorts"
+  ],
+  "cities": [
+   "hakuba",
+   "hirugamionsen",
+   "ina",
+   "kanazawa",
+   "karuizawa",
+   "kiso",
+   "komoro",
+   "kyoto",
+   "matsumoto",
+   "osaka",
+   "saku",
+   "shigakogen",
+   "suwa",
+   "tokyo",
+   "tomi",
+   "toyama",
+   "yudanakaonsen"
+  ]
+ },
+ {
+  "id": "F18",
+  "name_cn": "福冈近郊深度（私人定制）",
+  "name_en": "Fukuoka Countryside Bespoke",
+  "standard": "JNJ-DISCOVER-FUKUOKA",
+  "skeleton": [
+   {
+    "city": "Itoshima",
+    "key": "itoshima",
+    "nights": 1
+   },
+   {
+    "city": "Kurume",
+    "key": "kurume",
+    "nights": 1
+   },
+   {
+    "city": "Ukiha",
+    "key": "ukiha",
+    "nights": 1
+   },
+   {
+    "city": "Munakata",
+    "key": "munakata",
+    "nights": 1
+   },
+   {
+    "city": "Fukuoka",
+    "key": "fukuoka",
+    "nights": 1
+   }
+  ],
+  "days_band": "6D",
+  "days_min": 6,
+  "days_max": 6,
+  "price_usd_min": null,
+  "price_usd_max": null,
+  "members": [
+   "JNJ-DISCOVER-FUKUOKA"
+  ],
+  "note_cn": "糸岛海岸艺术工作室、久留米絣 + 酒藏、浮羽采果与白壁街、宗像大社（世界遗产）+ 温泉旅馆、福津、太宰府。与 selfguidejapan F08（九州温泉环线）、BF005（东京到福冈）在福冈节点衔接：可作为九州环线前后的 2–3 天深度模块。",
+  "themes": [
+   "Fukuoka",
+   "Private custom tour"
+  ],
+  "cities": [
+   "fukuoka",
+   "itoshima",
+   "kurume",
+   "munakata",
+   "ukiha"
+  ]
+ },
+ {
+  "id": "F19",
+  "name_cn": "名古屋·知多半岛（私人定制）",
+  "name_en": "Nagoya & Chita Bespoke",
+  "standard": "JNJ-AICHI-NAGOYA-CHITA",
+  "skeleton": [
+   {
+    "city": "Nagoya",
+    "key": "nagoya",
+    "nights": 2
+   },
+   {
+    "city": "Chita Peninsula",
+    "key": "chitapeninsula",
+    "nights": 1
+   }
+  ],
+  "days_band": "4D",
+  "days_min": 4,
+  "days_max": 4,
+  "price_usd_min": null,
+  "price_usd_max": null,
+  "members": [
+   "JNJ-AICHI-NAGOYA-CHITA"
+  ],
+  "note_cn": "名古屋城本丸御殿、大须、常滑陶瓷散步道、知多半岛（野间灯塔、三轮神社、虾仙贝之里）、中部机场 Flight of Dreams；吉卜力公园可选。与 selfguidejapan F05（伊势志摩，经名古屋）、F14（名古屋乐高/吉卜力）交叉，可作中部机场进出的短模块。",
+  "themes": [
+   "Aichi（Nagoya）",
+   "Private custom tour"
+  ],
+  "cities": [
+   "chitapeninsula",
+   "nagoya"
+  ]
+ },
+ {
+  "id": "F20",
+  "name_cn": "佐渡·新潟（私人定制）",
+  "name_en": "Sado Island Bespoke",
+  "standard": "JNJ-SADO-ISLAND",
+  "skeleton": [
+   {
+    "city": "Sado Island",
+    "key": "sadoisland",
+    "nights": 3
+   }
+  ],
+  "days_band": "4D",
+  "days_min": 4,
+  "days_max": 4,
+  "price_usd_min": null,
+  "price_usd_max": null,
+  "members": [
+   "JNJ-SADO-ISLAND"
+  ],
+  "note_cn": "新潟港渡轮约 2 小时上岛：佐渡金山、大野龟·二龟、小木盆舟、朱鹮观察、能剧、海上活动；3 晚含餐 + 私家车 + 全程英语导游。selfguidejapan 无对应，属互补区域。",
+  "themes": [
+   "Niigata（Sado Island）",
+   "Private custom tour"
+  ],
+  "cities": [
+   "sadoisland"
+  ]
+ },
+ {
+  "id": "F21",
+  "name_cn": "大阪深度：堺·世博·相扑（私人定制）",
+  "name_en": "Osaka Deep Dive Bespoke",
+  "standard": "JNJ-OSAKA-5DAYS",
+  "skeleton": [
+   {
+    "city": "Osaka",
+    "key": "osaka",
+    "nights": 4
+   }
+  ],
+  "days_band": "5D",
+  "days_min": 4,
+  "days_max": 5,
+  "price_usd_min": 900,
+  "price_usd_max": 1500,
+  "members": [
+   "JNJ-OSAKA-5DAYS",
+   "KR003"
+  ],
+  "note_cn": "百舌鸟古坟群热气球、堺打刃物锻造、丸一菓子舗和菓子 + 利晶之杜茶道、长居植物园 teamLab、万博纪念公园、大阪城、黑门市场、道顿堀、泉佐野相扑体验。与 selfguidejapan F01（黄金路线大阪段）、KR003（大阪基地樱花 4 天）同为大阪驻点型，可互换为「大阪 + 体验」模块。",
+  "themes": [
+   "Hidden Gems",
+   "Osaka",
+   "Private custom tour"
+  ],
+  "cities": [
+   "osaka"
+  ]
+ },
+ {
+  "id": "F22",
+  "name_cn": "栃木·日光（私人定制）",
+  "name_en": "Tochigi & Nikko Bespoke",
+  "standard": "JNJ-NIKKO",
+  "skeleton": [
+   {
+    "city": "Nikko",
+    "key": "nikko",
+    "nights": 1
+   },
+   {
+    "city": "Oku-Nikko",
+    "key": "okunikko",
+    "nights": 1
+   },
+   {
+    "city": "Tochigi City",
+    "key": "tochigicity",
+    "nights": 1
+   }
+  ],
+  "days_band": "4D",
+  "days_min": 4,
+  "days_max": 4,
+  "price_usd_min": null,
+  "price_usd_max": null,
+  "members": [
+   "JNJ-NIKKO"
+  ],
+  "note_cn": "日光东照宫·轮王寺·二荒山神社 + 日光温泉 1N > 奥日光（中禅寺湖、华严瀑布、战场原）汤元温泉 1N > 宇都宫（大谷资料馆）·鹿沼·栃木市寺院旅馆 1N。selfguidejapan 无日光线路，属互补区域；可作为东京前后 2–3 天模块。",
+  "themes": [
+   "Private custom tour",
+   "Tochigi（Nikko）"
+  ],
+  "cities": [
+   "nikko",
+   "okunikko",
+   "tochigicity"
+  ]
+ }
+]

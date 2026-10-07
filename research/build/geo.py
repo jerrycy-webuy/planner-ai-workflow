@@ -180,6 +180,8 @@ CITY.update({
     "aomoricity": ("青森市", "Tohoku", "东北"), "hakkoda": ("八甲田", "Tohoku", "东北"), "oirase": ("奥入濑", "Tohoku", "东北"), "goshogawara": ("五所川原", "Tohoku", "东北"),
 })
 
+CITY.update({"tosu": ("鸟栖", "Kyushu", "九州"), "minoota": ("美浓太田", "Chubu", "中部"), "shizuoka": ("静冈", "Chubu", "中部"), "nagano": ("长野", "Chubu", "中部"), "toyama": ("富山", "Hokuriku", "北陆")})
+
 REGION_CN = {
     "Kanto": "关东", "Chubu": "中部", "Hokuriku": "北陆", "Kansai": "关西", "Chugoku": "中国地方",
     "Setouchi": "濑户内", "Shikoku": "四国", "Kyushu": "九州", "Hokkaido": "北海道", "Tohoku": "东北", "Okinawa": "冲绳",

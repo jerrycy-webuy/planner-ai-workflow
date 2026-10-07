@@ -102,6 +102,10 @@ def attr_cn_of(name_en):
             _ATTR_IDX2.setdefault(akey2(k), v)    # 宽松：再去 castle/garden/park 等通用词
     if names.ATTR_CN.get(name_en): return names.ATTR_CN[name_en]
     if _ATTR_IDX.get(akey(name_en)): return _ATTR_IDX[akey(name_en)]
+    if "/" in name_en:   # 别名形式 "A / B"
+        parts = [attr_cn_of(p.strip()) for p in name_en.split("/") if p.strip()]
+        parts = [p for p in parts if p]
+        if parts: return "·".join(dict.fromkeys(parts))
     # 裸地名（如 "Matsumoto"）优先按城市表翻译，避免被 "Matsumoto Castle" 的宽松匹配污染
     ccn, _, _ = geo.city_info(name_en)
     if ccn and len(name_en.split()) <= 2: return ccn
