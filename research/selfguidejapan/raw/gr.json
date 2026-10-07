@@ -1,0 +1,1121 @@
+[
+  {
+    "code": "GR001",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR001",
+    "title_en": "Hidden Gems of Japan: Ise-Shima Escape",
+    "subtitle_en": null,
+    "days": 12,
+    "nights": 11,
+    "price_min": 3300,
+    "price_max": 4400,
+    "currency": "USD",
+    "price_note": "US$3,300 ~ US$4,400 per person, two sharing, standard hotel tier; deluxe sister tour GR101 US$5,900-7,600 (from luxury-tours blog)",
+    "series": "GR",
+    "themes": [
+      "Golden Route",
+      "Hidden Gems"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Nagoya",
+        "nights": null
+      },
+      {
+        "city": "Toba & Kashikojima (Ise-Shima)",
+        "nights": null
+      },
+      {
+        "city": "Osaka",
+        "nights": null
+      },
+      {
+        "city": "Koyasan",
+        "nights": null
+      },
+      {
+        "city": "Nara",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card",
+      "IC card pre-loaded with JPY 13,000 for local trains, subways and buses (GR001-specific)",
+      "luggage forwarding Tokyo -> Osaka and again on the return leg (GR001-specific)",
+      "ama-hut lunch (Ise-Shima) (GR001-specific)",
+      "Ago Bay cruise (GR001-specific)",
+      "daily breakfast (stated for the 12-day tours)"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Ise Grand Shrine (Ise Jingu)",
+      "Toba & Kashikojima pearl coast / Ago Bay",
+      "ama-hut lunch and Ago Bay cruise",
+      "Koyasan day trip",
+      "Two big cities done properly (Tokyo, Kyoto) plus one region (the Ise coast) - recommended for first-time visitors with 12 days"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Ise Grand Shrine (Ise Jingu)",
+        "city": "Ise"
+      },
+      {
+        "name_en": "Ago Bay (cruise)",
+        "city": "Kashikojima"
+      },
+      {
+        "name_en": "Ama hut (pearl-diver hut) lunch",
+        "city": "Toba / Ise-Shima"
+      },
+      {
+        "name_en": "Koyasan",
+        "city": "Koyasan"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/japan-luxury-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-seniors",
+      "https://selfguidejapan.com/blog/ise-shima-hidden-gem-spirituality-pearls",
+      "https://selfguidejapan.com/blog/things-to-do-in-nagoya",
+      "https://selfguidejapan.com/blog/shimakaze-train",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "2 searches completed. The /tours/GR001 URL itself never appeared in result Links; existence and the code<->name mapping rest on site blog/listing pages that explicitly cite 'GR001' with this name, 12 days and US$3,300-4,400 (consistent across both searches). Destination list order is the site's own ('Tokyo - Nagoya - Toba & Kashikojima - Osaka - Koyasan - Nara - Kyoto'); one summary calls Koyasan a day trip, so some listed places may not be overnight stops; per-city nights unknown. nights=11 derived as days-1 (not stated). Day-by-day itinerary, airports, hotel names and exclusions were NOT obtained. A generic 'typical package includes JR Pass / pocket WiFi / ryokan dinners' passage in one summary comes from the generic trip-to-japan-package blog, not GR001, and was deliberately not recorded. Inclusions marked 'GR001-specific' were attributed to GR001 by the blogs; the rest are the site's standard inclusions for all tours. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR002",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR002",
+    "title_en": "Japan Highlights & World Heritage",
+    "subtitle_en": "The Golden Route through Japan's World Heritage sites: Tokyo, Takayama's Edo streets, thatched-roof Shirakawago and Kyoto's ancient temples (paraphrased by search summary)",
+    "days": 12,
+    "nights": 11,
+    "price_min": 3300,
+    "price_max": 4800,
+    "currency": "USD",
+    "price_note": "US$3,300 ~ US$4,800 per person, two sharing, standard hotels",
+    "series": "GR",
+    "themes": [
+      "Golden Route",
+      "World Heritage & National Treasures"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": 2
+      },
+      {
+        "city": "Takayama",
+        "nights": 2
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Nara",
+        "nights": 2
+      },
+      {
+        "city": "Tokyo",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Arrive Tokyo",
+        "from": null,
+        "to": "Tokyo",
+        "transport": null,
+        "attractions": [],
+        "activities": "Airport meet, documents and IC card handover, hotel check-in",
+        "meals": null,
+        "stay": "Tokyo",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Tokyo free day",
+        "from": "Tokyo",
+        "to": "Tokyo",
+        "transport": null,
+        "attractions": [],
+        "activities": "Full free day in Tokyo",
+        "meals": null,
+        "stay": "Tokyo",
+        "notes": null
+      },
+      {
+        "day": 3,
+        "title": "Tokyo to Takayama",
+        "from": "Tokyo",
+        "to": "Takayama",
+        "transport": "Shinkansen to Nagoya, then limited express into the Japanese Alps",
+        "attractions": [],
+        "activities": "Travel to Takayama; afternoon free",
+        "meals": null,
+        "stay": "Takayama",
+        "notes": null
+      },
+      {
+        "day": 4,
+        "title": "Shirakawa-go by chartered taxi",
+        "from": "Takayama",
+        "to": "Takayama",
+        "transport": "Chartered taxi",
+        "attractions": [
+          "Shirakawa-go"
+        ],
+        "activities": "Chartered taxi day trip to Shirakawa-go",
+        "meals": null,
+        "stay": "Takayama",
+        "notes": null
+      },
+      {
+        "day": 5,
+        "title": "Takayama to Kyoto",
+        "from": "Takayama",
+        "to": "Kyoto",
+        "transport": "Trains",
+        "attractions": [],
+        "activities": "Travel to Kyoto; afternoon free",
+        "meals": null,
+        "stay": "Kyoto",
+        "notes": null
+      },
+      {
+        "day": 6,
+        "title": "Kyoto free day",
+        "from": "Kyoto",
+        "to": "Kyoto",
+        "transport": null,
+        "attractions": [],
+        "activities": "Full free day in Kyoto",
+        "meals": null,
+        "stay": "Kyoto",
+        "notes": null
+      },
+      {
+        "day": 7,
+        "title": "Kyoto free day",
+        "from": "Kyoto",
+        "to": "Kyoto",
+        "transport": null,
+        "attractions": [],
+        "activities": "Full free day in Kyoto",
+        "meals": null,
+        "stay": "Kyoto",
+        "notes": null
+      },
+      {
+        "day": 8,
+        "title": "Kyoto to Nara",
+        "from": "Kyoto",
+        "to": "Nara",
+        "transport": "Trains",
+        "attractions": [],
+        "activities": "Travel to Nara; afternoon free",
+        "meals": null,
+        "stay": "Nara",
+        "notes": null
+      },
+      {
+        "day": 9,
+        "title": "Nara free day",
+        "from": "Nara",
+        "to": "Nara",
+        "transport": null,
+        "attractions": [],
+        "activities": "Full free day in Nara",
+        "meals": null,
+        "stay": "Nara",
+        "notes": null
+      },
+      {
+        "day": 10,
+        "title": "Nara to Tokyo",
+        "from": "Nara",
+        "to": "Tokyo",
+        "transport": "Trains",
+        "attractions": [],
+        "activities": "Travel to Tokyo; afternoon free",
+        "meals": null,
+        "stay": "Tokyo",
+        "notes": null
+      },
+      {
+        "day": 11,
+        "title": "Tokyo free day",
+        "from": "Tokyo",
+        "to": "Tokyo",
+        "transport": null,
+        "attractions": [],
+        "activities": "Full free day in Tokyo",
+        "meals": null,
+        "stay": "Tokyo",
+        "notes": null
+      },
+      {
+        "day": 12,
+        "title": "Tour ends",
+        "from": "Tokyo",
+        "to": null,
+        "transport": null,
+        "attractions": [],
+        "activities": "Tour ends after hotel check-out",
+        "meals": null,
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "inclusions": [
+      "standard hotels",
+      "Shinkansen and limited express trains",
+      "chartered taxi to Shirakawa-go",
+      "luggage delivery (forwarded to Kyoto, then to Tokyo)",
+      "pre-loaded transportation IC card",
+      "airport meet with documents",
+      "24/7 support"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Takayama's Edo-period streets",
+      "Thatched-roof Shirakawa-go (UNESCO World Heritage) by chartered taxi",
+      "Kyoto's ancient temples (3 nights)",
+      "Nara (2 nights)",
+      "Five full free days plus the afternoons of four transfer days"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Shirakawa-go",
+        "city": "Shirakawa-go"
+      },
+      {
+        "name_en": "Takayama old town (Edo streets)",
+        "city": "Takayama"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+      "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/blog/takayama",
+      "https://selfguidejapan.com/blog/shirakawa-go"
+    ],
+    "notes": "2 searches completed. /tours/GR002 URL never appeared in Links (a /tours/FG002 link did, titled only 'BluePlanet - Self-Guided Tours in Japan'). Code<->name mapping (GR002 = Japan Highlights & World Heritage) was consistent in both searches; NOTE the caller reported other summaries attaching this name to GR003 - in my results GR003 is 'Timeless Traditions: Kanazawa & Hida' and GR002 is 'Japan Highlights & World Heritage'. The 12-day skeleton (Tokyo 2 / Takayama 2 / Kyoto 3 / Nara 2 / Tokyo 2) comes from the self-guided-japan-tours blog, which uses GR002 as its worked example; day titles are mine, contents are the blog's. Hotel names, meals, airports and exclusions not obtained. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR003",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR003",
+    "title_en": "Timeless Traditions: Kanazawa & Hida Journey",
+    "subtitle_en": "A 12-day cultural journey from Tokyo to Kyoto through Kanazawa's samurai districts and Hida Takayama's mountain heritage (paraphrased by search summary)",
+    "days": 12,
+    "nights": 11,
+    "price_min": 3200,
+    "price_max": 4700,
+    "currency": "USD",
+    "price_note": "US$3,200 ~ US$4,700 per person, two sharing, standard tier; deluxe sister tour GR103 US$4,500 ~ 6,800",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Kanazawa",
+        "nights": 2
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Takayama",
+        "nights": 2
+      },
+      {
+        "city": "Tokyo",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card",
+      "chartered taxi for the Shirakawa-go day (instead of the public bus) (GR003-specific)"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Kanazawa: Kenrokuen, Kanazawa Castle, samurai and geisha districts",
+      "Hida Takayama mountain heritage",
+      "Shirakawa-go by chartered taxi on the way back toward Tokyo",
+      "Kyoto (3 nights), including Arashiyama"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Kenrokuen Garden",
+        "city": "Kanazawa"
+      },
+      {
+        "name_en": "Kanazawa Castle",
+        "city": "Kanazawa"
+      },
+      {
+        "name_en": "Shirakawa-go",
+        "city": "Shirakawa-go"
+      },
+      {
+        "name_en": "Arashiyama",
+        "city": "Kyoto"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+      "https://selfguidejapan.com/blog/japan-luxury-tours",
+      "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
+      "https://selfguidejapan.com/blog/takayama",
+      "https://selfguidejapan.com/blog/shirakawa-go",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "2 searches completed. /tours/GR003 URL never appeared in Links. Both searches consistently gave GR003 = 'Timeless Traditions: Kanazawa & Hida (Journey)', 12 days, US$3,200-4,700 - contradicting the caller's other summaries that put 'Japan Highlights & World Heritage' on GR003 (that name maps to GR002 here). Sequence per blogs: Kanazawa and Kyoto first, then Takayama + Shirakawa-go on the way back to Tokyo (so the 'from Tokyo to Kyoto' subtitle phrasing is loose; the tour appears to end in Tokyo). Nights: Kanazawa 2, Kyoto 3, Takayama 2; Tokyo nights not stated (11-7=4 implied, split unknown). Hotels (standard tier, 'or similar'): Kanazawa New Grand Hotel Prestige; Mercure Hida Takayama. Cherry-blossom spots cited for this route: Kenrokuen, Kanazawa Castle, Takayama, Arashiyama (Kanazawa blooms ~1 week after Kyoto). Day-by-day, airports, exclusions not obtained. nights=11 derived as days-1. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR004",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR004",
+    "title_en": "Scenic Japan: Culture & Countryside",
+    "subtitle_en": null,
+    "days": 15,
+    "nights": 14,
+    "price_min": 4200,
+    "price_max": 5900,
+    "currency": "USD",
+    "price_note": "US$4,200-5,900 per person, two sharing; deluxe sister tour GR104 US$5,100-6,600",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      },
+      {
+        "city": "Osaka",
+        "nights": null
+      },
+      {
+        "city": "Okayama",
+        "nights": null
+      },
+      {
+        "city": "Naoshima",
+        "nights": null
+      },
+      {
+        "city": "Himeji",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima",
+        "nights": null
+      },
+      {
+        "city": "Fukuoka",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Himeji Castle",
+      "Art islands of the Seto Inland Sea (Naoshima)",
+      "Hiroshima Peace Park",
+      "Miyajima reachable as a half-day free-time trip from Hiroshima"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Himeji Castle",
+        "city": "Himeji"
+      },
+      {
+        "name_en": "Naoshima art island",
+        "city": "Naoshima"
+      },
+      {
+        "name_en": "Hiroshima Peace Memorial Park",
+        "city": "Hiroshima"
+      },
+      {
+        "name_en": "Miyajima (optional free-time trip)",
+        "city": "Hiroshima"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+      "https://selfguidejapan.com/blog/japan-solo-tours",
+      "https://selfguidejapan.com/blog/japan-luxury-tours",
+      "https://selfguidejapan.com/destinations/hiroshima",
+      "https://selfguidejapan.com/blog/things-to-do-in-fukuoka",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "Only 1 search completed (the name-based 2nd search was blocked by the exhausted budget). /tours/GR004 URL not seen in Links; mapping GR004 = 'Scenic Japan: Culture & Countryside', 15 days, US$4,200-5,900 comes from a single round of blog summaries. Internal contradiction in that summary: destination list 'Tokyo, Kyoto, Osaka, Okayama, Naoshima, Himeji, Hiroshima, Fukuoka' vs another sentence 'stops in Okayama, Hiroshima, Fukuoka, Osaka and Takayama' - Takayama does not fit and may be bleed-over from another tour; treat the route as unverified. Per-city nights, day-by-day, hotels, airports, exclusions not obtained. nights=14 derived as days-1. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR005",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR005",
+    "title_en": "Castles & Heritage of West Japan",
+    "subtitle_en": null,
+    "days": 15,
+    "nights": 14,
+    "price_min": 3700,
+    "price_max": 5400,
+    "currency": "USD",
+    "price_note": "US$3,700-5,400 per person, two sharing",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Kanazawa",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      },
+      {
+        "city": "Nara",
+        "nights": null
+      },
+      {
+        "city": "Himeji",
+        "nights": null
+      },
+      {
+        "city": "Okayama / Naoshima (Setouchi islands)",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Himeji Castle (also one of Japan's most photographed cherry-blossom spots)",
+      "Okayama and the Setouchi art islands (Naoshima)",
+      "Hiroshima Peace Park and Miyajima (2 nights in Hiroshima)",
+      "Kanazawa, Kyoto and Nara heritage"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Himeji Castle",
+        "city": "Himeji"
+      },
+      {
+        "name_en": "Naoshima art island",
+        "city": "Naoshima"
+      },
+      {
+        "name_en": "Hiroshima Peace Memorial Park",
+        "city": "Hiroshima"
+      },
+      {
+        "name_en": "Miyajima / Itsukushima Shrine",
+        "city": "Hiroshima"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+      "https://selfguidejapan.com/blog/hiroshima-miyajima",
+      "https://selfguidejapan.com/destinations/hiroshima",
+      "https://selfguidejapan.com/blog/japan-solo-tours",
+      "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "Only 1 search completed (2nd blocked by exhausted budget). /tours/GR005 URL not seen in Links. This round gave GR005 = 'Castles & Heritage of West Japan', 15 days, US$3,700-5,400 and GR006 = 'Cultural Essence: Kyoto & Kanazawa Short Escape' (12 days) - the caller reported other summaries swapping these two names, so the GR005/GR006 mapping is unconfirmed. The candidate pool listed this tour as 12 or 15 days; this round says 15. Two destination descriptions were merged: 'Tokyo, Kanazawa, Kyoto, Nara, Himeji, Naoshima, Hiroshima' (first-time-visitors/cherry blogs) and 'Okayama and the Setouchi islands, Hiroshima and Miyajima, Himeji Castle, Kyoto, 2 nights in Hiroshima' (hiroshima-miyajima blog); order and nights other than Hiroshima are unverified. Day-by-day, hotels, airports, exclusions not obtained. nights=14 derived. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR006",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR006",
+    "title_en": "Cultural Essence: Kyoto & Kanazawa Short Escape",
+    "subtitle_en": null,
+    "days": 12,
+    "nights": 11,
+    "price_min": 2800,
+    "price_max": 4200,
+    "currency": "USD",
+    "price_note": "US$2,800 ~ US$4,200 (per person; sharing basis not stated in the summary but the site quotes all tours per person, two sharing)",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Osaka (Umeda)",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Kanazawa",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Three nights in Kyoto (Arashiyama)",
+      "Two nights in Kanazawa (Kenrokuen) - blooms about a week after Kyoto, useful insurance in cherry-blossom season",
+      "Osaka Castle",
+      "Nara Park"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Kenrokuen Garden",
+        "city": "Kanazawa"
+      },
+      {
+        "name_en": "Osaka Castle",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Arashiyama",
+        "city": "Kyoto"
+      },
+      {
+        "name_en": "Nara Park",
+        "city": "Nara"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/things-to-do-in-kyoto",
+      "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/experiences/Hidden%20Gems",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "Only 1 search completed (2nd blocked by exhausted budget). /tours/GR006 URL not seen in Links. Mapping GR006 = 'Cultural Essence: Kyoto & Kanazawa Short Escape', 12 days, US$2,800-4,200 is from one round of blog summaries; the caller reported other summaries swapping GR005/GR006 names, so this is unconfirmed. Route per summary: Tokyo -> Osaka (Umeda) -> Kyoto 3N -> Kanazawa 2N; whether/how it returns to Tokyo and the Tokyo/Osaka night counts are not stated. Nara Park is cited as a cherry spot on the route (likely a day trip). Day-by-day, hotels, airports, exclusions not obtained. nights=11 derived. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR007",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR007",
+    "title_en": "Sea of Serenity: Kashikojima & Cultural Japan",
+    "subtitle_en": null,
+    "days": 13,
+    "nights": 12,
+    "price_min": 3700,
+    "price_max": 5200,
+    "currency": "USD",
+    "price_note": "US$3,700-5,200 per person, two sharing",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Hakone",
+        "nights": 1
+      },
+      {
+        "city": "Ise-Shima (Kashikojima)",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      },
+      {
+        "city": "Himeji",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card",
+      "Hakone Free Pass (GR007-specific)",
+      "two hotel dinners: Hakone and the Ise-Shima coast (GR007-specific)",
+      "hot-spring hotel night in Hakone (GR007-specific)"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Hot-spring hotel night in Hakone with Mount Fuji above Lake Ashi on clear days - Mt Fuji built into the itinerary",
+      "Kashikojima / Ise-Shima coast with hotel dinner",
+      "Kyoto, Himeji and Hiroshima"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Lake Ashi / Mount Fuji views",
+        "city": "Hakone"
+      },
+      {
+        "name_en": "Ise Grand Shrine (Ise Jingu) (blog cross-reference)",
+        "city": "Ise"
+      },
+      {
+        "name_en": "Himeji Castle",
+        "city": "Himeji"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/hakone",
+      "https://selfguidejapan.com/blog/ise-grand-shrine",
+      "https://selfguidejapan.com/blog/hiroshima-miyajima",
+      "https://selfguidejapan.com/blog/japan-in-october-2026",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "Only 1 search completed (2nd blocked by exhausted budget). /tours/GR007 URL not seen in Links. Mapping GR007 = 'Sea of Serenity: Kashikojima & Cultural Japan', 13 days, US$3,700-5,200, destinations Tokyo/Hakone/Ise-Shima/Kyoto/Himeji/Hiroshima from one round of blog summaries. Hakone nights=1 inferred from 'a hot-spring hotel night in Hakone'; other night counts, order after Hiroshima (return to Tokyo?), day-by-day, hotels, airports, exclusions not obtained. Himeji Castle and Ise Jingu listed as attractions by inference from the destination names (blog cross-references), not from the tour page. nights=12 derived. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR008",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR008",
+    "title_en": "Taste Your Way through Japan",
+    "subtitle_en": null,
+    "days": 16,
+    "nights": 15,
+    "price_min": 4400,
+    "price_max": 6100,
+    "currency": "USD",
+    "price_note": "US$4,400 ~ US$6,100 (per person; standard tier)",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Nagoya",
+        "nights": 1
+      },
+      {
+        "city": "Ise-Shima",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima",
+        "nights": null
+      },
+      {
+        "city": "Fukuoka",
+        "nights": null
+      },
+      {
+        "city": "Osaka",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Food-themed route through Ise-Shima, Kyoto, Hiroshima, Fukuoka (Hakata) and Osaka",
+      "A night in Nagoya (Nagoya meshi) on the way to Ise-Shima"
+    ],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/things-to-do-in-nagoya",
+      "https://selfguidejapan.com/blog/things-to-do-in-fukuoka",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/experiences/Hidden%20Gems",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "Only 1 search completed (2nd blocked by exhausted budget). /tours/GR008 URL not seen in Links. Mapping GR008 = 'Taste Your Way through Japan', 16 days, US$4,400-6,100 from one round of blog summaries; the candidate pool said 14 or 16 days, this round says 16. Destination list as given: Ise-Shima, Kyoto, Hiroshima, Fukuoka, Osaka, plus 'a night in Nagoya on the way to Ise-Shima' (nagoya blog); Tokyo was not mentioned but is implied as the start - not recorded. Route order unverified. Hotel (standard tier, Fukuoka): Hotel New Otani Hakata or similar. Day-by-day, other hotels, airports, exclusions not obtained. nights=15 derived. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR009",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR009",
+    "title_en": "Spirit of Tradition: Shirakawago & Cultural Japan",
+    "subtitle_en": null,
+    "days": 14,
+    "nights": 13,
+    "price_min": 4100,
+    "price_max": 5900,
+    "currency": "USD",
+    "price_note": "US$4,100-5,900 per person, two sharing",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Hakone",
+        "nights": 1
+      },
+      {
+        "city": "Takayama",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Nara",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima / Miyajima",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card",
+      "Hakone Free Pass (GR009-specific)",
+      "chartered taxi through Shirakawa-go (GR009-specific)",
+      "two hotel dinners: Hakone and Nara (GR009-specific)",
+      "hot-spring hotel night in Hakone (GR009-specific)"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Hot-spring hotel night in Hakone with Mount Fuji built into the itinerary",
+      "Takayama and Shirakawa-go by chartered taxi",
+      "At least three nights in Kyoto",
+      "Nara (hotel dinner) and Miyajima"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Shirakawa-go",
+        "city": "Shirakawa-go"
+      },
+      {
+        "name_en": "Lake Ashi / Mount Fuji views",
+        "city": "Hakone"
+      },
+      {
+        "name_en": "Miyajima / Itsukushima Shrine",
+        "city": "Hiroshima"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/shirakawa-go",
+      "https://selfguidejapan.com/blog/takayama",
+      "https://selfguidejapan.com/blog/hakone",
+      "https://selfguidejapan.com/blog/autumn-in-japan-2026",
+      "https://selfguidejapan.com/destinations/hiroshima",
+      "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "Only 1 search completed (2nd blocked by exhausted budget). /tours/GR009 URL not seen in Links. Mapping GR009 = 'Spirit of Tradition: Shirakawa-go & Cultural Japan', 14 days, US$4,100-5,900 from one round of blog summaries (spelling 'Shirakawa-go' vs 'Shirakawago' varies by page). Destinations as given: Hakone, Takayama, Shirakawa-go, Kyoto, Nara, Miyajima; Tokyo not mentioned but implied as start/end - not recorded. Kyoto nights recorded as 3 from 'at least three nights in Kyoto'; Hakone nights=1 inferred from 'a hot-spring hotel night'. Day-by-day, hotels, airports, exclusions not obtained. nights=13 derived. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR010",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/GR010",
+    "title_en": "Cultural Odyssey: Tokyo to Fukuoka",
+    "subtitle_en": "A 16-day odyssey from Tokyo to Fukuoka via Takayama, Kyoto and Hiroshima, exploring alpine villages, ancient temples and Kyushu's vibrant cities (paraphrased by search summary)",
+    "days": 16,
+    "nights": 15,
+    "price_min": 4500,
+    "price_max": 6200,
+    "currency": "USD",
+    "price_note": "US$4,500-6,200 per person (two sharing per site convention)",
+    "series": "GR",
+    "themes": [
+      "Golden Route"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": 2
+      },
+      {
+        "city": "Takayama",
+        "nights": 2
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Okayama",
+        "nights": 2
+      },
+      {
+        "city": "Fukuoka",
+        "nights": 2
+      },
+      {
+        "city": "Hiroshima",
+        "nights": 2
+      },
+      {
+        "city": "Tokyo",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels",
+      "Shinkansen / intercity rail tickets",
+      "luggage forwarding on the long hops",
+      "airport meet with documents",
+      "24/7 support line in Japan",
+      "pre-loaded transportation IC card",
+      "Shinkansen and Limited Express trains (GR010 page)",
+      "luggage delivery Tokyo -> Kyoto, Kyoto -> Fukuoka, Fukuoka -> Tokyo (GR010 page)"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "UNESCO World Heritage Shirakawa-go with traditional gassho-zukuri houses",
+      "Art island Naoshima: Yayoi Kusama's 'Red Pumpkin' and contemporary museums",
+      "Yanagawa river cruise through the canals on a traditional donko boat",
+      "World Heritage Himeji Castle and Itsukushima Shrine",
+      "Comfortable travel by Shinkansen and Limited Express trains; ~1,500 km covered by train, bus and Shinkansen",
+      "Luggage delivery Tokyo-Kyoto, Kyoto-Fukuoka, Fukuoka-Tokyo"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Shirakawa-go (gassho-zukuri village)",
+        "city": "Shirakawa-go"
+      },
+      {
+        "name_en": "Naoshima - Yayoi Kusama 'Red Pumpkin' and contemporary art museums",
+        "city": "Naoshima"
+      },
+      {
+        "name_en": "Yanagawa canal cruise (donko boat)",
+        "city": "Yanagawa (Fukuoka)"
+      },
+      {
+        "name_en": "Himeji Castle",
+        "city": "Himeji"
+      },
+      {
+        "name_en": "Itsukushima Shrine (Miyajima)",
+        "city": "Hiroshima"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://selfguidejapan.com/tours/GR010",
+      "https://selfguidejapan.com/experiences/Golden%20Route",
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+      "https://selfguidejapan.com/blog/things-to-do-in-fukuoka",
+      "https://selfguidejapan.com/tours"
+    ],
+    "notes": "2 searches completed (the 2nd, name-based one was blocked by the exhausted budget, but the 1st returned the tour page). URL CONFIRMED: https://selfguidejapan.com/tours/GR010 appeared in Links with page title 'Cultural Odyssey: Tokyo to Fukuoka'. Night counts (Tokyo 2 / Takayama 2 / Kyoto 3 / Okayama 2 / Fukuoka 2 / Hiroshima 2 / Tokyo 2 = 15) and highlights are from the tour page summary; the Okayama -> Fukuoka -> Hiroshima order is as the summary listed it and may not be the actual travel order (luggage goes Kyoto->Fukuoka and Fukuoka->Tokyo). Day-by-day table, hotel names, airports and exclusions not obtained. nights=15 derived and consistent with the per-city counts. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR011",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/GR011",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "GR",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/tours",
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors"
+    ],
+    "notes": "Only 1 search completed (the 2nd, extended search was blocked by the exhausted budget). The /tours/GR011 URL did not appear in Links and no site page in the summary mentioned the code GR011 (the same pages cite GR001-GR010 by code). exists left null (not false): the two-miss rule needs two completed probes and only one ran, so this is 'not found', not proof of absence - recheck when search budget is available. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  },
+  {
+    "code": "GR012",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/GR012",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "GR",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [
+      "https://selfguidejapan.com/tours",
+      "https://selfguidejapan.com/blog/self-guided-japan-tours",
+      "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors"
+    ],
+    "notes": "Only 1 search completed (the 2nd, extended search was blocked by the exhausted budget). The /tours/GR012 URL did not appear in Links and no site page in the summary mentioned the code GR012 (the same pages cite GR001-GR010 by code). exists left null (not false): the two-miss rule needs two completed probes and only one ran, so this is 'not found', not proof of absence - recheck when search budget is available. Search budget: the shared WebSearch quota (200/turn) ran out mid-task, so only the searches listed here were completed; /tours/<CODE> pages could not be probed further."
+  }
+]

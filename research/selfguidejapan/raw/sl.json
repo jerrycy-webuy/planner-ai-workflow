@@ -1,0 +1,895 @@
+[
+  {
+    "code": "SL001",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/SL001",
+    "title_en": "SOLO Hidden Gems: Ise-Shima Escape",
+    "subtitle_en": null,
+    "days": 12,
+    "nights": 11,
+    "price_min": 3700,
+    "price_max": null,
+    "currency": "USD",
+    "price_note": "from USD 3,700 for one traveler in their own room (SOLO series: priced for 1 person, no single supplement); excl. international flights, most other meals, entrance fees. Caller reference gives a max of USD 4,400 but the searches only confirmed 'from USD 3,700'; price_max left null.",
+    "series": "SL",
+    "themes": [
+      "Hidden Gems"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Nagoya",
+        "nights": null
+      },
+      {
+        "city": "Toba",
+        "nights": null
+      },
+      {
+        "city": "Kashikojima",
+        "nights": null
+      },
+      {
+        "city": "Osaka",
+        "nights": null
+      },
+      {
+        "city": "Nara",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "single room every night with breakfast",
+      "IC card loaded with JPY 13,000",
+      "ama-hut seafood lunch",
+      "Ago Bay cruise",
+      "luggage forwarding Tokyo -> Osaka and back to Tokyo",
+      "airport meet",
+      "travel insurance",
+      "24/7 support line"
+    ],
+    "exclusions": [
+      "international flights",
+      "most other meals",
+      "entrance fees"
+    ],
+    "highlights": [
+      "Ise-Shima coast (Toba / Kashikojima) combined with Tokyo, Osaka, Nara and Kyoto",
+      "ama-hut seafood lunch and Ago Bay cruise",
+      "Koyasan day trip",
+      "free days in Tokyo, Kyoto and Osaka (pace entirely yours)",
+      "marketed as the 'first-solo-trip pick' of the SOLO series"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Ago Bay (cruise)",
+        "city": "Kashikojima"
+      },
+      {
+        "name_en": "Ama hut (seafood lunch)",
+        "city": "Toba / Ise-Shima"
+      },
+      {
+        "name_en": "Koyasan (day trip)",
+        "city": "Koyasan"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)",
+      "https://selfguidejapan.com/blog/self-guided-japan-tours (blog cross-reference)"
+    ],
+    "notes": "Direct search for /tours/SL001 did NOT return the tour page URL in Links; all details come from site blog pages that cite the code SL001 by name, so existence is inferred (medium confidence). Destinations listed by the blog in this order: Tokyo, Nagoya, Toba, Kashikojima, Osaka, Koyasan (day trip), Nara, Kyoto; nights per city unknown. Koyasan is a day trip (not in route). Luggage returns to Tokyo, which suggests the tour ends back in Tokyo, but that is not confirmed. nights=11 derived from 12 days. WebSearch budget (200 calls/turn, shared across agents) was exhausted during this task, so step 2/3 (day-by-day itinerary, hotels) searches could not be run; day_by_day is therefore empty, not evidence that the page lacks one."
+  },
+  {
+    "code": "SL002",
+    "exists": false,
+    "url": "https://selfguidejapan.com/tours/SL002",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "One direct search (standard mode): /tours/SL002 not in Links and summary found no such page. The japan-solo-tours blog enumerates the SOLO series as exactly five tours (SL001, SL003, SL004, SL005, SL007), which excludes SL002. Second (extended) confirmation search could not run because the WebSearch budget was exhausted."
+  },
+  {
+    "code": "SL003",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/SL003",
+    "title_en": "SOLO Koyasan: Sacred Sites and Quiet Beauty",
+    "subtitle_en": null,
+    "days": 12,
+    "nights": 11,
+    "price_min": 3700,
+    "price_max": 5400,
+    "currency": "USD",
+    "price_note": "US$3,700-5,400 for one traveler in own room (SOLO series, no single supplement); excl. international flights.",
+    "series": "SL",
+    "themes": [
+      "Koyasan",
+      "Sacred Sites"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": 2
+      },
+      {
+        "city": "Koyasan",
+        "nights": 2
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Takayama",
+        "nights": 2
+      },
+      {
+        "city": "Tokyo",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "own room every night with breakfast",
+      "transportation IC card loaded with JPY 8,000",
+      "chartered taxi to Shirakawa-go",
+      "two hotel dinners",
+      "temple lodging (shukubo) stay in Koyasan",
+      "luggage delivery Tokyo -> Kyoto and Kyoto -> Tokyo",
+      "24/7 support"
+    ],
+    "exclusions": [
+      "international flights"
+    ],
+    "highlights": [
+      "Koyasan, UNESCO World Heritage sacred site of Japanese Buddhism",
+      "stay in temple lodging; solemn temple complex and the sacred site Okunoin",
+      "chartered taxi to Shirakawa-go (UNESCO, gassho-zukuri farmhouses)",
+      "approx. 920 km by train, bus and Shinkansen"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Okunoin",
+        "city": "Koyasan"
+      },
+      {
+        "name_en": "Koyasan temple complex / shukubo",
+        "city": "Koyasan"
+      },
+      {
+        "name_en": "Shirakawa-go gassho-zukuri village",
+        "city": "Shirakawa-go (from Takayama)"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://selfguidejapan.com/tours/SL003",
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)",
+      "https://selfguidejapan.com/blog/koyasan-temple-stay (blog, appeared in Links)"
+    ],
+    "notes": "Tour page URL appeared in Links (title shown generically as 'BluePlanet - Self-Guided Tours in Japan'). Route nights 2+2+3+2+2 = 11 matches 12 days. Caller flagged a possible mix-up with 'Timeless Traditions: Shirakawago & Hida Journey' (Tokyo/Kanazawa/Kyoto/Takayama, A$6,900-9,300): the search attributed to the SL003 page returned ONLY the Koyasan content (Koyasan 2 nights, temple lodging, US$ pricing), so that Timeless Traditions/A$ description is NOT SL003 and most likely belongs to SL103 (unverified, see SL103). Series-level inclusions per the japan-solo-tours blog (not the tour page itself): single room every night, breakfast every morning, Shinkansen/limited-express tickets between cities, airport meet, travel insurance, 24/7 support line; excluded: international flights, most other meals, entrance fees. WebSearch budget (200 calls/turn, shared across agents) was exhausted during this task, so step 2/3 (day-by-day itinerary, hotels) searches could not be run; day_by_day is therefore empty, not evidence that the page lacks one."
+  },
+  {
+    "code": "SL004",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/SL004",
+    "title_en": "SOLO Castles: Culture & Countryside",
+    "subtitle_en": null,
+    "days": 15,
+    "nights": 14,
+    "price_min": 4600,
+    "price_max": 6100,
+    "currency": "USD",
+    "price_note": "USD 4,600-6,100 for one person; no single supplement to add; excl. international flights.",
+    "series": "SL",
+    "themes": [
+      "Castles"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": 2
+      },
+      {
+        "city": "Okayama",
+        "nights": 2
+      },
+      {
+        "city": "Hiroshima",
+        "nights": 2
+      },
+      {
+        "city": "Fukuoka",
+        "nights": 2
+      },
+      {
+        "city": "Osaka",
+        "nights": 2
+      },
+      {
+        "city": "Takayama",
+        "nights": 2
+      },
+      {
+        "city": "Tokyo",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels (single room) and trains",
+      "private/chartered taxi to Shirakawa-go",
+      "luggage delivery Tokyo -> Hiroshima, Hiroshima -> Osaka, Osaka -> Tokyo",
+      "Shinkansen and limited express trains between cities",
+      "24/7 support"
+    ],
+    "exclusions": [
+      "international flights"
+    ],
+    "highlights": [
+      "West Japan and the Alps in one trip (approx. 1,830 km)",
+      "contemporary art on Naoshima",
+      "Itsukushima Shrine (UNESCO) and its torii gate on Miyajima",
+      "Fukuoka's yatai street-food stalls",
+      "Shirakawa-go gassho-zukuri farmhouses by private taxi"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Naoshima art island",
+        "city": "Naoshima (from Okayama)"
+      },
+      {
+        "name_en": "Itsukushima Shrine",
+        "city": "Miyajima / Hiroshima"
+      },
+      {
+        "name_en": "Yatai street food stalls",
+        "city": "Fukuoka"
+      },
+      {
+        "name_en": "Shirakawa-go",
+        "city": "Shirakawa-go (from Takayama)"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://selfguidejapan.com/tours/SL004",
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "Tour page URL appeared in Links. Route (2 nights x 7 stops = 14 nights, matches 15 days) comes from the tour-page summary. Discrepancy: the short blog/meta description says 'Tokyo, Okayama, Kanazawa, Shirakawago, Hiroshima'; Kanazawa is not an overnight in the tour-page route, so it is probably a transit/day stop (e.g. Osaka -> Kanazawa -> taxi via Shirakawa-go -> Takayama) or a blog inaccuracy; unconfirmed. Series-level inclusions per the japan-solo-tours blog (not the tour page itself): single room every night, breakfast every morning, Shinkansen/limited-express tickets between cities, airport meet, travel insurance, 24/7 support line; excluded: international flights, most other meals, entrance fees. WebSearch budget (200 calls/turn, shared across agents) was exhausted during this task, so step 2/3 (day-by-day itinerary, hotels) searches could not be run; day_by_day is therefore empty, not evidence that the page lacks one."
+  },
+  {
+    "code": "SL005",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/SL005",
+    "title_en": "SOLO Castles & Heritage of West Japan",
+    "subtitle_en": null,
+    "days": 15,
+    "nights": 14,
+    "price_min": 4000,
+    "price_max": 5400,
+    "currency": "USD",
+    "price_note": "USD 4,000-5,400 for one traveler in own room (SOLO series, no single supplement); excl. international flights.",
+    "series": "SL",
+    "themes": [
+      "Castles",
+      "Heritage"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Okayama",
+        "nights": null
+      },
+      {
+        "city": "Kurashiki",
+        "nights": null
+      },
+      {
+        "city": "Naoshima",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima",
+        "nights": null
+      },
+      {
+        "city": "Miyajima",
+        "nights": null
+      },
+      {
+        "city": "Himeji",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": 3
+      },
+      {
+        "city": "Kanazawa",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "pre-booked hotels (single room) and trains",
+      "pre-loaded transportation IC card JPY 5,000 (local trains, subways, buses)",
+      "luggage forwarding Tokyo -> Hiroshima -> Kyoto -> Tokyo",
+      "24/7 support"
+    ],
+    "exclusions": [
+      "international flights"
+    ],
+    "highlights": [
+      "Himeji Castle",
+      "Naoshima art island",
+      "Kenroku-en garden (Kanazawa)",
+      "three nights in Kyoto",
+      "Kurashiki and Miyajima"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Himeji Castle",
+        "city": "Himeji"
+      },
+      {
+        "name_en": "Naoshima art island",
+        "city": "Naoshima"
+      },
+      {
+        "name_en": "Kenroku-en",
+        "city": "Kanazawa"
+      },
+      {
+        "name_en": "Kurashiki Bikan historical quarter",
+        "city": "Kurashiki"
+      },
+      {
+        "name_en": "Miyajima",
+        "city": "Miyajima / Hiroshima"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://selfguidejapan.com/tours/SL005",
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "Tour page URL appeared in Links. Destinations listed in this order on the page summary; only Kyoto's nights (3) are stated. Kurashiki, Naoshima, Miyajima and Himeji are likely day visits rather than overnights (unconfirmed). Luggage returns to Tokyo, so the tour probably ends with Tokyo night(s) after Kanazawa (unconfirmed). nights=14 derived from 15 days. Series-level inclusions per the japan-solo-tours blog (not the tour page itself): single room every night, breakfast every morning, Shinkansen/limited-express tickets between cities, airport meet, travel insurance, 24/7 support line; excluded: international flights, most other meals, entrance fees. WebSearch budget (200 calls/turn, shared across agents) was exhausted during this task, so step 2/3 (day-by-day itinerary, hotels) searches could not be run; day_by_day is therefore empty, not evidence that the page lacks one."
+  },
+  {
+    "code": "SL006",
+    "exists": false,
+    "url": "https://selfguidejapan.com/tours/SL006",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "One direct search: /tours/SL006 not in Links (engine returned SK006 and HS002 instead). The summary's claim that 'SL006 is referenced in the tour listing' had no supporting URL and is treated as a small-model hallucination. The japan-solo-tours blog enumerates exactly five SOLO tours (SL001/003/004/005/007). Second confirmation search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL007",
+    "exists": true,
+    "url": "https://selfguidejapan.com/tours/SL007",
+    "title_en": "SOLO Sea of Serenity: Kashikojima & Cultural Japan",
+    "subtitle_en": null,
+    "days": 13,
+    "nights": 12,
+    "price_min": 4200,
+    "price_max": 5900,
+    "currency": "USD",
+    "price_note": "USD 4,200-5,900 for one person (SOLO series, no single supplement); excl. international flights.",
+    "series": "SL",
+    "themes": [
+      "Sea of Serenity",
+      "Coastal"
+    ],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Hakone",
+        "nights": null
+      },
+      {
+        "city": "Ise",
+        "nights": null
+      },
+      {
+        "city": "Kashikojima",
+        "nights": null
+      },
+      {
+        "city": "Kyoto",
+        "nights": null
+      },
+      {
+        "city": "Himeji",
+        "nights": null
+      },
+      {
+        "city": "Okayama",
+        "nights": null
+      },
+      {
+        "city": "Miyajima",
+        "nights": null
+      },
+      {
+        "city": "Hiroshima",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "inclusions": [
+      "own room every night with breakfast",
+      "Hakone Free Pass",
+      "Japanese-style room with private open-air bath (Hakone)",
+      "Ago Bay cruise",
+      "two hotel dinners",
+      "IC card JPY 10,000",
+      "Shinkansen and limited-express tickets for every leg between cities",
+      "24/7 support line"
+    ],
+    "exclusions": [
+      "international flights"
+    ],
+    "highlights": [
+      "Hakone, the Ise-Shima coast, Kyoto, Himeji and Hiroshima in one journey across nine destinations",
+      "Ago Bay cruise at Kashikojima",
+      "night in a Japanese-style room with private open-air bath in Hakone"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Hakone (Free Pass loop)",
+        "city": "Hakone"
+      },
+      {
+        "name_en": "Ago Bay (cruise)",
+        "city": "Kashikojima"
+      },
+      {
+        "name_en": "Ise (Ise-Shima)",
+        "city": "Ise"
+      },
+      {
+        "name_en": "Himeji Castle area",
+        "city": "Himeji"
+      },
+      {
+        "name_en": "Miyajima",
+        "city": "Miyajima / Hiroshima"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)",
+      "https://selfguidejapan.com/blog/self-guided-japan-tours (blog cross-reference)"
+    ],
+    "notes": "Direct search for /tours/SL007 did NOT return the tour page URL in Links; details come from site blog pages citing code SL007 (nine destinations listed as 'Tokyo - Hakone - Ise - Kashikojima - Kyoto - Himeji - Okayama - Miyajima - Hiroshima'). Nights per city unknown; some of the nine are likely day stops. nights=12 derived from 13 days. Himeji Castle not explicitly named in results (only 'Himeji'). WebSearch budget (200 calls/turn, shared across agents) was exhausted during this task, so step 2/3 (day-by-day itinerary, hotels) searches could not be run; day_by_day is therefore empty, not evidence that the page lacks one."
+  },
+  {
+    "code": "SL008",
+    "exists": false,
+    "url": "https://selfguidejapan.com/tours/SL008",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "One direct search: /tours/SL008 not in Links; summary found no such code. The japan-solo-tours blog enumerates exactly five SOLO tours (SL001/003/004/005/007). Second confirmation search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL009",
+    "exists": false,
+    "url": "https://selfguidejapan.com/tours/SL009",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "One direct search: /tours/SL009 not in Links; summary found no such code. The japan-solo-tours blog enumerates exactly five SOLO tours (SL001/003/004/005/007). Second confirmation search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL010",
+    "exists": false,
+    "url": "https://selfguidejapan.com/tours/SL010",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "medium",
+    "sources": [
+      "https://selfguidejapan.com/blog/japan-solo-tours (blog cross-reference: lists the five SOLO tours with codes/prices)"
+    ],
+    "notes": "One direct search: /tours/SL010 not in Links; the engine matched SK010 ('Japan Winter Journey with Ski and Cities', 9 days, $3,100-3,900) instead, which is a different series and must not be attributed to SL010. The japan-solo-tours blog enumerates exactly five SOLO tours (SL001/003/004/005/007). Second confirmation search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL101",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL101",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "Search returned only blog/listing pages and HS002. Summary claimed SL101 'appears in the navigation structure' with no supporting URL (treated as hallucination). No tour-page URL in Links after one standard search. The blog's 'five SOLO tours' count may only cover the USD SL0xx series and does not settle whether an SL1xx (possibly A$-priced) variant series exists, so exists is left null (unverified) rather than false. Second search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL102",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL102",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "Search returned only blog/listing pages; summary found no SL102 page. No tour-page URL in Links after one standard search. The blog's 'five SOLO tours' count may only cover the USD SL0xx series and does not settle whether an SL1xx (possibly A$-priced) variant series exists, so exists is left null (unverified) rather than false. Second search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL103",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL103",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "Search for SL103 returned the SL003 page (https://selfguidejapan.com/tours/SL003) and SE003 in Links, not SL103; summary found no SL103 page. Caller-provided reference (UNVERIFIED, not recorded in fields): page title '【SL103】SOLO/Timeless Traditions: Shirakawago & Hida Journey', Tokyo/Kanazawa/Kyoto/Takayama, 12 days, A$6,900-9,300. That description does not match the SL003 page content (Koyasan tour, US$ pricing), so if it is real it belongs to SL103, not SL003. No tour-page URL in Links after one standard search. The blog's 'five SOLO tours' count may only cover the USD SL0xx series and does not settle whether an SL1xx (possibly A$-priced) variant series exists, so exists is left null (unverified) rather than false. Second search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL104",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL104",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "Search for SL104 returned the SL004 page in Links, not SL104; summary found no SL104 page (the SL004 details it quoted belong to SL004). No tour-page URL in Links after one standard search. The blog's 'five SOLO tours' count may only cover the USD SL0xx series and does not settle whether an SL1xx (possibly A$-priced) variant series exists, so exists is left null (unverified) rather than false. Second search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL105",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL105",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "Search returned only blog/listing pages and HS002. Summary claimed SL105 'is listed among available tours' with no supporting URL (treated as hallucination). No tour-page URL in Links after one standard search. The blog's 'five SOLO tours' count may only cover the USD SL0xx series and does not settle whether an SL1xx (possibly A$-priced) variant series exists, so exists is left null (unverified) rather than false. Second search could not run (WebSearch budget exhausted)."
+  },
+  {
+    "code": "SL106",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL106",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "NOT SEARCHED: the shared WebSearch budget (200 calls/turn across all agents) was exhausted before this code could be queried. Existence unknown; needs a follow-up run."
+  },
+  {
+    "code": "SL107",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL107",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "NOT SEARCHED: the shared WebSearch budget (200 calls/turn across all agents) was exhausted before this code could be queried. Existence unknown; needs a follow-up run."
+  },
+  {
+    "code": "SL108",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL108",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "NOT SEARCHED: the shared WebSearch budget (200 calls/turn across all agents) was exhausted before this code could be queried. Existence unknown; needs a follow-up run."
+  },
+  {
+    "code": "SL109",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL109",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "NOT SEARCHED: the shared WebSearch budget (200 calls/turn across all agents) was exhausted before this code could be queried. Existence unknown; needs a follow-up run."
+  },
+  {
+    "code": "SL110",
+    "exists": null,
+    "url": "https://selfguidejapan.com/tours/SL110",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": null,
+    "series": "SL",
+    "themes": [],
+    "season": null,
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [],
+    "day_by_day": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [],
+    "notes": "NOT SEARCHED: the shared WebSearch budget (200 calls/turn across all agents) was exhausted before this code could be queried. Existence unknown; needs a follow-up run."
+  }
+]

@@ -1,0 +1,1184 @@
+[
+ {
+  "code": "NT001",
+  "exists": null,
+  "url": "https://selfguidejapan.com/tours/NT001",
+  "title_en": null,
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "NT",
+  "themes": [],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [],
+  "attractions_all": [],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "UNVERIFIED. One WebSearch for selfguidejapan.com/tours/NT001 returned no /tours/NT001 URL and no mention of the code (results only mentioned NT004, TP001, HS001). Second confirming search not possible: the per-turn WebSearch budget (200, shared by all agents) was exhausted. Candidate tour for this code (code unresolved): 'Sacred Trails & Hot Springs of the Kii Peninsula' 11D — see separate entry with code=null."
+ },
+ {
+  "code": "NT002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT002",
+  "title_en": null,
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "for repeat visitors / special-interest"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "walks a stretch of the Nakasendo",
+   "walks a stretch of the Kumano Kodo",
+   "temple lodging (shukubo) on Koyasan"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Nakasendo",
+    "city": null
+   },
+   {
+    "name_en": "Kumano Kodo",
+    "city": null
+   },
+   {
+    "name_en": "Koyasan temple lodging",
+    "city": "Koyasan"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/blog/japan-solo-tours"
+  ],
+  "notes": "Code explicitly mentioned in a site blog summary (exact page among the listed blogs uncertain): 'NT002 walks a stretch of the Nakasendo and the Kumano Kodo and sleeps in temple lodging on Koyasan; designed for repeat visitors and special-interest trips'. /tours/NT002 URL not returned in Links. Title not confirmed. Probable match from the caller's reference list: 'Nature & Trails: Historic Paths & Sacred Kii' 12D (Nakasendo post towns, Kumano Kodo, Dorokyo, Koyasan, Kawayu Onsen), which the walking-japan-guide blog prices at US$3,900–5,000 pp; but 'Walking Japan's Coastal & Sacred Trails' 13D (caller's NT003) also contains Nakasendo+Kumano+Koyasan, so the mapping is not certain. Days/price left null. No further search possible (budget exhausted)."
+ },
+ {
+  "code": "NT003",
+  "exists": null,
+  "url": "https://selfguidejapan.com/tours/NT003",
+  "title_en": null,
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "NT",
+  "themes": [],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [],
+  "attractions_all": [],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/walking-japan-guide"
+  ],
+  "notes": "UNVERIFIED. Caller's reference: 'Walking Japan's Coastal & Sacred Trails' 13D US$4,500–5,400 (Kumano Kodo, Nakasendo, Ise Jingu, ama hut, Dorokyo boat, Koyasan). One WebSearch for /tours/NT003 returned no NT003 URL and no mention of the code (summary drifted to NT004). Second search not possible (WebSearch budget exhausted). Not recording the reference title/price as confirmed."
+ },
+ {
+  "code": "NT004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT004",
+  "title_en": "Alpine Wonders of Central Japan",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 5100,
+  "price_max": 6600,
+  "currency": "USD",
+  "price_note": "per person; site shows 'US$5,100 ~ US$6,600' (caller's reference said 5,100–6,200 — site figure recorded)",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Alps"
+  ],
+  "season": "June–October (not sold for November)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Fuji",
+    "nights": null
+   },
+   {
+    "city": "Utsukushigahara",
+    "nights": null
+   },
+   {
+    "city": "Matsumoto",
+    "nights": null
+   },
+   {
+    "city": "Takayama",
+    "nights": null
+   },
+   {
+    "city": "Shinhotaka",
+    "nights": null
+   },
+   {
+    "city": "Tateyama Kurobe Alpine Route",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "accommodation booked",
+   "luggage transferred between stops",
+   "detailed navigation"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Mt Fuji",
+   "Utsukushigahara",
+   "Matsumoto",
+   "Takayama / Hida towns",
+   "Shinhotaka",
+   "Hiking day in Kamikochi",
+   "Shirakawa-go",
+   "Tateyama Kurobe Alpine Route"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Mt Fuji",
+    "city": "Fuji"
+   },
+   {
+    "name_en": "Utsukushigahara",
+    "city": "Matsumoto"
+   },
+   {
+    "name_en": "Matsumoto",
+    "city": "Matsumoto"
+   },
+   {
+    "name_en": "Takayama",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Shinhotaka",
+    "city": "Okuhida"
+   },
+   {
+    "name_en": "Kamikochi",
+    "city": "Matsumoto"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa"
+   },
+   {
+    "name_en": "Tateyama Kurobe Alpine Route",
+    "city": "Tateyama"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/autumn-in-japan-2026",
+   "https://selfguidejapan.com/blog/japan-in-november-2026",
+   "https://selfguidejapan.com/blog/walking-japan-guide",
+   "https://selfguidejapan.com/blog/where-to-go-in-japan-summer-2026"
+  ],
+  "notes": "Code+title+price attributed explicitly by site index/blog summaries; /tours/NT004 URL itself not returned in Links. Route order given as 'Fuji, Utsukushigahara and Matsumoto before Takayama', then Shinhotaka and Tateyama Kurobe, plus a Kamikochi hiking day; night counts per stop unknown. nights derived as days-1. Day-by-day not obtained. Spring (April–May 2027) snow-corridor variant exists at US$5,200–6,100 — probably NT104 (see entry)."
+ },
+ {
+  "code": "NT005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT005",
+  "title_en": "Alpine Routes & Cultural Japan",
+  "subtitle_en": "Alpine Peaks Meet Ancient Streets",
+  "days": 11,
+  "nights": 10,
+  "price_min": 2800,
+  "price_max": 4000,
+  "currency": "USD",
+  "price_note": "per person; code search summary says 'US$2,800 ~ US$4,000'; destination/blog summary says 'US$2,700 to US$3,400' — discrepancy unresolved",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Alps"
+  ],
+  "season": "June–October",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tateyama Kurobe Alpine Route",
+    "nights": null
+   },
+   {
+    "city": "Matsumoto",
+    "nights": null
+   },
+   {
+    "city": "Kanazawa",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Crosses the Tateyama Kurobe Alpine Route",
+   "Matsumoto Castle",
+   "Kanazawa",
+   "Kyoto"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Tateyama Kurobe Alpine Route",
+    "city": "Tateyama"
+   },
+   {
+    "name_en": "Matsumoto Castle",
+    "city": "Matsumoto"
+   },
+   {
+    "name_en": "Kanazawa",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Kyoto",
+    "city": "Kyoto"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/destinations/matsumoto",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours"
+  ],
+  "notes": "This is the caller's 'Japan Alps & Matsumoto 11D' (Tateyama Kurobe, Matsumoto Castle, Kanazawa, Kyoto). Described as '11-day tour from Japan's Alps to historic cities'. /tours/NT005 URL not returned in Links; code attributed by index/destination summaries. nights derived as days-1. Day-by-day not obtained. Spring version = NT105."
+ },
+ {
+  "code": "NT006",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT006",
+  "title_en": "Summer IKADA Rafting & Sacred Trails of Japan",
+  "subtitle_en": "Golden Route and Sacred Mountains, Ancient Trails",
+  "days": 10,
+  "nights": 9,
+  "price_min": 3600,
+  "price_max": 4100,
+  "currency": "USD",
+  "price_note": "per person; site shows 'US$3,600 ~ US$4,100'",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Hidden Gems",
+   "Summer"
+  ],
+  "season": "Summer (IKADA rafting is summer-only)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": 2
+   },
+   {
+    "city": "Koyasan",
+    "nights": 1
+   },
+   {
+    "city": "Kawayu Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Kii-Katsuura",
+    "nights": 1
+   },
+   {
+    "city": "Osaka",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "luggage delivery service"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Summer-only IKADA log-raft ride on the Kitayama River (Kitayama Village)",
+   "Kawadoko riverside dining in Kyoto",
+   "Temple lodge (shukubo) stay on Mount Koya",
+   "Open-air riverside hot springs at Kawayu Onsen",
+   "Walks at sacred Kumano sites incl. Kumano Nachi Taisha",
+   "Approx. 1,500 km total route"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Kitayama River IKADA rafting",
+    "city": "Kitayama"
+   },
+   {
+    "name_en": "Kawadoko dining",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Koyasan temple lodging",
+    "city": "Koyasan"
+   },
+   {
+    "name_en": "Kawayu Onsen",
+    "city": "Hongu"
+   },
+   {
+    "name_en": "Kumano Kodo",
+    "city": "Hongu"
+   },
+   {
+    "name_en": "Kumano Nachi Taisha",
+    "city": "Nachikatsuura"
+   }
+  ],
+  "source_confidence": "high",
+  "sources": [
+   "https://selfguidejapan.com/tours/NT006",
+   "https://selfguidejapan.com/destinations/osaka",
+   "https://selfguidejapan.com/blog/japan-hidden-gems",
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "/tours/NT006 URL confirmed in search Links with matching title. Route night counts from the tour-page summary (sum = 9 nights = 10 days). Day-by-day itinerary and hotel names not obtained (no further search possible: WebSearch budget exhausted)."
+ },
+ {
+  "code": "NT007",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT007",
+  "title_en": "Koyasan, Kumano & Shirahama- Wakayama Journey",
+  "subtitle_en": "Deep into Wakayama: Pilgrimage, Onsen & Ocean",
+  "days": 11,
+  "nights": 10,
+  "price_min": 4100,
+  "price_max": 5100,
+  "currency": "USD",
+  "price_note": "per person; site shows 'US$4,100 ~ US$5,100'",
+  "series": "NT",
+  "themes": [
+   "World Heritage & National Treasures",
+   "Onsen & Relaxation",
+   "Hidden Gems"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Koyasan",
+    "nights": null
+   },
+   {
+    "city": "Kumano",
+    "nights": null
+   },
+   {
+    "city": "Shirahama",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "From sacred Koyasan to seaside Shirahama",
+   "Walk the Kumano Kodo",
+   "Soak in legendary onsen",
+   "Explore Wakayama"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Koyasan",
+    "city": "Koyasan"
+   },
+   {
+    "name_en": "Kumano Kodo",
+    "city": "Kumano"
+   },
+   {
+    "name_en": "Shirahama",
+    "city": "Shirahama"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/destinations/shirahama",
+   "https://selfguidejapan.com/destinations/osaka",
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "Title spelled on site with the odd spacing 'Shirahama- Wakayama'. Tagline: 'From sacred Koyasan to seaside Shirahama: walk the Kumano Kodo, soak in legendary onsen, and explore Wakayama on this 11-day adventure.' /tours/NT007 URL not returned in Links; attribution via destination-page summaries. nights derived as days-1. Day-by-day not obtained."
+ },
+ {
+  "code": "NT008",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT008",
+  "title_en": "Kumano Pilgrimage Paths to Ise",
+  "subtitle_en": null,
+  "days": 8,
+  "nights": 7,
+  "price_min": 3200,
+  "price_max": 4500,
+  "currency": "USD",
+  "price_note": "per person; 'US$3,200–$4,500'",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Walking (light)",
+   "Dual Pilgrim"
+  ],
+  "season": "March–November",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [
+   "pre-booked hotels",
+   "trains",
+   "luggage forwarding",
+   "24/7 support in Japan"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "One real walk: Hosshinmon-oji to Kumano Hongu Taisha (7.5 km, 2–3 h, ~190 m up / 460 m down, grade 2 of 5)",
+   "Dorokyo Gorge boat cruise",
+   "Nachi Falls",
+   "Kumano Hayatama Taisha & Kumano Nachi Taisha — counts as one of the five official Dual Pilgrim options",
+   "Ise Grand Shrine",
+   "Ama-diver (sea women) lunch"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Hosshinmon-oji – Kumano Hongu Taisha walk",
+    "city": "Hongu"
+   },
+   {
+    "name_en": "Dorokyo Gorge cruise",
+    "city": "Shingu"
+   },
+   {
+    "name_en": "Kumano Hayatama Taisha",
+    "city": "Shingu"
+   },
+   {
+    "name_en": "Nachi Falls / Kumano Nachi Taisha",
+    "city": "Nachikatsuura"
+   },
+   {
+    "name_en": "Ise Grand Shrine",
+    "city": "Ise"
+   },
+   {
+    "name_en": "Ama hut lunch",
+    "city": "Toba/Shima"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/japan-tours-for-seniors",
+   "https://selfguidejapan.com/blog/walking-japan-guide",
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "Code+title+price+walk details attributed explicitly in the seniors/walking blog summaries; /tours/NT008 URL not returned in Links. nights derived as days-1. Day-by-day not obtained."
+ },
+ {
+  "code": "NT009",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT009",
+  "title_en": "Gourmet Rail Journey: Fuji, Ise & Kanazawa",
+  "subtitle_en": "Sacred Trails & Coastal Traditions",
+  "days": 10,
+  "nights": 9,
+  "price_min": 4100,
+  "price_max": 5500,
+  "currency": "USD",
+  "price_note": "per person; index summary 'US$4,100–5,500'; ise-grand-shrine blog says '$4,200–$5,500'",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Ise day: Naiku and Okage Yokocho by local train",
+   "Toba",
+   "Kumano shrines",
+   "Nachi Falls"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Ise Grand Shrine (Naiku)",
+    "city": "Ise"
+   },
+   {
+    "name_en": "Okage Yokocho",
+    "city": "Ise"
+   },
+   {
+    "name_en": "Toba",
+    "city": "Toba"
+   },
+   {
+    "name_en": "Kumano Sanzan shrines",
+    "city": "Kumano"
+   },
+   {
+    "name_en": "Nachi Falls",
+    "city": "Nachikatsuura"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/ise-grand-shrine",
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "CAUTION: the title/subtitle pairing comes from a search-engine summary and looks like a possible conflation ('Gourmet Rail Journey: Fuji, Ise & Kanazawa' may belong to another code; 'Sacred Trails & Coastal Traditions' is more consistent with an NT tour). Reliably attributed to NT009 by the ise-grand-shrine blog: 10-day route with an Ise Grand Shrine day (Naiku, Okage Yokocho by local train), Toba, the Kumano shrines and Nachi Falls, $4,200–5,500. /tours/NT009 URL not returned in Links. Needs a confirming search."
+ },
+ {
+  "code": "NT010",
+  "exists": null,
+  "url": "https://selfguidejapan.com/tours/NT010",
+  "title_en": null,
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "NT",
+  "themes": [],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [],
+  "attractions_all": [],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "UNVERIFIED. One WebSearch for /tours/NT010 returned no NT010 URL and no mention of the code (summary mentioned NT009, NT008, NT104, NT105 instead). Second search not possible (WebSearch budget exhausted). Candidate for this code (unresolved): 'Sacred Trails & Hot Springs of the Kii Peninsula' 11D — see code=null entry."
+ },
+ {
+  "code": "NT104",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT104",
+  "title_en": null,
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 5200,
+  "price_max": 6100,
+  "currency": "USD",
+  "price_note": "per person; 'US$5,200 ~ US$6,100' is quoted for the 12-day spring alpine tour (April–May 2027) — attribution to NT104 is inferred, not confirmed",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Alps",
+   "Spring"
+  ],
+  "season": "April–May (Yuki-no-Otani snow corridor season)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Mt Fuji",
+   "Kamikochi",
+   "Shirakawa-go",
+   "Tateyama Kurobe Alpine Route 20-metre snow corridor (Yuki-no-Otani)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Mt Fuji",
+    "city": "Fuji"
+   },
+   {
+    "name_en": "Kamikochi",
+    "city": "Matsumoto"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa"
+   },
+   {
+    "name_en": "Yuki-no-Otani snow corridor",
+    "city": "Tateyama"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/walking-japan-guide",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours"
+  ],
+  "notes": "Code NT104 is mentioned in site content (surfaced in the NT010 search summary) but its page/title were not retrieved. By analogy with NT105 (= April–May version of NT005), NT104 is most likely the April–May 'snow corridor' version of NT004 Alpine Wonders of Central Japan, which the walking guide describes as '12-day spring alpine tour (April–May 2027): Mt Fuji, Kamikochi, Shirakawa-go, Tateyama's 20-metre snow corridor, US$5,200 ~ US$6,100'. Title left null pending confirmation. 100-series = seasonal variant codes."
+ },
+ {
+  "code": "NT105",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/NT105",
+  "title_en": "Alpine Routes & Cultural Japan",
+  "subtitle_en": null,
+  "days": 11,
+  "nights": 10,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Alps",
+   "Spring"
+  ],
+  "season": "April–May",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tateyama Kurobe Alpine Route",
+    "nights": null
+   },
+   {
+    "city": "Matsumoto",
+    "nights": null
+   },
+   {
+    "city": "Kanazawa",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Spring-only Yuki-no-Otani snow corridor on the Tateyama Alpine Route",
+   "Matsumoto",
+   "Kanazawa",
+   "Kyoto"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Yuki-no-Otani snow corridor",
+    "city": "Tateyama"
+   },
+   {
+    "name_en": "Matsumoto Castle",
+    "city": "Matsumoto"
+   },
+   {
+    "name_en": "Kanazawa",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Kyoto",
+    "city": "Kyoto"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/destinations/matsumoto",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+   "https://selfguidejapan.com/tours"
+  ],
+  "notes": "Explicit site mention: 'Alpine Routes & Cultural Japan (NT105) runs April to May for 11 days and features the spring-only Yuki-no-Otani snow corridor on the Tateyama Alpine Route, along with Matsumoto, Kanazawa & Kyoto.' Price not retrieved. Spring variant of NT005 (100-series = seasonal variant)."
+ },
+ {
+  "code": null,
+  "exists": true,
+  "url": null,
+  "title_en": "Sacred Trails & Hot Springs of the Kii Peninsula",
+  "subtitle_en": null,
+  "days": 11,
+  "nights": 10,
+  "price_min": 4200,
+  "price_max": 5100,
+  "currency": "USD",
+  "price_note": "per person; walking-japan-guide blog: '$4,200–5,100'; another site page: 'US$4,100 ~ US$4,800' — discrepancy unresolved",
+  "series": "NT",
+  "themes": [
+   "Nature & Trails",
+   "Onsen & Relaxation"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Koyasan",
+    "nights": null
+   },
+   {
+    "city": "Ryujin Onsen",
+    "nights": null
+   },
+   {
+    "city": "Kawayu Onsen",
+    "nights": null
+   },
+   {
+    "city": "Nachi-Katsuura",
+    "nights": null
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "luggage transfers: Tokyo → Kawayu Onsen, Kawayu Onsen → Osaka"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Trek Kumano Kodo trails",
+   "Koyasan temple stay",
+   "Ryujin Onsen ('beauty hot spring')",
+   "Dorokyo Gorge cruise",
+   "Cave onsen (Hotel Urashima-style) in Nachi-Katsuura"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Kumano Kodo",
+    "city": "Hongu"
+   },
+   {
+    "name_en": "Koyasan shukubo",
+    "city": "Koyasan"
+   },
+   {
+    "name_en": "Ryujin Onsen",
+    "city": "Tanabe"
+   },
+   {
+    "name_en": "Dorokyo Gorge cruise",
+    "city": "Shingu"
+   },
+   {
+    "name_en": "Cave onsen",
+    "city": "Nachikatsuura"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/walking-japan-guide",
+   "https://selfguidejapan.com/destinations/kii-katsuura",
+   "https://selfguidejapan.com/destinations/osaka"
+  ],
+  "notes": "TOUR CODE UNRESOLVED (none of the searches returned its /tours/<CODE> URL). The walking guide places it in the Nature & Trails series; it is probably one of NT001 / NT010 / (NT003 if the caller's reference for NT003 is wrong). Route list above is inferred from the luggage-transfer legs (Tokyo → Kawayu Onsen → Osaka) plus named stays; order/nights unconfirmed."
+ },
+ {
+  "code": "SK002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK002",
+  "title_en": "Hakuba Tsugaike & Zao",
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Hakuba (Tsugaike)",
+    "nights": null
+   },
+   {
+    "city": "Zao Onsen",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen tickets or airport transfers",
+   "luggage delivery to resort",
+   "24/7 support"
+  ],
+  "exclusions": [],
+  "highlights": [],
+  "attractions_all": [
+   {
+    "name_en": "Hakuba Tsugaike ski area",
+    "city": "Hakuba"
+   },
+   {
+    "name_en": "Zao Onsen ski resort",
+    "city": "Zao"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts",
+   "https://selfguidejapan.com/blog/best-ski-resorts-in-japan",
+   "https://selfguidejapan.com/blog/shiga-kogen"
+  ],
+  "notes": "NEW PREFIX 'SK' (self-guided ski trips). Details come from ski blog summaries, not the tour page; per-code search not performed (WebSearch budget exhausted). Operator arranges hotels, Shinkansen tickets or airport transfers, luggage delivery to the resort and 24/7 support; no guide on the slopes (local guide optional). Blog: 'For two weeks, three more routes pair a Nagano resort with Zao Onsen: Hakuba Tsugaike & Zao (SK002), Hakuba Misorano & Zao (SK102) and Shiga Kogen & Zao (SK004)'. Length described only as 'two weeks' (days left null). Title as listed in blog; official title/price unverified."
+ },
+ {
+  "code": "SK004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK004",
+  "title_en": "Shiga Kogen & Zao",
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Shiga Kogen",
+    "nights": null
+   },
+   {
+    "city": "Zao Onsen",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen tickets or airport transfers",
+   "luggage delivery to resort",
+   "24/7 support"
+  ],
+  "exclusions": [],
+  "highlights": [],
+  "attractions_all": [
+   {
+    "name_en": "Shiga Kogen ski area",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Zao Onsen ski resort",
+    "city": "Zao"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts",
+   "https://selfguidejapan.com/blog/best-ski-resorts-in-japan",
+   "https://selfguidejapan.com/blog/shiga-kogen"
+  ],
+  "notes": "NEW PREFIX 'SK' (self-guided ski trips). Details come from ski blog summaries, not the tour page; per-code search not performed (WebSearch budget exhausted). Operator arranges hotels, Shinkansen tickets or airport transfers, luggage delivery to the resort and 24/7 support; no guide on the slopes (local guide optional). 'Two-week' route pairing Shiga Kogen with Zao Onsen (days left null). Official title/price unverified."
+ },
+ {
+  "code": "SK005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK005",
+  "title_en": "Hakuba Tsugaike with Snow Monkeys",
+  "subtitle_en": null,
+  "days": 11,
+  "nights": 10,
+  "price_min": 3100,
+  "price_max": 3600,
+  "currency": "USD",
+  "price_note": "per person; blog: 'from $3,100–3,600'",
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter",
+   "Snow Monkeys"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Yudanaka Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Hakuba (Tsugaike)",
+    "nights": 6
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen tickets or airport transfers",
+   "luggage delivery to resort",
+   "24/7 support"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "A night at Yudanaka Onsen (Jigokudani snow monkeys)",
+   "Six nights in Tsugaike (Hakuba)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Jigokudani Monkey Park",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Yudanaka Onsen",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Hakuba Tsugaike ski area",
+    "city": "Hakuba"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts",
+   "https://selfguidejapan.com/blog/best-ski-resorts-in-japan",
+   "https://selfguidejapan.com/blog/shiga-kogen"
+  ],
+  "notes": "NEW PREFIX 'SK' (self-guided ski trips). Details come from ski blog summaries, not the tour page; per-code search not performed (WebSearch budget exhausted). Operator arranges hotels, Shinkansen tickets or airport transfers, luggage delivery to the resort and 24/7 support; no guide on the slopes (local guide optional). Only 7 of the 10 nights are accounted for in the blog (Yudanaka 1 + Tsugaike 6); remaining nights (likely Tokyo) unknown."
+ },
+ {
+  "code": "SK006",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK006",
+  "title_en": "Shiga Kogen with Snow Monkeys",
+  "subtitle_en": null,
+  "days": 11,
+  "nights": 10,
+  "price_min": 2900,
+  "price_max": 3500,
+  "currency": "USD",
+  "price_note": "per person; blog: 'from $2,900–3,500'",
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter",
+   "Snow Monkeys"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Yudanaka Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Shiga Kogen",
+    "nights": 6
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen tickets or airport transfers",
+   "luggage delivery to resort",
+   "24/7 support"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "A night at Yudanaka Onsen (Jigokudani snow monkeys)",
+   "Six nights at the Shiga Kogen Prince Hotel West Building"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Jigokudani Monkey Park",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Yudanaka Onsen",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Shiga Kogen ski area",
+    "city": "Yamanouchi"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts",
+   "https://selfguidejapan.com/blog/best-ski-resorts-in-japan",
+   "https://selfguidejapan.com/blog/shiga-kogen"
+  ],
+  "notes": "NEW PREFIX 'SK' (self-guided ski trips). Details come from ski blog summaries, not the tour page; per-code search not performed (WebSearch budget exhausted). Operator arranges hotels, Shinkansen tickets or airport transfers, luggage delivery to the resort and 24/7 support; no guide on the slopes (local guide optional). Hotel named in blog: Shiga Kogen Prince Hotel West Building (6 nights). Only 7 of 10 nights accounted for; remaining nights unknown."
+ },
+ {
+  "code": "SK102",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK102",
+  "title_en": "Hakuba Misorano & Zao",
+  "subtitle_en": null,
+  "days": null,
+  "nights": null,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Hakuba (Misorano)",
+    "nights": null
+   },
+   {
+    "city": "Zao Onsen",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen tickets or airport transfers",
+   "luggage delivery to resort",
+   "24/7 support"
+  ],
+  "exclusions": [],
+  "highlights": [],
+  "attractions_all": [
+   {
+    "name_en": "Hakuba Misorano (Happo-one area) ski",
+    "city": "Hakuba"
+   },
+   {
+    "name_en": "Zao Onsen ski resort",
+    "city": "Zao"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts",
+   "https://selfguidejapan.com/blog/best-ski-resorts-in-japan",
+   "https://selfguidejapan.com/blog/shiga-kogen"
+  ],
+  "notes": "NEW PREFIX 'SK' (self-guided ski trips). Details come from ski blog summaries, not the tour page; per-code search not performed (WebSearch budget exhausted). Operator arranges hotels, Shinkansen tickets or airport transfers, luggage delivery to the resort and 24/7 support; no guide on the slopes (local guide optional). 'Two-week' route; 100-series variant of SK002 (different Hakuba base hotel/area). Official title/price unverified. Blogs also say the operator sends skiers to APPI and Furano (codes not surfaced; presumably further SK codes)."
+ },
+ {
+  "code": "KR003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KR003",
+  "title_en": "Hidden Cherry Blossom & Ancient Temple of Nara",
+  "subtitle_en": null,
+  "days": 4,
+  "nights": 3,
+  "price_min": 900,
+  "price_max": 1500,
+  "currency": "USD",
+  "price_note": "per person; '$900 with standard hotels or $1,400–$1,500 with the deluxe hotel'",
+  "series": "KR",
+  "themes": [
+   "Cherry Blossom",
+   "Short trip"
+  ],
+  "season": "Departures only April 8–17, 2027",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Osaka",
+    "nights": 3
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Based in Osaka",
+   "Uses the Kintetsu Railway to reach cherry-blossom spots away from the usual tourist circuit",
+   "Ancient temples of Nara"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Nara (temples & cherry spots via Kintetsu Railway)",
+    "city": "Nara"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-forecast-2027"
+  ],
+  "notes": "NEW PREFIX 'KR' (Kintetsu-rail based short trips, presumably KR001… exist too — not searched). Details from the 2027 cherry-blossom blog, not the tour page; per-code search not performed (WebSearch budget exhausted). Osaka 3 nights inferred from 'based in Osaka' for a 4-day trip."
+ }
+]
