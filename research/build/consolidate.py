@@ -148,8 +148,8 @@ for fp in sorted(glob.glob(os.path.join(SERIES_DIR, "*.json"))):
         try: data = json.load(f)
         except Exception as e:
             print("BAD JSON", fp, e); continue
-    if os.path.basename(fp) == "destinations.json":
-        dests = data if isinstance(data, list) else data.get("destinations", []); continue
+    if os.path.basename(fp).startswith("destinations"):
+        dests += (data if isinstance(data, list) else data.get("destinations", [])); continue
     if isinstance(data, dict): data = data.get("tours") or data.get("results") or list(data.values())
     for t in data:
         if not isinstance(t, dict): continue

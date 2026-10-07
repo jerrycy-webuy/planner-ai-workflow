@@ -170,6 +170,16 @@ CITY.update({
     "ikuchijima": ("生口岛", "Setouchi", "濑户内"), "tamatsukuri": ("玉造温泉", "Chugoku", "中国地方"), "matsue": ("松江", "Chugoku", "中国地方"),
 })
 
+CITY.update({
+    "nihondaira": ("日本平（静冈）", "Chubu", "中部"), "isawaonsen": ("石和温泉", "Chubu", "中部"), "isawa": ("石和温泉", "Chubu", "中部"), "kashihara": ("橿原", "Kansai", "关西"),
+    "mutsu": ("陆奥", "Tohoku", "东北"), "tomi": ("东御", "Chubu", "中部"), "saku": ("佐久", "Chubu", "中部"), "hirugami": ("昼神温泉", "Chubu", "中部"), "hirugamionsen": ("昼神温泉", "Chubu", "中部"),
+    "okunikko": ("奥日光", "Kanto", "关东"), "tochigicity": ("栃木市", "Kanto", "关东"), "kanuma": ("鹿沼", "Kanto", "关东"), "aizuwakamatsu": ("会津若松", "Tohoku", "东北"),
+    "nyutoonsen": ("乳头温泉乡", "Tohoku", "东北"), "kakunodate": ("角馆", "Tohoku", "东北"), "sadoisland": ("佐渡岛", "Chubu", "中部"), "sadocity": ("佐渡市", "Chubu", "中部"),
+    "chitapeninsula": ("知多半岛", "Chubu", "中部"), "nagakute": ("长久手", "Chubu", "中部"), "hakkodaoirase": ("八甲田·奥入濑", "Tohoku", "东北"), "oma": ("大间", "Tohoku", "东北"),
+    "kanagawa": ("神奈川", "Kanto", "关东"), "fukutsu": ("福津", "Kyushu", "九州"), "ukiha": ("浮羽", "Kyushu", "九州"), "kurume": ("久留米", "Kyushu", "九州"), "munakata": ("宗像", "Kyushu", "九州"),
+    "aomoricity": ("青森市", "Tohoku", "东北"), "hakkoda": ("八甲田", "Tohoku", "东北"), "oirase": ("奥入濑", "Tohoku", "东北"), "goshogawara": ("五所川原", "Tohoku", "东北"),
+})
+
 REGION_CN = {
     "Kanto": "关东", "Chubu": "中部", "Hokuriku": "北陆", "Kansai": "关西", "Chugoku": "中国地方",
     "Setouchi": "濑户内", "Shikoku": "四国", "Kyushu": "九州", "Hokkaido": "北海道", "Tohoku": "东北", "Okinawa": "冲绳",

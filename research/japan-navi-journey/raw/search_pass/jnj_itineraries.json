@@ -1,0 +1,1604 @@
+[
+  {
+    "code": "JNJ-PREMIUM-TOHOKU-GOURMET-TOUR",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/premium-tohoku-gourmet-tour/",
+    "title_en": "Premium Tohoku Gourmet Tour: Oma Tuna & Shimokita",
+    "subtitle_en": "An exclusive 5-day Tohoku gourmet tour with chef-curated meals, Oma tuna fishing, and luxury ryokan stays (SEO title also seen: 'Premium Tohoku & Aomori Private Tour: Embark on a ...')",
+    "days": 5,
+    "nights": 4,
+    "price_min": null,
+    "price_max": null,
+    "currency": "JPY",
+    "price_note": "custom quote (total not published); page lists per-night accommodation guideline prices: Shimokita ryokan class 30,000-50,000 JPY (2 meals), Fugen-in shukubo 40,000-60,000 JPY (2 meals), ReLabo Aomori 60,000 JPY (breakfast)",
+    "series": "JNJ",
+    "themes": [
+      "Luxury",
+      "Gourmet",
+      "Culture",
+      "Onsen",
+      "Festival"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Tohoku",
+    "prefectures": [
+      "Aomori",
+      "Miyagi"
+    ],
+    "arrival_airport": "Aomori Airport (or meet in Aomori City)",
+    "departure_airport": "Sendai (tour disbands in Sendai; airport not stated)",
+    "route": [
+      {
+        "city": "Shimokita (Mutsu/Oma)",
+        "nights": 2
+      },
+      {
+        "city": "Aomori City",
+        "nights": 1
+      },
+      {
+        "city": "Sendai",
+        "nights": 1
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Aomori City / Airport to Shimokita; welcome dinner by Chef Nozaki",
+        "from": "Aomori City / Aomori Airport",
+        "to": "Shimokita Peninsula",
+        "transport": "private car",
+        "attractions": [
+          "Shimokita Peninsula"
+        ],
+        "activities": "Meet in Aomori City or at the airport; travel to the scenic Shimokita area; welcome dinner featuring a special course curated by Chef Toshiharu Nozaki (FUJI Omakase, Los Angeles)",
+        "meals": "dinner (chef-curated welcome course)",
+        "stay": "High-quality inn in Shimokita (ryokan class, 2 meals)",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Oma tuna line fishing & temple lodging Fugen-in",
+        "from": "Shimokita",
+        "to": "Shimokita (Oma / Mutsu)",
+        "transport": "private car + fishing boat",
+        "attractions": [
+          "Oma (tuna fishing port)",
+          "Fugen-in temple lodging"
+        ],
+        "activities": "Line fishing with an Oma fisherman; sushi lunch; visit the temple lodging Fugen-in to experience the natural and spiritual culture of Shimokita; traditional vegetarian (shojin) kaiseki dinner",
+        "meals": "breakfast, sushi lunch, shojin kaiseki dinner",
+        "stay": "Fugen-in shukubo (temple lodging, cultural experience included)",
+        "notes": null
+      },
+      {
+        "day": 3,
+        "title": "Morning temple ritual, then Aomori City & Nebuta workshops",
+        "from": "Shimokita",
+        "to": "Aomori City",
+        "transport": "private car",
+        "attractions": [
+          "Aomori City",
+          "Nebuta culture (workshop)"
+        ],
+        "activities": "Tranquil morning ritual and traditional vegetarian breakfast at the historic temple lodging; travel to Aomori City; interactive Nebuta workshops including festival dancing and music performances",
+        "meals": "breakfast (shojin); other meals not specified",
+        "stay": "ReLabo Aomori (wellness-focused hotel, breakfast included)",
+        "notes": null
+      },
+      {
+        "day": 4,
+        "title": "Aomori to Sendai - A Gourmet Journey and a Celebratory Evening",
+        "from": "Aomori City",
+        "to": "Sendai",
+        "transport": "private car",
+        "attractions": [
+          "Akiu wineries (Akiu Winery)",
+          "Shozan restaurant"
+        ],
+        "activities": "Travel south to Sendai enjoying the natural beauty, stopping by the wineries of Akiu along the way; day ends with a fusion Japanese dinner at the famous Shozan restaurant",
+        "meals": "fusion Japanese dinner at Shozan",
+        "stay": "The Westin Sendai (five-star hotel)",
+        "notes": null
+      },
+      {
+        "day": 5,
+        "title": "Free Time in Sendai - Disband",
+        "from": "Sendai",
+        "to": "Sendai",
+        "transport": null,
+        "attractions": [
+          "Sendai City"
+        ],
+        "activities": "Free time in Sendai before the tour disbands",
+        "meals": "breakfast",
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "hotels": [
+      "Shimokita ryokan (name not given)",
+      "Fugen-in (temple lodging, Shimokita)",
+      "ReLabo Aomori",
+      "The Westin Sendai"
+    ],
+    "inclusions": [
+      "chef-curated meals (Toshiharu Nozaki, FUJI Omakase LA)",
+      "Oma tuna line-fishing experience",
+      "luxury ryokan / temple lodging / hotel stays",
+      "private car transportation",
+      "Nebuta workshops"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Line-fishing for Oma tuna with a local fisherman",
+      "Special course menu curated by Chef Toshiharu Nozaki",
+      "Temple lodging (shukubo) stay at Fugen-in with shojin ryori",
+      "Nebuta dance & music workshops in Aomori City",
+      "Finale dinner at Akiu Winery / Shozan in Sendai",
+      "Stay at The Westin Sendai"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Shimokita Peninsula",
+        "city": "Mutsu"
+      },
+      {
+        "name_en": "Oma fishing port (tuna line fishing)",
+        "city": "Oma"
+      },
+      {
+        "name_en": "Fugen-in temple lodging",
+        "city": "Mutsu (Shimokita)"
+      },
+      {
+        "name_en": "Nebuta workshop (dance & music)",
+        "city": "Aomori"
+      },
+      {
+        "name_en": "Akiu Winery",
+        "city": "Sendai"
+      },
+      {
+        "name_en": "Shozan restaurant",
+        "city": "Sendai"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/premium-tohoku-gourmet-tour/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Page states: 4 nights 5 days, Aomori Pref. (Oma, Mutsu, Aomori City) & Miyagi Pref. (Sendai). Full Day 1-5 captured from page summaries (Day 1 Shimokita ryokan; Day 2 Oma tuna fishing + Fugen-in shukubo; Day 3 Aomori City Nebuta workshops, ReLabo Aomori; Day 4 Akiu wineries + Shozan dinner, Westin Sendai; Day 5 free time & disband). Tour price not published; only per-night accommodation guideline prices shown."
+  },
+  {
+    "code": "JNJ-AOMORI-UNVEILED",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/aomori-unveiled/",
+    "title_en": "Aomori Unveiled: Culture of Mountain and Sea at Japan's Northern Edge",
+    "subtitle_en": null,
+    "days": 7,
+    "nights": 6,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Luxury",
+      "Culture",
+      "Nature",
+      "Onsen",
+      "Craft"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Tohoku",
+    "prefectures": [
+      "Aomori"
+    ],
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Hakkoda / Oirase area",
+        "nights": null
+      },
+      {
+        "city": "Shimokita Peninsula",
+        "nights": null
+      },
+      {
+        "city": "Hachinohe / Misawa",
+        "nights": null
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Hakkoda & Oirase",
+        "from": null,
+        "to": "Hakkoda / Oirase",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Mount Hakkoda primeval beech forest",
+          "Oirase (gorge/stream area)"
+        ],
+        "activities": "Walk the primeval beech forests of Mt. Hakkoda / Oirase area; at sunset unwind at a hot spring inn nestled in nature with a seasonal dinner from the region's finest ingredients",
+        "meals": "dinner (seasonal)",
+        "stay": "Hot spring inn in nature (Hakkoda/Oirase area; name not given)",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Shimokita Peninsula - Through the Winds of Sacred Grounds",
+        "from": "Hakkoda / Oirase",
+        "to": "Shimokita Peninsula",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Mount Osore (Osorezan)",
+          "Hotokegaura cliffs"
+        ],
+        "activities": "Head toward the sacred site of Mount Osore; mystical cliffs of Hotokegaura; hands-on cultural experiences in fishing villages (page describes a shojin ryori breakfast before Osorezan - may belong to Day 3 morning)",
+        "meals": "breakfast (shojin ryori mentioned)",
+        "stay": "Shimokita area (temple lodging / inn implied; not confirmed)",
+        "notes": "search summary mixes Day 2 heading with 'Hachinohe・Misawa'; sequencing uncertain"
+      },
+      {
+        "day": 3,
+        "title": "Shimokita Peninsula (continued) - fishing villages & secluded hot springs",
+        "from": "Shimokita",
+        "to": "Shimokita",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Hotokegaura cliffs",
+          "Shimokita fishing villages"
+        ],
+        "activities": "Hands-on cultural experiences in fishing villages and secluded hot spring retreats (page's Day 2-3 Shimokita content; exact split not captured)",
+        "meals": null,
+        "stay": "Shimokita area (not specified)",
+        "notes": "reconstructed; Day 2/3 split uncertain"
+      },
+      {
+        "day": 4,
+        "title": "Hachinohe / Misawa (page groups Days 4-5 as 'Hachinohe・Misawa')",
+        "from": "Shimokita Peninsula",
+        "to": "Hachinohe / Misawa",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Hachinohe",
+          "Misawa"
+        ],
+        "activities": "Transfer from Shimokita to the Hachinohe / Misawa area; content for this day not itemised in search summaries",
+        "meals": null,
+        "stay": "Hachinohe / Misawa area (not specified)",
+        "notes": "grouped 'Day 4-5' in summary; details thin"
+      },
+      {
+        "day": 5,
+        "title": "Hachinohe / Misawa - craftsmanship and local life",
+        "from": "Hachinohe",
+        "to": "Hachinohe / Misawa",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Hachinohe",
+          "Misawa"
+        ],
+        "activities": "Discover local craftsmanship and life: painting traditional Tsugaru kokeshi dolls, indigo dyeing, working on a local farm, or preparing regional dishes (tailored 'white space' day)",
+        "meals": null,
+        "stay": "Hachinohe / Misawa area (not specified)",
+        "notes": null
+      },
+      {
+        "day": 6,
+        "title": "Hachinohe: morning market and quiet coastal walks",
+        "from": "Hachinohe",
+        "to": "Hachinohe",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Hachinohe morning market",
+          "Kabushima Island",
+          "Tanesashi Coast"
+        ],
+        "activities": "Morning market in Hachinohe; afternoon serene nature walk through Kabushima Island where seagulls dance, or a stroll through the meadows of Tanesashi Coast",
+        "meals": null,
+        "stay": "Hachinohe area (not specified)",
+        "notes": "explicitly labelled Day 6 in one summary; an earlier summary attached the same content to 'Day 4-5'"
+      },
+      {
+        "day": 7,
+        "title": "Savouring the Final Moments: A Quiet Day in Aomori and Hachinohe",
+        "from": null,
+        "to": "Aomori / Hachinohe",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Aomori City cafes, galleries, craft shops",
+          "Hachinohe"
+        ],
+        "activities": "Leave the schedule open to visit cafes, galleries or small craft shops in Aomori or Hachinohe before departure",
+        "meals": "breakfast",
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "hotels": [
+      "Secluded hot spring inns (names not given)"
+    ],
+    "inclusions": [
+      "6 nights handpicked accommodation",
+      "daily breakfast, 5 lunches, 6 dinners (Day 1 dinner to final day breakfast)",
+      "private jumbo taxi with local English-speaking driver for 7 days",
+      "full-time licensed English-speaking guide",
+      "parking fees, fuel, expressway tolls",
+      "admission fees to all scheduled attractions and experiences"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Primeval beech forests of Mount Hakkoda",
+      "Mystical cliffs of Hotokegaura",
+      "Sacred Mount Osore (Osorezan)",
+      "Hands-on cultural experiences in fishing villages",
+      "Secluded hot spring retreats",
+      "Craft experiences: Tsugaru kokeshi painting, indigo dyeing, farm work, regional cooking",
+      "Hachinohe morning market, Kabushima Island & Tanesashi Coast"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Mount Hakkoda",
+        "city": "Aomori"
+      },
+      {
+        "name_en": "Oirase Gorge",
+        "city": "Towada"
+      },
+      {
+        "name_en": "Hotokegaura",
+        "city": "Sai (Shimokita)"
+      },
+      {
+        "name_en": "Mount Osore (Osorezan)",
+        "city": "Mutsu"
+      },
+      {
+        "name_en": "Hachinohe",
+        "city": "Hachinohe"
+      },
+      {
+        "name_en": "Misawa",
+        "city": "Misawa"
+      },
+      {
+        "name_en": "Hachinohe morning market",
+        "city": "Hachinohe"
+      },
+      {
+        "name_en": "Kabushima Island",
+        "city": "Hachinohe"
+      },
+      {
+        "name_en": "Tanesashi Coast",
+        "city": "Hachinohe"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/aomori-unveiled/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "7-day luxury journey. Section headings captured: Day 1 Hakkoda & Oirase; Day 2(-3) Shimokita Peninsula ('Through the Winds of Sacred Grounds', Osorezan, Hotokegaura, fishing villages); Day 4-5 Hachinohe・Misawa (craft experiences: kokeshi painting, indigo dyeing, farm work, regional cooking); Day 6 Hachinohe morning market + Kabushima/Tanesashi; Day 7 quiet final day in Aomori/Hachinohe. One summary mentioned 'Lake Towada & Hirosaki' for Days 6-7 but it echoed query terms and was not confirmed, so it is omitted. Price not published."
+  },
+  {
+    "code": "JNJ-NAGANO-PREMIUM-RETREAT",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/nagano-premium-retreat/",
+    "title_en": "Nagano Premium Retreat",
+    "subtitle_en": "A 7-Day Luxury Journey through Castles, Cuisine, and Celestial Skies in Southern Nagano (index listing: 'Southern Nagano Retreat: Exploring Castles, Gourmet Experiences, and Celestial Nights')",
+    "days": 7,
+    "nights": 6,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Luxury",
+      "Gourmet",
+      "Onsen",
+      "Castles",
+      "Stargazing",
+      "Nature"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Chubu (Nagano)",
+    "prefectures": [
+      "Nagano"
+    ],
+    "arrival_airport": "Matsumoto Station or Matsumoto Airport (Shinshu-Matsumoto)",
+    "departure_airport": "Matsumoto Station or Matsumoto Airport (Shinshu-Matsumoto)",
+    "route": [
+      {
+        "city": "Matsumoto (Tobira Onsen)",
+        "nights": 1
+      },
+      {
+        "city": "Suwa / Fujimi",
+        "nights": null
+      },
+      {
+        "city": "Ina",
+        "nights": null
+      },
+      {
+        "city": "Hirugami Onsen (Achi)",
+        "nights": null
+      },
+      {
+        "city": "Kiso",
+        "nights": null
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Matsumoto: Matsumoto Castle, then Tobira Onsen Myojinkan",
+        "from": "Matsumoto Station / Matsumoto Airport",
+        "to": "Matsumoto (Tobira Onsen)",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Matsumoto Castle ('Crow Castle')",
+          "Tobira Onsen"
+        ],
+        "activities": "Arrive at Matsumoto Station or Airport; private car to Matsumoto Castle ('Crow Castle') with views of the Northern Alps; check in at Tobira Onsen Myojinkan (altitude 1,050 m); hot springs and kaiseki dinner with seasonal Nagano ingredients",
+        "meals": "kaiseki dinner",
+        "stay": "Tobira Onsen Myojinkan (Matsumoto)",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Fujimi highlands: farm-to-table & gondola to 1,780 m plateau",
+        "from": "Matsumoto",
+        "to": "Fujimi / Suwa area",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Fujimi Panorama Resort (gondola to 1,780 m plateau)",
+          "Local farm (farm-to-table)"
+        ],
+        "activities": "Farm-to-table experience harvesting seasonal vegetables with local farmers and preparing traditional Shinshu dishes; gondola ride to a scenic plateau at 1,780 m for afternoon tea and forest bathing with views of Mt. Fuji and the Yatsugatake Mountains (resort offers paragliding/MTB in summer, ski/snowboard/snow trekking in winter)",
+        "meals": "breakfast, lunch (Shinshu dishes), dinner",
+        "stay": "Suwa / Fujimi area (not specified)",
+        "notes": "page groups 'Day 2 & 3: Matsumoto to Suwa'; assignment of activities to Day 2 vs 3 inferred"
+      },
+      {
+        "day": 3,
+        "title": "Suwa: five sake breweries, Lake Suwa & shrines; on to Ina",
+        "from": "Suwa",
+        "to": "Ina",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Suwa Five Sake Brewery Tour (Masumi, etc. - five historic breweries within walking distance)",
+          "Lake Suwa",
+          "Suwa local shrines (Suwa Taisha implied, not confirmed)"
+        ],
+        "activities": "'Suwa Five Sake Brewery Tour' strolling between five historic sake breweries and sampling sake; explore the townscape, the lake and local shrines; in the afternoon continue to Ina and relax at a tranquil hot spring ryokan",
+        "meals": "breakfast, lunch, dinner",
+        "stay": "Hot spring ryokan in Ina (name not given)",
+        "notes": "brewery names not given on page summary"
+      },
+      {
+        "day": 4,
+        "title": "Hirugami Onsen & Achi Village stargazing",
+        "from": "Ina",
+        "to": "Hirugami Onsen (Achi)",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Hirugami Onsen village",
+          "Achi Village stargazing tour"
+        ],
+        "activities": "Stroll through Hirugami Onsen village; stargazing tour in Achi Village ('Japan's most breathtaking starry sky'); skin-beautifying hot springs",
+        "meals": null,
+        "stay": "Hirugami Onsen ryokan (name not given)",
+        "notes": null
+      },
+      {
+        "day": 5,
+        "title": "Hirugami area",
+        "from": "Hirugami",
+        "to": "Hirugami",
+        "transport": "private jumbo taxi",
+        "attractions": [],
+        "activities": "Continued Hirugami/Achi area activities (summary groups Days 4-5)",
+        "meals": null,
+        "stay": "Hirugami Onsen (not specified)",
+        "notes": null
+      },
+      {
+        "day": 6,
+        "title": "Hirugami - Kiso: Kiso-Fukushima post town & craft experience",
+        "from": "Hirugami",
+        "to": "Kiso",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Kiso-Fukushima post town",
+          "Kiso Valley"
+        ],
+        "activities": "Explore the rich history and culture of Kiso, including the historic post town of Kiso-Fukushima with hands-on traditional craft experiences (page section 'Hirugami – Kiso'; exact day placement not confirmed)",
+        "meals": null,
+        "stay": null,
+        "notes": "day number inferred from section order"
+      },
+      {
+        "day": 7,
+        "title": "Komagane: Senjojiki Cirque ropeway, then Matsumoto departure",
+        "from": "Kiso / Hirugami area",
+        "to": "Matsumoto Station / Matsumoto Airport",
+        "transport": "private jumbo taxi + Komagatake Ropeway",
+        "attractions": [
+          "Komagatake Ropeway",
+          "Senjojiki Cirque (Central Alps)"
+        ],
+        "activities": "Head to Komagane and take the ropeway up to Senjojiki Cirque for alpine scenery; relax over lunch and cafe time at a mountain resort surrounded by alpine plants; private car transfer to Matsumoto Station (or Airport) to conclude the tour",
+        "meals": "breakfast, lunch",
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "hotels": [
+      "Tobira Onsen Myojinkan (Matsumoto)",
+      "Hot spring ryokan in Ina (name not given)",
+      "Hirugami Onsen (name not given)"
+    ],
+    "inclusions": [
+      "6 nights handpicked accommodation",
+      "daily breakfast, lunch and dinner",
+      "private jumbo taxi with local English-speaking driver for 7 days",
+      "full-time licensed English-speaking guide service",
+      "parking and tolls",
+      "admission fees to all scheduled attractions",
+      "all applicable taxes",
+      "curated outdoor and cultural activities"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Matsumoto Castle ('Crow Castle') with Northern Alps views",
+      "Tobira Onsen Myojinkan at 1,050 m",
+      "Fujimi Panorama Resort (seasonal outdoor sports)",
+      "Ina Valley hot spring ryokan",
+      "Achi Village stargazing (Japan's best starry sky)",
+      "Hirugami Onsen 'beautifying' hot springs",
+      "Ancient castles and gourmet experiences of Southern Nagano",
+      "Kiso history and culture (post-town heritage)",
+      "Suwa Five Sake Brewery Tour",
+      "Farm-to-table Shinshu cooking with local farmers",
+      "Gondola to 1,780 m plateau: afternoon tea & forest bathing with Mt. Fuji / Yatsugatake views",
+      "Komagatake Ropeway to Senjojiki Cirque on the final day"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Matsumoto Castle",
+        "city": "Matsumoto"
+      },
+      {
+        "name_en": "Tobira Onsen Myojinkan",
+        "city": "Matsumoto"
+      },
+      {
+        "name_en": "Fujimi Panorama Resort",
+        "city": "Fujimi"
+      },
+      {
+        "name_en": "Ina Valley",
+        "city": "Ina"
+      },
+      {
+        "name_en": "Hirugami Onsen",
+        "city": "Achi"
+      },
+      {
+        "name_en": "Achi Village stargazing tour",
+        "city": "Achi"
+      },
+      {
+        "name_en": "Kiso Valley",
+        "city": "Kiso"
+      },
+      {
+        "name_en": "Kiso-Fukushima post town",
+        "city": "Kiso"
+      },
+      {
+        "name_en": "Suwa Five Sake Brewery Tour",
+        "city": "Suwa"
+      },
+      {
+        "name_en": "Lake Suwa",
+        "city": "Suwa"
+      },
+      {
+        "name_en": "Senjojiki Cirque / Komagatake Ropeway",
+        "city": "Komagane"
+      }
+    ],
+    "source_confidence": "medium",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/nagano-premium-retreat/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Page sections captured: Day 1 Matsumoto (Matsumoto Castle, Tobira Onsen Myojinkan); Day 2&3 Matsumoto to Suwa (farm-to-table, Fujimi gondola to 1,780 m plateau, Suwa five sake breweries, lake & shrines) then Ina hot spring ryokan; Day 4-5 Hirugami (Achi stargazing - the culminating experience); Hirugami-Kiso (Kiso-Fukushima crafts); Day 7 Komagane/Senjojiki Cirque and transfer to Matsumoto. Exact day splits for Days 2-3 and 5-6 and nightly hotel names (except Myojinkan) are inferred/not published. Price not published."
+  },
+  {
+    "code": "JNJ-DISCOVER-FUKUOKA",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/discover-fukuoka/",
+    "title_en": "Discover Fukuoka: Gateway to Asia, Heart of Japan",
+    "subtitle_en": null,
+    "days": 6,
+    "nights": 5,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Culture",
+      "Craft",
+      "Food",
+      "Nature",
+      "World Heritage",
+      "Onsen"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Kyushu",
+    "prefectures": [
+      "Fukuoka"
+    ],
+    "arrival_airport": "Fukuoka Airport (or Hakata Station)",
+    "departure_airport": "Fukuoka Airport",
+    "route": [
+      {
+        "city": "Itoshima",
+        "nights": 1
+      },
+      {
+        "city": "Kurume",
+        "nights": 1
+      },
+      {
+        "city": "Ukiha",
+        "nights": 1
+      },
+      {
+        "city": "Munakata (hot spring inn)",
+        "nights": 1
+      },
+      {
+        "city": "Fukuoka City",
+        "nights": 1
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Arrival; Itoshima art & coast",
+        "from": "Fukuoka Airport / Hakata Station",
+        "to": "Itoshima",
+        "transport": "private car",
+        "attractions": [
+          "Itoshima artists' studios & seaside galleries",
+          "Meoto Iwa (Sakurai Futamigaura)"
+        ],
+        "activities": "Head west to explore artists' studios, seaside galleries and cosy cafes in Itoshima; sunset at Meoto Iwa (Sakurai Futamigaura)",
+        "meals": null,
+        "stay": "Seaside resort, Itoshima",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Kurume: Kurume Kasuri weaving & sake brewery",
+        "from": "Itoshima",
+        "to": "Kurume",
+        "transport": "private car",
+        "attractions": [
+          "Kurume Kasuri craft studio",
+          "Local sake brewery"
+        ],
+        "activities": "Traditional weaving experience at a Kurume Kasuri studio; sake brewery tour and tasting in the afternoon; creative kaiseki with local seasonal ingredients in the evening",
+        "meals": "kaiseki dinner",
+        "stay": "Quaint inn, Kurume",
+        "notes": null
+      },
+      {
+        "day": 3,
+        "title": "Ukiha: fruit kingdom & white-walled streets",
+        "from": "Kurume",
+        "to": "Ukiha",
+        "transport": "private car",
+        "attractions": [
+          "Ukiha fruit farms",
+          "Ukiha white-walled streets (Shirakabe)",
+          "Ukihane Inari Shrine"
+        ],
+        "activities": "Seasonal fruit picking in the 'fruit kingdom' of Ukiha; stroll through white-walled streets; visit Ukihane Inari Shrine; homemade local cuisine",
+        "meals": "homemade local dinner",
+        "stay": "Rented traditional house, Ukiha",
+        "notes": null
+      },
+      {
+        "day": 4,
+        "title": "Munakata Taisha (World Heritage) & hot spring inn",
+        "from": "Ukiha",
+        "to": "Munakata",
+        "transport": "private car",
+        "attractions": [
+          "Munakata Taisha Shrine",
+          "Munakata museum (Kaino-michi)"
+        ],
+        "activities": "Visit the World Heritage Munakata Taisha Shrine and nearby museum; relax at a hot spring inn",
+        "meals": "dinner made with local ingredients",
+        "stay": "Hot spring inn in Munakata",
+        "notes": null
+      },
+      {
+        "day": 5,
+        "title": "Fukutsu seaside town & Fukuoka City",
+        "from": "Munakata",
+        "to": "Fukuoka City",
+        "transport": "private car",
+        "attractions": [
+          "Fukutsu seaside town (seasonal flowers)",
+          "Fukuoka City shopping"
+        ],
+        "activities": "Stroll through the seaside town of Fukutsu with seasonal flowers; return to Fukuoka City for shopping and local cuisine",
+        "meals": "local cuisine dinner",
+        "stay": "Fukuoka City (hotel not specified)",
+        "notes": null
+      },
+      {
+        "day": 6,
+        "title": "Dazaifu Tenmangu & departure",
+        "from": "Fukuoka City",
+        "to": "Fukuoka Airport",
+        "transport": "private car",
+        "attractions": [
+          "Dazaifu Tenmangu Shrine"
+        ],
+        "activities": "Visit Dazaifu Tenmangu Shrine; shopping and a final lunch before heading to the airport",
+        "meals": "final lunch",
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "hotels": [
+      "Seaside resort (Itoshima)",
+      "Quaint inn (Kurume)",
+      "Rented traditional house (Ukiha)",
+      "Hot spring inn (Munakata)",
+      "Fukuoka City hotel (not specified)"
+    ],
+    "inclusions": [
+      "5 nights accommodation in local inns, resorts and traditional homes",
+      "5 breakfasts and 5 dinners (incl. local cuisine and kaiseki)",
+      "private car transportation with English-speaking guide for the entire tour",
+      "admission fees to scheduled attractions"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Itoshima coast art studios and Meoto Iwa sunset",
+      "Kurume Kasuri textile weaving",
+      "Sake brewery tour & tasting",
+      "Fruit picking in Ukiha",
+      "World Heritage Munakata Taisha",
+      "Fukutsu seasonal flowers",
+      "Dazaifu Tenmangu"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Sakurai Futamigaura (Meoto Iwa)",
+        "city": "Itoshima"
+      },
+      {
+        "name_en": "Kurume Kasuri studio",
+        "city": "Kurume"
+      },
+      {
+        "name_en": "Ukihane Inari Shrine",
+        "city": "Ukiha"
+      },
+      {
+        "name_en": "Ukiha white-walled streets",
+        "city": "Ukiha"
+      },
+      {
+        "name_en": "Munakata Taisha",
+        "city": "Munakata"
+      },
+      {
+        "name_en": "Fukutsu",
+        "city": "Fukutsu"
+      },
+      {
+        "name_en": "Dazaifu Tenmangu",
+        "city": "Dazaifu"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/discover-fukuoka/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Full Day 1-6 captured (Itoshima > Kurume > Ukiha > Munakata > Fukutsu/Fukuoka City > Dazaifu & airport). Price not published."
+  },
+  {
+    "code": "JNJ-AICHI-NAGOYA-CHITA",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/aichi-nagoya-chita/",
+    "title_en": "Nagoya Chita Peninsula: A Luxury Cultural Escape in Central Japan",
+    "subtitle_en": null,
+    "days": 4,
+    "nights": 3,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Luxury",
+      "Culture",
+      "Craft",
+      "Nature",
+      "Gourmet"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Chubu (Aichi)",
+    "prefectures": [
+      "Aichi"
+    ],
+    "arrival_airport": "Chubu Centrair International Airport (or Nagoya Station)",
+    "departure_airport": "Chubu Centrair International Airport",
+    "route": [
+      {
+        "city": "Nagoya",
+        "nights": 2
+      },
+      {
+        "city": "Chita Peninsula",
+        "nights": 1
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Nagoya: Osu - Nagoya Castle area",
+        "from": "Nagoya Station / Centrair Airport",
+        "to": "Nagoya",
+        "transport": "private car",
+        "attractions": [
+          "Miwa Shrine",
+          "Osu Shopping Street",
+          "Nagoya Castle & Honmaru Palace"
+        ],
+        "activities": "Arrive at Nagoya Station or Centrair; private car to Miwa Shrine; meet a goshuin designer and try traditional printmaking; lunch and explore Osu Shopping Street; afternoon guided tour of Nagoya Castle and the restored Honmaru Palace",
+        "meals": "lunch, dinner",
+        "stay": "Luxury hotel / onsen ryokan (Nagoya, Chita or Inuyama area; not named)",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Nagoya: Higashiyama - Nagakute (Ghibli Park)",
+        "from": "Nagoya",
+        "to": "Nagakute",
+        "transport": "private car",
+        "attractions": [
+          "Higashiyama Botanical Garden (teahouse) or Farm Aichi",
+          "Ghibli Park - Mononoke no Sato"
+        ],
+        "activities": "Nature-filled tour with a stop at a teahouse in Higashiyama Botanical Garden or Farm Aichi; stroll through popular Ghibli Park areas such as 'Mononoke no Sato'; lunch at a Ghibli-themed restaurant",
+        "meals": "breakfast, lunch (Ghibli-themed restaurant), dinner",
+        "stay": "Luxury hotel / onsen ryokan (not named)",
+        "notes": null
+      },
+      {
+        "day": 3,
+        "title": "Chita Peninsula: shrimp crackers, Tokoname pottery, seaside seafood",
+        "from": "Nagoya",
+        "to": "Chita Peninsula",
+        "transport": "private car",
+        "attractions": [
+          "Ebisenbei no Sato",
+          "Tokoname pottery walk"
+        ],
+        "activities": "Travel to the Chita Peninsula by private car; hands-on shrimp-cracker baking at Ebisenbei no Sato; optional Tokoname pottery walk and ceramics experience; lunch of fresh seafood by the beach (page groups Days 3-4 as 'Chita Peninsula – Centrair')",
+        "meals": "breakfast, seafood lunch, dinner",
+        "stay": "Chita area luxury hotel / onsen ryokan (not named)",
+        "notes": "Day 3/4 split inferred"
+      },
+      {
+        "day": 4,
+        "title": "Centrair: Flight of Dreams - departure",
+        "from": "Chita",
+        "to": "Chubu Centrair International Airport",
+        "transport": "private car",
+        "attractions": [
+          "Flight of Dreams (Centrair)"
+        ],
+        "activities": "Afternoon exploring Flight of Dreams at Centrair Airport before departure (tour includes lunch on Day 4)",
+        "meals": "breakfast, lunch",
+        "stay": null,
+        "notes": "Day 3/4 split inferred"
+      }
+    ],
+    "hotels": [
+      "Luxury hotel and/or hot spring ryokan in Nagoya, Chita or Inuyama area (names not given)"
+    ],
+    "inclusions": [
+      "3 nights at a luxury hotel and/or hot spring ryokan",
+      "3 breakfasts, 4 lunches, 3 dinners (Day 1 dinner to Day 4 lunch)",
+      "private jumbo taxi with local English-speaking driver for 4 days",
+      "full-time licensed English-speaking guide service",
+      "parking and tolls",
+      "admission fees",
+      "curated cultural activities"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Goshuin design & woodblock printmaking experience at Miwa Shrine",
+      "Nagoya Castle and Honmaru Palace guided tour",
+      "Ghibli Park (Mononoke no Sato) with Ghibli-themed lunch",
+      "Shrimp-cracker baking at Ebisenbei no Sato",
+      "Tokoname pottery walk (optional)",
+      "Flight of Dreams at Centrair"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Miwa Shrine",
+        "city": "Nagoya"
+      },
+      {
+        "name_en": "Osu Shopping Street",
+        "city": "Nagoya"
+      },
+      {
+        "name_en": "Nagoya Castle / Honmaru Palace",
+        "city": "Nagoya"
+      },
+      {
+        "name_en": "Higashiyama Botanical Garden",
+        "city": "Nagoya"
+      },
+      {
+        "name_en": "Farm Aichi",
+        "city": "Nagakute"
+      },
+      {
+        "name_en": "Ghibli Park (Mononoke no Sato)",
+        "city": "Nagakute"
+      },
+      {
+        "name_en": "Ebisenbei no Sato",
+        "city": "Mihama (Chita)"
+      },
+      {
+        "name_en": "Tokoname pottery walk",
+        "city": "Tokoname"
+      },
+      {
+        "name_en": "Flight of Dreams",
+        "city": "Tokoname (Centrair)"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/aichi-nagoya-chita/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Day 1-2 explicit; page groups Days 3-4 as 'Chita Peninsula – Centrair' so the Day 3/4 split and night counts per city are inferred. Earlier summary also mentioned Inuyama Castle as a possible stay area/visit (accommodation 'Nagoya, Chita or Inuyama area'). Price not published."
+  },
+  {
+    "code": "JNJ-SADO-ISLAND",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/sado-island/",
+    "title_en": "Explore Sado: A 4-Day Private Tour of Nature, Culture, and History",
+    "subtitle_en": null,
+    "days": 4,
+    "nights": 3,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Nature",
+      "Culture",
+      "History",
+      "Island",
+      "World Heritage"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Chubu / Hokuriku (Niigata)",
+    "prefectures": [
+      "Niigata"
+    ],
+    "arrival_airport": "Niigata Airport / Niigata Station / Joetsu-Myoko Station (Shinkansen)",
+    "departure_airport": "Ferry from Ogi Port or Ryotsu Port back to Niigata (airport/station not specified)",
+    "route": [
+      {
+        "city": "Sado Island",
+        "nights": 3
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Niigata to Sado by ferry; island landmarks",
+        "from": "Niigata Station / Joetsu-Myoko Station",
+        "to": "Sado Island",
+        "transport": "private car + ferry",
+        "attractions": [
+          "Sado Island cultural landmarks"
+        ],
+        "activities": "Pickup from Niigata Station or Joetsu-Myoko Station; private vehicle to the port; scenic ferry to Sado; check in to an ocean-view ryokan or resort; afternoon discovering cultural landmarks and seasonal natural beauty",
+        "meals": null,
+        "stay": "Ocean-view ryokan or resort, Sado",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Sado Gold Mine; Onogame & Futatsugame",
+        "from": "Sado",
+        "to": "Sado",
+        "transport": "private car",
+        "attractions": [
+          "Sado Gold Mine (Sado Kinzan)",
+          "Onogame",
+          "Futatsugame"
+        ],
+        "activities": "In-depth tour of the Sado Gold Mine (UNESCO World Heritage candidate per page); afternoon at Onogame and Futatsugame where sea and rice terraces intertwine",
+        "meals": null,
+        "stay": "Sado (ryokan/resort)",
+        "notes": null
+      },
+      {
+        "day": 3,
+        "title": "Southwest Sado: maritime & cultural experiences",
+        "from": "Sado",
+        "to": "Southwest Sado",
+        "transport": "private car",
+        "attractions": [
+          "Southwest Sado coast"
+        ],
+        "activities": "Maritime activities unique to Sado such as a clear-water cruise, tub-boat (tarai-bune) ride or kayaking; cultural experiences such as traditional crafts and Noh theater",
+        "meals": null,
+        "stay": "Sado (ryokan/resort)",
+        "notes": null
+      },
+      {
+        "day": 4,
+        "title": "Crested ibis, morning market, final lunch; ferry from Ogi or Ryotsu",
+        "from": "Sado",
+        "to": "Ogi Port / Ryotsu Port (ferry to Niigata)",
+        "transport": "private car + ferry",
+        "attractions": [
+          "Japanese Crested Ibis (toki) observation",
+          "Local morning market"
+        ],
+        "activities": "Early-morning island life: observe the Japanese Crested Ibis and stroll the local morning market; special dish for the final lunch; scenic stops along the seaside before drop-off at Ogi Port or Ryotsu Port for ferry departure",
+        "meals": "breakfast, special final lunch",
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "hotels": [
+      "Traditional inn or luxury seaside resort, ocean-view (names not given)"
+    ],
+    "inclusions": [
+      "3 nights handpicked accommodation (traditional inn or luxury seaside resort)",
+      "daily breakfast, 4 lunches, 3 dinners (incl. kaiseki and special lunches with local ingredients)",
+      "private taxi with local English-speaking driver for 4 days",
+      "full-time licensed English-speaking guide throughout"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Sado Gold Mine",
+      "Onogame & Futatsugame coastal scenery",
+      "Tub-boat ride / clear-water cruise / kayaking",
+      "Traditional crafts and Noh theater",
+      "Easy access from Niigata Station, Joetsu-Myoko Station and Niigata Airport"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Sado Gold Mine",
+        "city": "Sado"
+      },
+      {
+        "name_en": "Onogame",
+        "city": "Sado"
+      },
+      {
+        "name_en": "Futatsugame",
+        "city": "Sado"
+      },
+      {
+        "name_en": "Japanese Crested Ibis (toki) viewing",
+        "city": "Sado"
+      },
+      {
+        "name_en": "Ogi Port",
+        "city": "Sado"
+      },
+      {
+        "name_en": "Ryotsu Port",
+        "city": "Sado"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/sado-island/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Full Day 1-4 captured. Accommodation names not published (ocean-view ryokan or resort). Price not published."
+  },
+  {
+    "code": "JNJ-OSAKA-5DAYS",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/osaka-5days/",
+    "title_en": "Expo 2025 & The Soul of Osaka: A Journey Through Time and Tradition",
+    "subtitle_en": "Page title also indexed as 'Discover Osaka: City Adventures, Skyline Views and Cultural Experiences' (apparently retitled after Expo 2025)",
+    "days": 5,
+    "nights": 4,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Culture",
+      "Craft",
+      "Food",
+      "City",
+      "Expo 2025"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Kansai",
+    "prefectures": [
+      "Osaka"
+    ],
+    "arrival_airport": "Kansai International Airport (KIX)",
+    "departure_airport": "Kansai International Airport (inferred: tour ends in Izumisano next to KIX; not stated)",
+    "route": [
+      {
+        "city": "Osaka / Sakai",
+        "nights": 4
+      }
+    ],
+    "day_by_day": [
+      {
+        "day": 1,
+        "title": "Kansai Airport to Sakai: balloon flight over the kofun tombs",
+        "from": "Kansai International Airport",
+        "to": "Sakai",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Mozu kofun tombs (balloon flight)"
+        ],
+        "activities": "Balloon flight with panoramic views of Osaka's ancient kofun tombs",
+        "meals": "dinner",
+        "stay": "Osaka / Sakai (handpicked, not named)",
+        "notes": null
+      },
+      {
+        "day": 2,
+        "title": "Osaka to Sakai: master blacksmith & teamLab at Nagai Botanical Garden",
+        "from": "Osaka",
+        "to": "Sakai",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Sakai knife blacksmith workshop",
+          "Nagai Botanical Garden (teamLab Botanical Garden Osaka)"
+        ],
+        "activities": "Visit a master blacksmith's workshop in Sakai (centuries-old knife-making); optional hands-on session to forge your own blade; at dusk, teamLab digital art installations at Nagai Botanical Garden",
+        "meals": "breakfast, lunch, dinner",
+        "stay": "Osaka / Sakai (not named)",
+        "notes": null
+      },
+      {
+        "day": 3,
+        "title": "Sakai: wagashi workshop at Maruichi Kashiho & tea ceremony",
+        "from": "Sakai",
+        "to": "Sakai",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Maruichi Kashiho (est. 1895)",
+          "Ryurei-style tea room"
+        ],
+        "activities": "Hands-on wagashi workshop at Maruichi Kashiho shaping seasonal sweets with house-made bean paste; traditional tea ceremony in a Ryurei-style tea room with matcha",
+        "meals": "breakfast, lunch, dinner",
+        "stay": "Osaka / Sakai (not named)",
+        "notes": null
+      },
+      {
+        "day": 4,
+        "title": "Expo '70 Park, Osaka Castle & Toyokuni Shrine, Kuromon Market, Dotonbori",
+        "from": "Osaka",
+        "to": "Osaka",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Expo '70 Commemorative Park",
+          "Osaka Castle",
+          "Toyokuni Shrine",
+          "Kuromon Market",
+          "Dotonbori (Glico sign)"
+        ],
+        "activities": "Morning stroll through seasonal blooms of Expo '70 Commemorative Park; Osaka Castle and Toyokuni Shrine; afternoon at Kuromon Market sampling local delicacies; on to Dotonbori for neon lights, street food and the Glico sign",
+        "meals": "breakfast, lunch, dinner",
+        "stay": "Osaka (not named)",
+        "notes": null
+      },
+      {
+        "day": 5,
+        "title": "Izumisano sumo demonstration - tour ends",
+        "from": "Osaka",
+        "to": "Izumisano",
+        "transport": "private jumbo taxi",
+        "attractions": [
+          "Sumo demonstration, Izumisano"
+        ],
+        "activities": "Adventure concludes in Izumisano with a special sumo demonstration; tour ends after lunch",
+        "meals": "breakfast, lunch",
+        "stay": null,
+        "notes": null
+      }
+    ],
+    "hotels": [
+      "Handpicked accommodation (names not specified)"
+    ],
+    "inclusions": [
+      "4 nights handpicked accommodation",
+      "daily breakfast, lunch and dinner (Day 1 dinner to final day lunch)",
+      "private jumbo taxi with local English-speaking driver for 5 days",
+      "full-time licensed English-speaking guide",
+      "parking fees, fuel and expressway tolls",
+      "admission fees to all scheduled attractions and experiences"
+    ],
+    "exclusions": [],
+    "highlights": [
+      "Balloon flight over the Mozu kofun tombs",
+      "Sakai knife blacksmith workshop (forge your own blade)",
+      "teamLab at Nagai Botanical Garden",
+      "Wagashi workshop at Maruichi Kashiho + tea ceremony",
+      "Expo 2025 on Yumeshima",
+      "Seasonal blooms at Expo '70 Park, Osaka Castle, Toyokuni Shrine",
+      "Kuromon Market & Dotonbori street food",
+      "Sumo experience in Izumisano"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Mozu Kofun (balloon flight)",
+        "city": "Sakai"
+      },
+      {
+        "name_en": "Sakai blacksmith workshop",
+        "city": "Sakai"
+      },
+      {
+        "name_en": "Nagai Botanical Garden (teamLab)",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Maruichi Kashiho",
+        "city": "Sakai"
+      },
+      {
+        "name_en": "Expo 2025 Yumeshima",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Expo '70 Commemorative Park",
+        "city": "Suita"
+      },
+      {
+        "name_en": "Osaka Castle",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Toyokuni Shrine",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Kuromon Market",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Dotonbori",
+        "city": "Osaka"
+      },
+      {
+        "name_en": "Sumo experience",
+        "city": "Izumisano"
+      }
+    ],
+    "source_confidence": "high",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/osaka-5days/",
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Two titles seen for the same URL ('Expo 2025 & The Soul of Osaka...' earlier; 'Discover Osaka: City Adventures, Skyline Views and Cultural Experiences' current). Full Day 1-5 captured. The index page's Expo 2025 Yumeshima highlight may have been dropped after the Expo closed. Price not published."
+  },
+  {
+    "code": "JNJ-NEBUTA",
+    "exists": true,
+    "url": "https://japan-navi-journey.com/itinerary/nebuta/",
+    "title_en": null,
+    "subtitle_en": null,
+    "days": null,
+    "nights": null,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Festival",
+      "Culture"
+    ],
+    "season": "early August (Aomori Nebuta Festival, Aug 2-7)",
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Tohoku",
+    "prefectures": [
+      "Aomori"
+    ],
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Aomori City",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "hotels": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [
+      "Aomori Nebuta Festival (per task brief: limited to one group per day)"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Aomori Nebuta Festival",
+        "city": "Aomori"
+      },
+      {
+        "name_en": "Nebuta Museum Wa Rasse",
+        "city": "Aomori"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://japan-navi-journey.com/column/491/"
+    ],
+    "notes": "Slug 'nebuta' supplied by task brief; the URL never surfaced in 4 site-restricted searches and the Sample Itinerary index listing captured (11 itineraries) does not include a Nebuta-specific tour, so existence/title/days are unverified. Searches returned only Nebuta festival columns and a customer review titled 'A Relaxing Summer Charter Car Journey Through Aomori's Festivals and Local Culture' (9 adults from Taiwan, Jul-Aug 2026). Nebuta dance/music workshops are part of premium-tohoku-gourmet-tour Day 3."
+  },
+  {
+    "code": "JNJ-TSUGARU-SLOW-TRAVEL-3D",
+    "exists": true,
+    "url": null,
+    "title_en": "Slow Travel in Tsugaru - 3 Days, 2 Nights at an Onsen Ryokan Beneath Mt. Iwaki",
+    "subtitle_en": null,
+    "days": 3,
+    "nights": 2,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Onsen",
+      "Slow travel",
+      "Culture"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Tohoku",
+    "prefectures": [
+      "Aomori"
+    ],
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tsugaru (Mt. Iwaki area / Hirosaki)",
+        "nights": 2
+      }
+    ],
+    "day_by_day": [],
+    "hotels": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [
+      "Onsen ryokan stay beneath Mt. Iwaki (Tsugaru region)"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Mt. Iwaki",
+        "city": "Hirosaki / Tsugaru"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Listed on the Sample Itinerary index; detail page slug not found in search results; day-by-day not available."
+  },
+  {
+    "code": "JNJ-TOKYO-TOHOKU-SNOW-MONSTERS-10D",
+    "exists": true,
+    "url": null,
+    "title_en": "Tokyo & Tohoku Snow Monsters and Hidden Onsen",
+    "subtitle_en": null,
+    "days": 10,
+    "nights": 9,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Winter",
+      "Onsen",
+      "Nature",
+      "City"
+    ],
+    "season": "winter (snow monsters peak Jan-Feb)",
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Kanto + Tohoku",
+    "prefectures": [
+      "Tokyo",
+      "Aomori"
+    ],
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Tokyo",
+        "nights": null
+      },
+      {
+        "city": "Tohoku (Aomori incl. Hakkoda snow monsters)",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "hotels": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [
+      "Snow monsters (juhyo) - site's columns point to Hakkoda / Mt. Tamoyachidake near Aomori City",
+      "Hidden onsen such as Aoni Onsen (lamp inn) per site columns"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Hakkoda / Mt. Tamoyachidake snow monsters (juhyo)",
+        "city": "Aomori"
+      },
+      {
+        "name_en": "Aoni Onsen (Lamp Inn)",
+        "city": "Kuroishi"
+      },
+      {
+        "name_en": "Sukayu Onsen",
+        "city": "Aomori"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/",
+      "https://japan-navi-journey.com/column/550/",
+      "https://japan-navi-journey.com/column/674/"
+    ],
+    "notes": "10-day itinerary listed on the Sample Itinerary index; detail page slug not found in any site-restricted search. Day-by-day, prefectures beyond Tokyo/Aomori and hotels unavailable. Attractions listed (Hakkoda snow monsters, Aoni Onsen, Sukayu Onsen) come from the site's related columns, not from the itinerary page. One summary listed 'Sendai, Zao, Ginzan, Nyuto' but that echoed the query and is NOT recorded as fact."
+  },
+  {
+    "code": "JNJ-TOCHIGI-4D",
+    "exists": true,
+    "url": null,
+    "title_en": "Tochigi in Four Days: World Heritage, Hot Springs & Cultural Charms",
+    "subtitle_en": null,
+    "days": 4,
+    "nights": 3,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "World Heritage",
+      "Onsen",
+      "Culture"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Kanto",
+    "prefectures": [
+      "Tochigi"
+    ],
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Nikko (inferred)",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "hotels": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [
+      "World Heritage (Nikko shrines & temples - inferred from title)",
+      "Hot springs",
+      "Cultural charms"
+    ],
+    "attractions_all": [],
+    "source_confidence": "low",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "Listed on the Sample Itinerary index; slug not found; day-by-day not available."
+  },
+  {
+    "code": "JNJ-EASTERN-NAGANO-ESCAPE-5D",
+    "exists": true,
+    "url": null,
+    "title_en": "Eastern Nagano Escape: A Journey into Japan's Serene Highlands and Cultural Elegance",
+    "subtitle_en": null,
+    "days": 5,
+    "nights": 4,
+    "price_min": null,
+    "price_max": null,
+    "currency": null,
+    "price_note": "custom quote (not published)",
+    "series": "JNJ",
+    "themes": [
+      "Nature",
+      "Outdoor",
+      "Culture",
+      "Highlands"
+    ],
+    "season": null,
+    "tour_type": "private custom tour with driver & guide",
+    "region": "Chubu (Nagano)",
+    "prefectures": [
+      "Nagano"
+    ],
+    "arrival_airport": null,
+    "departure_airport": null,
+    "route": [
+      {
+        "city": "Karuizawa area (per search summary)",
+        "nights": null
+      }
+    ],
+    "day_by_day": [],
+    "hotels": [],
+    "inclusions": [],
+    "exclusions": [],
+    "highlights": [
+      "Karuizawa and eastern Nagano highlands: nature, outdoor activities and local experiences"
+    ],
+    "attractions_all": [
+      {
+        "name_en": "Karuizawa",
+        "city": "Karuizawa"
+      }
+    ],
+    "source_confidence": "low",
+    "sources": [
+      "https://japan-navi-journey.com/itinerary/"
+    ],
+    "notes": "5-day itinerary listed on index; slug not found; day-by-day not available."
+  }
+]

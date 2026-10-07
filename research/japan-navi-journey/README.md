@@ -1,40 +1,34 @@
 # Japan Navi Journey（japan-navi-journey.com）线路与景点整理
 
-> 抓取日期：2026-10-07 · 来源：https://japan-navi-journey.com（Japan Navi 集团的高端定制品牌，集团创立于新加坡、团队驻日本各地；产品为**私人定制团**：私家车 + 司机 + 英语导游 + 精选酒店/旅馆，按询价，不公开标价）
-> 用途：A1 市场雷达 / 日本线产品立项参考。**私有仓库内部资料。** 两站合并结果见 `../japan_merged/`。
+> 来源：https://japan-navi-journey.com（Japan Navi 集团高端定制品牌，集团创立于新加坡、团队驻日本各地，长野县旅行业登録 2-717；产品为**私人定制团**：私家车 + 司机 + 全程英语导游 + 精选酒店/旅馆 + 餐食，页面给出按人数的日元参考报价）
+> 抓取：2026-10-07 直接抓取全站（11 条 Sample Itinerary、83 篇攻略文章、13 条评价）。**私有仓库内部资料。** 两站合并结果见 `../japan_merged/`。
 
 ## 文件
 
 | 文件 | 内容 |
 |---|---|
-| `tours_catalog.md` / `.csv` | Sample Itinerary 目录：12 条（索引页列 11 条 + 任务给定的睡魔祭 1 条） |
-| `package_tours.md` / `.json` | 标准行程（与 selfguidejapan 同格式），7 条完整逐日 |
-| `attractions.md` / `.csv` | 景点列表：242 个（来自行程页 + `/column/` 目的地攻略文章） |
-| `raw/` | 原始抓取 JSON：`jnj_itineraries.json`（行程）、`jnj_destinations.json`（24 个目的地、159 个景点） |
+| `tours_catalog.md` / `.csv` | Sample Itinerary 目录：11 条（含参考报价：2 人成行到 5 人成行的每人日元价） |
+| `package_tours.md` / `.json` | 标准行程（与 selfguidejapan 同格式），11 条全部有完整逐日表（每日标题 + 正文 + 抽取景点），含「SERVICE INCLUDES」 |
+| `attractions.md` / `.csv` | 景点列表：294 个（行程正文地名 + 攻略文章标题 + 第二轮搜索摘要补充） |
+| `raw/jnj_itineraries.json` · `raw/destinations.json` | 解析结果；`raw/search_pass/` 为第二轮搜索摘要数据（仅溯源） |
 
 ## 覆盖情况
 
 | 项 | 数量 |
 |---|---|
-| 站点索引页列出的行程 | 11 |
-| 本次记录的行程 | **12**（含睡魔祭专线，页面未能验证） |
-| 其中完整逐日行程 | **7**（AICHI-NAGOYA-CHITA, AOMORI-UNVEILED, DISCOVER-FUKUOKA, NAGANO-PREMIUM-RETREAT, OSAKA-5DAYS, PREMIUM-TOHOKU-GOURMET-TOUR, SADO-ISLAND） |
-| 详情页未被搜索引擎收录、只有索引标题 | 4（津轻温泉 3 天、东京&东北树冰 10 天、栃木 4 天、东信州 5 天） |
-| 来源可信度 | high 5 / low 5 / medium 2 |
-| 景点 / 体验 | 242，覆盖 68 个城市/地点 |
+| 站点索引页行程 | 11（上轮提到的「睡魔祭专线」页面不存在，404） |
+| 本次解析行程 | **11**，全部含逐日、参考报价、含项 |
+| 景点 / 体验 | 294，覆盖 59 个城市/地点 |
 
-区域分布：青森·东北 5 条、长野 2 条、福冈 1、爱知·知多 1、新潟佐渡 1、大阪 1、栃木 1。**与 selfguidejapan 几乎不重叠**（对方无东北、长野深度、佐渡、栃木线路），互补性强。
+区域分布：青森·东北 4 条（含东京进出 10 天树冰线）、长野 2、福冈 1、爱知·知多 1、新潟佐渡 1、大阪 1、栃木 1。**与 selfguidejapan 几乎不重叠**（对方无东北、长野深度、佐渡、栃木），互补性强。
 
-备注：osaka-5days 页面标题已由「Expo 2025 & The Soul of Osaka」改为「Discover Osaka: City Adventures, Skyline Views and Cultural Experiences」（世博结束后改题），两者均记录。仅 premium-tohoku-gourmet-tour 给出住宿参考价（下北旅馆 3–5 万日元/晚、普贤院宿坊 4–6 万、ReLabo Aomori 6 万）。
+参考报价示例（每人，日元，含车导餐住）：青森全览 7 天 2 人 1,350,000 起 / 5 人 980,000 起；栃木 4 天 2 人 710,000 起 / 5 人 400,000 起。
 
-## 方法与限制（必读）
+## 方法（2026-10-07 第三轮：直接抓取）
 
-1. **两个域名都被本云端环境的出站网络策略拦截**（代理对 CONNECT 返回 403，WebFetch 报 EGRESS_BLOCKED），所以**没有直接读取任何网页**。
-2. 全部数据来自 WebSearch 的**搜索索引摘要**（限定域名），由并行子任务逐线路搜索；只记录明确归属到该线路页面的信息，交叉来源（博客、主题页）在 `raw/*.json` 的 `sources` / `notes` 里标明。
-3. 搜索额度每轮 200 次（子任务共用）。两轮共约 390 次：第一轮做存在性 + 名称/天数/价格/住宿骨架，第二轮补逐日行程。**没有被搜索引擎索引的产品页无法再通过搜索补齐**，剩余逐日空缺只能靠放行域名后直接抓取。
-4. 搜索摘要由小模型生成，存在**代码↔名称串标**；冲突均写入 `notes` 并标 `low`。
+1. 域名放行后用 curl 直接下载：站点 sitemap → 全部产品页 / 目的地页 / 行程页 / 攻略文章，原始 HTML 不入库，解析结果 JSON 在 `raw/`。
+2. selfguidejapan.com 是 Next.js 站，产品页内嵌完整线路对象（逐日 title/description/destination、酒店名与夜数、逐日含餐、三币种价格、含/不含项、主题），逐日描述中「★景点→说明」结构化为景点库；目的地页给出日文名、区域、经纬度。
+3. japan-navi-journey.com 是 WordPress 站，行程页按 `.itinerary-day` 逐日解析，含「SERVICE INCLUDES」与按人数的日元参考报价（data-price-2…5）；景点来自行程正文的地名抽取 + 83 篇 `/column/` 攻略文章标题，并保留第二轮搜索摘要整理的目的地景点作为补充（来源标「目的地指南」）。
+4. 前两轮基于搜索索引摘要的数据保留在 `raw/search_pass/` 仅作溯源，不再参与生成。
 5. 中文名为本仓库整理时的译名（线路名意译；景点用通用中文名），非站点官方译名。
 
-## 补全路径
-
-放行 `japan-navi-journey.com` 后直接抓取 `/itinerary/` 全部详情页（含 4 条未索引页）与 `/column/` 全部文章，再用 `../build/` 脚本重新生成。

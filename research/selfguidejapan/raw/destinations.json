@@ -1,1482 +1,1586 @@
 [
  {
-  "destination": "Tokyo",
-  "slug": "tokyo",
-  "region": "Kanto",
-  "prefecture": "Tokyo",
-  "url": "https://selfguidejapan.com/destinations/tokyo",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-tokyo",
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo",
-   "https://selfguidejapan.com/blog/japan-10-day-itinerary",
-   "https://selfguidejapan.com/blog/japan-itinerary-7-days"
-  ],
-  "summary_en": "Japan's capital and the usual arrival city. The site recommends three full days for the main neighborhoods, and five days to add a Mt Fuji or Hakone day trip plus one big experience.",
-  "attractions": [
-   {
-    "name_en": "Senso-ji Temple",
-    "name_ja": "浅草寺",
-    "category": "temple",
-    "description_en": "Asakusa's historic temple, listed first among the site's best things to do on a first trip.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Shibuya Crossing",
-    "name_ja": "渋谷スクランブル交差点",
-    "category": "district",
-    "description_en": "The famous scramble crossing in Shibuya.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Shibuya Sky",
-    "name_ja": "渋谷スカイ",
-    "category": "viewpoint",
-    "description_en": "Rooftop observation deck above Shibuya Crossing.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Meiji Shrine",
-    "name_ja": "明治神宮",
-    "category": "shrine",
-    "description_en": "Forested Shinto shrine next to Harajuku.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Shinjuku",
-    "name_ja": "新宿",
-    "category": "district",
-    "description_en": "Major entertainment and transport district.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Tsukiji",
-    "name_ja": "築地",
-    "category": "market",
-    "description_en": "Tsukiji outer market food area.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Observation decks",
-    "name_ja": null,
-    "category": "viewpoint",
-    "description_en": "City observation decks are listed among first-trip essentials.",
-    "note": "Not named individually in the search summary.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Ghibli Museum",
-    "name_ja": "三鷹の森ジブリ美術館",
-    "category": "museum",
-    "description_en": "Studio Ghibli museum in Mitaka; needs advance booking.",
-    "note": "Blog title says it covers booking rules.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Sumo",
-    "name_ja": "相撲",
-    "category": "experience",
-    "description_en": "Watching sumo is listed as a Tokyo experience.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Tokyo Disney Resort",
-    "name_ja": "東京ディズニーリゾート",
-    "category": "theme_park",
-    "description_en": "Listed simply as 'Disney' among Tokyo's big experiences.",
-    "note": "Named only as 'Disney' in the summary.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Mt Fuji day trip",
-    "name_ja": "富士山",
-    "category": "nature",
-    "description_en": "Mt Fuji day trips are listed as a Tokyo add-on for five-day stays.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   },
-   {
-    "name_en": "Hakone day trip",
-    "name_ja": "箱根",
-    "category": "onsen",
-    "description_en": "Hakone day trip listed as an alternative add-on from Tokyo.",
-    "note": "See separate Hakone entry.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-tokyo"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/blog/things-to-do-in-tokyo",
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Destination page /destinations/tokyo is listed on the /destinations index (per search summary) but the URL itself did not appear in search result links. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Kyoto",
-  "slug": "kyoto",
+  "destination": "Akame",
+  "slug": "akame",
+  "name_ja": "赤目",
   "region": "Kansai",
-  "prefecture": "Kyoto",
-  "url": "https://selfguidejapan.com/destinations/kyoto",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-kyoto",
-   "https://selfguidejapan.com/blog/where-to-stay-in-kyoto",
-   "https://selfguidejapan.com/blog/kyoto-autumn-leaves-2026"
-  ],
-  "summary_en": "Japan's ancient capital. The site recommends three nights: two full days for the essentials and a third for Nara, Osaka or a slower Kyoto day; two nights is the minimum.",
-  "attractions": [
-   {
-    "name_en": "Fushimi Inari Taisha",
-    "name_ja": "伏見稲荷大社",
-    "category": "shrine",
-    "description_en": "Shrine of thousands of torii gates.",
-    "note": "Free, never closes (per site).",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Kiyomizu-dera",
-    "name_ja": "清水寺",
-    "category": "temple",
-    "description_en": "Hillside temple above the Higashiyama slopes.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Higashiyama slopes",
-    "name_ja": "東山",
-    "category": "district",
-    "description_en": "Preserved lanes leading up to Kiyomizu-dera.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Kinkaku-ji",
-    "name_ja": "金閣寺",
-    "category": "temple",
-    "description_en": "The Golden Pavilion.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Arashiyama",
-    "name_ja": "嵐山",
-    "category": "district",
-    "description_en": "Western district with bamboo grove and river scenery; suggested as a base for a second visit.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Nijo Castle",
-    "name_ja": "二条城",
-    "category": "castle",
-    "description_en": "Shogunate castle in central Kyoto.",
-    "note": "Listed as alternative to Nishiki Market.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Nishiki Market",
-    "name_ja": "錦市場",
-    "category": "market",
-    "description_en": "Downtown food market.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kyoto"
-   },
-   {
-    "name_en": "Gion",
-    "name_ja": "祇園",
-    "category": "district",
-    "description_en": "Traditional geisha district; recommended stay area for atmosphere (with southern Higashiyama).",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/where-to-stay-in-kyoto"
-   },
-   {
-    "name_en": "Kyoto Station area",
-    "name_ja": "京都駅",
-    "category": "district",
-    "description_en": "Most convenient base for day trips and the Shinkansen (first-time visitors).",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/where-to-stay-in-kyoto"
-   },
-   {
-    "name_en": "Shijo-Kawaramachi",
-    "name_ja": "四条河原町",
-    "category": "district",
-    "description_en": "Downtown area recommended for food and evenings.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/where-to-stay-in-kyoto"
-   }
-  ],
+  "prefecture": null,
+  "latitude": 34.563,
+  "longitude": 136.083,
+  "url": "https://selfguidejapan.com/destinations/akame",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/blog/things-to-do-in-kyoto",
-   "https://selfguidejapan.com/blog/where-to-stay-in-kyoto",
-   "https://selfguidejapan.com/blog/kyoto-autumn-leaves-2026",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Destination page listed on /destinations index but URL not confirmed in search links. Tours featuring Kyoto range from about $1,000-1,500 pp (budget) to over $6,900 pp (luxury) per search summary. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
+   "https://selfguidejapan.com/destinations/akame"
+  ]
  },
  {
-  "destination": "Osaka",
-  "slug": "osaka",
+  "destination": "Appi",
+  "slug": "appi",
+  "name_ja": "安比",
+  "region": "Tohoku",
+  "prefecture": null,
+  "latitude": 40.004766,
+  "longitude": 140.978292,
+  "url": "https://selfguidejapan.com/destinations/appi",
+  "blog_urls": [],
+  "summary_en": "Appi Kogen is a highland ski resort in the mountains of Iwate Prefecture, positioned as Tohoku's premier winter destination. Sitting at an elevation of around 900 metres in the northern Hachimantai range, Appi receives abundant dry powder snow and boasts 21 courses across varied terrain — from gentle beginner slopes to challenging mogul runs and tree-lined glades. What sets Appi apart is its all-in-one resort design. Hotels, restaurants, onsen baths, and ski lifts are connected so guests rarely need to step outdoors except to ski. In the green season, the highlands become a base for hiking, mountain biking, and golf, with fields of alpine wildflowers and panoramic views across the Tohoku mountains stretching to the horizon.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/appi"
+  ]
+ },
+ {
+  "destination": "Arashiyama",
+  "slug": "arashiyama",
+  "name_ja": "嵐山",
   "region": "Kansai",
-  "prefecture": "Osaka",
-  "url": "https://selfguidejapan.com/destinations/osaka",
-  "url_verified": true,
-  "status": "destination_page_found",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/where-to-stay-in-osaka",
-   "https://selfguidejapan.com/fr/blog/que-faire-a-osaka"
-  ],
-  "summary_en": "Japan's 'kitchen capital': Dotonbori street food, Osaka Castle, nightlife and merchant-city value, with easy rail access to Kyoto and Nara.",
-  "attractions": [
-   {
-    "name_en": "Dotonbori",
-    "name_ja": "道頓堀",
-    "category": "food",
-    "description_en": "Neon-lit canal district famous for street food.",
-    "note": "Best photos: cross Ebisubashi Bridge at dusk.",
-    "source": "https://selfguidejapan.com/destinations/osaka"
-   },
-   {
-    "name_en": "Osaka Castle",
-    "name_ja": "大阪城",
-    "category": "castle",
-    "description_en": "Towering castle; the park is a cherry-blossom spot in late March-April.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/osaka"
-   },
-   {
-    "name_en": "Osaka Castle Park",
-    "name_ja": "大阪城公園",
-    "category": "nature",
-    "description_en": "Park around the castle, cherry blossoms in spring.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/osaka"
-   },
-   {
-    "name_en": "Kuromon Market",
-    "name_ja": "黒門市場",
-    "category": "market",
-    "description_en": "Fresh sashimi and grilled seafood market.",
-    "note": "Go before 10 AM (site insider tip).",
-    "source": "https://selfguidejapan.com/destinations/osaka"
-   },
-   {
-    "name_en": "Ebisubashi Bridge",
-    "name_ja": "戎橋",
-    "category": "viewpoint",
-    "description_en": "Bridge over the Dotonbori canal, classic photo spot.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/osaka"
-   },
-   {
-    "name_en": "Tenjin Matsuri",
-    "name_ja": "天神祭",
-    "category": "experience",
-    "description_en": "Late-July festival, described as one of Japan's top three.",
-    "note": "Summer festivals July-August.",
-    "source": "https://selfguidejapan.com/destinations/osaka"
-   }
-  ],
+  "prefecture": null,
+  "latitude": 35.0153290555556,
+  "longitude": 135.678124166667,
+  "url": "https://selfguidejapan.com/destinations/arashiyama",
+  "blog_urls": [],
+  "summary_en": "Arashiyama is Kyoto's western jewel — a district where bamboo groves, riverside temples, and forested mountains converge into one of Japan's most celebrated landscapes. The iconic Bamboo Grove, with its towering stalks creating a natural cathedral of green, has become one of the most photographed scenes in the country. Beyond the bamboo, Arashiyama rewards deeper exploration. The Zen gardens of Tenryu-ji Temple (a UNESCO World Heritage site), the moss-covered grounds of Gio-ji, and the romantic Togetsukyo Bridge spanning the Katsura River all contribute to an area that Kyoto's aristocrats have treasured as a retreat for over a thousand years. The Sagano Scenic Railway adds a nostalgic touch, trundling through a riverside gorge of outstanding beauty.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations/osaka",
-   "https://selfguidejapan.com/blog/where-to-stay-in-osaka",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Page titled 'Osaka Travel Guide'. Search summary says 41 tours visit Osaka (packages of 11-15 days). Best times: spring (late Mar-Apr), autumn (Oct-Nov), summer festivals (Jul-Aug). name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
+   "https://selfguidejapan.com/destinations/arashiyama"
+  ]
  },
  {
-  "destination": "Hiroshima",
-  "slug": "hiroshima",
-  "region": "Chugoku",
-  "prefecture": "Hiroshima",
-  "url": "https://selfguidejapan.com/destinations/hiroshima",
-  "url_verified": true,
-  "status": "destination_page_found",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-hiroshima",
-   "https://selfguidejapan.com/blog/hiroshima-miyajima"
-  ],
-  "summary_en": "City of resilience: the Peace Memorial Park and Museum, tree-lined rivers, Hiroshima-style okonomiyaki, and the gateway to Miyajima's floating torii.",
-  "attractions": [
-   {
-    "name_en": "Peace Memorial Park and Museum",
-    "name_ja": "平和記念公園",
-    "category": "museum",
-    "description_en": "Described as one of the most powerful experiences in Japan.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/hiroshima"
-   },
-   {
-    "name_en": "Miyajima Island",
-    "name_ja": "宮島",
-    "category": "nature",
-    "description_en": "Shrine island reached from Hiroshima.",
-    "note": "Blog explains how to do Hiroshima and Miyajima in two days.",
-    "source": "https://selfguidejapan.com/blog/hiroshima-miyajima"
-   },
-   {
-    "name_en": "Itsukushima Shrine",
-    "name_ja": "厳島神社",
-    "category": "shrine",
-    "description_en": "Home of the iconic 'floating' torii gate.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/hiroshima"
-   },
-   {
-    "name_en": "Hiroshima Castle",
-    "name_ja": "広島城",
-    "category": "castle",
-    "description_en": "Listed in the things-to-do blog title alongside the Peace Park.",
-    "note": "Only the title was visible.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-hiroshima"
-   },
-   {
-    "name_en": "Hiroshima-style okonomiyaki",
-    "name_ja": "広島風お好み焼き",
-    "category": "food",
-    "description_en": "Layered-noodle okonomiyaki, called some of Japan's best.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/hiroshima"
-   },
-   {
-    "name_en": "Peace Boulevard",
-    "name_ja": "平和大通り",
-    "category": "viewpoint",
-    "description_en": "Cherry blossoms late March to mid April.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/hiroshima"
-   },
-   {
-    "name_en": "Momijidani (Maple Valley)",
-    "name_ja": "紅葉谷",
-    "category": "nature",
-    "description_en": "Miyajima's maple valley, brilliant red in Oct-Nov.",
-    "note": "Top foliage spot in western Japan (per site).",
-    "source": "https://selfguidejapan.com/destinations/hiroshima"
-   }
-  ],
+  "destination": "Asahikawa",
+  "slug": "asahikawa",
+  "name_ja": "旭川",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.771,
+  "longitude": 142.365,
+  "url": "https://selfguidejapan.com/destinations/asahikawa",
+  "blog_urls": [],
+  "summary_en": "Asahikawa is Hokkaido's second-largest city and the gateway to Daisetsuzan National Park, Japan's biggest national park. Sitting at the confluence of several rivers in a vast inland basin, it experiences some of Japan's coldest winters — and harnesses that climate to create unforgettable experiences. The city is home to the acclaimed Asahiyama Zoo, where innovative exhibit design lets visitors watch penguins walk, polar bears dive, and seals swim through overhead tubes. Asahikawa is also the birthplace of Asahikawa ramen — a rich, soy-based style with a signature layer of lard that keeps the broth piping hot in the frigid winters.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations/hiroshima",
-   "https://selfguidejapan.com/blog/things-to-do-in-hiroshima",
-   "https://selfguidejapan.com/blog/hiroshima-miyajima",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Page titled 'Hiroshima Travel Guide'. Search summary: 28 of the site's routes sleep in Hiroshima and all stay two nights. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
+   "https://selfguidejapan.com/destinations/asahikawa"
+  ]
  },
  {
-  "destination": "Kanazawa",
-  "slug": "kanazawa",
-  "region": "Hokuriku",
-  "prefecture": "Ishikawa",
-  "url": "https://selfguidejapan.com/destinations/kanazawa",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
-   "https://selfguidejapan.com/blog/kanazawa-autumn-leaves-2026"
-  ],
-  "summary_en": "Often called 'Little Kyoto' but described by the site as Kyoto without the crowds, compressed into a walkable centre; about 2.5 h from Tokyo on the Hokuriku Shinkansen; two full days recommended.",
-  "attractions": [
-   {
-    "name_en": "Kenrokuen Garden",
-    "name_ja": "兼六園",
-    "category": "garden",
-    "description_en": "The city's landmark garden.",
-    "note": "Site advises visiting at first light; autumn-leaves blog is centred on it.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   },
-   {
-    "name_en": "Kanazawa Castle Park",
-    "name_ja": "金沢城公園",
-    "category": "castle",
-    "description_en": "Castle park next door to Kenrokuen.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   },
-   {
-    "name_en": "21st Century Museum of Contemporary Art",
-    "name_ja": "金沢21世紀美術館",
-    "category": "museum",
-    "description_en": "Contemporary art museum.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   },
-   {
-    "name_en": "Nagamachi samurai district",
-    "name_ja": "長町武家屋敷跡",
-    "category": "district",
-    "description_en": "Preserved samurai residences and earthen walls.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   },
-   {
-    "name_en": "Myoryuji (Ninja Temple)",
-    "name_ja": "妙立寺",
-    "category": "temple",
-    "description_en": "Temple known as the 'Ninja Temple'.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   },
-   {
-    "name_en": "Higashi Chaya district",
-    "name_ja": "ひがし茶屋街",
-    "category": "district",
-    "description_en": "Geisha teahouse district.",
-    "note": "Site advises dusk.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   },
-   {
-    "name_en": "Omicho Market",
-    "name_ja": "近江町市場",
-    "category": "market",
-    "description_en": "Seafood market, recommended for breakfast.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-kanazawa"
-   }
-  ],
+  "destination": "Aso",
+  "slug": "aso",
+  "name_ja": "阿蘇山",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 32.8879688360567,
+  "longitude": 131.083306674146,
+  "url": "https://selfguidejapan.com/destinations/aso",
+  "blog_urls": [],
+  "summary_en": "Mount Aso in central Kumamoto Prefecture is home to one of the world's largest volcanic calderas, stretching 25 kilometers across. The active Nakadake crater still steams and rumbles, its turquoise crater lake shifting color with volcanic activity — a raw reminder of the forces that shaped Kyushu. Inside the vast caldera, emerald grasslands called Kusasenri spread beneath the volcanic peaks, grazed by horses and cattle in a landscape that feels more like Mongolia than Japan. Aso's onsen villages, particularly Kurokawa Onsen nearby, offer some of Kyushu's finest hot-spring bathing, making this a destination where geological wonder and deep relaxation go hand in hand.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
-   "https://selfguidejapan.com/blog/kanazawa-autumn-leaves-2026",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Search summary: 17 of the site's tours stay in Kanazawa. Destination page listed on /destinations index but its URL was not confirmed in search links. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
+   "https://selfguidejapan.com/destinations/aso"
+  ]
  },
  {
-  "destination": "Takayama",
-  "slug": "takayama",
-  "region": "Chubu (Hida)",
-  "prefecture": "Gifu",
-  "url": "https://selfguidejapan.com/destinations/takayama",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/takayama",
-   "https://selfguidejapan.com/blog/takayama-autumn-festival-2026"
-  ],
-  "summary_en": "Old town of preserved merchant houses in a Hida mountain basin, with two centuries-old morning markets and a famous festival; two nights recommended (old town + a Shirakawa-go day).",
-  "attractions": [
-   {
-    "name_en": "Takayama Old Town (Sanmachi)",
-    "name_ja": "古い町並",
-    "category": "district",
-    "description_en": "Preserved merchant houses in the Hida old town.",
-    "note": "Free.",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   },
-   {
-    "name_en": "Takayama morning markets",
-    "name_ja": "高山の朝市",
-    "category": "market",
-    "description_en": "Two morning markets that have run for centuries.",
-    "note": "Markets not individually named in the summary. Free.",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   },
-   {
-    "name_en": "Takayama Jinya",
-    "name_ja": "高山陣屋",
-    "category": "museum",
-    "description_en": "Historic Edo-period government house.",
-    "note": "¥500 (per site).",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   },
-   {
-    "name_en": "Hida Folk Village",
-    "name_ja": "飛騨の里",
-    "category": "museum",
-    "description_en": "Open-air village of relocated Hida farmhouses.",
-    "note": "¥700 (per site).",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   },
-   {
-    "name_en": "Takayama Festival",
-    "name_ja": "高山祭",
-    "category": "experience",
-    "description_en": "Spring festival April 14-15 and autumn festival October 9-10.",
-    "note": "Separate blog for the 2026 autumn festival.",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   },
-   {
-    "name_en": "Festival floats exhibition hall",
-    "name_ja": "高山祭屋台会館",
-    "category": "museum",
-    "description_en": "Hall exhibiting the festival floats.",
-    "note": "Summary says the floats 'have their own exhibition hall'; hall name from general knowledge.",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   },
-   {
-    "name_en": "Shirakawa-go day trip",
-    "name_ja": "白川郷",
-    "category": "district",
-    "description_en": "Gassho-zukuri village 50 minutes away by bus or chartered taxi.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/takayama"
-   }
-  ],
+  "destination": "Beppu",
+  "slug": "beppu",
+  "name_ja": "別府",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.284721,
+  "longitude": 131.491104,
+  "url": "https://selfguidejapan.com/destinations/beppu",
+  "blog_urls": [],
+  "summary_en": "Beppu is Japan's hot-spring capital, producing more thermal water than anywhere else in the country and ranking second in the entire world. Steam rises from rooftops, gutters, and hillsides across the city — a constant reminder that you're sitting on one of Earth's most active geothermal zones. With eight distinct onsen districts and over 2,000 spring sources, the sheer variety of bathing experiences here is unmatched. Beyond soaking, Beppu's famous “Hells” (Jigoku) are a series of spectacular natural hot springs too hot for bathing — boiling mud pools, cobalt-blue ponds, and geysers erupting on schedule. The city's retro charm, friendly locals, and sand-bathing onsen at Beppu Beach add up to one of Kyushu's most distinctive stops.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/blog/takayama",
-   "https://selfguidejapan.com/blog/takayama-autumn-festival-2026",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Access per site: Shinkansen Tokyo-Nagoya (~100 min) then Hida limited express (~2.5 h). Destination page listed on /destinations index but URL not confirmed in search links. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
+   "https://selfguidejapan.com/destinations/beppu"
+  ]
  },
  {
-  "destination": "Nara",
-  "slug": "nara",
-  "region": "Kansai",
-  "prefecture": "Nara",
-  "url": "https://selfguidejapan.com/destinations/nara",
-  "url_verified": true,
-  "status": "destination_page_found",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-nara",
-   "https://selfguidejapan.com/blog/nara-day-trip",
-   "https://selfguidejapan.com/blog/mount-yoshino"
-  ],
-  "summary_en": "Japan's first permanent capital (710 AD) with eight UNESCO World Heritage sites in a walkable area, the Great Buddha of Todai-ji and over 1,200 semi-wild deer.",
-  "attractions": [
-   {
-    "name_en": "Todai-ji",
-    "name_ja": "東大寺",
-    "category": "temple",
-    "description_en": "Houses the world's largest bronze Buddha in one of the world's largest wooden buildings.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations/nara"
-   },
-   {
-    "name_en": "Nara Park",
-    "name_ja": "奈良公園",
-    "category": "nature",
-    "description_en": "Over 1,200 semi-wild sika deer roam freely and bow for crackers.",
-    "note": "Deer crackers (shika-senbei) ¥200 from official vendors.",
-    "source": "https://selfguidejapan.com/destinations/nara"
-   },
-   {
-    "name_en": "Kasuga Taisha",
-    "name_ja": "春日大社",
-    "category": "shrine",
-    "description_en": "Shrine with 3,000 stone and bronze lanterns; maple-lined approach in autumn.",
-    "note": "Lanterns lit Feb 3 and Aug 14-15.",
-    "source": "https://selfguidejapan.com/destinations/nara"
-   },
-   {
-    "name_en": "Mount Yoshino",
-    "name_ja": "吉野山",
-    "category": "nature",
-    "description_en": "Nearby cherry-blossom mountain (late March - mid April).",
-    "note": "Separate blog: /blog/mount-yoshino.",
-    "source": "https://selfguidejapan.com/destinations/nara"
-   }
-  ],
+  "destination": "Dogo Onsen",
+  "slug": "dogo-onsen",
+  "name_ja": "道後温泉",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 33.853144,
+  "longitude": 132.788214,
+  "url": "https://selfguidejapan.com/destinations/dogo-onsen",
+  "blog_urls": [],
+  "summary_en": "Dogo Onsen in Matsuyama is Japan's oldest hot spring, with a history stretching back over 3,000 years. The legendary Dogo Onsen Honkan — a striking three-storey wooden bathhouse built in 1894 — is said to have inspired the bathhouse in Hayao Miyazaki's Spirited Away, and remains an active public bath to this day. The surrounding onsen district is a charming tangle of narrow shopping streets, ryokan, and small shrines. Visitors stroll in yukata robes and geta sandals between baths, tea houses, and the elegant Asuka-no-Yu annex. Dogo sits on the edge of Matsuyama city, home to the impressive Matsuyama Castle and the literary heritage of Natsume Soseki's novel Botchan, making it easy to combine hot-spring relaxation with cultural sightseeing.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations/nara",
-   "https://selfguidejapan.com/blog/things-to-do-in-nara",
-   "https://selfguidejapan.com/blog/nara-day-trip",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Page titled 'Nara Travel Guide'; search summary says 11 tours available. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Hakone",
-  "slug": "hakone",
-  "region": "Kanto",
-  "prefecture": "Kanagawa",
-  "url": "https://selfguidejapan.com/destinations/hakone",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/hakone",
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo"
-  ],
-  "summary_en": "Mountain hot-spring area 80 minutes from Shinjuku: a steaming volcanic valley, Lake Ashi with Mt Fuji behind it, museums and a loop of railways, cable cars and boats; one night recommended.",
-  "attractions": [
-   {
-    "name_en": "Hakone Loop",
-    "name_ja": null,
-    "category": "transport_experience",
-    "description_en": "Circuit done counter-clockwise: up by rail, across by ropeway and boat, back by bus; takes most of a day.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Owakudani",
-    "name_ja": "大涌谷",
-    "category": "nature",
-    "description_en": "Active volcanic valley reached by ropeway.",
-    "note": "JMA alert level 1 (lowest) as of 23 Sep 2026; ropeway running without restrictions.",
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Lake Ashi",
-    "name_ja": "芦ノ湖",
-    "category": "nature",
-    "description_en": "Crater lake with Mt Fuji behind it on a clear day.",
-    "note": "Fuji is most often clear early morning.",
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Hakone Shrine torii gate",
-    "name_ja": "箱根神社",
-    "category": "shrine",
-    "description_en": "Shrine gate standing in the water of Lake Ashi.",
-    "note": "Summary says 'a shrine gate standing in the water'; shrine name from general knowledge.",
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Hakone Ropeway",
-    "name_ja": "箱根ロープウェイ",
-    "category": "transport_experience",
-    "description_en": "Gondolas about every minute across the ridge to Owakudani, then down to Togendai.",
-    "note": "Stops at 17:00.",
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Hakone Sightseeing Cruise (pirate ships)",
-    "name_ja": "箱根海賊船",
-    "category": "transport_experience",
-    "description_en": "Togendai to Hakone-machi / Moto-Hakone in 25-40 minutes on pirate-ship-styled boats.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Hakone Freepass",
-    "name_ja": "箱根フリーパス",
-    "category": "transport_experience",
-    "description_en": "Covers train, cable car, ropeway, pirate ship and buses.",
-    "note": "¥6,000 for two days from Odawara, ¥7,100 from Shinjuku (since Oct 2025).",
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Hakone museums",
-    "name_ja": null,
-    "category": "museum",
-    "description_en": "The area's 'fine museums' are part of the loop.",
-    "note": "Not named in the summary.",
-    "source": "https://selfguidejapan.com/blog/hakone"
-   },
-   {
-    "name_en": "Onsen night",
-    "name_ja": "温泉",
-    "category": "onsen",
-    "description_en": "A night in the hot springs is the site's main recommendation.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/hakone"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/blog/hakone",
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Destination page listed on /destinations index but URL not confirmed in search links. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Nagoya",
-  "slug": "nagoya",
-  "region": "Chubu (Tokai)",
-  "prefecture": "Aichi",
-  "url": "https://selfguidejapan.com/destinations/nagoya",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-nagoya",
-   "https://selfguidejapan.com/blog/nabana-no-sato"
-  ],
-  "summary_en": "Capital of Aichi, halfway between Tokyo and Kyoto on the Tokaido Shinkansen; one full day covers the castle, Atsuta Jingu, Osu and a Nagoya-meshi dinner, two days add Ghibli, Inuyama, the Toyota site or the Tokugawa collection.",
-  "attractions": [
-   {
-    "name_en": "Nagoya Castle and Hommaru Palace",
-    "name_ja": "名古屋城 本丸御殿",
-    "category": "castle",
-    "description_en": "Castle with the rebuilt Hommaru Palace.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Atsuta Jingu",
-    "name_ja": "熱田神宮",
-    "category": "shrine",
-    "description_en": "One of Japan's most important shrines; enshrines the Kusanagi sword of the imperial regalia; camphor-forest grounds.",
-    "note": "Open 24 hours, free.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Osu shopping district",
-    "name_ja": "大須",
-    "category": "district",
-    "description_en": "Shopping and temple district.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Nagoya meshi",
-    "name_ja": "名古屋めし",
-    "category": "food",
-    "description_en": "Local cuisine: miso katsu, hitsumabushi, tebasaki.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Ghibli Park",
-    "name_ja": "ジブリパーク",
-    "category": "theme_park",
-    "description_en": "Listed as 'Ghibli' for a second day.",
-    "note": "Summary says only 'Ghibli'.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Inuyama",
-    "name_ja": "犬山",
-    "category": "castle",
-    "description_en": "Castle town listed as a second-day option.",
-    "note": "Only named 'Inuyama' in summary.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Toyota site",
-    "name_ja": null,
-    "category": "museum",
-    "description_en": "'The Toyota site' listed for a second day.",
-    "note": "Not specified which Toyota facility.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Tokugawa collection (Tokugawa Art Museum)",
-    "name_ja": "徳川美術館",
-    "category": "museum",
-    "description_en": "Listed as 'the Tokugawa collection'.",
-    "note": "Museum name from general knowledge.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-nagoya"
-   },
-   {
-    "name_en": "Nabana no Sato illumination",
-    "name_ja": "なばなの里",
-    "category": "theme_park",
-    "description_en": "Winter illumination reachable from Nagoya; separate blog on dates and tickets.",
-    "note": "Located in Mie Prefecture.",
-    "source": "https://selfguidejapan.com/blog/nabana-no-sato"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/blog/things-to-do-in-nagoya",
-   "https://selfguidejapan.com/blog/nabana-no-sato",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Destination page listed on /destinations index but URL not confirmed in search links. Tours use a hotel near Nagoya Station. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
+   "https://selfguidejapan.com/destinations/dogo-onsen"
+  ]
  },
  {
   "destination": "Fukuoka",
   "slug": "fukuoka",
+  "name_ja": "福岡",
   "region": "Kyushu",
-  "prefecture": "Fukuoka",
+  "prefecture": null,
+  "latitude": 33.5904,
+  "longitude": 130.4017,
   "url": "https://selfguidejapan.com/destinations/fukuoka",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-  ],
-  "summary_en": "Kyushu's big, easygoing seaside city: birthplace of tonkotsu ramen, riverside yatai stalls every evening, and the start of most Kyushu trips; the site's 12 routes here all stay two nights.",
-  "attractions": [
-   {
-    "name_en": "Yatai food stalls",
-    "name_ja": "屋台",
-    "category": "food",
-    "description_en": "About a hundred open-air food stalls set up along the river every evening.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Hakata ramen",
-    "name_ja": "博多ラーメン",
-    "category": "food",
-    "description_en": "Tonkotsu ramen originated here.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Kushida Shrine",
-    "name_ja": "櫛田神社",
-    "category": "shrine",
-    "description_en": "Central Hakata shrine.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Canal City Hakata",
-    "name_ja": "キャナルシティ博多",
-    "category": "district",
-    "description_en": "Shopping and entertainment complex.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Ohori Park",
-    "name_ja": "大濠公園",
-    "category": "garden",
-    "description_en": "Large pond with stone bridges, the Ukimido pavilion, swan boats and a loop path.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Fukuoka Castle ruins",
-    "name_ja": "福岡城跡",
-    "category": "castle",
-    "description_en": "Castle ruins next to Ohori Park.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Dazaifu",
-    "name_ja": "太宰府",
-    "category": "shrine",
-    "description_en": "Day trip (Dazaifu Tenmangu area).",
-    "note": "Named only as 'Dazaifu' in summary.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Nanzoin",
-    "name_ja": "南蔵院",
-    "category": "temple",
-    "description_en": "Temple day trip from Fukuoka.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   },
-   {
-    "name_en": "Yanagawa",
-    "name_ja": "柳川",
-    "category": "experience",
-    "description_en": "Canal town day trip.",
-    "note": "Named only as 'Yanagawa' in summary.",
-    "source": "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka",
-   "https://selfguidejapan.com/tours/KY003",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Airport to Hakata Station: 5 min, ¥260 by subway. Tour KY003 'Kyushu Discovery: Volcanoes, Onsen & Scenic Wonders' appeared in search links. Destination page listed on /destinations index but URL not confirmed. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Koyasan",
-  "slug": "koyasan",
-  "region": "Kansai",
-  "prefecture": "Wakayama",
-  "url": "https://selfguidejapan.com/destinations/koyasan",
-  "url_verified": false,
-  "status": "found_via_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/koyasan-temple-stay"
-  ],
-  "summary_en": "Mountain-top headquarters of Shingon Buddhism founded by Kukai (Kobo Daishi), part of the UNESCO 'Sacred Sites and Pilgrimage Routes in the Kii Mountain Range'; visited for a shukubo temple stay.",
-  "attractions": [
-   {
-    "name_en": "Shukubo temple stay",
-    "name_ja": "宿坊",
-    "category": "experience",
-    "description_en": "Night in a working temple: tatami room, vegetarian dinner on lacquer trays, communal bath, chanted morning service.",
-    "note": "¥10,000-¥40,000 per person depending on temple and room.",
-    "source": "https://selfguidejapan.com/blog/koyasan-temple-stay"
-   },
-   {
-    "name_en": "Fukuchi-in",
-    "name_ja": "福智院",
-    "category": "temple",
-    "description_en": "Temple founded about 800 years ago, a few minutes' walk from Kongobuji; the site's booked shukubo.",
-    "note": "Has the only natural hot spring on Koyasan (Koyasan Onsen Fukuchi-in).",
-    "source": "https://selfguidejapan.com/blog/koyasan-temple-stay"
-   },
-   {
-    "name_en": "Kongobuji",
-    "name_ja": "金剛峯寺",
-    "category": "temple",
-    "description_en": "Head temple in the middle of town.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/koyasan-temple-stay"
-   },
-   {
-    "name_en": "Okunoin cemetery",
-    "name_ja": "奥之院",
-    "category": "temple",
-    "description_en": "Vast forest cemetery; 'mystical Okunoin' explored on the Koyasan tour.",
-    "note": null,
-    "source": "https://selfguidejapan.com/blog/koyasan-temple-stay"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/blog/koyasan-temple-stay",
-   "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Tour 'Koyasan: Sacred Sites and Quiet Beauty' (two-night temple stay, also Shirakawa-go) mentioned in search summary. Destination page listed on /destinations index but URL not confirmed. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Kashikojima (Ise-Shima)",
-  "slug": "kashikojima",
-  "region": "Kansai/Tokai (Ise-Shima)",
-  "prefecture": "Mie",
-  "url": "https://selfguidejapan.com/destinations/kashikojima",
-  "url_verified": false,
-  "status": "found_via_index_and_blog",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/shimakaze-train",
-   "https://selfguidejapan.com/blog/shimakaze-ise-shima-luxury-train"
-  ],
-  "summary_en": "Resort island in Ago Bay with deeply indented bays and over 60 islets, famous for pearl cultivation and seafood; base for Ise Jingu, Toba and Mikimoto Pearl Island, reached by the Shimakaze luxury train.",
-  "attractions": [
-   {
-    "name_en": "Ago Bay cruise",
-    "name_ja": "英虞湾",
-    "category": "nature",
-    "description_en": "Bay cruise among 60+ small islands.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations"
-   },
-   {
-    "name_en": "Toba",
-    "name_ja": "鳥羽",
-    "category": "district",
-    "description_en": "Neighbouring port town reachable from Kashikojima.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations"
-   },
-   {
-    "name_en": "Mikimoto Pearl Island",
-    "name_ja": "ミキモト真珠島",
-    "category": "museum",
-    "description_en": "Birthplace of cultured pearls, in Toba.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations"
-   },
-   {
-    "name_en": "Ise Jingu",
-    "name_ja": "伊勢神宮",
-    "category": "shrine",
-    "description_en": "Japan's most sacred Shinto shrine, visited from the Ise-Shima base.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations"
-   },
-   {
-    "name_en": "Ryokan stay",
-    "name_ja": "旅館",
-    "category": "experience",
-    "description_en": "Ryokan stays listed among things to do.",
-    "note": null,
-    "source": "https://selfguidejapan.com/destinations"
-   },
-   {
-    "name_en": "Coastal viewpoints",
-    "name_ja": null,
-    "category": "viewpoint",
-    "description_en": "Coastal viewpoints around Ise-Shima.",
-    "note": "Not named individually.",
-    "source": "https://selfguidejapan.com/destinations"
-   },
-   {
-    "name_en": "Shimakaze train",
-    "name_ja": "しまかぜ",
-    "category": "transport_experience",
-    "description_en": "Kintetsu luxury sightseeing limited express from Osaka-Namba, Kyoto and Kintetsu Nagoya to Kashikojima.",
-    "note": "Once daily each way on three routes; book exactly one month before travel.",
-    "source": "https://selfguidejapan.com/blog/shimakaze-train"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/destinations",
-   "https://selfguidejapan.com/blog/shimakaze-train",
-   "https://selfguidejapan.com/blog/shimakaze-ise-shima-luxury-train"
-  ],
-  "notes": "Search summary: 10 tours available; e.g. 12-day Tokyo-Kashikojima via Nagoya and 13-day via Hakone. Destination page listed on /destinations index but URL not confirmed in search links. Blog /blog/ise-shima-hidden-gem-spirituality-pearls could not be searched (budget exhausted). name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Okayama",
-  "slug": "okayama",
-  "region": "Chugoku",
-  "prefecture": "Okayama",
-  "url": "https://selfguidejapan.com/destinations/okayama",
-  "url_verified": false,
-  "status": "listed_not_searched",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "Fukuoka is Kyushu's largest city and Japan's most liveable metropolis by many rankings. Compact enough to explore on foot yet brimming with culture, it's best known for one thing above all: tonkotsu ramen. The rich, pork-bone broth was perfected here, and you can slurp it at legendary yatai (open-air food stalls) lining the Naka River each evening. Beyond the food scene, Fukuoka blends ancient and modern effortlessly. The 1,200-year-old Kushida Shrine sits minutes from the sleek Canal City shopping complex. The waterfront Momochi district hosts beaches and a striking tower, while the old merchant quarter of Hakata retains its traditional festival spirit. It's also a prime gateway to the rest of Kyushu.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Listed as a destination on the /destinations index (per search summary of that page); page content not retrieved. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/fukuoka"
+  ]
+ },
+ {
+  "destination": "Furano",
+  "slug": "furano",
+  "name_ja": "フラノ",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.327,
+  "longitude": 142.33,
+  "url": "https://selfguidejapan.com/destinations/furano",
+  "blog_urls": [],
+  "summary_en": "Furano sits at the heart of Hokkaido's rolling interior, famous worldwide for its endless lavender fields that paint the hillsides purple every summer. Beyond the iconic blooms, the town is surrounded by fertile farmland producing some of Japan's finest melons, asparagus, and wine grapes. In winter, Furano transforms into a powder-snow paradise. The ski resort receives consistent dry snowfall, and the uncrowded slopes attract those who prefer a quieter alternative to Niseko. Year-round, the dramatic Tokachi-dake mountain backdrop and patchwork-quilt farmscapes make Furano one of Hokkaido's most photogenic destinations.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/furano"
+  ]
+ },
+ {
+  "destination": "Gero",
+  "slug": "gero",
+  "name_ja": "下呂",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 35.805832,
+  "longitude": 137.244171,
+  "url": "https://selfguidejapan.com/destinations/gero",
+  "blog_urls": [],
+  "summary_en": "Gero Onsen is one of Japan's “three famous hot springs,” a title it has held since the Edo-period scholar Hayashi Razan ranked it alongside Arima and Kusatsu over 400 years ago. The town hugs the banks of the Hida River in the mountains of southern Gifu Prefecture, exuding the quiet, unhurried character of a classic Japanese onsen resort. Gero's alkaline waters are prized for their silky texture, leaving skin remarkably smooth — earning the nickname “bijin no yu” (beauty bath). The compact town centre is easily explored on foot, with free public foot baths scattered along the riverside streets. A stay at one of Gero's traditional ryokan, complete with kaiseki dinner and private onsen, is the quintessential Japanese hot-spring experience.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/gero"
+  ]
+ },
+ {
+  "destination": "Hakodate",
+  "slug": "hakodate",
+  "name_ja": "函館",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 41.768688,
+  "longitude": 140.728943,
+  "url": "https://selfguidejapan.com/destinations/hakodate",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/hakodate"
+  ]
+ },
+ {
+  "destination": "Hakone",
+  "slug": "hakone",
+  "name_ja": "箱根",
+  "region": "Kanto",
+  "prefecture": null,
+  "latitude": 35.2309,
+  "longitude": 139.1069,
+  "url": "https://selfguidejapan.com/destinations/hakone",
+  "blog_urls": [],
+  "summary_en": "Hakone has been Japan's favourite hot-spring retreat since the Edo period, when feudal lords stopped here on the old Tokaido highway. Nestled in the volcanic caldera of the Fuji-Hakone-Izu National Park, the area combines steaming onsen, misty mountain lakes, and — on clear days — jaw-dropping views of Mount Fuji rising above Lake Ashi. What makes Hakone special is its variety. In a single day you can ride a switchback mountain railway, glide over sulphurous Owakudani in a cable car, cruise Lake Ashi on a pirate ship replica, and soak in a private rotenburo (open-air bath) before dinner. The Hakone Open-Air Museum adds a world-class sculpture collection to the mix. It's nature, culture, and relaxation rolled into one compact destination.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/hakone"
+  ]
+ },
+ {
+  "destination": "Hakuba",
+  "slug": "hakuba",
+  "name_ja": "白馬",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.698334,
+  "longitude": 137.862228,
+  "url": "https://selfguidejapan.com/destinations/hakuba",
+  "blog_urls": [],
+  "summary_en": "Hakuba Valley hosted the 1998 Winter Olympics and remains Japan's premier alpine destination. Backed by the dramatic 3,000-metre peaks of the Northern Japanese Alps, the valley's ten interconnected ski resorts offer terrain for every level — from gentle beginner slopes to steep, powder-filled backcountry. Annual snowfall regularly exceeds 11 metres, delivering some of the most consistent conditions in Asia. Hakuba transforms in summer into a world-class hiking and mountain-biking destination. The Happo-One gondola lifts visitors to alpine flower meadows and panoramic ridge trails, while river rafting, canyoning, and paragliding fill the warmer months with adventure. The village atmosphere blends Japanese hospitality with an international mountain-town vibe, complete with craft breweries, onsen, and farm-to-table dining.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/hakuba"
+  ]
  },
  {
   "destination": "Himeji",
   "slug": "himeji",
+  "name_ja": "姫路",
   "region": "Kansai",
-  "prefecture": "Hyogo",
+  "prefecture": null,
+  "latitude": 34.8394,
+  "longitude": 134.6939,
   "url": "https://selfguidejapan.com/destinations/himeji",
-  "url_verified": false,
-  "status": "listed_not_searched",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "Himeji Castle is widely considered the finest surviving example of Japanese castle architecture. Its brilliant white plastered walls and soaring five-storey main keep earned it the nickname “White Heron Castle” and UNESCO World Heritage status in 1993. Unlike most Japanese castles, Himeji's main structure is entirely original — never destroyed by war, earthquake, or fire in over 400 years. A major six-year restoration completed in 2015 returned the castle to its dazzling white brilliance. Beyond the castle grounds, the adjacent Kokoen Garden offers nine distinct Edo-style walled gardens, and the hillside Engyo-ji Temple (reached by ropeway) was a filming location for “The Last Samurai.” While many visitors stop briefly on the Shinkansen route, Himeji rewards a half-day or more of exploration.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Listed as a destination on the /destinations index (per search summary of that page); page content not retrieved. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/himeji"
+  ]
+ },
+ {
+  "destination": "Hiroshima",
+  "slug": "hiroshima",
+  "name_ja": "広島",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 34.3853,
+  "longitude": 132.4554,
+  "url": "https://selfguidejapan.com/destinations/hiroshima",
+  "blog_urls": [],
+  "summary_en": "Hiroshima is a city defined not by its tragedy but by its extraordinary resilience. The Peace Memorial Park and Museum deliver one of the most powerful experiences in all of Japan, yet step beyond and you'll find a vibrant, forward-looking city with tree-lined rivers, thriving food culture, and one of the friendliest atmospheres in the country. The city is also the gateway to Miyajima Island, home to the iconic “floating” torii gate of Itsukushima Shrine. Between the sobering history, stunning island scenery, and some of Japan's best okonomiyaki (Hiroshima-style, with layered noodles), a visit here adds depth and contrast to any itinerary.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/hiroshima"
+  ]
+ },
+ {
+  "destination": "Hita Onsen",
+  "slug": "hita",
+  "name_ja": "日田温泉",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.32111111,
+  "longitude": 130.9413889,
+  "url": "https://selfguidejapan.com/destinations/hita",
+  "blog_urls": [],
+  "summary_en": "Hita is a small riverside city in western Oita Prefecture, sometimes called the “Little Kyoto of Kyushu” for its well-preserved Edo-period merchant quarter. The Mameda district, with its whitewashed storehouses and wooden-lattice shopfronts, feels like stepping into a Japanese woodblock print. In summer, Hita comes alive with the tradition of ukai — cormorant fishing on the Mikuma River performed by torchlight from flat-bottomed boats. The surrounding cedar-clad mountains keep the town cool and misty, and the local Sapporo beer brewery takes advantage of Hita's famously pure spring water. It's the kind of unhurried, off-radar destination where travellers can connect with everyday Japan.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/hita"
+  ]
+ },
+ {
+  "destination": "Huis Ten Bosch",
+  "slug": "huis-ten-bosch",
+  "name_ja": "ハウステンボス",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.0859225277778,
+  "longitude": 129.78363925,
+  "url": "https://selfguidejapan.com/destinations/huis-ten-bosch",
+  "blog_urls": [],
+  "summary_en": "Huis Ten Bosch is a sprawling Dutch-themed resort in Sasebo, Nagasaki Prefecture, that recreates the streets, canals, and architecture of the Netherlands on a grand scale. Named after the Dutch royal palace, the park spans 152 hectares — making it the largest single-theme park in Japan. Far more than a novelty, Huis Ten Bosch delivers genuine spectacle: over a million tulips bloom in spring, seasonal flower festivals rotate year-round, and after dark the entire park transforms with one of Asia's most elaborate illumination displays. Its blend of European charm, Japanese hospitality, and family-friendly attractions creates an experience unlike anything else in the country.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/huis-ten-bosch"
+  ]
+ },
+ {
+  "destination": "Ibusuki",
+  "slug": "ibusuki",
+  "name_ja": "指宿",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 31.252777,
+  "longitude": 130.633057,
+  "url": "https://selfguidejapan.com/destinations/ibusuki",
+  "blog_urls": [],
+  "summary_en": "Ibusuki sits at the southern tip of the Satsuma Peninsula in Kagoshima Prefecture, famous for one of Japan's most unusual onsen experiences: sunamushi, or natural sand bathing. Visitors lie on the beach while attendants bury them in volcanically heated black sand, creating a warm, heavy cocoon that draws out toxins and soothes tired muscles. Beyond the sand baths, Ibusuki has a lush, subtropical character — palm trees line the streets, and the climate is mild enough to grow mangoes and passion fruit. The Satsuma-Fuji silhouette of Mount Kaimon (924m) dominates the skyline, and the serene Lake Ikeda, home to legends of a giant eel, lies just inland. Ibusuki feels a world apart from mainland Japan's hurried pace.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/ibusuki"
+  ]
+ },
+ {
+  "destination": "Iga",
+  "slug": "iga-ueno",
+  "name_ja": "伊賀",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 34.749832,
+  "longitude": 136.142258,
+  "url": "https://selfguidejapan.com/destinations/iga-ueno",
+  "blog_urls": [],
+  "summary_en": "Iga, in western Mie Prefecture, is the birthplace of the Iga-ryu ninja tradition — one of Japan's two great ninja schools. This castle town surrounded by forested mountains was the perfect training ground for the shadow warriors whose espionage skills shaped Japanese history for centuries. Today, the Iga-ryu Ninja Museum brings this secretive world to life with hidden rooms, trap doors, and live shuriken-throwing demonstrations. Above the old town sits the elegant Iga Ueno Castle, known for its towering stone walls. Iga is also celebrated for its Iga-yaki pottery tradition, producing rustic, high-fired ceramics that have been prized by tea masters since the 16th century.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/iga-ueno"
+  ]
+ },
+ {
+  "destination": "Inuyama",
+  "slug": "inuyama",
+  "name_ja": "犬山",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 35.3883489866667,
+  "longitude": 136.939494133889,
+  "url": "https://selfguidejapan.com/destinations/inuyama",
+  "blog_urls": [],
+  "summary_en": "Inuyama is a compact castle town in Aichi Prefecture that punches far above its weight. Its crowning glory is Inuyama Castle, one of only twelve original castles remaining in Japan and a designated National Treasure. Built in 1537, the four-storey wooden keep sits atop a bluff overlooking the Kiso River, offering a view that has remained essentially unchanged for nearly five centuries. The town below the castle has been revitalised with care, its Honmachi Street now lined with small cafes, miso-glazed snack shops, and craft stores housed in restored machiya townhouses. Inuyama also hosts one of central Japan's most spectacular festivals — the Inuyama Matsuri — where towering three-tiered floats fitted with mechanical karakuri puppets parade through the streets.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/inuyama"
+  ]
+ },
+ {
+  "destination": "Isawa Onsen",
+  "slug": "isawa-onsen",
+  "name_ja": "石和温泉",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 35.655555904521,
+  "longitude": 138.637709403829,
+  "url": "https://selfguidejapan.com/destinations/isawa-onsen",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/isawa-onsen"
+  ]
+ },
+ {
+  "destination": "Ise",
+  "slug": "ise",
+  "name_ja": "伊勢",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.487492,
+  "longitude": 136.709335,
+  "url": "https://selfguidejapan.com/destinations/ise",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/ise"
+  ]
+ },
+ {
+  "destination": "Jozankei Onsen",
+  "slug": "jozankei-onsen",
+  "name_ja": "定山渓温泉",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 42.95987289,
+  "longitude": 141.1639057,
+  "url": "https://selfguidejapan.com/destinations/jozankei-onsen",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/jozankei-onsen"
+  ]
+ },
+ {
+  "destination": "Kagoshima",
+  "slug": "kagoshima",
+  "name_ja": "鹿児島",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 31.596861,
+  "longitude": 130.557022,
+  "url": "https://selfguidejapan.com/destinations/kagoshima",
+  "blog_urls": [],
+  "summary_en": "Kagoshima is a vibrant, subtropical city on the southern tip of Kyushu, dominated by the brooding presence of Sakurajima — one of the world's most active volcanoes, sitting just four kilometres across the bay. The city has earned the nickname “Naples of the East” for its similar geography: a lively waterfront, a volcanic backdrop, and a warm, laid-back atmosphere. Kagoshima was the cradle of the Satsuma domain, whose samurai drove the Meiji Restoration that modernised Japan. That revolutionary spirit is still celebrated at sites like the Sengan-en garden and the Shoko Shuseikan museum. The local kurobuta (Berkshire pork) and shochu distilleries rank among Kyushu's finest culinary offerings, and frequent ferry crossings to Sakurajima make volcano exploration effortless.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kagoshima"
+  ]
+ },
+ {
+  "destination": "Kamakura",
+  "slug": "kamakura",
+  "name_ja": "鎌倉",
+  "region": "Kanto",
+  "prefecture": null,
+  "latitude": 35.32,
+  "longitude": 139.55,
+  "url": "https://selfguidejapan.com/destinations/kamakura",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kamakura"
+  ]
+ },
+ {
+  "destination": "Kamikochi",
+  "slug": "kamikochi",
+  "name_ja": "上高地",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.2519880931042,
+  "longitude": 137.649333781256,
+  "url": "https://selfguidejapan.com/destinations/kamikochi",
+  "blog_urls": [],
+  "summary_en": "Kamikochi is a pristine alpine valley nestled at 1,500 meters in the heart of the Northern Japanese Alps. Often called the “Yosemite of Japan,” its crystal-clear Azusa River winds beneath towering peaks including the 3,190-meter Hotaka range and the sacred Mount Yari, Japan's “Matterhorn.” Private vehicles are banned from the valley, preserving an atmosphere of extraordinary tranquility. From the iconic Kappa Bridge, hikers can access everything from gentle riverside nature walks to challenging multi-day ridge traverses. Kamikochi is where Japan's modern mountaineering tradition began, and the landscape remains as wild and breathtaking as when Walter Weston first introduced it to the world in the 1890s.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kamikochi"
+  ]
+ },
+ {
+  "destination": "Kanazawa",
+  "slug": "kanazawa",
+  "name_ja": "金沢",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.5546,
+  "longitude": 136.6253,
+  "url": "https://selfguidejapan.com/destinations/kanazawa",
+  "blog_urls": [],
+  "summary_en": "Kanazawa escaped wartime bombing, preserving one of Japan's most complete Edo-era cityscapes. Its crown jewel, Kenroku-en, consistently ranks among the country's three most beautiful landscape gardens. The city's samurai and geisha districts feel remarkably authentic — wooden lattice facades, narrow stone-paved lanes, and working tea houses that have poured matcha for centuries. Positioned on the Sea of Japan coast, Kanazawa offers seafood that rivals Tokyo's Tsukiji at a fraction of the price. The city also punches above its weight in contemporary art, with the 21st Century Museum of Contemporary Art drawing over two million visitors annually. Think of it as Kyoto's quieter, more affordable sibling.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kanazawa"
+  ]
+ },
+ {
+  "destination": "Kashihara",
+  "slug": "kashihara",
+  "name_ja": "橿原",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.509,
+  "longitude": 135.792,
+  "url": "https://selfguidejapan.com/destinations/kashihara",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kashihara"
+  ]
+ },
+ {
+  "destination": "Kashikojima",
+  "slug": "kashikojima",
+  "name_ja": "賢島",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 34.3073,
+  "longitude": 136.8196,
+  "url": "https://selfguidejapan.com/destinations/kashikojima",
+  "blog_urls": [],
+  "summary_en": "Kashikojima is the jewel of the Shima Peninsula, set within Ise-Shima National Park on the rugged Pacific coastline of Mie Prefecture. This small island is famous for its stunning rias coastline — deep, fjord-like inlets dotted with pearl-farming rafts that have defined the area since Mikimoto pioneered cultured pearl cultivation here in 1893. The pace of life is blissfully slow. Fresh seafood — especially Ise lobster, abalone, and oysters — comes straight from the surrounding waters to your plate. Scenic boat cruises wind through the emerald Ago Bay inlets, and nearby Ise Grand Shrine, Japan's most sacred Shinto site, is an easy excursion. For travellers seeking a coastal escape far from the tourist trail, Kashikojima delivers serenity and some of the finest seafood in Japan.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kashikojima"
+  ]
+ },
+ {
+  "destination": "Kii-Katsuura",
+  "slug": "kii-katsuura",
+  "name_ja": "紀伊勝浦",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 33.6277152816667,
+  "longitude": 135.941537116111,
+  "url": "https://selfguidejapan.com/destinations/kii-katsuura",
+  "blog_urls": [],
+  "summary_en": "Kii-Katsuura is a small fishing port on the rugged Kii Peninsula coast, famous for landing more fresh tuna than almost any other harbour in Japan. The early-morning tuna auction at Katsuura Fish Market rivals Toyosu in spectacle but without the crowds — visitors can watch enormous bluefin being bid on and then eat sashimi cut from that morning's catch just steps away. The town is also the traditional finishing point of the Kumano Kodo pilgrimage, one of only two UNESCO-designated pilgrimage routes in the world. Nachi Taisha shrine and Nachi-no-Taki, Japan's tallest single-drop waterfall at 133 metres, are a short bus ride away. Add in Hotel Urashima's famous cave onsen — a hot spring set inside a natural sea cave with waves crashing at the entrance — and Kii-Katsuura packs extraordinary experiences into a tiny coastal town.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kii-katsuura"
+  ]
  },
  {
   "destination": "Kinosaki",
   "slug": "kinosaki",
+  "name_ja": "城崎",
   "region": "Kansai",
-  "prefecture": "Hyogo",
+  "prefecture": null,
+  "latitude": 35.6314,
+  "longitude": 134.7921,
   "url": "https://selfguidejapan.com/destinations/kinosaki",
-  "url_verified": false,
-  "status": "listed_not_searched",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "Kinosaki Onsen is one of Japan's most picturesque hot-spring towns. Willow-lined canals thread through a compact village of traditional wooden ryokan, and the evening ritual of strolling between seven public bathhouses in a yukata and geta (wooden clogs) has remained unchanged for over 1,300 years. It's the quintessential onsen experience distilled into a single charming street. What sets Kinosaki apart is its communal spirit. Your ryokan stay includes a pass to all seven sotoyu (external bathhouses), each with a different character — from a cave-like stone bath to a modern rooftop pool with mountain views. Winter brings the added luxury of Matsuba snow crab, the region's prized seasonal delicacy. The combination of bathing, fresh seafood, and old-world charm makes Kinosaki an unforgettable overnight stop.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Listed as a destination on the /destinations index (per search summary of that page); page content not retrieved. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/kinosaki"
+  ]
  },
  {
-  "destination": "Akan",
-  "slug": "akan",
-  "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": "https://selfguidejapan.com/destinations/akan",
-  "url_verified": false,
-  "status": "listed_not_searched",
+  "destination": "Kotohira",
+  "slug": "kotohira",
+  "name_ja": "琴平",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 34.1921260277778,
+  "longitude": 133.821288361111,
+  "url": "https://selfguidejapan.com/destinations/kotohira",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "Kotohira is home to Kotohira-gu (commonly known as Konpira-san), one of Japan's most revered Shinto shrines and a pilgrimage destination for centuries. The shrine is reached by climbing 785 stone steps to the main hall — or 1,368 steps to the inner shrine — a physical journey that has drawn visitors since the Edo period. The small town at the base of the mountain retains the atmosphere of an old pilgrimage stop. Stone-paved lanes lined with souvenir shops and udon restaurants lead to the first torii gate, while the oldest kabuki theatre in Japan — the Kanamaruza, built in 1835 — still hosts annual performances each spring. Kotohira is the spiritual heart of Shikoku's Sanuki udon country, making every meal here a highlight.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Listed as a destination on the /destinations index (per search summary of that page); page content not retrieved. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/kotohira"
+  ]
+ },
+ {
+  "destination": "Koyasan",
+  "slug": "koyasan",
+  "name_ja": "高野山",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.2133,
+  "longitude": 135.5867,
+  "url": "https://selfguidejapan.com/destinations/koyasan",
+  "blog_urls": [],
+  "summary_en": "Koyasan (Mount Koya) is the spiritual heart of Shingon Buddhism, founded in 816 AD by the monk Kukai. Perched on a remote mountaintop plateau in the Kii Peninsula, this sacred temple town of over 100 monasteries feels worlds away from modern Japan. Walking through the towering cedar-lined Okunoin cemetery — Japan's largest, with over 200,000 tombstones — is one of the most profound experiences the country offers. Staying overnight in a shukubo (temple lodging) is the essential Koyasan experience. You'll sleep on futons in tatami rooms, eat exquisite shojin ryori (Buddhist vegetarian cuisine), and wake before dawn to join monks in morning prayer. The combination of spiritual atmosphere, ancient forest, and complete digital detox makes Koyasan a highlight for nearly every visitor.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/koyasan"
+  ]
+ },
+ {
+  "destination": "Kumamoto",
+  "slug": "kumamoto",
+  "name_ja": "熊本",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 32.803333,
+  "longitude": 130.708054,
+  "url": "https://selfguidejapan.com/destinations/kumamoto",
+  "blog_urls": [],
+  "summary_en": "Kumamoto is a proud castle city in the heart of Kyushu. Its crown jewel, Kumamoto Castle, ranks among Japan's three premier castles and is undergoing a painstaking restoration following the devastating 2016 earthquakes — a process that is itself a compelling story of resilience and craftsmanship. The city is also the gateway to Mount Aso, one of the world's largest volcanic calderas, where an active crater steams against a backdrop of sweeping grasslands. Kumamoto's food scene punches well above its weight, from basashi (horse sashimi) to thick, garlic-rich Kumamoto ramen. The local mascot Kumamon has become a global icon, but the city's substance runs far deeper than its cuddly ambassador.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kumamoto"
+  ]
+ },
+ {
+  "destination": "Kurashiki",
+  "slug": "kurashiki",
+  "name_ja": "倉敷",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 34.584999,
+  "longitude": 133.771942,
+  "url": "https://selfguidejapan.com/destinations/kurashiki",
+  "blog_urls": [],
+  "summary_en": "Kurashiki is a canal town in Okayama Prefecture whose white-walled storehouses and willow-lined waterways have been beautifully preserved since the Edo period. Once a major rice-distribution center, its merchant warehouses now house museums, galleries, and boutique shops that make the Bikan Historical Quarter one of Japan's most photogenic neighborhoods. The crown jewel is the Ohara Museum of Art, Japan's first private museum of Western art, housing works by El Greco, Monet, and Picasso within a Greek-temple facade. Beyond the canal district, Kurashiki's textile heritage lives on in its renowned denim industry — the nearby Kojima district is considered the birthplace of Japanese jeans.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kurashiki"
+  ]
+ },
+ {
+  "destination": "Kyoto",
+  "slug": "kyoto",
+  "name_ja": "京都",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 35.0116,
+  "longitude": 135.7681,
+  "url": "https://selfguidejapan.com/destinations/kyoto",
+  "blog_urls": [],
+  "summary_en": "Kyoto served as Japan's imperial capital for over a thousand years, from 794 to 1868. Today, the city preserves more than 2,000 temples and shrines, 17 of which hold UNESCO World Heritage status. Walking its streets, you move seamlessly between vermillion torii gates, quiet zen gardens, and centuries-old tea houses — all within reach of modern cafés and Michelin-starred restaurants. Unlike Tokyo's towering skyline, Kyoto's beauty is intimate and layered. Narrow machiya townhouse lanes open onto grand temple complexes. Geiko and maiko still glide through the Gion district at dusk. In spring the city turns pale pink with cherry blossoms; in autumn, brilliant crimson maple canopies frame every shrine path.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/kyoto"
+  ]
+ },
+ {
+  "destination": "Lake Akan",
+  "slug": "lake-akan",
+  "name_ja": "阿寒湖",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.452599,
+  "longitude": 144.095192,
+  "url": "https://selfguidejapan.com/destinations/lake-akan",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/lake-akan"
+  ]
+ },
+ {
+  "destination": "Lake Kussharo",
+  "slug": "lake-kussharo",
+  "name_ja": "屈斜路湖",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.629543,
+  "longitude": 144.328535,
+  "url": "https://selfguidejapan.com/destinations/lake-kussharo",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/lake-kussharo"
+  ]
+ },
+ {
+  "destination": "Lake Toya",
+  "slug": "lake-toya",
+  "name_ja": "洞爺湖",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 42.615025,
+  "longitude": 140.853764,
+  "url": "https://selfguidejapan.com/destinations/lake-toya",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/lake-toya"
+  ]
+ },
+ {
+  "destination": "Tokyo Bay Maihama",
+  "slug": "maihama",
+  "name_ja": "東京ベイ舞浜",
+  "region": "Kanto",
+  "prefecture": null,
+  "latitude": 35.6361905961111,
+  "longitude": 139.883528292778,
+  "url": "https://selfguidejapan.com/destinations/maihama",
+  "blog_urls": [],
+  "summary_en": "Maihama sits on the waterfront of Tokyo Bay in Urayasu, Chiba Prefecture, and is best known as the home of Tokyo Disney Resort — Japan's most visited theme park complex. Tokyo Disneyland and Tokyo DisneySea together attract over 30 million guests annually, with DisneySea widely regarded as the most beautifully designed Disney park in the world. Beyond the parks, the Maihama waterfront area offers a resort atmosphere with boardwalks along Tokyo Bay, the Ikspiari shopping and entertainment complex, and several luxury resort hotels. The area is conveniently connected to central Tokyo via the JR Keiyo Line, making it easy to combine a Disney visit with a wider Tokyo itinerary or a relaxed bay-side stay away from the city's intensity.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/maihama"
+  ]
+ },
+ {
+  "destination": "Matsue",
+  "slug": "matsue",
+  "name_ja": "松江",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 35.4759643888889,
+  "longitude": 133.049708277778,
+  "url": "https://selfguidejapan.com/destinations/matsue",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/matsue"
+  ]
  },
  {
   "destination": "Matsumoto",
   "slug": "matsumoto",
+  "name_ja": "松本",
   "region": "Chubu",
-  "prefecture": "Nagano",
+  "prefecture": null,
+  "latitude": 36.238056,
+  "longitude": 137.971954,
   "url": "https://selfguidejapan.com/destinations/matsumoto",
-  "url_verified": false,
-  "status": "slug_from_caller_not_verified",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "Matsumoto is home to one of Japan's most striking castles. Matsumoto Castle's jet-black walls and six-storey keep, reflected in its surrounding moat with the Japanese Alps as a backdrop, make it one of only five castles designated a National Treasure. Built in the late 16th century, it's the oldest surviving five-storey castle donjon in Japan. The city itself is a cultured, walkable base for alpine adventures. Nawate-dori and Nakamachi-dori streets are lined with Meiji-era storehouses converted into cafés, craft galleries, and soba restaurants. Matsumoto is also a gateway to the Kamikochi alpine valley and the Northern Alps — and in August, the internationally renowned Saito Kinen Festival fills the city with world-class classical music.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Slug supplied by the caller; not present in any search result I obtained. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/matsumoto"
+  ]
+ },
+ {
+  "destination": "Matsuyama",
+  "slug": "matsuyama",
+  "name_ja": "松山",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 33.839165,
+  "longitude": 132.76564,
+  "url": "https://selfguidejapan.com/destinations/matsuyama",
+  "blog_urls": [],
+  "summary_en": "Matsuyama is Shikoku's largest city and home to Dogo Onsen, one of Japan's oldest hot springs with a history spanning over 3,000 years. The ornate Dogo Onsen Honkan bathhouse, built in 1894, is said to have inspired the magical bathhouse in Hayao Miyazaki's “Spirited Away” — its three-story wooden grandeur remains a working public bath today. Perched above the city, Matsuyama Castle is one of only 12 original-keep castles surviving in Japan, offering sweeping views over the Seto Inland Sea. The city also has deep literary roots as the setting of Natsume Soseki's beloved novel “Botchan,” and its relaxed atmosphere, tram-lined streets, and superb citrus cuisine make it one of Shikoku's most rewarding destinations.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/matsuyama"
+  ]
+ },
+ {
+  "destination": "Monkey Park",
+  "slug": "monkey-park",
+  "name_ja": "モンキーパーク",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.7328,
+  "longitude": 138.4627,
+  "url": "https://selfguidejapan.com/destinations/monkey-park",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/monkey-park"
+  ]
+ },
+ {
+  "destination": "Morioka",
+  "slug": "morioka",
+  "name_ja": "盛岡",
+  "region": "Tohoku",
+  "prefecture": null,
+  "latitude": 39.7003280643049,
+  "longitude": 141.138269840706,
+  "url": "https://selfguidejapan.com/destinations/morioka",
+  "blog_urls": [],
+  "summary_en": "Morioka, the capital of Iwate Prefecture, is a castle town where three rivers converge beneath the watchful gaze of Mount Iwate. Named one of the “world's best places to visit” by the New York Times in 2023, this underrated city charms visitors with its walkable downtown, traditional craft culture, and exceptional noodle scene. Morioka is the undisputed noodle capital of northern Japan. Wanko soba (all-you-can-eat buckwheat noodles served bowl by tiny bowl), jajamen (chewy flat noodles with miso meat sauce), and reimen (cold noodles in chilled beef broth) form the city's famous “three great noodles.” Beyond food, the city offers ironware workshops, a serene castle ruin park, and a genuine Tohoku warmth that lingers long after you leave.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/morioka"
+  ]
+ },
+ {
+  "destination": "Mount Fuji",
+  "slug": "mount-fuji",
+  "name_ja": "富士山",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 35.5150349791422,
+  "longitude": 138.748175993341,
+  "url": "https://selfguidejapan.com/destinations/mount-fuji",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/mount-fuji"
+  ]
+ },
+ {
+  "destination": "Nagasaki",
+  "slug": "nagasaki",
+  "name_ja": "長崎",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 32.749527,
+  "longitude": 129.879807,
+  "url": "https://selfguidejapan.com/destinations/nagasaki",
+  "blog_urls": [],
+  "summary_en": "Nagasaki is one of Japan's most historically layered cities. For over two centuries during the Edo period, it was the country's sole window to the outside world — a trading port where Dutch, Chinese, and Portuguese influences blended into a culture found nowhere else in Japan. The city is built across steep hillsides that tumble down to a sheltered harbour, giving it a dramatically vertical character. Glover Garden, the atmospheric Chinatown (Japan's oldest), Gothic-style churches, and the deeply moving Atomic Bomb Museum create a destination that is as thought-provoking as it is beautiful. Nagasaki's famous champon noodles and castella cake reflect its unique cross-cultural heritage.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/nagasaki"
+  ]
+ },
+ {
+  "destination": "Nagoya",
+  "slug": "nagoya",
+  "name_ja": "名古屋",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 35.1815,
+  "longitude": 136.9066,
+  "url": "https://selfguidejapan.com/destinations/nagoya",
+  "blog_urls": [],
+  "summary_en": "Nagoya is Japan's fourth-largest city and the industrial powerhouse behind Toyota, yet it's far more than factories. The reconstructed Nagoya Castle, with its golden shachi (dolphin-fish) roof ornaments, anchors a city steeped in samurai heritage — the region produced three of Japan's great unifiers: Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu. Nagoya also boasts one of Japan's most distinctive regional cuisines, known collectively as “Nagoya meshi.” From miso-katsu and hitsumabushi (grilled eel three ways) to tebasaki chicken wings and kishimen flat noodles, eating your way through the city is a highlight. Its central location on the Shinkansen line makes it a natural hub for exploring the wider Chubu region.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/nagoya"
+  ]
+ },
+ {
+  "destination": "Naoshima",
+  "slug": "naoshima",
+  "name_ja": "直島",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 34.4587513298309,
+  "longitude": 133.984473058655,
+  "url": "https://selfguidejapan.com/destinations/naoshima",
+  "blog_urls": [],
+  "summary_en": "Naoshima is a small island in the Seto Inland Sea that has been transformed into one of the world's most extraordinary open-air art destinations. Spearheaded by the Benesse Art Site project, the island blends world-class contemporary art museums with the natural beauty of terraced hillsides and quiet fishing harbours. Yayoi Kusama's iconic yellow pumpkin sculpture on the waterfront has become a symbol of the island, but Naoshima's appeal runs far deeper. Tadao Ando-designed museums are built into the landscape, the Art House Project turns abandoned homes into immersive installations, and the entire experience feels like walking through a gallery with the Inland Sea as its backdrop.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/naoshima"
+  ]
+ },
+ {
+  "destination": "Nara",
+  "slug": "nara",
+  "name_ja": "奈良",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.6851,
+  "longitude": 135.8049,
+  "url": "https://selfguidejapan.com/destinations/nara",
+  "blog_urls": [],
+  "summary_en": "Nara was Japan's first permanent capital, established in 710 AD, and its legacy endures in eight UNESCO World Heritage sites packed into a remarkably walkable area. The star attraction is Todai-ji, housing the world's largest bronze Buddha inside one of the world's largest wooden buildings — a sight that still overwhelms after 1,300 years. Then there are the deer. Over 1,200 semi-wild sika deer roam freely through Nara Park, bowing for crackers and posing alongside temple gates. The atmosphere is gentler and less hurried than nearby Kyoto, making it an ideal complement. Most visitors come as a day trip, but staying overnight reveals a quieter side — lantern-lit paths, empty temples, and some of the region's best sake breweries.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/nara"
+  ]
+ },
+ {
+  "destination": "New Chitose Airport",
+  "slug": "new-chitose-airport",
+  "name_ja": "新千歳空港",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 42.7818577222222,
+  "longitude": 141.690608805556,
+  "url": "https://selfguidejapan.com/destinations/new-chitose-airport",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/new-chitose-airport"
+  ]
+ },
+ {
+  "destination": "Nihondaira",
+  "slug": "nihondaira",
+  "name_ja": "日本平",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 34.9757034293148,
+  "longitude": 138.46347943224,
+  "url": "https://selfguidejapan.com/destinations/nihondaira",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/nihondaira"
+  ]
+ },
+ {
+  "destination": "Noboribetsu Onsen",
+  "slug": "noboribetsu-onsen",
+  "name_ja": "登別温泉",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 42.493925,
+  "longitude": 141.142011,
+  "url": "https://selfguidejapan.com/destinations/noboribetsu-onsen",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/noboribetsu-onsen"
+  ]
+ },
+ {
+  "destination": "Okayama",
+  "slug": "okayama",
+  "name_ja": "岡山",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 34.6551,
+  "longitude": 133.9195,
+  "url": "https://selfguidejapan.com/destinations/okayama",
+  "blog_urls": [],
+  "summary_en": "Okayama is home to Korakuen, one of Japan's three great landscape gardens. Completed in 1700 by the local feudal lord, its sweeping lawns, plum groves, tea fields, and winding streams set a standard for classical Japanese garden design. With the dark silhouette of Okayama Castle (“Crow Castle”) rising directly across the Asahi River, the pairing is one of the most photogenic scenes in western Japan. Often bypassed by tourists rushing between Hiroshima and Osaka, Okayama rewards those who stop. The Kurashiki Bikan Historical Quarter — just 15 minutes away by train — preserves white-walled canal warehouses turned art galleries and craft shops. Okayama also enjoys some of Japan's sunniest weather, earning it the nickname “the Land of Sunshine.” It's famous for its exceptional white peaches and Muscat grapes.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/okayama"
+  ]
+ },
+ {
+  "destination": "Onomichi",
+  "slug": "onomichi",
+  "name_ja": "尾道",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 34.409161,
+  "longitude": 133.205627,
+  "url": "https://selfguidejapan.com/destinations/onomichi",
+  "blog_urls": [],
+  "summary_en": "Onomichi is a hillside port town on the Seto Inland Sea that has long captivated Japanese writers, filmmakers, and artists. Narrow stone paths climb steeply through a maze of 25 temples, vintage cafés, and cat-friendly alleyways, earning it a reputation as one of Japan's most atmospheric small towns. The town is also the starting point of the Shimanami Kaido, a 70-kilometre cycling route that hops across six islands via spectacular suspension bridges to Imabari in Shikoku. Whether you come for the cycling, the temple walks, or the famous Onomichi ramen — a pork-broth bowl topped with rendered pork-back fat — this is a place where slow travel is richly rewarded.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/onomichi"
+  ]
+ },
+ {
+  "destination": "Osaka",
+  "slug": "osaka",
+  "name_ja": "大阪",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.7025416419444,
+  "longitude": 135.493595363333,
+  "url": "https://selfguidejapan.com/destinations/osaka",
+  "blog_urls": [],
+  "summary_en": "Osaka is Japan's undisputed street-food capital and the heartbeat of Kansai culture. Known locally as “the nation's kitchen,” it has fuelled Japanese cuisine for centuries — from sizzling takoyaki stalls beneath the Glico sign to Michelin-starred kappo counters hidden in Kitashinchi's back alleys. Where Tokyo can feel reserved, Osaka is loud, warm, and famously direct. Comedy clubs thrive alongside neon-drenched canal walks, and the city's merchant heritage means you'll find incredible value at every price point. Add in a towering castle, vibrant nightlife, and easy rail access to Kyoto and Nara, and Osaka earns its place on every Japan itinerary.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/osaka"
+  ]
+ },
+ {
+  "destination": "Otsu",
+  "slug": "otsu",
+  "name_ja": "大津",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 35.017776,
+  "longitude": 135.854721,
+  "url": "https://selfguidejapan.com/destinations/otsu",
+  "blog_urls": [],
+  "summary_en": "Otsu is the capital of Shiga Prefecture and sits on the southwestern shore of Lake Biwa, Japan's largest freshwater lake. Just ten minutes from Kyoto by train, Otsu offers a completely different atmosphere — wide lakeside promenades, forested temple grounds, and mountain views that feel worlds away from the crowds of its famous neighbour. The city is home to Miidera (Onjoji), one of the great temples of the Tendai Buddhist tradition, whose hilltop bell tower commands sweeping views over Lake Biwa. The Otsu-e folk paintings, a 350-year-old tradition of bold, humorous images originally sold as traveler souvenirs along the old Tokaido highway, remain one of Japan's most distinctive folk art forms.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/otsu"
+  ]
+ },
+ {
+  "destination": "Rusutsu",
+  "slug": "rusutusu",
+  "name_ja": "ルスツ",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 42.7373,
+  "longitude": 140.8758,
+  "url": "https://selfguidejapan.com/destinations/rusutusu",
+  "blog_urls": [],
+  "summary_en": "Rusutsu is a premier mountain resort in Hokkaido, located roughly midway between Niseko and Lake Toya. With 37 runs spread across three mountains — Mount Isola, East Mountain, and West Mountain — Rusutsu offers some of Hokkaido's finest powder skiing in a setting that feels less crowded and more exclusively Japanese than its internationally famous neighbour. In summer, the resort transforms into an outdoor playground. An amusement park with roller coasters and rides opens on the grounds, while the surrounding plateau offers horseback riding, mountain biking, golf, and hot-air balloon flights with views of Mount Yotei. Rusutsu's location in the Shikotsu-Toya National Park means pristine nature is never more than a few steps away, whatever the season.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/rusutusu"
+  ]
+ },
+ {
+  "destination": "Saga",
+  "slug": "saga",
+  "name_ja": "佐賀",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.26351168,
+  "longitude": 130.3008811,
+  "url": "https://selfguidejapan.com/destinations/saga",
+  "blog_urls": [],
+  "summary_en": "Saga Prefecture on Kyushu's northwestern coast is the heartland of Japanese ceramics. The towns of Arita and Imari have produced exquisite porcelain since the early 17th century, when Korean potters first discovered high-quality kaolin clay in the area. Today, hundreds of kilns still operate, and visitors can browse workshops, watch artisans at work, and find pieces ranging from museum-quality antiques to modern tableware. Beyond pottery, Saga offers the dramatic tidal flats of the Ariake Sea, Ureshino Onsen — famous for its silky, skin-smoothing alkaline waters — and Saga-branded wagyu beef that rivals Kobe in tenderness and marbling. The International Balloon Fiesta held each November fills the sky above the Kase River with over 100 colourful hot-air balloons, drawing spectators from across Japan.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/saga"
+  ]
+ },
+ {
+  "destination": "Sahoro",
+  "slug": "sahoro",
+  "name_ja": "サホロ",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.0806,
+  "longitude": 142.816,
+  "url": "https://selfguidejapan.com/destinations/sahoro",
+  "blog_urls": [],
+  "summary_en": "Sahoro is a mountain resort area in Hokkaido's Tokachi region, renowned for consistent powder snow and a laid-back atmosphere far removed from Japan's busier ski destinations. The resort sits within the Daisetsuzan mountain range, surrounded by birch forests and wide-open Tokachi plains. Beyond winter sports, Sahoro is the gateway to the Bear Mountain wildlife sanctuary, where Hokkaido brown bears roam in a natural habitat. The Tokachi area also produces exceptional dairy, wheat, and sweets, making Sahoro a destination where outdoor adventure meets Hokkaido's renowned food culture.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/sahoro"
+  ]
+ },
+ {
+  "destination": "Sapporo",
+  "slug": "sapporo",
+  "name_ja": "札幌",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.062077,
+  "longitude": 141.354401,
+  "url": "https://selfguidejapan.com/destinations/sapporo",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/sapporo"
+  ]
  },
  {
   "destination": "Setouchi Islands",
   "slug": "setouchi-islands",
-  "region": "Setouchi (Kagawa/Okayama)",
+  "name_ja": "瀬戸内の島々",
+  "region": "Shikoku",
   "prefecture": null,
+  "latitude": 34.481286,
+  "longitude": 134.073361,
   "url": "https://selfguidejapan.com/destinations/setouchi-islands",
-  "url_verified": false,
-  "status": "slug_from_caller_not_verified",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "The Setouchi Islands are scattered across the calm, sheltered waters of Japan's Seto Inland Sea between Honshu and Shikoku. This archipelago of over 700 islands offers a rare combination of contemporary art installations, ancient pilgrimage routes, terraced citrus groves, and fishing villages where daily life has changed little in generations. The Shimanami Kaido cycling route — a 60-kilometre bridge-hopping path connecting Onomichi to Imabari — is one of the world's great cycling experiences. Meanwhile, islands like Teshima and Inujima complement nearby Naoshima with their own distinctive art projects, and smaller islands such as Ogijima reward visitors with cat-filled alleyways and hand-painted murals.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Slug supplied by the caller; not present in any search result I obtained. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/setouchi-islands"
+  ]
+ },
+ {
+  "destination": "Shiga Kogen",
+  "slug": "shiga-kogen",
+  "name_ja": "志賀高原",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.79002778,
+  "longitude": 138.5268444,
+  "url": "https://selfguidejapan.com/destinations/shiga-kogen",
+  "blog_urls": [],
+  "summary_en": "Shiga Kogen is Japan's largest linked ski area, sprawling across 21 interconnected resorts high in the mountains of Nagano Prefecture. At elevations reaching 2,307 metres, it boasts some of the most reliable natural snowfall and longest seasons in the country — often staying open well into May. Beyond winter, Shiga Kogen is a UNESCO Biosphere Reserve, blanketed in alpine wetlands, pristine ponds, and virgin beech forests. Summer hiking trails wind through landscapes that feel untouched, while the nearby Jigokudani Monkey Park — home to the famous snow bathing macaques — is a year-round draw just down the valley.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/shiga-kogen"
+  ]
+ },
+ {
+  "destination": "Shimabara",
+  "slug": "shimabara",
+  "name_ja": "島原",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 32.787956,
+  "longitude": 130.370178,
+  "url": "https://selfguidejapan.com/destinations/shimabara",
+  "blog_urls": [],
+  "summary_en": "Shimabara is a compact castle town on the eastern coast of Nagasaki Prefecture's Shimabara Peninsula. Dominated by the volcanic presence of Mount Unzen, the town is defined by crystal-clear spring water that flows through its streets — earning it the nickname “City of Spring Water.” Koi carp swim freely in the channels that line the old samurai district. The restored Shimabara Castle, built in 1624, stands as the town's centrepiece, while the nearby Unzen volcanic area offers bubbling jigoku hot springs, hiking trails through primeval forests, and dramatic views of the Ariake Sea. Shimabara is also the gateway to the Kumamoto ferry, making it a natural connector between Kyushu 's western and central regions.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/shimabara"
+  ]
  },
  {
   "destination": "Shirakawa-go",
-  "slug": null,
-  "region": "Chubu (Hida)",
-  "prefecture": "Gifu",
-  "url": null,
-  "url_verified": false,
-  "status": "cross_reference_only",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/japan-winter-itinerary"
-  ],
-  "summary_en": null,
-  "attractions": [
-   {
-    "name_en": "Shirakawa-go gassho-zukuri village",
-    "name_ja": "白川郷",
-    "category": "district",
-    "description_en": "UNESCO farmhouse village visited as a day trip from Takayama.",
-    "note": "Site: 50 min by bus/taxi from Takayama.",
-    "source": "https://selfguidejapan.com/blog/takayama"
-   }
-  ],
-  "sources": [
-   "https://selfguidejapan.com/blog/takayama",
-   "https://selfguidejapan.com/blog/japan-winter-itinerary"
-  ],
-  "notes": "No dedicated page searched (budget exhausted). Cross-reference: Takayama blog says Shirakawa-go is 50 minutes from Takayama by bus or chartered taxi and is the usual second day; also in blog title 'Japan Winter Itinerary: 12 Days of Snow Monkeys, Onsen, Shirakawa-go and Quiet Temples' and in the Koyasan tour summary. name_ja values are standard Japanese names from general knowledge (the site summaries contain no Japanese); null where the attraction has no fixed proper name."
- },
- {
-  "destination": "Miyajima",
-  "slug": null,
-  "region": "Chugoku",
-  "prefecture": "Hiroshima",
-  "url": null,
-  "url_verified": false,
-  "status": "covered_under_hiroshima",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/hiroshima-miyajima"
-  ],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations/hiroshima",
-   "https://selfguidejapan.com/blog/hiroshima-miyajima"
-  ],
-  "notes": "Attractions recorded under the Hiroshima entry (Itsukushima Shrine, Momijidani). Blog /blog/hiroshima-miyajima exists."
- },
- {
-  "destination": "Nikko",
-  "slug": null,
-  "region": "Kanto",
-  "prefecture": "Tochigi",
-  "url": null,
-  "url_verified": false,
-  "status": "cross_reference_only",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo"
-  ],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo"
-  ],
-  "notes": "Appears only in the title 'Best Day Trips from Tokyo by Train (2026): Hakone, Nikko, Kamakura + 10 More'. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Kamakura",
-  "slug": null,
-  "region": "Kanto",
-  "prefecture": "Kanagawa",
-  "url": null,
-  "url_verified": false,
-  "status": "cross_reference_only",
-  "blog_urls": [
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo"
-  ],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/blog/day-trips-from-tokyo"
-  ],
-  "notes": "Appears only in the title 'Best Day Trips from Tokyo by Train (2026): Hakone, Nikko, Kamakura + 10 More'. Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Kobe",
-  "slug": null,
-  "region": "Kansai",
-  "prefecture": "Hyogo",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Kumano / Nachi-Katsuura / Shirahama",
-  "slug": null,
-  "region": "Kansai",
-  "prefecture": "Wakayama",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Kurashiki",
-  "slug": null,
-  "region": "Chugoku",
-  "prefecture": "Okayama",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Naoshima",
-  "slug": null,
-  "region": "Setouchi",
-  "prefecture": "Kagawa",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Onomichi / Tomonoura",
-  "slug": null,
-  "region": "Chugoku",
-  "prefecture": "Hiroshima",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Matsuyama / Dogo Onsen",
-  "slug": null,
-  "region": "Shikoku",
-  "prefecture": "Ehime",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Kamikochi / Tateyama",
-  "slug": null,
+  "slug": "shirakawago",
+  "name_ja": "白川郷",
   "region": "Chubu",
-  "prefecture": "Nagano/Toyama",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
+  "prefecture": null,
+  "latitude": 36.270939,
+  "longitude": 136.898575,
+  "url": "https://selfguidejapan.com/destinations/shirakawago",
   "blog_urls": [],
-  "summary_en": null,
+  "summary_en": "Shirakawago is a UNESCO World Heritage village nestled in the remote Shogawa River valley of Gifu Prefecture. Its gassho-zukuri farmhouses — named for their steep thatched roofs that resemble hands pressed together in prayer — were built to withstand the region's punishing snowfall, some exceeding two metres per winter. Despite its fame, the village remains a living community. Around 600 residents still call Shirakawago home, and many farmhouses operate as minshuku (family-run guesthouses) where visitors can sleep on futons beneath those iconic roofs. The Shiroyama Observatory provides the classic panoramic view, while smaller hamlets like Ainokura in neighbouring Gokayama offer the same architecture with a fraction of the visitors.",
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Gero Onsen",
-  "slug": null,
-  "region": "Chubu",
-  "prefecture": "Gifu",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Nagasaki",
-  "slug": null,
-  "region": "Kyushu",
-  "prefecture": "Nagasaki",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried. Cross-reference: Huis Ten Bosch appears in the blog title 'Japan Winter Illuminations 2026-27: Nabana no Sato Dates, Huis Ten Bosch's New Show...'."
- },
- {
-  "destination": "Kumamoto / Aso",
-  "slug": null,
-  "region": "Kyushu",
-  "prefecture": "Kumamoto",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Kagoshima / Ibusuki",
-  "slug": null,
-  "region": "Kyushu",
-  "prefecture": "Kagoshima",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Beppu",
-  "slug": null,
-  "region": "Kyushu",
-  "prefecture": "Oita",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Takachiho",
-  "slug": null,
-  "region": "Kyushu",
-  "prefecture": "Miyazaki",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Sapporo",
-  "slug": null,
-  "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Otaru",
-  "slug": null,
-  "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Hakodate",
-  "slug": null,
-  "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Noboribetsu / Lake Toya",
-  "slug": null,
-  "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
- },
- {
-  "destination": "Furano / Rusutsu",
-  "slug": null,
-  "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
-  "blog_urls": [],
-  "summary_en": null,
-  "attractions": [],
-  "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/shirakawago"
+  ]
  },
  {
   "destination": "Shiretoko",
-  "slug": null,
+  "slug": "shiretoko",
+  "name_ja": "知床",
   "region": "Hokkaido",
-  "prefecture": "Hokkaido",
-  "url": null,
-  "url_verified": false,
-  "status": "not_searched",
+  "prefecture": null,
+  "latitude": 44.1231787381987,
+  "longitude": 145.083238635542,
+  "url": "https://selfguidejapan.com/destinations/shiretoko",
   "blog_urls": [],
   "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
   "attractions": [],
   "sources": [
-   "https://selfguidejapan.com/destinations"
-  ],
-  "notes": "Not searched: WebSearch budget for this turn was exhausted before this destination could be queried."
+   "https://selfguidejapan.com/destinations/shiretoko"
+  ]
+ },
+ {
+  "destination": "Shodoshima",
+  "slug": "shodoshima",
+  "name_ja": "小豆島",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 34.5144232126534,
+  "longitude": 134.263862084081,
+  "url": "https://selfguidejapan.com/destinations/shodoshima",
+  "blog_urls": [],
+  "summary_en": "Shodoshima is the second-largest island in the Seto Inland Sea, known for its Mediterranean-like climate, sprawling olive groves, and the romantic sandbar called Angel Road that appears only at low tide. Often called Japan's “Olive Island,” Shodoshima has cultivated olives since 1908 and its hillside groves lend the landscape a distinctly Southern European feel. The island also produces some of Japan's finest soy sauce and hand-stretched somen noodles, both crafted in small family workshops open to visitors. The Kankakei Gorge, one of Japan's top three gorges, offers spectacular ropeway rides through granite cliffs draped in maple and pine — especially breathtaking during autumn foliage season.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/shodoshima"
+  ]
+ },
+ {
+  "destination": "Sounkyo",
+  "slug": "sounkyo-gorge",
+  "name_ja": "層雲峡",
+  "region": "Hokkaido",
+  "prefecture": null,
+  "latitude": 43.65868,
+  "longitude": 143.035294,
+  "url": "https://selfguidejapan.com/destinations/sounkyo-gorge",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/sounkyo-gorge"
+  ]
+ },
+ {
+  "destination": "Takachiho",
+  "slug": "takachiho",
+  "name_ja": "高千穂",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 32.711666,
+  "longitude": 131.307785,
+  "url": "https://selfguidejapan.com/destinations/takachiho",
+  "blog_urls": [],
+  "summary_en": "Takachiho is the mythological heartland of Japan. According to the Kojiki, the oldest chronicle of Japanese history, it was here that the sun goddess Amaterasu hid in a cave, plunging the world into darkness. The town treats this legend as living heritage — nightly kagura dances at Takachiho Shrine re-enact the story in a tradition stretching back centuries. The Takachiho Gorge is the visual centrepiece: a narrow volcanic ravine where the Gokase River flows between columnar basalt cliffs reaching 80 to 100 metres high. Renting a rowing boat beneath the Manai Waterfall is one of Kyushu's most iconic experiences. Despite its fame, Takachiho's remote mountain location in northern Miyazaki keeps visitor numbers manageable.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/takachiho"
+  ]
+ },
+ {
+  "destination": "Takamatsu",
+  "slug": "takamatsu",
+  "name_ja": "高松",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 34.342758,
+  "longitude": 134.046524,
+  "url": "https://selfguidejapan.com/destinations/takamatsu",
+  "blog_urls": [],
+  "summary_en": "Takamatsu is the gateway to Shikoku and one of Japan's most underrated cities. Its crown jewel is Ritsurin Garden, widely considered one of the finest strolling gardens in the country — six ponds, thirteen landscaped hills, and centuries-old pine trees set against the forested Mount Shiun backdrop. As the capital of Kagawa Prefecture, Takamatsu is the undisputed heartland of Sanuki udon. The city is also the main port for ferries to the art islands of the Seto Inland Sea, including Naoshima, Teshima, and Shodoshima. With excellent train connections to Kotohira and Tokushima, Takamatsu makes an ideal base for exploring northern Shikoku.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/takamatsu"
+  ]
+ },
+ {
+  "destination": "Takayama",
+  "slug": "takayama",
+  "name_ja": "高山",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.1408,
+  "longitude": 137.2531,
+  "url": "https://selfguidejapan.com/destinations/takayama",
+  "blog_urls": [],
+  "summary_en": "Tucked into the mountains of the Japanese Alps, Takayama feels like stepping back in time. Its beautifully preserved Sanmachi Suji district is lined with dark-wood merchant houses, sake breweries marked by cedar balls, and craft shops that have operated for generations. The city earned the nickname “Little Kyoto” for its Edo-era streetscape, but its alpine setting gives it a character all its own. Takayama is also the gateway to the thatched-roof villages of Shirakawa-go. The morning markets along the Miyagawa River bustle with local farmers selling mountain vegetables, miso paste, and handmade crafts. Add in Hida beef — rivalling Kobe in marbling — and atmospheric festivals with ornate floats, and Takayama delivers one of Japan's most authentic cultural experiences.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/takayama"
+  ]
+ },
+ {
+  "destination": "Takehara",
+  "slug": "takehara",
+  "name_ja": "竹原",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 34.341156,
+  "longitude": 132.90535,
+  "url": "https://selfguidejapan.com/destinations/takehara",
+  "blog_urls": [],
+  "summary_en": "Takehara is a beautifully preserved Edo-era merchant town on the coast of Hiroshima Prefecture, often called “Little Kyoto of Aki” for its atmospheric streets of lattice-fronted townhouses, whitewashed storehouses, and bamboo-lattice walls. Unlike more famous historical towns, Takehara sees relatively few international visitors — lending it a sense of genuine discovery. The town's historic preservation district stretches along a gentle hillside, with temples, sake breweries, and traditional sweet shops lining narrow stone paths. Takehara is also the main port for ferries to Okunoshima, the famous “Rabbit Island” where hundreds of friendly wild rabbits roam freely among ruins of a former research facility.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/takehara"
+  ]
+ },
+ {
+  "destination": "Tamatsukuri Onsen",
+  "slug": "tamatsukuri-onsen",
+  "name_ja": "玉造温泉",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 35.41625,
+  "longitude": 133.010097,
+  "url": "https://selfguidejapan.com/destinations/tamatsukuri-onsen",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/tamatsukuri-onsen"
+  ]
+ },
+ {
+  "destination": "Tateyama Snow Wall",
+  "slug": "tateyama-snow-wall",
+  "name_ja": "立山雪之大谷",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.57603,
+  "longitude": 137.59173,
+  "url": "https://selfguidejapan.com/destinations/tateyama-snow-wall",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/tateyama-snow-wall"
+  ]
+ },
+ {
+  "destination": "Toba",
+  "slug": "toba",
+  "name_ja": "鳥羽",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.481342,
+  "longitude": 136.84343,
+  "url": "https://selfguidejapan.com/destinations/toba",
+  "blog_urls": [],
+  "summary_en": "Toba is a coastal gem on the Shima Peninsula in Mie Prefecture, celebrated for its pearl cultivation heritage and spectacular Ise-Shima coastline. It was here that Mikimoto Kokichi successfully cultured the world's first pearl in 1893, and the Mikimoto Pearl Island museum remains the town's most iconic attraction. Beyond pearls, Toba is home to the ama — traditional women free-divers who have harvested abalone and shellfish for over 2,000 years. The rugged coastline, dotted with small islands and fishing villages, delivers some of Japan's freshest seafood. A visit here pairs naturally with nearby Ise Grand Shrine for a rich cultural and culinary journey.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/toba"
+  ]
+ },
+ {
+  "destination": "Tokyo",
+  "slug": "tokyo",
+  "name_ja": "東京",
+  "region": "Kanto",
+  "prefecture": null,
+  "latitude": 35.6835271108333,
+  "longitude": 139.765382148889,
+  "url": "https://selfguidejapan.com/destinations/tokyo",
+  "blog_urls": [],
+  "summary_en": "Tokyo is a city of contrasts on a staggering scale. The world's largest metropolitan area — home to over 37 million people — manages to feel both futuristic and deeply traditional. Glass-and-steel towers crowd the skyline of Shinjuku, while just a few train stops away, the forested grounds of Meiji Shrine feel like a world apart. For first-time visitors, Tokyo is the natural starting point for any Japan trip. It houses the densest concentration of Michelin-starred restaurants on earth, the busiest pedestrian crossing on the planet, and transport infrastructure so precise that a train arriving 30 seconds late makes the evening news. Three to four days barely scratches the surface, but that's exactly what keeps travelers coming back.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/tokyo"
+  ]
+ },
+ {
+  "destination": "Tomonoura",
+  "slug": "tomonoura",
+  "name_ja": "鞆の浦",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 34.38515047,
+  "longitude": 133.37876161,
+  "url": "https://selfguidejapan.com/destinations/tomonoura",
+  "blog_urls": [],
+  "summary_en": "Tomonoura is a tiny harbour town on the southern coast of Hiroshima Prefecture that has barely changed in 300 years. Its crescent-shaped port, stone sea walls, and wooden merchant houses create a townscape so perfectly preserved that Hayao Miyazaki reportedly stayed here while working on Ponyo, and the town is widely considered the film's visual inspiration. Once a vital waiting port where ships paused for favourable tides on the Seto Inland Sea, Tomonoura now draws visitors for its timeless atmosphere and sweeping ocean views. The hilltop Fukuzenji Temple offers what is often called the most beautiful view in the Seto Inland Sea — a tableau of islands and fishing boats framed by the temple's tatami hall. Tomonoura rewards those willing to slow down.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/tomonoura"
+  ]
+ },
+ {
+  "destination": "Tottori",
+  "slug": "tottori",
+  "name_ja": "鳥取",
+  "region": "Chugoku",
+  "prefecture": null,
+  "latitude": 35.5409409727514,
+  "longitude": 134.229933112298,
+  "url": "https://selfguidejapan.com/destinations/tottori",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/tottori"
+  ]
+ },
+ {
+  "destination": "Toyama",
+  "slug": "toyama",
+  "name_ja": "富山",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.695904,
+  "longitude": 137.213715,
+  "url": "https://selfguidejapan.com/destinations/toyama",
+  "blog_urls": [],
+  "summary_en": "Toyama sits on the Sea of Japan coast with the towering 3,000-metre peaks of the Tateyama mountain range as its backdrop. The city is the gateway to the Alpine Route — one of Japan's most spectacular mountain crossings — and a hub for some of the freshest seafood in the country, pulled straight from Toyama Bay. Beyond the dramatic scenery, Toyama surprises visitors with a compact, modern city centre connected by an elegant light-rail loop. The Toyama Glass Art Museum, designed by Kengo Kuma, is a standout cultural attraction. For travellers heading between Tokyo and Kanazawa on the Hokuriku Shinkansen, Toyama deserves far more than a quick transfer stop.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/toyama"
+  ]
+ },
+ {
+  "destination": "Uchiko",
+  "slug": "uchiko",
+  "name_ja": "内子",
+  "region": "Shikoku",
+  "prefecture": null,
+  "latitude": 33.533039,
+  "longitude": 132.658127,
+  "url": "https://selfguidejapan.com/destinations/uchiko",
+  "blog_urls": [],
+  "summary_en": "Uchiko is a small town in Ehime Prefecture that prospered during the Meiji era as a centre for Japanese wax production. Its Yokaichi & Gokoku historic district preserves an extraordinary row of merchant houses with cream-coloured plaster walls, dark timber beams, and ornate lattice windows — a streetscape that feels like stepping back to 19th-century rural Japan. Despite its modest size, Uchiko punches above its weight in cultural offerings. The Uchiko-za kabuki theatre, built in 1916, still hosts performances and is open for visitors to explore its revolving stage and trapdoor mechanisms. The Kamihaga Residence, a former wax merchant's estate, offers an intimate look at the wealth and craftsmanship that the wax trade brought to this mountain valley.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/uchiko"
+  ]
+ },
+ {
+  "destination": "Unzen",
+  "slug": "unzen",
+  "name_ja": "雲仙",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 32.834999,
+  "longitude": 130.1875,
+  "url": "https://selfguidejapan.com/destinations/unzen",
+  "blog_urls": [],
+  "summary_en": "Unzen is a volcanic hot-spring town tucked into the mountains of the Shimabara Peninsula in Nagasaki Prefecture. Its steaming Unzen Jigoku — “Unzen Hells” — are a dramatic landscape of bubbling sulfur vents and hissing fumaroles that hint at the powerful geothermal forces below. As one of Japan's first national parks, Unzen has attracted visitors since the Meiji era, when Western diplomats used it as a summer retreat. The surrounding Unzen-Amakusa National Park offers lush hiking through azalea-covered slopes, ancient forests, and panoramic views of Ariake Sea. The mineral-rich onsen waters are renowned for soothing skin and easing fatigue.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/unzen"
+  ]
+ },
+ {
+  "destination": "Ureshino",
+  "slug": "ureshino",
+  "name_ja": "嬉野",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.127777,
+  "longitude": 130.059998,
+  "url": "https://selfguidejapan.com/destinations/ureshino",
+  "blog_urls": [],
+  "summary_en": "Ureshino is a tranquil hot-spring town in Saga Prefecture, treasured for its silky alkaline waters that leave skin remarkably smooth. Ranked among Japan's top three “beautifying” onsen alongside Shimane's Yunokawa and Tochigi's Kitatsurugi, Ureshino draws visitors seeking rejuvenation in an unhurried countryside setting. The town is equally famous for its tea. Ureshino-cha, a distinctive roasted green tea, has been cultivated on these hillsides for over 500 years. Strolling through the compact onsen district, you'll find public foot baths, a tofu restaurant that simmers its dishes in spring water, and charming ryokan lining the Shio River.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/ureshino"
+  ]
+ },
+ {
+  "destination": "Utsukushigahara",
+  "slug": "utsukushigahara",
+  "name_ja": "美ヶ原",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.2306352,
+  "longitude": 138.1403249,
+  "url": "https://selfguidejapan.com/destinations/utsukushigahara",
+  "blog_urls": [],
+  "summary_en": "Utsukushigahara is a vast highland plateau straddling Nagano and Matsumoto at an elevation of around 2,000 metres. Its name literally means “beautiful meadow,” and the rolling alpine grasslands deliver on that promise — panoramic 360-degree views stretch from the Northern Alps to Mount Fuji on clear days. The plateau is home to the Utsukushigahara Open-Air Museum, where modern sculptures are scattered across the highland meadows, creating a surreal juxtaposition of art and nature. Accessible by a scenic toll road or a rewarding mountain hike, this is one of central Japan's most spectacular yet least-visited highland destinations — a place where Japanese families have escaped summer heat for generations.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/utsukushigahara"
+  ]
+ },
+ {
+  "destination": "Yame",
+  "slug": "yame",
+  "name_ja": "八女",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.211426,
+  "longitude": 130.558151,
+  "url": "https://selfguidejapan.com/destinations/yame",
+  "blog_urls": [],
+  "summary_en": "Yame is a tranquil town in southern Fukuoka Prefecture renowned for producing some of Japan's most prized green tea. Yame gyokuro, a shade-grown tea with a rich umami sweetness, consistently wins the highest accolades at national competitions — and the rolling tea fields that surround the town are a beautiful sight in their own right. Beyond tea, Yame is a living museum of traditional crafts. The area is known for Yame lanterns made from handmade washi paper, intricate Buddhist altar carvings (butsudan), and indigo-dyed textiles. The old town's white-walled storehouses and Edo-period streets remain largely intact, offering a window into rural Kyushu life far removed from the bustle of Fukuoka city, just 90 minutes to the north.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/yame"
+  ]
+ },
+ {
+  "destination": "Yanagawa",
+  "slug": "yanagawa",
+  "name_ja": "柳川",
+  "region": "Kyushu",
+  "prefecture": null,
+  "latitude": 33.163055,
+  "longitude": 130.406113,
+  "url": "https://selfguidejapan.com/destinations/yanagawa",
+  "blog_urls": [],
+  "summary_en": "Yanagawa is a castle town built on water. Located in southern Fukuoka Prefecture, its network of canals — originally constructed as castle moats over 400 years ago — now forms the backdrop for one of Japan's most charming boat experiences. Flat-bottomed donko boats glide along willow-lined waterways while boatmen sing traditional songs and punt with long bamboo poles. The town is also the birthplace of the poet Kitahara Hakushu, and his former residence sits beside one of the prettiest canal stretches. Yanagawa's signature dish, unagi no seiro-mushi (steamed eel over rice in lacquer boxes), is considered among the finest eel preparations in Japan. A half-day here offers a pace of life that feels wonderfully removed from Fukuoka's urban energy just 50 minutes away by train.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/yanagawa"
+  ]
+ },
+ {
+  "destination": "Yoshino",
+  "slug": "yoshino",
+  "name_ja": "吉野",
+  "region": "Kansai",
+  "prefecture": null,
+  "latitude": 34.396,
+  "longitude": 135.857,
+  "url": "https://selfguidejapan.com/destinations/yoshino",
+  "blog_urls": [],
+  "summary_en": null,
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/yoshino"
+  ]
+ },
+ {
+  "destination": "Yudanaka Onsen",
+  "slug": "yudanaka-onsen",
+  "name_ja": "湯田中温泉",
+  "region": "Chubu",
+  "prefecture": null,
+  "latitude": 36.739722,
+  "longitude": 138.420556,
+  "url": "https://selfguidejapan.com/destinations/yudanaka-onsen",
+  "blog_urls": [],
+  "summary_en": "Yudanaka Onsen is a quiet hot-spring town in Nagano's Yokoyu River valley, best known as the base for visiting Jigokudani Monkey Park — the only place in the world where wild Japanese macaques soak in natural hot springs. Watching snow monkeys bathe in steaming pools surrounded by winter snowfall is one of Japan's most iconic wildlife experiences. Beyond the monkeys, Yudanaka itself is a charming onsen village with a 1,350-year bathing history. Traditional ryokan line the narrow streets, many with their own private rotenburo (open-air baths). The surrounding Shiga Kogen highlands offer hiking in summer and skiing in winter, making this area rewarding year-round. It's the kind of slow-paced, authentically Japanese stop that balances perfectly with big-city sightseeing.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/yudanaka-onsen"
+  ]
+ },
+ {
+  "destination": "Zao",
+  "slug": "zao",
+  "name_ja": "蔵王",
+  "region": "Tohoku",
+  "prefecture": null,
+  "latitude": 38.174319,
+  "longitude": 140.41791,
+  "url": "https://selfguidejapan.com/destinations/zao",
+  "blog_urls": [],
+  "summary_en": "Zao is famous for its “snow monsters” — juhyo, the extraordinary ice-encrusted trees that form on the mountain slopes when Siberian winds freeze moisture onto the Aomori fir trees. These otherworldly formations, some reaching over five metres tall, create a landscape unlike anything else in Japan and draw photographers and skiers from around the world each winter. Beyond the frozen spectacle, Zao is a well-rounded mountain destination. The Zao Onsen village at the base has been a hot-spring retreat for over 1,900 years, with milky-white, strongly acidic waters prized for their skin benefits. Okama Crater Lake — a vivid emerald volcanic lake near the summit — is a star attraction from spring through autumn. Zao combines raw natural beauty, rewarding skiing, and deep onsen culture in one compact area.",
+  "best_time": null,
+  "insider_tips": null,
+  "attractions": [],
+  "sources": [
+   "https://selfguidejapan.com/destinations/zao"
+  ]
  }
 ]

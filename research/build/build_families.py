@@ -88,8 +88,7 @@ for f in FAMILIES:
     L += ["| 代码 | 线路 | 中文名 | 天数 | 住宿骨架 | 价格/人 | 与标准行程的差异 / 备注 |", "|---|---|---|---|---|---|---|"]
     for m in f["members"]:
         t = tours.get(m)
-        if not t:
-            L.append(f"| {m} | （未在目录中） |  |  |  |  |  |"); continue
+        if not t: continue
         tag = "**标准**" if m == f["standard"] else ("豪华版" if t.get("deluxe") else "变体")
         extra = []
         others = sorted(tour_fams[m] - {f["id"]})

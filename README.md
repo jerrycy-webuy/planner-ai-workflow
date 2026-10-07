@@ -26,7 +26,7 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | [docs/02_lark_product_base_schema.md](docs/02_lark_product_base_schema.md) | Lark Product Base 8 张表字段级设计 + 核心机制 + 视图 + 建表进度 |
 | [docs/03_itinerary_skill_v3_proposal.md](docs/03_itinerary_skill_v3_proposal.md) | A5 行程 PDF skill v3 重设计（基于 5 份设计师成品逆向分析） |
 | [docs/overview.html](docs/overview.html) | 一页总览（可直接在浏览器打开） |
-| [research/](research/) | 竞品/参考站整理：selfguidejapan.com（89 条自助游线路）、japan-navi-journey.com（12 条私人定制行程）、两站合并的 22 个行程家族 + 582 个按城市 tag 的可选景点（`research/japan_merged/`） |
+| [research/](research/) | 竞品/参考站整理（直接抓取）：selfguidejapan.com（110 条自助游线路，全部含逐日/酒店/价格）、japan-navi-journey.com（11 条私人定制行程）、两站合并的 22 个行程家族 + 523 个按城市 tag 的可选景点（`research/japan_merged/`） |
 
 ## 架构一句话
 
