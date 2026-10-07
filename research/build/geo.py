@@ -109,6 +109,67 @@ CITY.update({
     "tsugaike": ("栂池", "Chubu", "中部"), "misorano": ("白马 Misorano", "Chubu", "中部"), "happoone": ("八方尾根", "Chubu", "中部"),
 })
 
+CITY.update({
+    # 东北（Japan Navi Journey 主力区域）
+    "aomori": ("青森", "Tohoku", "东北"), "hirosaki": ("弘前", "Tohoku", "东北"), "hachinohe": ("八户", "Tohoku", "东北"), "towada": ("十和田", "Tohoku", "东北"),
+    "laketowada": ("十和田湖", "Tohoku", "东北"), "oirase": ("奥入濑溪流", "Tohoku", "东北"), "tsugaru": ("津轻", "Tohoku", "东北"), "mutsu": ("陆奥", "Tohoku", "东北"),
+    "shimokita": ("下北半岛", "Tohoku", "东北"), "oma": ("大间", "Tohoku", "东北"), "osorezan": ("恐山", "Tohoku", "东北"), "shirakami": ("白神山地", "Tohoku", "东北"),
+    "shirakamisanchi": ("白神山地", "Tohoku", "东北"), "sukayu": ("酸汤温泉", "Tohoku", "东北"), "hakkoda": ("八甲田", "Tohoku", "东北"), "aoni": ("青荷温泉", "Tohoku", "东北"),
+    "goshogawara": ("五所川原", "Tohoku", "东北"), "kuroishi": ("黑石", "Tohoku", "东北"), "ajigasawa": ("鯵泽", "Tohoku", "东北"), "owani": ("大鳄温泉", "Tohoku", "东北"),
+    "sendai": ("仙台", "Tohoku", "东北"), "matsushima": ("松岛", "Tohoku", "东北"), "akiu": ("秋保温泉", "Tohoku", "东北"), "naruko": ("鸣子温泉", "Tohoku", "东北"),
+    "ishinomaki": ("石卷", "Tohoku", "东北"), "kesennuma": ("气仙沼", "Tohoku", "东北"), "shiogama": ("盐釜", "Tohoku", "东北"), "zao": ("藏王", "Tohoku", "东北"),
+    "yamagata": ("山形", "Tohoku", "东北"), "yonezawa": ("米泽", "Tohoku", "东北"), "sakata": ("酒田", "Tohoku", "东北"), "tsuruoka": ("鹤冈", "Tohoku", "东北"),
+    "dewasanzan": ("出羽三山", "Tohoku", "东北"), "hiraizumi": ("平泉", "Tohoku", "东北"), "morioka": ("盛冈", "Tohoku", "东北"), "hanamaki": ("花卷温泉", "Tohoku", "东北"),
+    "kakunodate": ("角馆", "Tohoku", "东北"), "laketazawa": ("田泽湖", "Tohoku", "东北"), "nyuto": ("乳头温泉乡", "Tohoku", "东北"), "fukushima": ("福岛", "Tohoku", "东北"),
+    "aizu": ("会津若松", "Tohoku", "东北"), "aizuwakamatsu": ("会津若松", "Tohoku", "东北"), "ouchijuku": ("大内宿", "Tohoku", "东北"), "lakeinawashiro": ("猪苗代湖", "Tohoku", "东北"),
+    # 关东北部・甲信越
+    "nikko": ("日光", "Kanto", "关东"), "kinugawa": ("鬼怒川温泉", "Kanto", "关东"), "nasu": ("那须", "Kanto", "关东"), "utsunomiya": ("宇都宫", "Kanto", "关东"),
+    "tochigi": ("栃木", "Kanto", "关东"), "mashiko": ("益子", "Kanto", "关东"), "ashikaga": ("足利", "Kanto", "关东"), "kusatsu": ("草津温泉", "Kanto", "关东"),
+    "niigata": ("新潟", "Chubu", "中部"), "sado": ("佐渡岛", "Chubu", "中部"), "echigoyuzawa": ("越后汤泽", "Chubu", "中部"), "yuzawa": ("越后汤泽", "Chubu", "中部"),
+    "nagaoka": ("长冈", "Chubu", "中部"), "tokamachi": ("十日町", "Chubu", "中部"), "myoko": ("妙高", "Chubu", "中部"),
+    "karuizawa": ("轻井泽", "Chubu", "中部"), "komoro": ("小诸", "Chubu", "中部"), "ueda": ("上田", "Chubu", "中部"), "suwa": ("诹访", "Chubu", "中部"),
+    "ina": ("伊那", "Chubu", "中部"), "inavalley": ("伊那谷", "Chubu", "中部"), "komagane": ("驹根", "Chubu", "中部"), "iida": ("饭田", "Chubu", "中部"),
+    "achi": ("阿智村", "Chubu", "中部"), "hirugami": ("昼神温泉", "Chubu", "中部"), "obuse": ("小布施", "Chubu", "中部"), "togakushi": ("户隐", "Chubu", "中部"),
+    "shibuonsen": ("涩温泉", "Chubu", "中部"), "bessho": ("别所温泉", "Chubu", "中部"), "azumino": ("安昙野", "Chubu", "中部"), "norikura": ("乘鞍", "Chubu", "中部"),
+    "kofu": ("甲府", "Chubu", "中部"), "yamanashi": ("山梨", "Chubu", "中部"),
+    # 爱知・知多
+    "chita": ("知多半岛", "Chubu", "中部"), "chitapeninsula": ("知多半岛", "Chubu", "中部"), "tokoname": ("常滑", "Chubu", "中部"), "handa": ("半田", "Chubu", "中部"),
+    "minamichita": ("南知多", "Chubu", "中部"), "centrair": ("中部国际机场", "Chubu", "中部"), "okazaki": ("冈崎", "Chubu", "中部"), "toyota": ("丰田", "Chubu", "中部"),
+    "gamagori": ("蒲郡", "Chubu", "中部"), "seto": ("濑户", "Chubu", "中部"), "arimatsu": ("有松", "Chubu", "中部"),
+    # 关西补充
+    "sakai": ("堺", "Kansai", "关西"), "yumeshima": ("梦洲（世博园区）", "Kansai", "关西"), "expo2025": ("2025 大阪世博", "Kansai", "关西"), "sakaiosaka": ("堺（大阪）", "Kansai", "关西"),
+    # 福冈周边
+    "itoshima": ("糸岛", "Kyushu", "九州"), "yame": ("八女", "Kyushu", "九州"), "kurume": ("久留米", "Kyushu", "九州"), "munakata": ("宗像", "Kyushu", "九州"),
+    "okinoshima": ("冲之岛", "Kyushu", "九州"), "asakura": ("朝仓", "Kyushu", "九州"), "ukiha": ("浮羽", "Kyushu", "九州"), "hita": ("日田", "Kyushu", "九州"),
+    "nokonoshima": ("能古岛", "Kyushu", "九州"), "yanagawa": ("柳川", "Kyushu", "九州"), "hakata": ("博多", "Kyushu", "九州"),
+    # 北海道补充
+    "noboribetsu": ("登别温泉", "Hokkaido", "北海道"), "biei": ("美瑛", "Hokkaido", "北海道"), "lakeshikotsu": ("支笏湖", "Hokkaido", "北海道"),
+    # 关东补充
+    "kamakura": ("镰仓", "Kanto", "关东"), "enoshima": ("江之岛", "Kanto", "关东"), "chiba": ("千叶", "Kanto", "关东"), "kawagoe": ("川越", "Kanto", "关东"),
+})
+
+CITY.update({
+    "oita": ("大分", "Kyushu", "九州"), "yoshino": ("吉野", "Kansai", "关西"), "aichi": ("爱知", "Chubu", "中部"), "iwate": ("岩手", "Tohoku", "东北"),
+    "miyagi": ("宫城", "Tohoku", "东北"), "hyogo": ("兵库", "Kansai", "关西"), "shiga": ("滋贺", "Kansai", "关西"), "mie": ("三重", "Chubu", "中部"),
+    "gifu": ("岐阜", "Chubu", "中部"), "ishikawa": ("石川", "Hokuriku", "北陆"), "shizuoka": ("静冈", "Chubu", "中部"), "hokkaido": ("北海道", "Hokkaido", "北海道"),
+    "tohoku": ("东北", "Tohoku", "东北"), "kyushu": ("九州", "Kyushu", "九州"), "shikoku": ("四国", "Shikoku", "四国"), "chugoku": ("中国地方", "Chugoku", "中国地方"),
+    "kanto": ("关东", "Kanto", "关东"), "chubu": ("中部", "Chubu", "中部"), "hokuriku": ("北陆", "Hokuriku", "北陆"), "kii": ("纪伊半岛", "Kansai", "关西"),
+    "kiipeninsula": ("纪伊半岛", "Kansai", "关西"), "wakayama": ("和歌山", "Kansai", "关西"), "asuka": ("飞鸟", "Kansai", "关西"), "madarao": ("斑尾高原", "Chubu", "中部"),
+})
+
+CITY.update({
+    "fujimi": ("富士见", "Chubu", "中部"), "fukutsu": ("福津", "Kyushu", "九州"), "izumisano": ("泉佐野", "Kansai", "关西"), "mihama": ("美滨（知多）", "Chubu", "中部"),
+    "misawa": ("三泽", "Tohoku", "东北"), "nagakute": ("长久手", "Chubu", "中部"), "ogi": ("小木港", "Chubu", "中部"), "ogiport": ("小木港", "Chubu", "中部"),
+    "ryotsu": ("两津港", "Chubu", "中部"), "sai": ("佐井", "Tohoku", "东北"), "southwestsado": ("佐渡西南部", "Chubu", "中部"), "suita": ("吹田", "Kansai", "关西"),
+    "hakkoda": ("八甲田", "Tohoku", "东北"), "oirasearea": ("奥入濑", "Tohoku", "东北"), "achi": ("阿智村", "Chubu", "中部"), "kiso": ("木曾", "Chubu", "中部"),
+})
+
+CITY.update({
+    "bihoro": ("美幌", "Hokkaido", "北海道"), "hasami": ("波佐见", "Kyushu", "九州"), "miyazu": ("宫津（天桥立）", "Kansai", "关西"), "toyooka": ("丰冈", "Kansai", "关西"),
+    "ozu": ("大洲", "Shikoku", "四国"), "iyoozu": ("伊予大洲", "Shikoku", "四国"), "sakurai": ("樱井", "Kansai", "关西"), "setoda": ("濑户田（生口岛）", "Setouchi", "濑户内"),
+    "ikuchijima": ("生口岛", "Setouchi", "濑户内"), "tamatsukuri": ("玉造温泉", "Chugoku", "中国地方"), "matsue": ("松江", "Chugoku", "中国地方"),
+})
+
 REGION_CN = {
     "Kanto": "关东", "Chubu": "中部", "Hokuriku": "北陆", "Kansai": "关西", "Chugoku": "中国地方",
     "Setouchi": "濑户内", "Shikoku": "四国", "Kyushu": "九州", "Hokkaido": "北海道", "Tohoku": "东北", "Okinawa": "冲绳",
@@ -131,7 +192,7 @@ def city_info(name):
     if k in CITY:
         return CITY[k]
     # 去掉常见后缀再试
-    for suf in ("city", "station", "onsen", "area", "region", "island", "lake"):
+    for suf in ("city", "station", "onsen", "area", "region", "island", "lake", "peninsula", "gorge", "stream", "valley", "bay", "coast", "highlands", "highland", "plateau", "village", "town", "prefecture", "mountains", "mountain", "airport"):
         if k.endswith(suf) and k[: -len(suf)] in CITY:
             return CITY[k[: -len(suf)]]
     for pre in ("lake", "mt"):

@@ -449,7 +449,8 @@
    "SK004",
    "SK005",
    "SK006",
-   "SK102"
+   "SK102",
+   "SK205"
   ],
   "note": "雪猴（地狱谷野猿公苑）+ 汤田中温泉 1N + 雪场 6N；两周版加藏王树冰。"
  },
@@ -604,5 +605,200 @@
    "LX003"
   ],
   "note": "LX002 琵琶湖·彦根城·近江八幡·大原（4 天包车，椿山庄/Prince 京都宝池/InterContinental 大阪）；LX003 广岛 + 京都（Suiran 岚山）。"
+ },
+ {
+  "id": "F16",
+  "name": "青森·东北深度（私人定制）",
+  "name_en": "Aomori & Tohoku Bespoke",
+  "skeleton": [
+   {
+    "city": "Aomori City",
+    "city_cn": "青森",
+    "nights": 2
+   },
+   {
+    "city": "Shimokita Peninsula",
+    "city_cn": "下北半岛",
+    "nights": 2
+   },
+   {
+    "city": "Hachinohe",
+    "city_cn": "八户",
+    "nights": 2
+   }
+  ],
+  "days": "3–10D",
+  "standard": "JNJ-AOMORI-UNVEILED",
+  "members": [
+   "JNJ-AOMORI-UNVEILED",
+   "JNJ-PREMIUM-TOHOKU-GOURMET-TOUR",
+   "JNJ-TSUGARU-SLOW-TRAVEL-3D",
+   "JNJ-NEBUTA",
+   "JNJ-TOKYO-TOHOKU-SNOW-MONSTERS-10D"
+  ],
+  "note": "Japan Navi Journey 主打区域（团队驻青森）：八甲田·奥入濑·十和田湖、下北半岛（恐山、仏之浦、大间金枪鱼）、八户早市·种差海岸、弘前·岩木山温泉旅馆、睡魔祭工作坊；冬季版东京进出看八甲田树冰 + 秘汤（酸汤、青荷灯之宿）。私家车 + 英语导游，按询价。selfguidejapan 无东北线路，属**互补区域**。"
+ },
+ {
+  "id": "F17",
+  "name": "信州·长野深度（私人定制）",
+  "name_en": "Nagano Bespoke",
+  "skeleton": [
+   {
+    "city": "Matsumoto",
+    "city_cn": "松本",
+    "nights": 1
+   },
+   {
+    "city": "Suwa",
+    "city_cn": "诹访",
+    "nights": 1
+   },
+   {
+    "city": "Ina",
+    "city_cn": "伊那",
+    "nights": 1
+   },
+   {
+    "city": "Hirugami Onsen",
+    "city_cn": "昼神温泉",
+    "nights": 2
+   },
+   {
+    "city": "Kiso",
+    "city_cn": "木曾",
+    "nights": 1
+   }
+  ],
+  "days": "5–7D",
+  "standard": "JNJ-NAGANO-PREMIUM-RETREAT",
+  "members": [
+   "JNJ-NAGANO-PREMIUM-RETREAT",
+   "JNJ-EASTERN-NAGANO-ESCAPE-5D",
+   "SK005",
+   "SK006",
+   "NT005"
+  ],
+  "note": "南信州：松本城 + 扉温泉明神馆、富士见全景缆车、诹访五藏、伊那谷（驹岳缆车千叠敷、天龙峡）、昼神温泉 + 阿智村观星、木曾福岛；东信州版以轻井泽·小诸为中心。与 selfguidejapan 的 F11（雪猴 + 志贺/白马滑雪）、F12（立山黑部·松本）在松本/长野节点交叉，可拼成「雪猴 + 南信州温泉」组合。"
+ },
+ {
+  "id": "F18",
+  "name": "福冈近郊深度（私人定制）",
+  "name_en": "Fukuoka Countryside Bespoke",
+  "skeleton": [
+   {
+    "city": "Itoshima",
+    "city_cn": "糸岛",
+    "nights": 1
+   },
+   {
+    "city": "Kurume",
+    "city_cn": "久留米",
+    "nights": 1
+   },
+   {
+    "city": "Ukiha",
+    "city_cn": "浮羽",
+    "nights": 1
+   },
+   {
+    "city": "Munakata",
+    "city_cn": "宗像",
+    "nights": 1
+   },
+   {
+    "city": "Fukuoka",
+    "city_cn": "福冈",
+    "nights": 1
+   }
+  ],
+  "days": "6D",
+  "standard": "JNJ-DISCOVER-FUKUOKA",
+  "members": [
+   "JNJ-DISCOVER-FUKUOKA"
+  ],
+  "note": "糸岛海岸艺术工作室、久留米絣 + 酒藏、浮羽采果与白壁街、宗像大社（世界遗产）+ 温泉旅馆、福津、太宰府。与 selfguidejapan F08（九州温泉环线）、BF005（东京到福冈）在福冈节点衔接：可作为九州环线前后的 2–3 天深度模块。"
+ },
+ {
+  "id": "F19",
+  "name": "名古屋·知多半岛（私人定制）",
+  "name_en": "Nagoya & Chita Bespoke",
+  "skeleton": [
+   {
+    "city": "Nagoya",
+    "city_cn": "名古屋",
+    "nights": 2
+   },
+   {
+    "city": "Chita Peninsula",
+    "city_cn": "知多半岛",
+    "nights": 1
+   }
+  ],
+  "days": "4D",
+  "standard": "JNJ-AICHI-NAGOYA-CHITA",
+  "members": [
+   "JNJ-AICHI-NAGOYA-CHITA"
+  ],
+  "note": "名古屋城本丸御殿、大须、常滑陶瓷散步道、知多半岛（野间灯塔、三轮神社、虾仙贝之里）、中部机场 Flight of Dreams；吉卜力公园可选。与 selfguidejapan F05（伊势志摩，经名古屋）、F14（名古屋乐高/吉卜力）交叉，可作中部机场进出的短模块。"
+ },
+ {
+  "id": "F20",
+  "name": "佐渡·新潟（私人定制）",
+  "name_en": "Sado Island Bespoke",
+  "skeleton": [
+   {
+    "city": "Sado Island",
+    "city_cn": "佐渡岛",
+    "nights": 3
+   }
+  ],
+  "days": "4D",
+  "standard": "JNJ-SADO-ISLAND",
+  "members": [
+   "JNJ-SADO-ISLAND"
+  ],
+  "note": "新潟港渡轮约 2 小时上岛：佐渡金山、大野龟·二龟、小木盆舟、朱鹮观察、能剧、海上活动；3 晚含餐 + 私家车 + 全程英语导游。selfguidejapan 无对应，属互补区域。"
+ },
+ {
+  "id": "F21",
+  "name": "大阪深度：堺·世博·相扑（私人定制）",
+  "name_en": "Osaka Deep Dive Bespoke",
+  "skeleton": [
+   {
+    "city": "Osaka",
+    "city_cn": "大阪",
+    "nights": 4
+   }
+  ],
+  "days": "5D",
+  "standard": "JNJ-OSAKA-5DAYS",
+  "members": [
+   "JNJ-OSAKA-5DAYS",
+   "KR003"
+  ],
+  "note": "百舌鸟古坟群热气球、堺打刃物锻造、丸一菓子舗和菓子 + 利晶之杜茶道、长居植物园 teamLab、万博纪念公园、大阪城、黑门市场、道顿堀、泉佐野相扑体验。与 selfguidejapan F01（黄金路线大阪段）、KR003（大阪基地樱花 4 天）同为大阪驻点型，可互换为「大阪 + 体验」模块。"
+ },
+ {
+  "id": "F22",
+  "name": "栃木·日光（私人定制）",
+  "name_en": "Tochigi & Nikko Bespoke",
+  "skeleton": [
+   {
+    "city": "Nikko",
+    "city_cn": "日光",
+    "nights": 2
+   },
+   {
+    "city": "Nasu",
+    "city_cn": "那须",
+    "nights": 1
+   }
+  ],
+  "days": "4D",
+  "standard": "JNJ-TOCHIGI-4D",
+  "members": [
+   "JNJ-TOCHIGI-4D"
+  ],
+  "note": "索引页标题「World Heritage, Hot Springs & Cultural Charms」（日光东照宫、鬼怒川/那须温泉），详情页未被索引，骨架为推断。selfguidejapan 无日光线路，属互补区域；可作为东京前后 2–3 天模块。"
  }
 ]

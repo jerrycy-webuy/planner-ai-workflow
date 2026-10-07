@@ -1,0 +1,2839 @@
+[
+ {
+  "code": "KY001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KY001",
+  "title_en": "Hidden Kyushu: Nature, Onsen & Culture Adventure",
+  "subtitle_en": null,
+  "days": 9,
+  "nights": 8,
+  "price_min": 2900,
+  "price_max": 4000,
+  "currency": "USD",
+  "price_note": "US$2,900 ~ US$4,000 (search summary; basis per person/twin share not stated)",
+  "series": "KY",
+  "themes": [
+   "Hidden Gems",
+   "Onsen"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Fukuoka",
+    "nights": null
+   },
+   {
+    "city": "Nagasaki",
+    "nights": null
+   },
+   {
+    "city": "Kumamoto",
+    "nights": null
+   },
+   {
+    "city": "Takachiho",
+    "nights": null
+   },
+   {
+    "city": "Beppu",
+    "nights": null
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrival",
+    "from": null,
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Staff meet you at the airport (summary: 'the itinerary starts with staff meeting you at the airport')",
+    "meals": null,
+    "stay": null,
+    "notes": "Arrival city not stated; first hotel listed for the tour is ANA Crowne Plaza Fukuoka (or similar), so Fukuoka is likely but not explicit"
+   }
+  ],
+  "hotels": [
+   {
+    "city": "Fukuoka",
+    "hotel": "ANA Crowne Plaza Fukuoka (or similar)",
+    "tier": "Standard"
+   }
+  ],
+  "inclusions": [
+   "all hotels",
+   "trains",
+   "airport meet"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "9-day onsen journey through Fukuoka, Nagasaki and Kumamoto with traditional ryokan and natural hot springs",
+   "Visits to Nagasaki, Kumamoto, Takachiho and Beppu"
+  ],
+  "attractions_all": [],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/KY001 ... itinerary day by day' - code, title, 9 days, price, route cities, Fukuoka hotel",
+   "https://selfguidejapan.com/experiences/Hidden%20Gems",
+   "https://selfguidejapan.com/blog/japan-luxury-tours",
+   "https://selfguidejapan.com/blog/japan-hidden-gems",
+   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
+  ],
+  "notes": "Pass 2 (1 extended search). The /tours/KY001 URL still did not appear in Links. Summary explicitly states: 'the detailed day-by-day itinerary breakdown and complete hotel listings ... aren't fully provided'. Only Day 1 (airport meet) is explicit; days 2-9 NOT obtained. New in pass 2: Fukuoka hotel = ANA Crowne Plaza Fukuoka (or similar), Standard tier. No second search done (tour < 12 days, per pass-2 rule)."
+ },
+ {
+  "code": "KY002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KY002",
+  "title_en": "Kyushu Pottery Towns & All of Nagasaki",
+  "subtitle_en": null,
+  "days": 9,
+  "nights": 8,
+  "price_min": 2800,
+  "price_max": 4400,
+  "currency": "USD",
+  "price_note": "US$2,800 ~ US$4,400 (search summary; basis not stated)",
+  "series": "KY",
+  "themes": [],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Fukuoka",
+    "nights": null
+   },
+   {
+    "city": "Ureshino",
+    "nights": null
+   },
+   {
+    "city": "Huis Ten Bosch",
+    "nights": null
+   },
+   {
+    "city": "Nagasaki",
+    "nights": 3
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [
+   {
+    "city": "Fukuoka",
+    "hotel": "ANA Crowne Plaza Fukuoka (or similar)",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "hotels",
+   "trains"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Fukuoka, Ureshino, Huis Ten Bosch and three nights in Nagasaki"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Huis Ten Bosch",
+    "city": "Sasebo (Nagasaki Pref.)"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/KY002 ... itinerary day by day' - code, title, 9 days, price, route, Fukuoka hotel",
+   "https://selfguidejapan.com/experiences/Hidden%20Gems",
+   "https://selfguidejapan.com/blog/nagasaki-kunchi-2026",
+   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
+  ],
+  "notes": "Pass 2 (1 extended search). /tours/KY002 URL not in Links. Summary explicitly says the day-by-day breakdown (Days 1-9) and full hotel list are not available in results; day_by_day left empty. The summary's phrase '9-day culinary adventure featuring local cuisine and food markets with premium hotels' looks like contamination from another (food-themed) route and was NOT recorded as a highlight. New: Fukuoka hotel = ANA Crowne Plaza Fukuoka (or similar). No second search (tour < 12 days)."
+ },
+ {
+  "code": "KY004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KY004",
+  "title_en": "Premium Kyushu: Serenity, Onsen & Coastal Heritage",
+  "subtitle_en": null,
+  "days": 13,
+  "nights": 12,
+  "price_min": 6600,
+  "price_max": 8900,
+  "currency": "USD",
+  "price_note": "US$6,600 ~ US$8,900 (search summary; basis not stated)",
+  "series": "KY",
+  "themes": [
+   "Hidden Gems",
+   "Onsen",
+   "Premium"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Fukuoka",
+    "nights": null
+   },
+   {
+    "city": "Nagasaki",
+    "nights": null
+   },
+   {
+    "city": "Unzen",
+    "nights": null
+   },
+   {
+    "city": "Yanagawa",
+    "nights": null
+   },
+   {
+    "city": "Hita",
+    "nights": null
+   },
+   {
+    "city": "Beppu",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [
+   {
+    "city": "Fukuoka",
+    "hotel": "Miyako Hotel Hakata",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "all hotels",
+   "trains",
+   "private sightseeing taxi on five days",
+   "traditional ryokan stays",
+   "dinners at the ryokan"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Slow circuit of Kyushu with a private sightseeing taxi on five days",
+   "Pottery towns of Imari, Arita and Hasami",
+   "Landing cruise to Gunkanjima (Battleship Island), weather permitting",
+   "Nagasaki, the hot springs of Unzen, the canals of Yanagawa, Hita and Beppu",
+   "Stay at Miyako Hotel Hakata in Fukuoka"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Imari pottery town",
+    "city": "Imari"
+   },
+   {
+    "name_en": "Arita pottery town",
+    "city": "Arita"
+   },
+   {
+    "name_en": "Hasami pottery town",
+    "city": "Hasami"
+   },
+   {
+    "name_en": "Gunkanjima (Battleship Island) landing cruise",
+    "city": "Nagasaki"
+   },
+   {
+    "name_en": "Unzen Onsen",
+    "city": "Unzen"
+   },
+   {
+    "name_en": "Yanagawa canals",
+    "city": "Yanagawa"
+   },
+   {
+    "name_en": "Hita",
+    "city": "Hita"
+   },
+   {
+    "name_en": "Beppu",
+    "city": "Beppu"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/KY004 ... itinerary day by day' - code, title, 13 days, price, highlights, hotel",
+   "https://selfguidejapan.com/blog/japan-luxury-tours",
+   "https://selfguidejapan.com/blog/japan-hidden-gems",
+   "https://selfguidejapan.com/experiences/Hidden%20Gems"
+  ],
+  "notes": "Pass 2. /tours/KY004 URL not in Links (KY003's page URL appeared instead). Summary gives highlights (5 private-taxi days; Imari/Arita/Hasami; Gunkanjima landing cruise; Unzen; Yanagawa; Hita; Beppu; Miyako Hotel Hakata) but explicitly says no day-by-day breakdown is available; day_by_day empty. Follow-up 'Day 8-12' search not run / see pass-2 budget notes."
+ },
+ {
+  "code": "KY005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KY005",
+  "title_en": "Kyushu Premium Experience: Nature, Heritage & Onsen",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 6600,
+  "price_max": 8900,
+  "currency": "USD",
+  "price_note": "US$6,600 ~ US$8,900 (search summary; identical to KY004 - possible cross-contamination, unverified)",
+  "series": "KY",
+  "themes": [
+   "Onsen",
+   "Premium"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Fukuoka",
+    "nights": null
+   },
+   {
+    "city": "Yanagawa",
+    "nights": null
+   },
+   {
+    "city": "Ibusuki",
+    "nights": null
+   },
+   {
+    "city": "Kagoshima",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [
+   {
+    "city": "Fukuoka",
+    "hotel": "Miyako Hotel Hakata (luxury-tours blog cross-reference, pass 1)",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "all hotels",
+   "trains",
+   "traditional ryokan",
+   "natural hot springs"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "12-day onsen journey through Yanagawa, Ibusuki and Kagoshima with traditional ryokan and natural hot springs (search summary)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Yanagawa",
+    "city": "Yanagawa"
+   },
+   {
+    "name_en": "Ibusuki Onsen",
+    "city": "Ibusuki"
+   },
+   {
+    "name_en": "Kagoshima",
+    "city": "Kagoshima"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/KY005 ... itinerary day by day' - code, title, 12 days, price, 'Yanagawa, Ibusuki, Kagoshima'",
+   "https://selfguidejapan.com/blog/japan-luxury-tours (pass 1 cross-reference: Miyako Hotel Hakata)"
+  ],
+  "notes": "Pass 2. /tours/KY005 URL not in Links. Summary: '12-day onsen journey through Yanagawa, Ibusuki, and Kagoshima ... all hotels and trains included' - new route info (south Kyushu) vs pass 1 which only had Fukuoka; route order Fukuoka first is an assumption based on the pass-1 hotel reference, not explicit. Summary explicitly says no day-by-day details found; day_by_day empty. Price identical to KY004 remains suspicious."
+ },
+ {
+  "code": "HD001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/HD001",
+  "title_en": "Discover Hokkaido: Nature & Scenic Views",
+  "subtitle_en": null,
+  "days": 7,
+  "nights": 6,
+  "price_min": 3700,
+  "price_max": 4300,
+  "currency": "USD",
+  "price_note": "US$3,700 ~ US$4,300 per person (search summary)",
+  "series": "HD",
+  "themes": [
+   "Nature & Outdoors"
+  ],
+  "season": "May–October",
+  "arrival_airport": "New Chitose (per pass-1 blog summary)",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Sapporo",
+    "nights": null
+   },
+   {
+    "city": "Sounkyo",
+    "nights": null
+   },
+   {
+    "city": "Lake Kussharo",
+    "nights": null
+   },
+   {
+    "city": "Shiretoko",
+    "nights": null
+   },
+   {
+    "city": "Lake Akan",
+    "nights": null
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrival",
+    "from": null,
+    "to": "Sapporo",
+    "transport": "chartered taxi (airport to hotel)",
+    "attractions": [],
+    "activities": "Airport meet with chartered taxi to your hotel",
+    "meals": null,
+    "stay": "Sapporo",
+    "notes": "Stay city = first route stop (Sapporo); airport is New Chitose per pass-1 blog"
+   },
+   {
+    "day": 3,
+    "title": "Asahiyama Zoo, Sounkyo Gorge & Kurodake Ropeway",
+    "from": "Sapporo",
+    "to": "Sounkyo",
+    "transport": "chartered sightseeing taxi",
+    "attractions": [
+     "Asahiyama Zoo",
+     "Sounkyo Gorge",
+     "Kurodake Ropeway"
+    ],
+    "activities": "Chartered taxi day (day 3 of 3-5): Asahiyama Zoo, Sounkyo Gorge, Kurodake Ropeway",
+    "meals": "Dinner at Sounkyo onsen hotel (package includes onsen-hotel dinner at Sounkyo)",
+    "stay": "Sounkyo",
+    "notes": "from/to and stay follow the stated route order Sapporo -> Sounkyo; the summary lists the attractions by day but not the overnight explicitly"
+   },
+   {
+    "day": 4,
+    "title": "Bihoro Pass & Lake Kussharo",
+    "from": "Sounkyo",
+    "to": "Lake Kussharo",
+    "transport": "chartered sightseeing taxi",
+    "attractions": [
+     "Bihoro Pass",
+     "Lake Kussharo"
+    ],
+    "activities": "Chartered taxi day: Bihoro Pass and Lake Kussharo",
+    "meals": null,
+    "stay": null,
+    "notes": "Overnight not explicit (route order suggests Lake Kussharo area)"
+   },
+   {
+    "day": 5,
+    "title": "Shiretoko",
+    "from": "Lake Kussharo",
+    "to": "Shiretoko",
+    "transport": "chartered sightseeing taxi",
+    "attractions": [
+     "Shiretoko"
+    ],
+    "activities": "Chartered taxi day 'continues through Shiretoko'",
+    "meals": null,
+    "stay": null,
+    "notes": "Overnight not explicit; route then goes on to Lake Akan (onsen-hotel dinner at Lake Akan included) but the day for Lake Akan was not given"
+   }
+  ],
+  "hotels": [],
+  "inclusions": [
+   "6 nights in selected 3–4 star hotels",
+   "breakfast daily",
+   "airport meet with chartered taxi to hotel",
+   "chartered sightseeing taxi on days 3, 4 and 5",
+   "onsen-hotel dinners at Sounkyo and Lake Akan",
+   "transport IC card",
+   "travel insurance",
+   "24/7 English support"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Sapporo → Sounkyo → Lake Kussharo → Shiretoko → Lake Akan with a chartered taxi on days 3–5",
+   "Asahiyama Zoo, Sounkyo Gorge, Kurodake Ropeway, Bihoro Pass, Lake Kussharo, Shiretoko",
+   "Dinners at the Sounkyo and Akan onsen hotels"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Asahiyama Zoo",
+    "city": "Asahikawa"
+   },
+   {
+    "name_en": "Sounkyo Gorge",
+    "city": "Sounkyo"
+   },
+   {
+    "name_en": "Kurodake Ropeway",
+    "city": "Sounkyo"
+   },
+   {
+    "name_en": "Bihoro Pass",
+    "city": "Bihoro"
+   },
+   {
+    "name_en": "Lake Kussharo",
+    "city": "Teshikaga"
+   },
+   {
+    "name_en": "Shiretoko",
+    "city": "Shiretoko"
+   },
+   {
+    "name_en": "Lake Akan",
+    "city": "Akan"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/HD001 ... itinerary day by day' - package overview, inclusions, days 3-5 attractions",
+   "https://selfguidejapan.com/blog/japan-hokkaido-tour-package",
+   "https://selfguidejapan.com/blog/japan-tours-for-seniors",
+   "https://selfguidejapan.com/blog/hokkaido-autumn-leaves-2026"
+  ],
+  "notes": "Pass 2. /tours/HD001 URL not in Links; information comes from blog summaries that name HD001. Partial day-by-day only: Day 1 (airport meet), Day 3 (Asahiyama Zoo, Sounkyo Gorge, Kurodake Ropeway), Day 4 (Bihoro Pass, Lake Kussharo), Day 5 (Shiretoko). Days 2, 6, 7 not given (Day 2 presumably Sapporo, Day 6 Lake Akan, Day 7 departure - NOT recorded as they are not explicit). No second search (tour < 12 days)."
+ },
+ {
+  "code": "HD002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/HD002",
+  "title_en": "Southern Hokkaido Escape",
+  "subtitle_en": null,
+  "days": 7,
+  "nights": 6,
+  "price_min": 2200,
+  "price_max": 2700,
+  "currency": "USD",
+  "price_note": "US$2,200 ~ US$2,700 per person, 7 days / 6 nights (search summary)",
+  "series": "HD",
+  "themes": [
+   "Nature & Outdoors",
+   "Onsen"
+  ],
+  "season": "May–October",
+  "arrival_airport": "New Chitose",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Sapporo",
+    "nights": null
+   },
+   {
+    "city": "Lake Toya",
+    "nights": 2
+   },
+   {
+    "city": "Hakodate",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrival at New Chitose",
+    "from": null,
+    "to": "Sapporo",
+    "transport": "chartered taxi (airport to hotel)",
+    "attractions": [],
+    "activities": "Staff meet you at New Chitose Airport; chartered taxi transfer to hotel",
+    "meals": null,
+    "stay": "Sapporo",
+    "notes": "Stay city = first route stop (Sapporo), luggage is later forwarded Sapporo -> Hakodate"
+   },
+   {
+    "day": 3,
+    "title": "Noboribetsu Hell Valley & Lake Toya by chartered taxi",
+    "from": "Sapporo",
+    "to": "Lake Toya",
+    "transport": "chartered sightseeing taxi",
+    "attractions": [
+     "Noboribetsu Jigokudani (Hell Valley)",
+     "Lake Toya"
+    ],
+    "activities": "Chartered sightseeing taxi on day 3: Noboribetsu Hell Valley then Lake Toya",
+    "meals": "Onsen-hotel dinner at Lake Toya (2 dinners included at Lake Toya)",
+    "stay": "Lake Toya",
+    "notes": "Day number for the taxi day is explicit ('chartered sightseeing taxi on day 3'); the route order (Sapporo & Otaru -> Noboribetsu -> Lake Toya) gives the stops"
+   }
+  ],
+  "hotels": [],
+  "inclusions": [
+   "6 nights in selected 3–4 star hotels",
+   "breakfast daily",
+   "staff meet at New Chitose Airport on day 1 with chartered taxi transfer",
+   "chartered sightseeing taxi on day 3",
+   "onsen-hotel dinners (2) at Lake Toya",
+   "transport IC card",
+   "travel insurance",
+   "24/7 English support",
+   "luggage forwarding Sapporo -> Hakodate"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Sapporo and Otaru, then Noboribetsu Hell Valley and Lake Toya by chartered taxi, finishing with two nights in Hakodate"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Otaru",
+    "city": "Otaru"
+   },
+   {
+    "name_en": "Noboribetsu Jigokudani (Hell Valley)",
+    "city": "Noboribetsu"
+   },
+   {
+    "name_en": "Lake Toya",
+    "city": "Toyako"
+   },
+   {
+    "name_en": "Hakodate",
+    "city": "Hakodate"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/HD002 ... itinerary day by day' - overview, inclusions, day 1 / day 3",
+   "https://selfguidejapan.com/blog/japan-hokkaido-tour-package",
+   "https://selfguidejapan.com/blog/japan-tours-for-seniors",
+   "https://selfguidejapan.com/blog/things-to-do-in-sapporo"
+  ],
+  "notes": "Pass 2. /tours/HD002 URL not in Links; data from blog summaries naming HD002. Summary explicitly says the day-by-day (Days 1-7) and hotel names are not in the results. Only Day 1 (airport meet) and Day 3 (chartered taxi Noboribetsu/Lake Toya) are explicit; Otaru day (likely Day 2), Hakodate days (likely 5-6) and departure NOT recorded. Sapporo nights not stated (6 - 2 Toya - 2 Hakodate = 2 implied). No second search (tour < 12 days)."
+ },
+ {
+  "code": "SL001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SL001",
+  "title_en": "SOLO Hidden Gems: Ise-Shima Escape",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 3700,
+  "price_max": null,
+  "currency": "USD",
+  "price_note": "from USD 3,700 for 12 days, one traveler in own room (SOLO series); excl. international flights, most other meals, entrance fees",
+  "series": "SL",
+  "themes": [
+   "Hidden Gems",
+   "Solo"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Nagoya",
+    "nights": null
+   },
+   {
+    "city": "Toba",
+    "nights": null
+   },
+   {
+    "city": "Kashikojima",
+    "nights": null
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Nara",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [
+   {
+    "city": "Kashikojima",
+    "hotel": null,
+    "tier": null,
+    "note": "the only night that is not a single room on SL001/SL007: a two-bed room used by one person"
+   }
+  ],
+  "inclusions": [
+   "single/private room every night",
+   "breakfast every morning",
+   "ama-hut seafood lunch",
+   "Ago Bay cruise",
+   "travel insurance",
+   "24/7 support line"
+  ],
+  "exclusions": [
+   "international flights",
+   "most other meals",
+   "entrance fees"
+  ],
+  "highlights": [
+   "Tokyo, Nagoya, Toba, Kashikojima, Osaka, Koyasan (day trip), Nara and Kyoto",
+   "Ama-hut seafood lunch and Ago Bay cruise"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Ago Bay cruise",
+    "city": "Kashikojima"
+   },
+   {
+    "name_en": "Ama hut seafood lunch",
+    "city": "Toba / Ise-Shima"
+   },
+   {
+    "name_en": "Koyasan (day trip)",
+    "city": "Koyasan"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SL001 ... itinerary day by day' - overview, inclusions, Kashikojima room note",
+   "https://selfguidejapan.com/blog/japan-solo-tours",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/blog/ise-shima-hidden-gem-spirituality-pearls"
+  ],
+  "notes": "Pass 2. /tours/SL001 URL still not in Links (only blog/destination pages). Summary explicitly says no day-by-day or hotel names in results; day_by_day empty. Nights per city unknown. No follow-up 'Day 8-12' search run because the primary search returned no itinerary at all (not a truncation case)."
+ },
+ {
+  "code": "SL003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SL003",
+  "title_en": "SOLO Koyasan: Sacred Sites and Quiet Beauty",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 3700,
+  "price_max": 5400,
+  "currency": "USD",
+  "price_note": "US$3,700 ~ US$5,400 for one traveler in own room (pass-1 summary; SOLO series, no single supplement); excl. international flights",
+  "series": "SL",
+  "themes": [
+   "Koyasan",
+   "Sacred Sites",
+   "Solo",
+   "World Heritage"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda/Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Koyasan",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Welcome to Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "taxi / limousine bus / train from airport (self)",
+    "attractions": [],
+    "activities": "Staff waiting at Haneda or Narita Airport; trip essentials handed over; taken to a taxi stand, limousine bus stop or train station; hotel check-in",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Tokyo on foot",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": "walking / local transport",
+    "attractions": [
+     "Asakusa",
+     "Tokyo Skytree",
+     "Imperial Palace",
+     "Shibuya Scramble Crossing",
+     "Harajuku"
+    ],
+    "activities": "Explore Tokyo on foot; recommended spots Asakusa, Tokyo Skytree, the Imperial Palace, Shibuya Scramble Crossing, Harajuku",
+    "meals": "Breakfast",
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Tokyo to Koyasan",
+    "from": "Tokyo",
+    "to": "Koyasan",
+    "transport": "Shinkansen Tokyo -> Shin-Osaka, limited express train + cable car to Koyasan",
+    "attractions": [],
+    "activities": "After breakfast check out and send luggage to Kyoto; Shinkansen to Shin-Osaka, then limited express and cable car to Koyasan; temple lodging (shukubo)",
+    "meals": "Breakfast",
+    "stay": "Koyasan (Fukuchi-in temple lodging)",
+    "notes": "Luggage delivery Tokyo -> Kyoto"
+   },
+   {
+    "day": 4,
+    "title": "Koyasan: Danjo Garan",
+    "from": "Koyasan",
+    "to": "Koyasan",
+    "transport": null,
+    "attractions": [
+     "Danjo Garan",
+     "Konpon Daito Pagoda",
+     "Kondo Hall"
+    ],
+    "activities": "Koyasan (UNESCO World Heritage) surrounded by cedar forests; Danjo Garan with the Konpon Daito Pagoda and Kondo Hall",
+    "meals": null,
+    "stay": "Koyasan (Fukuchi-in temple lodging)",
+    "notes": null
+   },
+   {
+    "day": 5,
+    "title": "Koyasan: Kongobuji Temple",
+    "from": "Koyasan",
+    "to": "Koyasan",
+    "transport": null,
+    "attractions": [
+     "Kongobuji Temple"
+    ],
+    "activities": "Kongobuji Temple, head temple with one of Japan's largest rock gardens",
+    "meals": null,
+    "stay": null,
+    "notes": "Summary lists 'Days 4-5' as Koyasan days and 'Day 6' as the travel day to Kyoto, which would give 3 Koyasan nights; the page's route says 2 nights at Fukuchi-in, so day 5 is probably the Koyasan -> Kyoto travel day on the real page (numbering uncertain from here on)"
+   },
+   {
+    "day": 6,
+    "title": "Koyasan to Kyoto",
+    "from": "Koyasan",
+    "to": "Kyoto",
+    "transport": "cable car + limited express train",
+    "attractions": [],
+    "activities": "Travel from Koyasan to Kyoto by cable car and limited express train",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": "Day number per summary; may be day 5 on the actual page (see day 5 note)"
+   },
+   {
+    "day": 7,
+    "title": "Kyoto",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [
+     "Kinkaku-ji Temple",
+     "Arashiyama Bamboo Grove",
+     "Fushimi Inari Taisha",
+     "Nishiki Market"
+    ],
+    "activities": "Historic temples, shrines and streets: Kinkaku-ji, Arashiyama bamboo grove, Fushimi Inari Taisha, Nishiki Market (summary groups 'Days 7-8' in Kyoto)",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 8,
+    "title": "Kyoto",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [
+     "Kinkaku-ji Temple",
+     "Arashiyama Bamboo Grove",
+     "Fushimi Inari Taisha",
+     "Nishiki Market"
+    ],
+    "activities": "Second free day in Kyoto (same recommended spots)",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 9,
+    "title": "Kyoto to Takayama",
+    "from": "Kyoto",
+    "to": "Takayama",
+    "transport": "Shinkansen Kyoto -> Nagoya, limited express (Hida) Nagoya -> Takayama",
+    "attractions": [],
+    "activities": "After breakfast check out and send luggage to Tokyo; Shinkansen to Nagoya then limited express to Takayama",
+    "meals": "Breakfast",
+    "stay": "Takayama",
+    "notes": "Luggage delivery Kyoto -> Tokyo"
+   },
+   {
+    "day": 10,
+    "title": "Takayama old town",
+    "from": "Takayama",
+    "to": "Takayama",
+    "transport": null,
+    "attractions": [
+     "Takayama Jinya",
+     "Sanmachi Street (Old Town)"
+    ],
+    "activities": "Historic mountain town with Edo-period buildings: Takayama Jinya and the Old Town (Sanmachi Street) with traditional machiya houses",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": null
+   },
+   {
+    "day": 11,
+    "title": "Shirakawa-go by chartered taxi",
+    "from": "Takayama",
+    "to": "Takayama",
+    "transport": "chartered taxi",
+    "attractions": [
+     "Shirakawa-go gassho-zukuri village"
+    ],
+    "activities": "Chartered taxi to Shirakawa-go (UNESCO World Heritage) with gassho-zukuri thatched houses",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": "Summary numbering; page route gives Takayama 2 nights, so this is probably day 9 or 10 on the actual page"
+   },
+   {
+    "day": 12,
+    "title": "Takayama to Tokyo",
+    "from": "Takayama",
+    "to": "Tokyo",
+    "transport": "limited express Takayama -> Nagoya, Shinkansen Nagoya -> Tokyo",
+    "attractions": [],
+    "activities": "Morning in Takayama, then limited express to Nagoya and Shinkansen to Tokyo; hotel check-in",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "The page route ends with 2 nights in Tokyo, so the actual return day is likely day 10 with day 12 = departure; the summary omitted the departure day"
+   }
+  ],
+  "hotels": [
+   {
+    "city": "Koyasan",
+    "hotel": "Fukuchi-in (temple lodging, Japanese-style room)",
+    "tier": null,
+    "nights": 2
+   },
+   {
+    "city": "all other cities",
+    "hotel": "one-bed (single) room in each city",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "own room every night with breakfast",
+   "temple lodging (shukubo) 2 nights at Fukuchi-in, Koyasan",
+   "chartered taxi to Shirakawa-go",
+   "luggage delivery Tokyo -> Kyoto and Kyoto -> Tokyo",
+   "Shinkansen / limited-express tickets between cities",
+   "IC card loaded with JPY 8,000 (pass 1)",
+   "two hotel dinners (pass 1)",
+   "24/7 support"
+  ],
+  "exclusions": [
+   "international flights",
+   "most other meals",
+   "entrance fees"
+  ],
+  "highlights": [
+   "Tokyo, Koyasan, Kyoto, Takayama and Shirakawa-go in 12 days",
+   "Two nights of temple lodging at Fukuchi-in on Koyasan (Danjo Garan, Kongobuji)",
+   "Chartered taxi to Shirakawa-go"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Asakusa / Sensoji",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Tokyo Skytree",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Imperial Palace",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Shibuya Scramble Crossing",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Harajuku",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Danjo Garan (Konpon Daito Pagoda, Kondo Hall)",
+    "city": "Koyasan"
+   },
+   {
+    "name_en": "Kongobuji Temple",
+    "city": "Koyasan"
+   },
+   {
+    "name_en": "Okunoin (pass 1)",
+    "city": "Koyasan"
+   },
+   {
+    "name_en": "Kinkaku-ji Temple",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Arashiyama Bamboo Grove",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Fushimi Inari Taisha",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Nishiki Market",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Takayama Jinya",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Sanmachi Street (Old Town)",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   }
+  ],
+  "source_confidence": "high",
+  "sources": [
+   "https://selfguidejapan.com/tours/SL003 (URL present in Links with page title 'SOLO Koyasan: Sacred Sites and Quiet Beauty')",
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SL003 ... itinerary day by day' - full day list, hotels",
+   "https://selfguidejapan.com/blog/japan-solo-tours",
+   "https://selfguidejapan.com/blog/koyasan-temple-stay"
+  ],
+  "notes": "Pass 2. Page URL + title confirmed in Links; actual page title = 'SOLO Koyasan: Sacred Sites and Quiet Beauty' (NOT the 'SOLO/Timeless Traditions: Shirakawago & Hida' title the caller flagged - that belongs to another code). All 12 days recorded as the summary gave them. CAUTION on numbering: the summary's days imply Tokyo 2 / Koyasan 3 / Kyoto 3 / Takayama 3 / Tokyo 1 = 12 nights, which contradicts the page's own route (Tokyo 2 / Koyasan 2 at Fukuchi-in / Kyoto 3 / Takayama 2 / Tokyo 2 = 11 nights) and omits a departure day; day numbers from day 5 onward may be shifted by one or two. Content of each day is reliable; exact numbering is medium confidence."
+ },
+ {
+  "code": "SL004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SL004",
+  "title_en": "SOLO Castles: Culture & Countryside",
+  "subtitle_en": null,
+  "days": 15,
+  "nights": 14,
+  "price_min": 4600,
+  "price_max": 6100,
+  "currency": "USD",
+  "price_note": "USD 4,600 ~ 6,100 for one person (pass-1 summary; SOLO series, no single supplement); excl. international flights",
+  "series": "SL",
+  "themes": [
+   "Castles",
+   "Solo",
+   "World Heritage"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda/Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Okayama",
+    "nights": 2
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Fukuoka",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "nights": 2
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Welcome to Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "airport transport to hotel (taxi / limousine bus / train)",
+    "attractions": [],
+    "activities": "Staff waiting at Haneda or Narita Airport; trip essentials; transport to hotel",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Tokyo exploration",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": "walking / local transport",
+    "attractions": [
+     "Asakusa",
+     "Tokyo Skytree",
+     "Imperial Palace",
+     "Shibuya Scramble Crossing",
+     "Harajuku"
+    ],
+    "activities": "Recommended: Asakusa, Tokyo Skytree, the Imperial Palace, Shibuya Scramble Crossing, Harajuku",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Himeji Castle, on to Okayama",
+    "from": "Tokyo",
+    "to": "Okayama",
+    "transport": "Shinkansen Tokyo -> Himeji -> Okayama",
+    "attractions": [
+     "Himeji Castle"
+    ],
+    "activities": "Shinkansen to Himeji to visit Himeji Castle, then continue to Okayama by Shinkansen in the evening",
+    "meals": null,
+    "stay": "Okayama",
+    "notes": "Luggage delivery Tokyo -> Hiroshima (pass 1)"
+   },
+   {
+    "day": 4,
+    "title": "Naoshima art island",
+    "from": "Okayama",
+    "to": "Okayama",
+    "transport": "train + ferry (not stated); rental bicycle on the island",
+    "attractions": [
+     "Naoshima"
+    ],
+    "activities": "Day trip to Naoshima, island of museums and outdoor artworks; rental bicycles available",
+    "meals": null,
+    "stay": "Okayama",
+    "notes": null
+   },
+   {
+    "day": 5,
+    "title": "Okayama & Kurashiki, on to Hiroshima",
+    "from": "Okayama",
+    "to": "Hiroshima",
+    "transport": "Shinkansen Okayama -> Hiroshima",
+    "attractions": [
+     "Kurashiki Bikan Historical Quarter",
+     "Ohara Museum of Art",
+     "Okayama Castle",
+     "Korakuen Garden"
+    ],
+    "activities": "Kurashiki Bikan Historical Quarter, Ohara Museum of Art, Okayama Castle and Korakuen Garden; then Shinkansen to Hiroshima",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 6,
+    "title": "Miyajima",
+    "from": "Hiroshima",
+    "to": "Hiroshima",
+    "transport": "train + ferry",
+    "attractions": [
+     "Itsukushima Shrine",
+     "Miyajima"
+    ],
+    "activities": "Train and ferry to Miyajima; Itsukushima Shrine (UNESCO World Heritage) and its torii gate",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 7,
+    "title": "Hiroshima, on to Fukuoka",
+    "from": "Hiroshima",
+    "to": "Fukuoka",
+    "transport": "Shinkansen Hiroshima -> Hakata",
+    "attractions": [
+     "Hiroshima"
+    ],
+    "activities": "Explore Hiroshima, then Shinkansen to Hakata (Fukuoka)",
+    "meals": null,
+    "stay": "Fukuoka",
+    "notes": "Luggage delivery Hiroshima -> Osaka (pass 1)"
+   }
+  ],
+  "hotels": [
+   {
+    "city": "all",
+    "hotel": "pre-booked hotels, single room; 2 nights in each major destination",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "pre-booked hotels (single room)",
+   "Shinkansen / limited express trains between cities",
+   "chartered taxi to Shirakawa-go (pass 1)",
+   "luggage delivery Tokyo -> Hiroshima, Hiroshima -> Osaka, Osaka -> Tokyo (pass 1)",
+   "24/7 support"
+  ],
+  "exclusions": [
+   "international flights",
+   "most other meals",
+   "entrance fees"
+  ],
+  "highlights": [
+   "Himeji Castle, Naoshima, Kurashiki, Okayama Castle & Korakuen, Miyajima, Hiroshima, Fukuoka, then Osaka, Takayama/Shirakawa-go and back to Tokyo",
+   "2 nights in each major destination (approx. 1,830 km)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Asakusa",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Tokyo Skytree",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Imperial Palace",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Shibuya Scramble Crossing",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Harajuku",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Naoshima",
+    "city": "Naoshima"
+   },
+   {
+    "name_en": "Kurashiki Bikan Historical Quarter",
+    "city": "Kurashiki"
+   },
+   {
+    "name_en": "Ohara Museum of Art",
+    "city": "Kurashiki"
+   },
+   {
+    "name_en": "Okayama Castle",
+    "city": "Okayama"
+   },
+   {
+    "name_en": "Korakuen Garden",
+    "city": "Okayama"
+   },
+   {
+    "name_en": "Itsukushima Shrine",
+    "city": "Miyajima"
+   },
+   {
+    "name_en": "Yatai street food stalls (pass 1)",
+    "city": "Fukuoka"
+   },
+   {
+    "name_en": "Shirakawa-go (pass 1)",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Dotonbori",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Osaka Castle",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Takayama old town ('Little Kyoto of Hida')",
+    "city": "Takayama"
+   }
+  ],
+  "source_confidence": "high",
+  "sources": [
+   "https://selfguidejapan.com/tours/SL004 (URL present in Links with page title 'SOLO Castles: Culture & Countryside')",
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SL004 ... itinerary day by day' - days 1-7",
+   "https://selfguidejapan.com/blog/japan-solo-tours",
+   "WebSearch follow-up summary (pass 2, extended) 'SL004 ... Day 8 ... Day 15' - destination blurbs for Fukuoka (yatai), Osaka (Dotonbori, Osaka Castle), Takayama, Shirakawa-go; price US$4,600-6,100; luggage legs"
+  ],
+  "notes": "Pass 2 (2 searches). Page URL + title confirmed. Days 1-7 obtained from the primary search; the follow-up 'Day 8 ... Day 15' search returned only destination descriptions (Fukuoka yatai street stalls; Osaka Dotonbori and Osaka Castle; Takayama 'Little Kyoto of Hida'; Shirakawa-go gassho-zukuri farmhouses; private taxi to Shirakawa-go; luggage Tokyo->Hiroshima, Hiroshima->Osaka, Osaka->Tokyo) and NO day numbers, so days 8-15 are NOT recorded. Per the page route the remaining days are Fukuoka (2N) -> Osaka (2N) -> Takayama (2N, Shirakawa-go by private taxi) -> Tokyo (2N) -> departure day 15, but the exact day assignments are unverified."
+ },
+ {
+  "code": "SL005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SL005",
+  "title_en": "SOLO Castles & Heritage of West Japan",
+  "subtitle_en": null,
+  "days": 15,
+  "nights": 14,
+  "price_min": 4000,
+  "price_max": 5400,
+  "currency": "USD",
+  "price_note": "USD 4,000 ~ 5,400 for one traveler in own room (pass-1 summary; SOLO series, no single supplement); excl. international flights",
+  "series": "SL",
+  "themes": [
+   "Castles",
+   "Heritage",
+   "Solo",
+   "World Heritage"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda/Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Okayama",
+    "nights": 2
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Himeji",
+    "nights": 1
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Kanazawa",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Welcome to Japan",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "taxi / limousine bus / train from airport (self)",
+    "attractions": [],
+    "activities": "Staff waiting at Haneda or Narita Airport; trip essentials handed over; taken to a taxi stand, limousine bus stop or train station; hotel check-in",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Tokyo on foot",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": "walking / local transport",
+    "attractions": [
+     "Asakusa (Kaminarimon Gate, Sensoji Temple)",
+     "Tokyo Skytree",
+     "Imperial Palace",
+     "Shibuya Scramble Crossing",
+     "Harajuku"
+    ],
+    "activities": "Explore Tokyo on foot; recommended Asakusa (Kaminarimon, Sensoji), Tokyo Skytree, Imperial Palace, Shibuya Scramble Crossing, Harajuku",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Tokyo to Okayama; Okayama & Kurashiki",
+    "from": "Tokyo",
+    "to": "Okayama",
+    "transport": "Shinkansen Tokyo -> Okayama (morning)",
+    "attractions": [
+     "Okayama",
+     "Kurashiki",
+     "Setouchi Islands"
+    ],
+    "activities": "After breakfast check out and send large luggage to Hiroshima; morning Shinkansen to Okayama; explore Okayama, Kurashiki and the Setouchi islands at leisure",
+    "meals": "Breakfast",
+    "stay": "Okayama",
+    "notes": "Luggage delivery Tokyo -> Hiroshima"
+   },
+   {
+    "day": 4,
+    "title": "Naoshima, island of contemporary art",
+    "from": "Okayama",
+    "to": "Okayama",
+    "transport": "train + ferry (not stated); rental bicycle recommended",
+    "attractions": [
+     "Naoshima"
+    ],
+    "activities": "Naoshima museums and outdoor artworks; reserve a rental bicycle in advance",
+    "meals": null,
+    "stay": "Okayama",
+    "notes": null
+   },
+   {
+    "day": 5,
+    "title": "Reflecting on Hiroshima's history",
+    "from": "Okayama",
+    "to": "Hiroshima",
+    "transport": "Shinkansen Okayama -> Hiroshima (morning)",
+    "attractions": [
+     "Hiroshima"
+    ],
+    "activities": "Morning Shinkansen to Hiroshima; explore by streetcar, attractions and local food",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 6,
+    "title": "Miyajima & the sacred shrine by the sea",
+    "from": "Hiroshima",
+    "to": "Hiroshima",
+    "transport": "train + ferry",
+    "attractions": [
+     "Miyajima",
+     "Itsukushima Shrine"
+    ],
+    "activities": "Train and ferry to Miyajima, 'island of the gods' in Hiroshima Bay",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": "Itsukushima Shrine implied by the title 'sacred shrine by the sea' (not named in summary)"
+   },
+   {
+    "day": 7,
+    "title": "Himeji Castle",
+    "from": "Hiroshima",
+    "to": "Himeji",
+    "transport": "Shinkansen Hiroshima -> Himeji (morning)",
+    "attractions": [
+     "Himeji Castle"
+    ],
+    "activities": "After breakfast check out and send large luggage to Kyoto; morning Shinkansen to Himeji; Himeji Castle (UNESCO World Heritage) and Himeji at leisure",
+    "meals": "Breakfast",
+    "stay": "Himeji",
+    "notes": "Luggage delivery Hiroshima -> Kyoto; Himeji 1 night per route"
+   }
+  ],
+  "hotels": [
+   {
+    "city": "all",
+    "hotel": "pre-booked hotels, single room",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "pre-booked hotels (single room)",
+   "Shinkansen / limited express trains between cities",
+   "luggage delivery Tokyo -> Hiroshima, Hiroshima -> Kyoto, Kyoto -> Tokyo",
+   "IC card JPY 5,000 (pass 1)",
+   "24/7 support"
+  ],
+  "exclusions": [
+   "international flights",
+   "most other meals",
+   "entrance fees"
+  ],
+  "highlights": [
+   "Tokyo, Okayama, Naoshima, Hiroshima, Miyajima, Himeji Castle, Kyoto (3 nights), Kanazawa, back to Tokyo",
+   "Route nights: Tokyo 2, Okayama 2, Hiroshima 2, Himeji 1, Kyoto 3, Kanazawa 2, Tokyo 2",
+   "Himeji Castle (UNESCO) with surrounding samurai residences and Japanese gardens",
+   "Kyoto's traditional culture and UNESCO World Heritage sites",
+   "Kanazawa's traditional townscape, modern art and traditional crafts; Kenrokuen Garden"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Asakusa / Sensoji Temple / Kaminarimon",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Tokyo Skytree",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Imperial Palace",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Shibuya Scramble Crossing",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Harajuku",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Kurashiki Bikan Historical Quarter",
+    "city": "Kurashiki"
+   },
+   {
+    "name_en": "Naoshima",
+    "city": "Naoshima"
+   },
+   {
+    "name_en": "Miyajima / Itsukushima Shrine",
+    "city": "Miyajima"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Kenroku-en (pass 1)",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Samurai residences and Japanese gardens near Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Kenrokuen Garden",
+    "city": "Kanazawa"
+   }
+  ],
+  "source_confidence": "high",
+  "sources": [
+   "https://selfguidejapan.com/tours/SL005 (URL present in Links with page title 'SOLO Castles & Heritage of West Japan')",
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SL005 ... itinerary day by day' - days 1-7, route nights, luggage",
+   "https://selfguidejapan.com/blog/japan-solo-tours",
+   "WebSearch follow-up summary (pass 2, extended) 'SL005 ... Day 8 ... Day 15' - route nights, highlights (Himeji Castle & samurai residences/gardens, Kyoto UNESCO sites, Kanazawa townscape, Kenrokuen), price US$4,000-5,400, luggage legs"
+  ],
+  "notes": "Pass 2 (2 searches). Page URL + title confirmed. Days 1-7 obtained from the primary search (summary explicitly truncated: 'For the complete itinerary including Days 8-15 covering Kyoto and Kanazawa ...'); the follow-up 'Day 8 ... Day 15' search returned only highlights and the route nights (Tokyo 2, Okayama 2, Hiroshima 2, Himeji 1, Kyoto 3, Kanazawa 2, Tokyo 2 = 14) with NO day numbers, so days 8-15 are NOT recorded. Per that route, day 8 = Himeji -> Kyoto, days 8-10 Kyoto (3N), day 11 -> Kanazawa (2N), day 13 -> Tokyo (2N), day 15 departure - unverified day assignments."
+ },
+ {
+  "code": "SL007",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SL007",
+  "title_en": "SOLO Sea of Serenity: Kashikojima & Cultural Japan",
+  "subtitle_en": null,
+  "days": 13,
+  "nights": 12,
+  "price_min": 4200,
+  "price_max": 5900,
+  "currency": "USD",
+  "price_note": "USD 4,200 ~ 5,900 for one person (SOLO series, no single supplement); excl. international flights, most other meals, entrance fees",
+  "series": "SL",
+  "themes": [
+   "Sea of Serenity",
+   "Coastal",
+   "Solo",
+   "Onsen"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda/Narita (airport meet; airport not named in pass-2 summary)",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Hakone",
+    "nights": 1
+   },
+   {
+    "city": "Kashikojima",
+    "nights": 1
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Okayama",
+    "nights": 1
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Tokyo arrival",
+    "from": null,
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": "Airport meet; IC card handed over; single room",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Tokyo free day",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": "Full free day in Tokyo",
+    "meals": "Breakfast",
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Hakone",
+    "from": "Tokyo",
+    "to": "Hakone",
+    "transport": "Shinkansen Tokyo -> Odawara; Hakone Free Pass",
+    "attractions": [
+     "Hakone"
+    ],
+    "activities": "Suitcase forwarded to Kyoto; Shinkansen to Odawara; Hakone Free Pass loop; night in a Japanese-style room with private open-air bath",
+    "meals": "Breakfast, dinner at the Hakone inn",
+    "stay": "Hakone (Japanese-style room with private open-air bath)",
+    "notes": "Luggage delivery Tokyo -> Kyoto"
+   },
+   {
+    "day": 4,
+    "title": "Kashikojima",
+    "from": "Hakone",
+    "to": "Kashikojima",
+    "transport": "Shinkansen to Nagoya, limited express to Ise(-Shima); hotel shuttle bus",
+    "attractions": [],
+    "activities": "Shinkansen to Nagoya, limited express towards Ise / Kashikojima; shuttle bus to hotel; dinner",
+    "meals": "Breakfast, dinner",
+    "stay": "Kashikojima (two-bed room used by one person - hotel has no singles)",
+    "notes": null
+   },
+   {
+    "day": 5,
+    "title": "Ago Bay cruise, on to Kyoto",
+    "from": "Kashikojima",
+    "to": "Kyoto",
+    "transport": "limited express + Shinkansen to Kyoto",
+    "attractions": [
+     "Ago Bay cruise"
+    ],
+    "activities": "Ago Bay cruise, then limited express and Shinkansen to Kyoto",
+    "meals": "Breakfast",
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 6,
+    "title": "Kyoto free day",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [],
+    "activities": "Full free day in Kyoto",
+    "meals": "Breakfast",
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 7,
+    "title": "Kyoto free day",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [],
+    "activities": "Full free day in Kyoto",
+    "meals": "Breakfast",
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 8,
+    "title": "Himeji & Okayama",
+    "from": "Kyoto",
+    "to": "Okayama",
+    "transport": "Shinkansen via Himeji",
+    "attractions": [
+     "Himeji (Himeji Castle area)"
+    ],
+    "activities": "Shinkansen to Okayama via Himeji",
+    "meals": "Breakfast",
+    "stay": "Okayama",
+    "notes": "Himeji Castle itself not named in the summary (pass-1 blog lists Himeji among the nine destinations)"
+   },
+   {
+    "day": 9,
+    "title": "Hiroshima",
+    "from": "Okayama",
+    "to": "Hiroshima",
+    "transport": "Shinkansen",
+    "attractions": [],
+    "activities": "Shinkansen to Hiroshima",
+    "meals": "Breakfast",
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 10,
+    "title": "Miyajima",
+    "from": "Hiroshima",
+    "to": "Hiroshima",
+    "transport": "train + ferry (not stated)",
+    "attractions": [
+     "Miyajima"
+    ],
+    "activities": "Whole day on Miyajima Island",
+    "meals": "Breakfast",
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 11,
+    "title": "Back to Tokyo",
+    "from": "Hiroshima",
+    "to": "Tokyo",
+    "transport": "Shinkansen",
+    "attractions": [],
+    "activities": "Shinkansen back to Tokyo",
+    "meals": "Breakfast",
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 12,
+    "title": "Tokyo free day",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": "Full free day in Tokyo",
+    "meals": "Breakfast",
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 13,
+    "title": "Tour ends",
+    "from": "Tokyo",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Tour ends at hotel check-out",
+    "meals": "Breakfast",
+    "stay": null,
+    "notes": null
+   }
+  ],
+  "hotels": [
+   {
+    "city": "Hakone",
+    "hotel": "Japanese-style room with private open-air bath (inn not named)",
+    "tier": null,
+    "nights": 1
+   },
+   {
+    "city": "Kashikojima",
+    "hotel": "two-bed room used by one person (hotel has no singles; not named)",
+    "tier": null,
+    "nights": 1
+   },
+   {
+    "city": "all other cities",
+    "hotel": "single rooms",
+    "tier": null
+   }
+  ],
+  "inclusions": [
+   "single room every night (except Kashikojima twin used singly) with breakfast every morning",
+   "Hakone Free Pass",
+   "two dinners (Hakone, Kashikojima)",
+   "Ago Bay cruise",
+   "IC card (JPY 10,000 per pass-1 blog)",
+   "Shinkansen / limited-express tickets between cities",
+   "luggage forwarding Tokyo -> Kyoto",
+   "airport meet",
+   "travel insurance",
+   "24/7 line"
+  ],
+  "exclusions": [
+   "international flights",
+   "most other meals",
+   "entrance fees"
+  ],
+  "highlights": [
+   "Hakone, the Ise-Shima coast (Kashikojima, Ago Bay cruise), Kyoto, Himeji and Hiroshima/Miyajima in one 13-day journey across nine destinations",
+   "Night in a Japanese-style room with private open-air bath in Hakone"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Hakone (Free Pass loop)",
+    "city": "Hakone"
+   },
+   {
+    "name_en": "Ago Bay cruise",
+    "city": "Kashikojima"
+   },
+   {
+    "name_en": "Himeji Castle area",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Miyajima",
+    "city": "Miyajima"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SL007 ... itinerary day by day' - 13-day list, prices, Kashikojima room note",
+   "https://selfguidejapan.com/blog/japan-solo-tours",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours"
+  ],
+  "notes": "Pass 2. /tours/SL007 URL did not appear in Links (blog pages did), but the summary gave a complete 13-day skeleton explicitly attributed to SL007 (consistent with the pass-1 nine-destination list and the SOLO inclusions). Nights derived from the day list (2/1/1/3/1/2/2 = 12). Day-level content is a skeleton (transport + stay), with few named attractions; medium confidence because the tour page itself was not in Links."
+ },
+ {
+  "code": "TP001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/TP001",
+  "title_en": "15 Days Through Japan & Universal City",
+  "subtitle_en": null,
+  "days": 15,
+  "nights": 14,
+  "price_min": 4000,
+  "price_max": 5900,
+  "currency": "USD",
+  "price_note": "US$4,000 ~ US$5,900 (search summary; basis not stated); summary wording 'Osaka Theme Park Hotel Standard option'",
+  "series": "TP",
+  "themes": [
+   "Theme Parks"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   },
+   {
+    "city": "Nara",
+    "nights": null
+   },
+   {
+    "city": "Osaka (Universal City)",
+    "nights": null
+   },
+   {
+    "city": "Shirakawa-go / Takayama area",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen",
+   "luggage delivery"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "15-day Japan highlights tour covering Tokyo, Kyoto, Nara, Shirakawago and 2 days at Osaka's theme park (Universal City)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Universal City theme park (2 days)",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/TP001 ... itinerary day by day' - code, title, 15 days, price, destinations",
+   "https://selfguidejapan.com/tours/TP101 (deluxe counterpart page, in Links; used by the summary for a route skeleton - NOT recorded as TP001 days)",
+   "https://selfguidejapan.com/experiences/Theme%20Parks"
+  ],
+  "notes": "Pass 2. /tours/TP001 URL still not in Links (TP101 deluxe page appeared instead). The summary itself warned it was describing TP101's route: Tokyo 2N -> Kashikojima 1N (via Nagoya) -> Kyoto 3N -> Nara 1N -> Osaka 3N (2 park days) -> Takayama 2N -> 'Shirakawa-go 1N' -> Tokyo 2N; that list sums to 15 nights (one too many; pass-1 TP101 route had no Shirakawa-go overnight), so it is unreliable and was NOT entered as TP001's day_by_day. Route cities recorded only as the summary listed them for TP001 (Tokyo, Kyoto, Nara, Shirakawago, Osaka theme park); nights unknown. No follow-up search (primary returned no TP001 itinerary; not a truncation case)."
+ },
+ {
+  "code": "TP002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/TP002",
+  "title_en": "Culture, Nature, and Universal City Adventure",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 3000,
+  "price_max": 4400,
+  "currency": "USD",
+  "price_note": "US$3,000 ~ US$4,400 (search summary; basis not stated)",
+  "series": "TP",
+  "themes": [
+   "Theme Parks"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Hiroshima",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   },
+   {
+    "city": "Osaka (Universal City)",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [
+   "hotels",
+   "trains (Shinkansen)",
+   "luggage forwarding",
+   "airport meet",
+   "phone line in Japan (support)"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo, Hiroshima, Kyoto and 2 days at Osaka's theme park - culture, nature and fun"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Universal City theme park (2 days)",
+    "city": "Osaka"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/TP002 ... itinerary day by day' - code, title, 12 days, price, cities, inclusions",
+   "https://selfguidejapan.com/experiences/Theme%20Parks"
+  ],
+  "notes": "Pass 2. /tours/TP002 URL not in Links (TP101 and TP004 pages appeared). Summary explicitly says no day-by-day or hotel details for TP002 were found; day_by_day empty. Nights per city unknown. No follow-up search (not a truncation case)."
+ },
+ {
+  "code": "TP003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/TP003",
+  "title_en": "Japan Highlights & Theme Park in Osaka",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 3200,
+  "price_max": 4800,
+  "currency": "USD",
+  "price_note": "US$3,200 ~ US$4,800 (search summary; basis not stated)",
+  "series": "TP",
+  "themes": [
+   "Theme Parks"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   },
+   {
+    "city": "Takayama",
+    "nights": null
+   },
+   {
+    "city": "Shirakawa-go",
+    "nights": null
+   },
+   {
+    "city": "Osaka (Universal City)",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [
+   "all hotels",
+   "trains",
+   "luggage delivery"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo, Kyoto, Takayama, Shirakawago and 2 days at Osaka's theme park"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Universal City theme park (2 days)",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Takayama",
+    "city": "Takayama"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/TP003 ... itinerary day by day' - code, title, 12 days, price, destinations",
+   "https://selfguidejapan.com/tours/TP103 (deluxe counterpart in Links, page title '【TP103】Tradition, Nature, and the Theme Park Magic')",
+   "https://selfguidejapan.com/experiences/Theme%20Parks"
+  ],
+  "notes": "Pass 2. /tours/TP003 URL not in Links. Summary: 'Tokyo, Kyoto, Takayama, Shirakawago, and 2 days at Osaka's theme park' - this differs from the pass-1 summary (which copied TP002's Tokyo/Hiroshima/Kyoto list), so the pass-2 destination list is recorded; order/nights unknown. Summary explicitly says no day-by-day found; day_by_day empty. Note the deluxe counterpart TP103 carries a different title ('Tradition, Nature, and the Theme Park Magic'). No follow-up search (not a truncation case)."
+ },
+ {
+  "code": "TP004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/TP004",
+  "title_en": "Tokyo Bay, Creative Parks & Osaka Thrills",
+  "subtitle_en": null,
+  "days": 9,
+  "nights": 8,
+  "price_min": 2200,
+  "price_max": 3500,
+  "currency": "USD",
+  "price_note": "US$2,200 ~ US$3,500 (pass-2 summary, matches caller reference); pass-1 summary had US$2,300 ~ 3,400 - discrepancy unresolved; basis not stated",
+  "series": "TP",
+  "themes": [
+   "Theme Parks",
+   "Family"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda/Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo Bay (Maihama)",
+    "nights": 3
+   },
+   {
+    "city": "Nagoya",
+    "nights": 2
+   },
+   {
+    "city": "Osaka (Universal City)",
+    "nights": 3
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Welcome to Japan - Arrival in Tokyo",
+    "from": null,
+    "to": "Tokyo Bay (Maihama)",
+    "transport": "taxi / bus / train from airport (self)",
+    "attractions": [],
+    "activities": "Staff waiting at Haneda or Narita Airport, hand over essentials and escort you to the taxi/bus stand or train station; plan the Maihama theme-park visits; park admission tickets can be bought at the hotel",
+    "meals": null,
+    "stay": "Tokyo Bay Maihama",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Full day at Tokyo Bay theme resort",
+    "from": "Maihama",
+    "to": "Maihama",
+    "transport": null,
+    "attractions": [
+     "Tokyo Bay theme resort - castle park (classic rides, parades)",
+     "Tokyo Bay theme resort - sea-themed park"
+    ],
+    "activities": "Full day at Japan's top entertainment theme park in the Tokyo Bay area: one park with a castle, classic rides and parades, the other themed around the sea",
+    "meals": null,
+    "stay": "Tokyo Bay Maihama",
+    "notes": "Site does not use brand names; these are the two Maihama resort parks"
+   },
+   {
+    "day": 3,
+    "title": "Another day of adventure in Tokyo",
+    "from": "Maihama",
+    "to": "Maihama",
+    "transport": null,
+    "attractions": [
+     "Second Maihama park",
+     "Tokyo historic streets & shopping areas"
+    ],
+    "activities": "Visit the other Maihama park not seen the day before, or explore Tokyo's urban attractions (historic streets, shopping)",
+    "meals": null,
+    "stay": "Tokyo Bay Maihama",
+    "notes": null
+   },
+   {
+    "day": 4,
+    "title": "Travel to Nagoya & castle town exploration",
+    "from": "Maihama",
+    "to": "Nagoya",
+    "transport": "local train Maihama -> Tokyo, Shinkansen Tokyo -> Nagoya",
+    "attractions": [
+     "Nagoya Castle",
+     "Noritake Forest (Noritake Garden)",
+     "Osu Shopping District",
+     "SCMAGLEV and Railway Park"
+    ],
+    "activities": "After breakfast check out and send large luggage to Universal City, Osaka; local train to Tokyo then Shinkansen to Nagoya; recommended Nagoya Castle, Noritake Forest (ceramics), Osu shopping district, SCMAGLEV and Railway Park",
+    "meals": "Breakfast",
+    "stay": "Nagoya",
+    "notes": "Luggage delivery Maihama -> Universal City (Osaka)"
+   },
+   {
+    "day": 5,
+    "title": "Brick theme park & Japanese animation world",
+    "from": "Nagoya",
+    "to": "Nagoya",
+    "transport": "local trains (Ai-Chikyuhaku Kinen Koen Station; Nagoya Port area)",
+    "attractions": [
+     "Animation-themed park at Ai-Chikyuhaku Kinen Koen (Expo 2005 Commemorative Park)",
+     "Brick-toy theme park at Nagoya Port"
+    ],
+    "activities": "Park at Ai-Chikyuhaku Kinen Koen Station recreating settings from Japan's famous animated works; brick-toy theme park in the Nagoya Port area",
+    "meals": null,
+    "stay": "Nagoya",
+    "notes": "Site describes parks without brand names (Ghibli Park / LEGOLAND Japan is the reader's inference, not the site's wording)"
+   },
+   {
+    "day": 6,
+    "title": "Travel to Osaka & Universal City",
+    "from": "Nagoya",
+    "to": "Osaka (Universal City)",
+    "transport": "Kintetsu limited express Nagoya -> Osaka Namba, local train to Universal City",
+    "attractions": [
+     "Universal City theme park"
+    ],
+    "activities": "Kintetsu limited express from Kintetsu-Nagoya to Osaka-Namba, local train to Universal City; time in the park (Hollywood movie and video-game attractions, character entertainment)",
+    "meals": null,
+    "stay": "Osaka (Universal City)",
+    "notes": null
+   },
+   {
+    "day": 7,
+    "title": "Where movie magic comes to life",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": null,
+    "attractions": [
+     "Universal City theme park"
+    ],
+    "activities": "Full park day: areas recreating movie worlds and famous works, thrill attractions",
+    "meals": null,
+    "stay": "Osaka (Universal City)",
+    "notes": null
+   },
+   {
+    "day": 8,
+    "title": "History, views and food in Osaka",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": "local trains",
+    "attractions": [
+     "Dotonbori",
+     "Shinsaibashi",
+     "Umeda Sky Building",
+     "Abeno Harukas"
+    ],
+    "activities": "Dotonbori & Shinsaibashi (bright signs, takoyaki street food); Umeda Sky Building 360-degree view; Abeno Harukas (tallest building in Japan) views, shopping, museums",
+    "meals": null,
+    "stay": "Osaka (Universal City)",
+    "notes": null
+   },
+   {
+    "day": 9,
+    "title": "Sayonara - until we meet again",
+    "from": "Osaka",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Departure",
+    "meals": null,
+    "stay": null,
+    "notes": "Departure airport not stated"
+   }
+  ],
+  "hotels": [
+   {
+    "city": "Tokyo Bay Maihama",
+    "hotel": "park-side hotel (not named)",
+    "tier": null,
+    "nights": 3
+   },
+   {
+    "city": "Nagoya",
+    "hotel": "not named",
+    "tier": null,
+    "nights": 2
+   },
+   {
+    "city": "Osaka (Universal City)",
+    "hotel": "park-side hotel (not named)",
+    "tier": null,
+    "nights": 3
+   }
+  ],
+  "inclusions": [
+   "selected hotels near the theme parks (3 nights Maihama, 3 nights Universal City)",
+   "Shinkansen",
+   "luggage delivery (Maihama -> Universal City)",
+   "airport meet"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Japan's top large-scale theme parks in one 9-day trip: two Tokyo Bay (Maihama) resort parks, the brick-toy park and the animation park near Nagoya, and Universal City Osaka",
+   "Park-side nights: 3 at Maihama, 3 at Universal City"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Tokyo Bay theme resort (two Maihama parks)",
+    "city": "Urayasu (Maihama)"
+   },
+   {
+    "name_en": "Nagoya Castle",
+    "city": "Nagoya"
+   },
+   {
+    "name_en": "Noritake Forest",
+    "city": "Nagoya"
+   },
+   {
+    "name_en": "Osu Shopping District",
+    "city": "Nagoya"
+   },
+   {
+    "name_en": "SCMAGLEV and Railway Park",
+    "city": "Nagoya"
+   },
+   {
+    "name_en": "Animation-world park at Ai-Chikyuhaku Kinen Koen",
+    "city": "Nagakute (Nagoya area)"
+   },
+   {
+    "name_en": "Brick-toy theme park, Nagoya Port",
+    "city": "Nagoya"
+   },
+   {
+    "name_en": "Universal City theme park",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Dotonbori",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Shinsaibashi",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Umeda Sky Building",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Abeno Harukas",
+    "city": "Osaka"
+   }
+  ],
+  "source_confidence": "high",
+  "sources": [
+   "https://selfguidejapan.com/tours/TP004 (URL present in Links with page title 'Tokyo Bay, Creative Parks & Osaka Thrills')",
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/TP004 ... itinerary day by day' - full 9-day itinerary, hotel nights, price",
+   "https://selfguidejapan.com/experiences/Theme%20Parks"
+  ],
+  "notes": "Pass 2. Page URL + title confirmed; complete 9-day itinerary obtained with day titles. Hotel names not given (only nights per city). Price range differs slightly from pass 1 (see price_note)."
+ },
+ {
+  "code": "HK005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/HK005",
+  "title_en": "Sapporo Discovery & Rusutsu Ski",
+  "subtitle_en": null,
+  "days": 8,
+  "nights": 7,
+  "price_min": 2400,
+  "price_max": 4800,
+  "currency": "USD",
+  "price_note": "from US$2,400 ~ US$4,800 per person (pass-2 summary; pass 1 only had 'from 2,400')",
+  "series": "HK",
+  "themes": [
+   "Ski",
+   "Winter"
+  ],
+  "season": "December–March (pass-1 blog)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Sapporo",
+    "nights": 3
+   },
+   {
+    "city": "Rusutsu",
+    "nights": 4
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Three nights in Sapporo followed by four nights at Rusutsu ski resort"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Rusutsu Resort ski area",
+    "city": "Rusutsu"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/HK005 ... itinerary day by day' - 8 days, price, 3N Sapporo + 4N Rusutsu",
+   "https://selfguidejapan.com/blog/japan-hokkaido-tour-package",
+   "https://selfguidejapan.com/blog/japan-ski-packages",
+   "https://selfguidejapan.com/blog/things-to-do-in-sapporo"
+  ],
+  "notes": "Pass 2. /tours/HK005 URL not in Links (ski blogs only). Summary explicitly says no day-by-day (Days 1-8) or hotel names in results; day_by_day empty. No follow-up (tour < 12 days)."
+ },
+ {
+  "code": "HK007",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/HK007",
+  "title_en": "Rusutsu & Furano Ski Journey",
+  "subtitle_en": null,
+  "days": 8,
+  "nights": 7,
+  "price_min": 3400,
+  "price_max": 5100,
+  "currency": "USD",
+  "price_note": "US$3,400 ~ US$5,100 per person (search summary)",
+  "series": "HK",
+  "themes": [
+   "Ski",
+   "Winter"
+  ],
+  "season": "winter (ski season)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Furano",
+    "nights": 3
+   },
+   {
+    "city": "Rusutsu",
+    "nights": 4
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [
+   "chartered taxis between the two resorts"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Two Hokkaido resorts on one trip: 3 nights at Furano (Ikon Pass) and 4 nights at Rusutsu (Epic Pass), chartered taxis between them"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Furano Ski Resort",
+    "city": "Furano"
+   },
+   {
+    "name_en": "Rusutsu Resort ski area",
+    "city": "Rusutsu"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/HK007 ... itinerary day by day' - 8 days, price, 3N Furano + 4N Rusutsu, chartered taxis",
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/japan-ski-packages",
+   "https://selfguidejapan.com/blog/hokkaido-ski-resorts"
+  ],
+  "notes": "Pass 2. /tours/HK007 URL not in Links. Summary explicitly says no day-by-day or hotel names; day_by_day empty. Order Furano/Rusutsu not stated. No follow-up (tour < 12 days)."
+ },
+ {
+  "code": "HK006",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/HK006",
+  "title_en": "Rusutsu & Furano Ski with Hokkaido Highlights",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 4700,
+  "price_max": 6400,
+  "currency": "USD",
+  "price_note": "US$4,700 ~ US$6,400 per person for 12 days (search summary). EUR pricing PDF from pass 1: Dec 2026 EUR 4,300–5,600; Jan 2027 EUR 4,900–5,300; Feb–Mar 2027 EUR 4,600–5,100; triple room EUR 500 less pp",
+  "series": "HK",
+  "themes": [
+   "Ski",
+   "Winter",
+   "Onsen"
+  ],
+  "season": "December 2026 – March 2027 (per EUR pricing PDF)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Rusutsu",
+    "nights": null
+   },
+   {
+    "city": "Jozankei Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Sapporo",
+    "nights": 2
+   },
+   {
+    "city": "Furano",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Rusutsu (Epic Pass) and Furano (Ikon Pass) on the same trip, with a night in Jozankei Onsen and two nights in Sapporo between them"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Rusutsu Resort ski area",
+    "city": "Rusutsu"
+   },
+   {
+    "name_en": "Jozankei Onsen",
+    "city": "Sapporo (Jozankei)"
+   },
+   {
+    "name_en": "Furano Ski Resort",
+    "city": "Furano"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/HK006 ... itinerary day by day' - 12 days, price, stay structure",
+   "https://images.selfguidejapan.com/pricing/HK006_EUR_26.12_27.03.pdf (pass 1)",
+   "https://selfguidejapan.com/blog/ikon-pass-japan",
+   "https://selfguidejapan.com/blog/japan-ski-packages"
+  ],
+  "notes": "Pass 2. /tours/HK006 URL not in Links. Summary explicitly says no day-by-day or hotel details; day_by_day empty. Rusutsu and Furano nights still unknown (11 - 1 Jozankei - 2 Sapporo = 8 between them). No follow-up 'Day 8-12' search run: the primary returned no itinerary at all (not a truncation case), and follow-ups on SL004/SL005 showed they do not add days."
+ },
+ {
+  "code": "HK008",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/HK008",
+  "title_en": "Rusutsu Ski with Sapporo & Noboribetsu Onsen",
+  "subtitle_en": null,
+  "days": 8,
+  "nights": 7,
+  "price_min": 2900,
+  "price_max": 5100,
+  "currency": "USD",
+  "price_note": "US$2,900 ~ US$5,100 (search summary; basis not stated)",
+  "series": "HK",
+  "themes": [
+   "Ski",
+   "Winter",
+   "Onsen"
+  ],
+  "season": "winter (ski season)",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Sapporo",
+    "nights": 2
+   },
+   {
+    "city": "Noboribetsu Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Rusutsu",
+    "nights": 4
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Two nights in Sapporo, a night in Noboribetsu Onsen, and four nights at Rusutsu"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Noboribetsu Onsen",
+    "city": "Noboribetsu"
+   },
+   {
+    "name_en": "Rusutsu Resort ski area",
+    "city": "Rusutsu"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/HK008 ... itinerary day by day' - 8 days, price, 2N Sapporo / 1N Noboribetsu / 4N Rusutsu",
+   "https://selfguidejapan.com/blog/hokkaido-winter",
+   "https://selfguidejapan.com/blog/things-to-do-in-sapporo",
+   "https://selfguidejapan.com/blog/japan-ski-packages"
+  ],
+  "notes": "Pass 2. /tours/HK008 URL not in Links. Summary explicitly says no day-by-day or hotel names; day_by_day empty. No follow-up (tour < 12 days)."
+ },
+ {
+  "code": "SK005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK005",
+  "title_en": "Hakuba Tsugaike with Snow Monkeys",
+  "subtitle_en": null,
+  "days": 11,
+  "nights": 10,
+  "price_min": 3100,
+  "price_max": 3600,
+  "currency": "USD",
+  "price_note": "from US$3,100 ~ US$3,600 per person (search summary)",
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter",
+   "Snow Monkeys"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Yudanaka Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Hakuba (Tsugaike)",
+    "nights": 6
+   }
+  ],
+  "day_by_day": [],
+  "hotels": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen tickets or airport transfers (pass 1)",
+   "luggage delivery to resort (pass 1)",
+   "24/7 support (pass 1)"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "A night at Yudanaka Onsen (Jigokudani snow monkeys) and six nights in Tsugaike (Hakuba)",
+   "Described as the lowest-priced way to combine a Hakuba ski week with the Jigokudani snow monkeys"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Jigokudani Monkey Park",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Yudanaka Onsen",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Tsugaike Kogen ski area (Hakuba)",
+    "city": "Otari / Hakuba"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SK005 ... itinerary day by day' - 11 days, price, 1N Yudanaka + 6N Tsugaike",
+   "https://selfguidejapan.com/blog/hakuba",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts",
+   "https://selfguidejapan.com/blog/jigokudani-monkey-park",
+   "https://selfguidejapan.com/tours/SK205 (sister tour 'Hakuba Wadano with Snow Monkeys' appeared in Links - a code not in the known list)"
+  ],
+  "notes": "Pass 2. /tours/SK005 URL not in Links; instead the Links included https://selfguidejapan.com/tours/SK205 'Hakuba Wadano with Snow Monkeys' (11 days, Hakuba Tokyu Hotel + Yudanaka Onsen) - a previously unknown code (SK2xx tier?). Summary explicitly says no SK005 day-by-day; day_by_day empty. Structure very likely mirrors SK006 (Tokyo 1N / Yudanaka 1N / resort 6N / Tokyo 2N) but this is NOT verified and not recorded. Remaining 3 of 10 nights unaccounted (likely Tokyo). No follow-up (tour < 12 days)."
+ },
+ {
+  "code": "SK006",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/SK006",
+  "title_en": "Shiga Kogen with Snow Monkeys",
+  "subtitle_en": null,
+  "days": 11,
+  "nights": 10,
+  "price_min": 2900,
+  "price_max": 3500,
+  "currency": "USD",
+  "price_note": "US$2,900 ~ US$3,500 (tour page summary; basis not stated)",
+  "series": "SK",
+  "themes": [
+   "Ski",
+   "Winter",
+   "Snow Monkeys"
+  ],
+  "season": "Winter 2026-27",
+  "arrival_airport": "Haneda/Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 1
+   },
+   {
+    "city": "Yudanaka Onsen",
+    "nights": 1
+   },
+   {
+    "city": "Shiga Kogen",
+    "nights": 6
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrival in Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "taxi / limousine bus / train from airport (self)",
+    "attractions": [],
+    "activities": "Staff waiting at Haneda or Narita Airport; trip essentials handed over; taken to a taxi stand, limousine bus stop or train station; arrange large luggage to be sent from the airport to Shiga Kogen by courier",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Luggage courier airport -> Shiga Kogen"
+   },
+   {
+    "day": 2,
+    "title": "Travelling to Yudanaka Onsen & the Snow Monkey Park",
+    "from": "Tokyo",
+    "to": "Yudanaka Onsen",
+    "transport": "Shinkansen Tokyo/Ueno -> Nagano (morning); Nagano Dentetsu limited express Nagano -> Yudanaka; hotel shuttle bus",
+    "attractions": [
+     "Jigokudani Monkey Park (Snow Monkey Park)"
+    ],
+    "activities": "After breakfast, morning Shinkansen from Tokyo or Ueno to Nagano; Nagano Dentetsu limited express to Yudanaka; hotel shuttle to the Snow Monkey Park to see wild Japanese macaques",
+    "meals": "Breakfast",
+    "stay": "Yudanaka Onsen",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "To Shiga Kogen - skiing begins",
+    "from": "Yudanaka Onsen",
+    "to": "Shiga Kogen",
+    "transport": "hotel shuttle to Yudanaka Station; Nagano Dentetsu local bus to Shiga Kogen Prince Hotel",
+    "attractions": [
+     "Shiga Kogen ski area"
+    ],
+    "activities": "After breakfast, hotel shuttle to Yudanaka Station, local bus to Shiga Kogen Prince Hotel; skiing in Shiga Kogen (first of 6 ski days, days 3-8)",
+    "meals": "Breakfast",
+    "stay": "Shiga Kogen Prince Hotel West Building",
+    "notes": null
+   },
+   {
+    "day": 4,
+    "title": "Skiing in Shiga Kogen",
+    "from": "Shiga Kogen",
+    "to": "Shiga Kogen",
+    "transport": null,
+    "attractions": [
+     "Shiga Kogen ski area"
+    ],
+    "activities": "Breakfast at hotel; skiing in Shiga Kogen's powder snow",
+    "meals": "Breakfast",
+    "stay": "Shiga Kogen Prince Hotel West Building",
+    "notes": "Summary groups days 3-8 as skiing days"
+   },
+   {
+    "day": 5,
+    "title": "Skiing in Shiga Kogen",
+    "from": "Shiga Kogen",
+    "to": "Shiga Kogen",
+    "transport": null,
+    "attractions": [
+     "Shiga Kogen ski area"
+    ],
+    "activities": "Breakfast at hotel; skiing in Shiga Kogen",
+    "meals": "Breakfast",
+    "stay": "Shiga Kogen Prince Hotel West Building",
+    "notes": "Summary groups days 3-8 as skiing days"
+   },
+   {
+    "day": 6,
+    "title": "Skiing in Shiga Kogen",
+    "from": "Shiga Kogen",
+    "to": "Shiga Kogen",
+    "transport": null,
+    "attractions": [
+     "Shiga Kogen ski area"
+    ],
+    "activities": "Breakfast at hotel; skiing in Shiga Kogen",
+    "meals": "Breakfast",
+    "stay": "Shiga Kogen Prince Hotel West Building",
+    "notes": "Summary groups days 3-8 as skiing days"
+   },
+   {
+    "day": 7,
+    "title": "Skiing in Shiga Kogen",
+    "from": "Shiga Kogen",
+    "to": "Shiga Kogen",
+    "transport": null,
+    "attractions": [
+     "Shiga Kogen ski area"
+    ],
+    "activities": "Breakfast at hotel; skiing in Shiga Kogen",
+    "meals": "Breakfast",
+    "stay": "Shiga Kogen Prince Hotel West Building",
+    "notes": "Summary groups days 3-8 as skiing days"
+   },
+   {
+    "day": 8,
+    "title": "Skiing in Shiga Kogen",
+    "from": "Shiga Kogen",
+    "to": "Shiga Kogen",
+    "transport": null,
+    "attractions": [
+     "Shiga Kogen ski area"
+    ],
+    "activities": "Breakfast at hotel; skiing in Shiga Kogen (last ski day)",
+    "meals": "Breakfast",
+    "stay": "Shiga Kogen Prince Hotel West Building",
+    "notes": "Summary groups days 3-8 as skiing days"
+   },
+   {
+    "day": 9,
+    "title": "Shiga Kogen to Tokyo",
+    "from": "Shiga Kogen",
+    "to": "Tokyo",
+    "transport": "chartered taxi Prince Hotel -> Nagano Station; Shinkansen Nagano -> Tokyo/Ueno",
+    "attractions": [],
+    "activities": "Check out; arrange large luggage courier Shiga Kogen -> Tokyo hotel; chartered taxi to Nagano Station with two sightseeing options (Plan A / Plan B, not detailed in summary); lunch at Nagano; Shinkansen to Tokyo or Ueno; hotel check-in",
+    "meals": "Breakfast",
+    "stay": "Tokyo",
+    "notes": "Luggage courier Shiga Kogen -> Tokyo"
+   },
+   {
+    "day": 10,
+    "title": "Tokyo free day",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [
+     "Tokyo Station area",
+     "Imperial Palace",
+     "Asakusa / Senso-ji Temple",
+     "Nakamise shopping street"
+    ],
+    "activities": "Free day in Tokyo; recommended Tokyo Station, the Imperial Palace, Asakusa with Senso-ji Temple and Nakamise shopping street",
+    "meals": "Breakfast",
+    "stay": "Tokyo",
+    "notes": "Summary groups 'Days 10-11: Tokyo free days and departure'"
+   },
+   {
+    "day": 11,
+    "title": "Departure",
+    "from": "Tokyo",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Departure",
+    "meals": "Breakfast",
+    "stay": null,
+    "notes": null
+   }
+  ],
+  "hotels": [
+   {
+    "city": "Shiga Kogen",
+    "hotel": "Shiga Kogen Prince Hotel West Building",
+    "tier": null,
+    "nights": 6
+   },
+   {
+    "city": "Tokyo",
+    "hotel": "not named",
+    "tier": null,
+    "nights": 3
+   },
+   {
+    "city": "Yudanaka Onsen",
+    "hotel": "not named (onsen hotel with shuttle bus)",
+    "tier": null,
+    "nights": 1
+   }
+  ],
+  "inclusions": [
+   "hotels (Tokyo 1N + Yudanaka Onsen 1N + Shiga Kogen Prince Hotel West 6N + Tokyo 2N)",
+   "breakfast daily (per day texts)",
+   "Shinkansen tickets",
+   "chartered taxi Shiga Kogen -> Nagano Station on day 9",
+   "airport meet",
+   "24/7 support (pass 1)"
+  ],
+  "exclusions": [
+   "luggage courier is arranged by the traveler (airport -> Shiga Kogen, Shiga Kogen -> Tokyo) per the day texts; whether it is prepaid is not stated"
+  ],
+  "highlights": [
+   "Snow monkeys at Jigokudani Monkey Park from a night at Yudanaka Onsen",
+   "Six nights / six ski days at Shiga Kogen (Prince Hotel West Building)",
+   "Tokyo at both ends"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Jigokudani Monkey Park",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Yudanaka Onsen",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Shiga Kogen ski area",
+    "city": "Yamanouchi"
+   },
+   {
+    "name_en": "Imperial Palace",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Senso-ji Temple / Nakamise",
+    "city": "Tokyo"
+   }
+  ],
+  "source_confidence": "high",
+  "sources": [
+   "https://selfguidejapan.com/tours/SK006 (URL present in Links with page title 'Shiga Kogen with Snow Monkeys - Self-Guided Tours in Japan')",
+   "WebSearch summary (pass 2, extended) for 'selfguidejapan.com/tours/SK006 ... itinerary day by day' - full 11-day itinerary, hotels, price",
+   "https://selfguidejapan.com/blog/shiga-kogen",
+   "https://selfguidejapan.com/blog/nagano-ski-resorts"
+  ],
+  "notes": "Pass 2. Page URL + title confirmed; complete 11-day itinerary obtained. Days 4-8 are the summary's grouped 'Days 3-8 skiing' expanded one per day (content identical). Day 9 'Plan A / Plan B' sightseeing options not described in the summary. Nights 1+1+6+2 = 10 match 11 days."
+ }
+]

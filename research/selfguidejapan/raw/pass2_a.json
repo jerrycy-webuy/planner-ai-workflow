@@ -1,0 +1,2774 @@
+[
+ {
+  "code": "BF003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/BF003",
+  "title_en": "Historic Towns & Mountain Heritage",
+  "subtitle_en": null,
+  "days": 7,
+  "nights": 6,
+  "price_min": 1300,
+  "price_max": 1900,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "BF",
+  "themes": [
+   "Historic Towns",
+   "Mountain Heritage"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "all hotels",
+   "Shinkansen"
+  ],
+  "exclusions": [
+   "Shirakawa-go optional day taxi (not included)"
+  ],
+  "highlights": [
+   "Tokyo",
+   "Two nights in Takayama (Hida old town)",
+   "Kyoto",
+   "Optional Shirakawa-go day from Takayama (taxi not included)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Takayama Old Town (Sanmachi)",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Shirakawa-go (optional)",
+    "city": "Shirakawa-go"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/takayama",
+   "https://selfguidejapan.com/blog/shirakawa-go",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors"
+  ],
+  "notes": "Pass 2, 1 extended search (instructed format). /tours/BF003 URL did not appear in Links (only blog/listing pages). Summary attributes to BF003: 7 days, Tokyo -> 2 nights Takayama -> Kyoto, USD 1,300-1,900 pp, all hotels + Shinkansen included, Shirakawa-go as an optional day from Takayama (taxi not included). Day-by-day NOT obtained; no hotel names. Tokyo/Kyoto night counts not stated."
+ },
+ {
+  "code": "BF004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/BF004",
+  "title_en": "Japan History & Modern Cities",
+  "subtitle_en": null,
+  "days": 7,
+  "nights": 6,
+  "price_min": 1400,
+  "price_max": 1900,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "BF",
+  "themes": [
+   "History",
+   "Modern Cities"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "all hotels",
+   "Shinkansen"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo",
+   "Two nights in Hiroshima: a day for Peace Memorial Park and the city, a day for Miyajima",
+   "Himeji",
+   "Osaka"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Hiroshima Peace Memorial Park",
+    "city": "Hiroshima"
+   },
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/hiroshima-miyajima",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+   "https://selfguidejapan.com/destinations/osaka"
+  ],
+  "notes": "Pass 2, 1 extended search (instructed format). /tours/BF004 URL did not appear in Links. Summary attributes to BF004: 7 days, Tokyo -> 2 nights Hiroshima (with the Miyajima day) -> Himeji -> Osaka, US$1,400-1,900, all hotels + Shinkansen. Himeji Castle listed by inference from 'Himeji' being on the route (hiroshima-miyajima blog). Day-by-day NOT obtained; no hotel names; Tokyo/Osaka nights not stated."
+ },
+ {
+  "code": "BF005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/BF005",
+  "title_en": "From Tokyo to Kyushu Journey",
+  "subtitle_en": null,
+  "days": 7,
+  "nights": 6,
+  "price_min": 1500,
+  "price_max": null,
+  "currency": "USD",
+  "price_note": "from US$1,500 per person (upper bound not given)",
+  "series": "BF",
+  "themes": [
+   "Kyushu"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Hiroshima",
+    "nights": null
+   },
+   {
+    "city": "Fukuoka",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "all hotels",
+   "Shinkansen",
+   "luggage forwarding Tokyo -> Fukuoka"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo",
+   "Himeji",
+   "Miyajima",
+   "Hiroshima",
+   "Two nights in Fukuoka to finish"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   },
+   {
+    "name_en": "Hiroshima Peace Memorial Park",
+    "city": "Hiroshima"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/destinations/hiroshima",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors"
+  ],
+  "notes": "Pass 2, 1 extended search (instructed format). /tours/BF005 URL did not appear in Links. Summary attributes to BF005: 7 days, Tokyo -> Hiroshima -> 2 nights Fukuoka to finish; visits Tokyo, Himeji, Miyajima, Hiroshima, Fukuoka; from $1,500; luggage sent Tokyo -> Fukuoka; standard-tier Fukuoka hotel = ANA Crowne Plaza Fukuoka (or similar). Himeji Castle / Peace Park / Itsukushima listed by inference from destination names. Day-by-day NOT obtained."
+ },
+ {
+  "code": "GR001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR001",
+  "title_en": "Hidden Gems of Japan: Ise-Shima Escape",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 3300,
+  "price_max": 4400,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "GR",
+  "themes": [
+   "Hidden Gems"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Nagoya",
+    "nights": null
+   },
+   {
+    "city": "Toba & Kashikojima (Ise-Shima coast)",
+    "nights": null
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Nara",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "Shinkansen",
+   "ama-hut lunch",
+   "Ago Bay cruise",
+   "Koyasan day trip"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Ise Grand Shrine (Outer and Inner shrines)",
+   "Mikimoto Pearl Island / 'pearl island paradise'",
+   "Ama-hut lunch (included)",
+   "Ago Bay cruise (included)",
+   "Koyasan day trip from Osaka",
+   "Nara",
+   "Kyoto"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Ise Grand Shrine (Geku & Naiku)",
+    "city": "Ise"
+   },
+   {
+    "name_en": "Mikimoto Pearl Island",
+    "city": "Toba"
+   },
+   {
+    "name_en": "Ago Bay",
+    "city": "Kashikojima"
+   },
+   {
+    "name_en": "Koyasan",
+    "city": "Koyasan"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/",
+   "https://selfguidejapan.com/blog/ise-shima-hidden-gem-spirituality-pearls",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/blog/shimakaze-train",
+   "https://selfguidejapan.com/blog/things-to-do-in-nagoya",
+   "https://selfguidejapan.com/blog/ise-grand-shrine",
+   "https://selfguidejapan.com/blog/japan-travel-packages",
+   "https://selfguidejapan.com/blog/japan-solo-tours"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up). /tours/GR001 URL never appeared in Links. Consistently attributed to GR001: 12 days, US$3,300-4,400 pp (deluxe twin GR101 = $5,900-7,600; solo twin exists), Tokyo to Kashikojima via Nagoya; route covers Tokyo, Nara, Kyoto, Osaka plus the Ise-Shima coast; ama-hut lunch and Ago Bay cruise included; Koyasan is a day trip from Osaka. Ise-Shima sights (Ise Jingu Outer+Inner, Mikimoto Pearl Island, ama divers, Ago Bay) come from the Ise-Shima blog's 3-day plan. Day-by-day, nights per city and hotels NOT obtained in either search."
+ },
+ {
+  "code": "GR003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR003",
+  "title_en": "Timeless Traditions: Kanazawa & Hida Journey",
+  "subtitle_en": "A 12-day cultural journey from Tokyo to Kyoto through Kanazawa's samurai districts and Hida Takayama's mountain heritage",
+  "days": 12,
+  "nights": 11,
+  "price_min": 3200,
+  "price_max": 4700,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "GR",
+  "themes": [
+   "Traditions"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Kanazawa",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "hotels",
+   "all transport pre-booked (Shinkansen / limited express)",
+   "Shirakawa-go day by chartered taxi (not public bus)"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Higashi Chaya teahouse district",
+   "Omicho Market",
+   "Kenroku-en garden",
+   "Kanazawa Castle Park",
+   "21st Century Museum of Contemporary Art",
+   "Chartered taxi day through Shirakawa-go",
+   "Kyoto 3 nights",
+   "Takayama 2 nights",
+   "Nara (listed among destinations; presumably a day trip from Kyoto)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Higashi Chaya District",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Omicho Market",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Kenroku-en Garden",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Kanazawa Castle Park",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "21st Century Museum of Contemporary Art",
+    "city": "Kanazawa"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/takayama",
+   "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
+   "https://selfguidejapan.com/blog/shirakawa-go",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/japan-luxury-tours",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up). /tours/GR003 URL never appeared in Links. Consistently attributed to GR003: 12 days, US$3,200-4,700 pp; Tokyo, 2N Kanazawa, 3N Kyoto, 2N Takayama; sequence Kanazawa first, then Kyoto, then Takayama + Shirakawa-go on the way back toward Tokyo (Tokyo night split unknown, 4 implied); destinations list also names Nara; Shirakawa-go day by chartered taxi; all transport pre-booked. Hotels (standard tier, or similar): Kanazawa New Grand Hotel Prestige; Mercure Hida Takayama. Kanazawa sights per the Kanazawa blog: Higashi Chaya, Omicho Market, Kenroku-en, castle park, 21st Century Museum. Day-by-day NOT obtained in either search."
+ },
+ {
+  "code": "GR004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR004",
+  "title_en": "Scenic Japan: Culture & Countryside",
+  "subtitle_en": null,
+  "days": 15,
+  "nights": 14,
+  "price_min": 4200,
+  "price_max": 5900,
+  "currency": "USD",
+  "price_note": "per person, two sharing",
+  "series": "GR",
+  "themes": [
+   "Culture",
+   "Countryside"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Okayama",
+    "nights": null
+   },
+   {
+    "city": "Naoshima",
+    "nights": null
+   },
+   {
+    "city": "Himeji",
+    "nights": null
+   },
+   {
+    "city": "Hiroshima",
+    "nights": null
+   },
+   {
+    "city": "Fukuoka",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Himeji Castle",
+   "Art islands of the Seto Inland Sea (Naoshima)",
+   "Hiroshima Peace Memorial Park",
+   "Miyajima as an optional excursion (short train + ferry)"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Naoshima art island",
+    "city": "Naoshima"
+   },
+   {
+    "name_en": "Hiroshima Peace Memorial Park",
+    "city": "Hiroshima"
+   },
+   {
+    "name_en": "Miyajima (optional)",
+    "city": "Miyajima"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours/SL004",
+   "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/destinations/hiroshima",
+   "https://selfguidejapan.com/destinations/osaka",
+   "https://selfguidejapan.com/destinations/okayama",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up). /tours/GR004 URL never appeared in Links; the SOLO twin https://selfguidejapan.com/tours/SL004 'SOLO Castles: Culture & Countryside' did (rank 1 on the follow-up). Attributed to GR004: 15 days, $4,200-5,900 pp two sharing, destinations Tokyo, Kyoto, Osaka, Okayama, Naoshima, Himeji, Hiroshima, Fukuoka; Himeji Castle, Seto art islands, Peace Park; Miyajima optional. day_by_day is left EMPTY because the only daily table returned comes from the SL004 page; it is stored in day_by_day_proxy with cautions (SL004 includes Takayama, GR004's list does not). Hotels NOT obtained.",
+  "day_by_day_proxy": {
+   "proxy_source_code": "SL004",
+   "proxy_source_title": "SOLO Castles: Culture & Countryside",
+   "proxy_source_url": "https://selfguidejapan.com/tours/SL004",
+   "caution": "The search summary presented this as the GR004 itinerary but the only tour page in the results was the SOLO twin SL004 (same subtitle). SL004's night pattern (Tokyo 2 / Okayama 2 / Hiroshima 2 / Fukuoka 2 / Osaka 2 / Takayama 2 / Tokyo 2) includes Takayama, which GR004's own destination list does not mention, so the routes may differ. Day labels are the summarizer's and are unreliable after Day 8 ('Days 14-15 Takayama' cannot fit with 2 final Tokyo nights).",
+   "nights_pattern": [
+    {
+     "city": "Tokyo",
+     "nights": 2
+    },
+    {
+     "city": "Okayama",
+     "nights": 2
+    },
+    {
+     "city": "Hiroshima",
+     "nights": 2
+    },
+    {
+     "city": "Fukuoka",
+     "nights": 2
+    },
+    {
+     "city": "Osaka",
+     "nights": 2
+    },
+    {
+     "city": "Takayama",
+     "nights": 2
+    },
+    {
+     "city": "Tokyo",
+     "nights": 2
+    }
+   ],
+   "days": [
+    {
+     "day": 1,
+     "title": "Welcome to Tokyo",
+     "from": null,
+     "to": "Tokyo",
+     "transport": "airport meet at Haneda or Narita; taken to taxi stand, limousine bus stop or train station",
+     "attractions": [],
+     "activities": "Staff waiting at Haneda or Narita Airport; hotel check-in",
+     "meals": null,
+     "stay": "Tokyo",
+     "notes": null
+    },
+    {
+     "day": 2,
+     "title": "Tokyo on foot",
+     "from": "Tokyo",
+     "to": "Tokyo",
+     "transport": null,
+     "attractions": [
+      "Sensoji Temple (Asakusa)",
+      "Tokyo Skytree",
+      "Imperial Palace",
+      "Shibuya Scramble Crossing",
+      "Harajuku"
+     ],
+     "activities": "Explore Tokyo on foot - recommended: Asakusa and Sensoji, Tokyo Skytree, Imperial Palace, Shibuya Scramble Crossing, Harajuku",
+     "meals": null,
+     "stay": "Tokyo",
+     "notes": null
+    },
+    {
+     "day": 3,
+     "title": "Himeji Castle, then Okayama",
+     "from": "Tokyo",
+     "to": "Okayama",
+     "transport": "Shinkansen (evening leg to Okayama)",
+     "attractions": [
+      "Himeji Castle"
+     ],
+     "activities": "Visit Himeji Castle (UNESCO), then Shinkansen to Okayama in the evening",
+     "meals": null,
+     "stay": "Okayama",
+     "notes": null
+    },
+    {
+     "day": 4,
+     "title": "Naoshima art island",
+     "from": "Okayama",
+     "to": "Okayama",
+     "transport": null,
+     "attractions": [
+      "Naoshima"
+     ],
+     "activities": "Explore Naoshima Island - museums and outdoor artworks; rental bicycle recommended",
+     "meals": null,
+     "stay": "Okayama",
+     "notes": null
+    },
+    {
+     "day": 5,
+     "title": "Okayama & Kurashiki, then Hiroshima",
+     "from": "Okayama",
+     "to": "Hiroshima",
+     "transport": "Shinkansen",
+     "attractions": [
+      "Kurashiki Bikan Historical Quarter",
+      "Ohara Museum of Art",
+      "Okayama Castle",
+      "Korakuen Garden"
+     ],
+     "activities": "Kurashiki Bikan Historical Quarter, Ohara Museum of Art, Okayama Castle and Korakuen Garden, then Shinkansen to Hiroshima",
+     "meals": null,
+     "stay": "Hiroshima",
+     "notes": null
+    },
+    {
+     "day": 6,
+     "title": "Miyajima",
+     "from": "Hiroshima",
+     "to": "Hiroshima",
+     "transport": "train and ferry",
+     "attractions": [
+      "Itsukushima Shrine",
+      "Otorii Gate"
+     ],
+     "activities": "Miyajima by train and ferry: Itsukushima Shrine (UNESCO) and the Otorii Gate",
+     "meals": null,
+     "stay": "Hiroshima",
+     "notes": "Summary label 'Days 6-7'"
+    },
+    {
+     "day": 8,
+     "title": "Hiroshima city, then Fukuoka",
+     "from": "Hiroshima",
+     "to": "Fukuoka",
+     "transport": "Shinkansen",
+     "attractions": [
+      "Hiroshima Peace Memorial Park",
+      "Atomic Bomb Dome (Genbaku Dome)"
+     ],
+     "activities": "Hiroshima Peace Memorial and the Genbaku Dome (UNESCO), then Shinkansen to Fukuoka",
+     "meals": null,
+     "stay": "Fukuoka",
+     "notes": null
+    },
+    {
+     "day": 9,
+     "title": "Fukuoka",
+     "from": "Fukuoka",
+     "to": "Fukuoka",
+     "transport": null,
+     "attractions": [
+      "Yatai street food stalls"
+     ],
+     "activities": "Fukuoka, gateway to Kyushu - local cuisine and yatai street food stalls",
+     "meals": null,
+     "stay": "Fukuoka",
+     "notes": "Summary label 'Days 9-10'"
+    },
+    {
+     "day": 11,
+     "title": "Osaka",
+     "from": "Fukuoka",
+     "to": "Osaka",
+     "transport": null,
+     "attractions": [
+      "Dotonbori",
+      "Shinsaibashi",
+      "Umeda Sky Building",
+      "Abeno Harukas",
+      "Osaka Castle",
+      "Shinsekai"
+     ],
+     "activities": "Travel to Osaka; Dotonbori, Shinsaibashi, Umeda Sky Building, Abeno Harukas, Osaka Castle, retro Shinsekai district",
+     "meals": null,
+     "stay": "Osaka",
+     "notes": "Summary label 'Days 11-12'; transport not stated"
+    },
+    {
+     "day": 13,
+     "title": "Kyoto",
+     "from": "Osaka",
+     "to": "Kyoto",
+     "transport": null,
+     "attractions": [
+      "Kiyomizu-dera",
+      "Gion",
+      "Nishiki Market"
+     ],
+     "activities": "Travel to Kyoto; Kiyomizu-dera, Gion district, Nishiki Market",
+     "meals": null,
+     "stay": null,
+     "notes": "No Kyoto nights in the stated pattern - possibly a day trip; unverified"
+    },
+    {
+     "day": 14,
+     "title": "Takayama",
+     "from": null,
+     "to": "Takayama",
+     "transport": null,
+     "attractions": [
+      "Takayama Old Town (machiya houses)",
+      "Takayama Jinya"
+     ],
+     "activities": "Travel to Takayama, an Edo-period mountain town; Old Town machiya houses and Takayama Jinya",
+     "meals": null,
+     "stay": "Takayama",
+     "notes": "Summary label 'Days 14-15'; conflicts with the final 2 Tokyo nights - unverified"
+    }
+   ]
+  }
+ },
+ {
+  "code": "GR005",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR005",
+  "title_en": "Castles & Heritage of West Japan",
+  "subtitle_en": null,
+  "days": 15,
+  "nights": 14,
+  "price_min": 3700,
+  "price_max": 5400,
+  "currency": "USD",
+  "price_note": "per person, two sharing",
+  "series": "GR",
+  "themes": [
+   "Castles",
+   "Heritage"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Okayama",
+    "nights": 2
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Himeji",
+    "nights": 1
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Kanazawa",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Kurashiki and the Setouchi islands (Naoshima) from Okayama",
+   "Hiroshima Peace Memorial and Miyajima day trip",
+   "Himeji Castle",
+   "Kyoto historic temples and gardens",
+   "Kenroku-en Garden and the castle town of Kanazawa"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Kurashiki Bikan Historical Quarter",
+    "city": "Okayama"
+   },
+   {
+    "name_en": "Naoshima art island",
+    "city": "Naoshima"
+   },
+   {
+    "name_en": "Hiroshima Peace Memorial Park",
+    "city": "Hiroshima"
+   },
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Kenroku-en Garden",
+    "city": "Kanazawa"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours/SL005",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/destinations/hiroshima",
+   "https://selfguidejapan.com/blog/hiroshima-miyajima",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up). /tours/GR005 URL never appeared in Links; the SOLO twin https://selfguidejapan.com/tours/SL005 did both times. Attributed to GR005: 15 days, USD 3,700-5,400 pp 2 sharing, destinations Tokyo, Kanazawa, Kyoto, Nara, Himeji, Naoshima, Hiroshima; Hiroshima hotel (standard tier) Hotel Granvia Hiroshima or similar, 2 nights. The route night pattern (Tokyo 2 / Okayama 2 / Hiroshima 2 / Himeji 1 / Kyoto 3 / Kanazawa 2 / Tokyo 2, ~1,480 km) and the full Day 1-12 table were given for SL005 ('same route' per the summarizer), so they are stored in day_by_day_proxy and day_by_day is left EMPTY. Other hotels NOT obtained.",
+  "day_by_day_proxy": {
+   "proxy_source_code": "SL005",
+   "proxy_source_title": "SOLO Castles & Heritage of West Japan",
+   "proxy_source_url": "https://selfguidejapan.com/tours/SL005",
+   "caution": "Daily table comes from the SOLO twin SL005's page (the summarizer said it follows the same route as GR005; GR005's own destination list Tokyo/Kanazawa/Kyoto/Nara/Himeji/Naoshima/Hiroshima matches). Days 13-15 were not detailed. Treat as cross-information until the GR005 page is read directly.",
+   "nights_pattern": [
+    {
+     "city": "Tokyo",
+     "nights": 2
+    },
+    {
+     "city": "Okayama",
+     "nights": 2
+    },
+    {
+     "city": "Hiroshima",
+     "nights": 2
+    },
+    {
+     "city": "Himeji",
+     "nights": 1
+    },
+    {
+     "city": "Kyoto",
+     "nights": 3
+    },
+    {
+     "city": "Kanazawa",
+     "nights": 2
+    },
+    {
+     "city": "Tokyo",
+     "nights": 2
+    }
+   ],
+   "route_length_km": 1480,
+   "days": [
+    {
+     "day": 1,
+     "title": "Welcome to Japan - arrival in Tokyo",
+     "from": null,
+     "to": "Tokyo",
+     "transport": "airport meet at Haneda or Narita; taken to taxi stand, limousine bus stop or train station",
+     "attractions": [],
+     "activities": "Staff waiting at Haneda or Narita Airport with a set of trip essentials; hotel check-in",
+     "meals": null,
+     "stay": "Tokyo",
+     "notes": null
+    },
+    {
+     "day": 2,
+     "title": "Vibrant Tokyo",
+     "from": "Tokyo",
+     "to": "Tokyo",
+     "transport": null,
+     "attractions": [
+      "Kaminarimon Gate and Sensoji Temple (Asakusa)",
+      "Tokyo Skytree",
+      "Imperial Palace",
+      "Shibuya Scramble Crossing",
+      "Harajuku"
+     ],
+     "activities": "Recommended: Asakusa (Kaminarimon, Sensoji), Tokyo Skytree, Imperial Palace gardens, Shibuya Scramble Crossing, Harajuku",
+     "meals": null,
+     "stay": "Tokyo",
+     "notes": null
+    },
+    {
+     "day": 3,
+     "title": "Okayama and Kurashiki, the Land of Sunshine",
+     "from": "Tokyo",
+     "to": "Okayama",
+     "transport": "Shinkansen Tokyo -> Okayama (morning); large luggage sent to Hiroshima",
+     "attractions": [
+      "Okayama",
+      "Kurashiki",
+      "Setouchi Islands"
+     ],
+     "activities": "Check out, send large luggage to Hiroshima; morning Shinkansen to Okayama; explore Okayama, Kurashiki and the Setouchi islands at leisure",
+     "meals": null,
+     "stay": "Okayama",
+     "notes": null
+    },
+    {
+     "day": 4,
+     "title": "Island of Contemporary Art - Naoshima",
+     "from": "Okayama",
+     "to": "Okayama",
+     "transport": null,
+     "attractions": [
+      "Naoshima"
+     ],
+     "activities": "Naoshima Island - museums and outdoor artworks; reserve a rental bicycle in advance",
+     "meals": null,
+     "stay": "Okayama",
+     "notes": null
+    },
+    {
+     "day": 5,
+     "title": "Reflecting on Hiroshima's history",
+     "from": "Okayama",
+     "to": "Hiroshima",
+     "transport": "Shinkansen (morning)",
+     "attractions": [
+      "Hiroshima (streetcar sightseeing)"
+     ],
+     "activities": "Morning Shinkansen to Hiroshima; sightseeing by streetcar, local food",
+     "meals": null,
+     "stay": "Hiroshima",
+     "notes": null
+    },
+    {
+     "day": 6,
+     "title": "Miyajima & the Sacred Shrine by the Sea",
+     "from": "Hiroshima",
+     "to": "Hiroshima",
+     "transport": "train and ferry",
+     "attractions": [
+      "Itsukushima Shrine"
+     ],
+     "activities": "Miyajima, the 'island of the gods' in Hiroshima Bay; Itsukushima Shrine (UNESCO)",
+     "meals": null,
+     "stay": "Hiroshima",
+     "notes": null
+    },
+    {
+     "day": 7,
+     "title": "Himeji Castle",
+     "from": "Hiroshima",
+     "to": "Himeji",
+     "transport": "Shinkansen (morning); large luggage sent to Kyoto",
+     "attractions": [
+      "Himeji Castle"
+     ],
+     "activities": "Check out, send large luggage to Kyoto; morning Shinkansen to Himeji; Himeji Castle (UNESCO) and the castle town at leisure",
+     "meals": null,
+     "stay": "Himeji",
+     "notes": null
+    },
+    {
+     "day": 8,
+     "title": "Exploring Kyoto's Historic Streets",
+     "from": "Himeji",
+     "to": "Kyoto",
+     "transport": "Shinkansen (morning)",
+     "attractions": [],
+     "activities": "Morning Shinkansen to Kyoto; sightseeing in Kyoto",
+     "meals": null,
+     "stay": "Kyoto",
+     "notes": null
+    },
+    {
+     "day": 9,
+     "title": "Kyoto Icons",
+     "from": "Kyoto",
+     "to": "Kyoto",
+     "transport": null,
+     "attractions": [
+      "Kinkaku-ji",
+      "Arashiyama (bamboo grove, Togetsukyo Bridge)",
+      "Fushimi Inari Taisha",
+      "Nishiki Market & Kawaramachi"
+     ],
+     "activities": "Recommended: Kinkaku-ji, Arashiyama, Fushimi Inari Taisha, Nishiki Market & Kawaramachi",
+     "meals": null,
+     "stay": "Kyoto",
+     "notes": null
+    },
+    {
+     "day": 10,
+     "title": "Beyond Kyoto: Osaka or Nara",
+     "from": "Kyoto",
+     "to": "Kyoto",
+     "transport": null,
+     "attractions": [
+      "Dotonbori",
+      "Tsutenkaku Tower",
+      "Todai-ji",
+      "Kasuga Taisha",
+      "Kofuku-ji",
+      "Nara Park"
+     ],
+     "activities": "Day trip options: Osaka (Dotonbori shopping, Tsutenkaku) or Nara (Todai-ji, Kasuga Taisha, Kofuku-ji, Nara Park deer)",
+     "meals": null,
+     "stay": "Kyoto",
+     "notes": null
+    },
+    {
+     "day": 11,
+     "title": "The Timeless Charm of Kanazawa",
+     "from": "Kyoto",
+     "to": "Kanazawa",
+     "transport": "limited express Kyoto -> Tsuruga, then Shinkansen to Kanazawa (morning); large luggage sent to Tokyo",
+     "attractions": [],
+     "activities": "Check out, send large luggage to Tokyo; limited express to Tsuruga then Shinkansen to Kanazawa; explore the Edo-period castle town at leisure",
+     "meals": null,
+     "stay": "Kanazawa",
+     "notes": null
+    },
+    {
+     "day": 12,
+     "title": "Kanazawa: Gardens, Arts & Samurai Heritage",
+     "from": "Kanazawa",
+     "to": "Kanazawa",
+     "transport": null,
+     "attractions": [
+      "Omicho Market",
+      "Kenroku-en Garden"
+     ],
+     "activities": "Recommended: Omi-cho Market, Kenroku-en Garden (one of Japan's Three Great Gardens)",
+     "meals": null,
+     "stay": "Kanazawa",
+     "notes": null
+    },
+    {
+     "day": 13,
+     "title": "Return to Tokyo (2 nights)",
+     "from": "Kanazawa",
+     "to": "Tokyo",
+     "transport": null,
+     "attractions": [],
+     "activities": "Return to Tokyo for 2 nights (Days 13-15 not detailed in the summary)",
+     "meals": null,
+     "stay": "Tokyo",
+     "notes": "Summary label 'Days 13-15'; only the night count was given"
+    }
+   ]
+  }
+ },
+ {
+  "code": "GR006",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR006",
+  "title_en": "Cultural Essence: Kyoto & Kanazawa Short Escape",
+  "subtitle_en": null,
+  "days": 12,
+  "nights": 11,
+  "price_min": 2800,
+  "price_max": 4200,
+  "currency": "USD",
+  "price_note": "per person, two sharing",
+  "series": "GR",
+  "themes": [
+   "Culture"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Kanazawa",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Three nights in Kyoto",
+   "Kanazawa: zen gardens, geisha districts and gold-leaf artisan quarters",
+   "Transport included"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Kenroku-en Garden",
+    "city": "Kanazawa"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/things-to-do-in-kyoto",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+   "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
+   "https://selfguidejapan.com/destinations/osaka",
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up, the base one ran 3 engine sub-searches). /tours/GR006 URL never in Links. Consistently attributed to GR006: 12 days, $2,800-4,200 pp 2 sharing, Tokyo -> Osaka -> three nights Kyoto -> Kanazawa; 'zen gardens, geisha districts and gold-leaf artisan quarters, transport included'. Kanazawa hotel = Kanazawa New Grand Hotel Prestige (or similar). Day-by-day, other night counts and end city NOT obtained."
+ },
+ {
+  "code": "GR007",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR007",
+  "title_en": "Sea of Serenity: Kashikojima & Cultural Japan",
+  "subtitle_en": null,
+  "days": 13,
+  "nights": 12,
+  "price_min": 3700,
+  "price_max": 5200,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "GR",
+  "themes": [
+   "Sea",
+   "Culture"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Hakone",
+    "nights": 1
+   },
+   {
+    "city": "Kashikojima (Ise-Shima)",
+    "nights": 1
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Okayama",
+    "nights": 1
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrive Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "airport meet",
+    "attractions": [],
+    "activities": "Staff meet you at the airport; documents and IC card handed over; hotel check-in",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Summary wording 'single room' suggests the text comes from the solo-tours blog using this route"
+   },
+   {
+    "day": 2,
+    "title": "Tokyo free day",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [
+     "Asakusa (Sensoji)",
+     "Shibuya",
+     "Harajuku",
+     "Meiji Shrine"
+    ],
+    "activities": "Full free day - Asakusa, Shibuya, Harajuku and Meiji Shrine options",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Tokyo to Hakone",
+    "from": "Tokyo",
+    "to": "Hakone",
+    "transport": "Shinkansen to Odawara; Hakone Free Pass",
+    "attractions": [
+     "Hakone"
+    ],
+    "activities": "Suitcase forwarded to Kyoto; Shinkansen to Odawara; Hakone Free Pass; Japanese-style room with private open-air bath",
+    "meals": "dinner",
+    "stay": "Hakone (onsen hotel, Japanese-style room with private open-air bath)",
+    "notes": null
+   },
+   {
+    "day": 4,
+    "title": "Hakone to Kashikojima",
+    "from": "Hakone",
+    "to": "Kashikojima",
+    "transport": "Shinkansen to Nagoya, limited express to Ise; shuttle bus to hotel",
+    "attractions": [],
+    "activities": "Travel to the Ise-Shima coast; shuttle bus to hotel",
+    "meals": "dinner",
+    "stay": "Kashikojima",
+    "notes": null
+   },
+   {
+    "day": 5,
+    "title": "Ago Bay cruise, then Kyoto",
+    "from": "Kashikojima",
+    "to": "Kyoto",
+    "transport": "limited express and Shinkansen to Kyoto",
+    "attractions": [
+     "Ago Bay"
+    ],
+    "activities": "Ago Bay cruise; then limited express and Shinkansen to Kyoto",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 6,
+    "title": "Kyoto free day",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [
+     "Fushimi Inari Taisha",
+     "Kinkaku-ji",
+     "Gion"
+    ],
+    "activities": "Full free day - Fushimi Inari at dawn, Kinkaku-ji, Gion options",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 7,
+    "title": "Kyoto free day",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [
+     "Arashiyama",
+     "Nishiki Market",
+     "Nara (option)"
+    ],
+    "activities": "Full free day - Arashiyama, Nishiki Market, or Nara options",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": null
+   },
+   {
+    "day": 8,
+    "title": "Kyoto to Okayama via Himeji",
+    "from": "Kyoto",
+    "to": "Okayama",
+    "transport": "Shinkansen via Himeji",
+    "attractions": [
+     "Himeji Castle"
+    ],
+    "activities": "Shinkansen via Himeji to Okayama",
+    "meals": null,
+    "stay": "Okayama",
+    "notes": "Himeji Castle stop implied by 'via Himeji'; not stated explicitly as a visit"
+   },
+   {
+    "day": 9,
+    "title": "Okayama to Hiroshima",
+    "from": "Okayama",
+    "to": "Hiroshima",
+    "transport": "Shinkansen",
+    "attractions": [],
+    "activities": "Shinkansen to Hiroshima",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 10,
+    "title": "Miyajima day",
+    "from": "Hiroshima",
+    "to": "Hiroshima",
+    "transport": null,
+    "attractions": [
+     "Miyajima (Itsukushima Shrine)"
+    ],
+    "activities": "Whole day on Miyajima Island",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 11,
+    "title": "Hiroshima to Tokyo",
+    "from": "Hiroshima",
+    "to": "Tokyo",
+    "transport": "Shinkansen",
+    "attractions": [],
+    "activities": "Shinkansen back to Tokyo",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 12,
+    "title": "Tokyo free day",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [
+     "Kamakura (option)",
+     "Nikko (option)"
+    ],
+    "activities": "Full free day - Kamakura, Nikko, or neighborhoods you missed",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 13,
+    "title": "Departure",
+    "from": "Tokyo",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Tour ends at hotel check-out",
+    "meals": null,
+    "stay": null,
+    "notes": null
+   }
+  ],
+  "inclusions": [
+   "every hotel (breakfast included)",
+   "bullet trains and limited-express tickets between cities",
+   "loaded transportation IC card",
+   "luggage forwarding on the long hops",
+   "staff meet at the airport with documents",
+   "travel insurance",
+   "24/7 English line in Japan",
+   "two hotel dinners (Hakone and Ise-Shima coast)",
+   "Hakone Free Pass",
+   "Ago Bay cruise"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Hakone onsen night (Japanese-style room with private open-air bath)",
+   "Kashikojima / Ise-Shima coast with Ago Bay cruise",
+   "Three nights in Kyoto",
+   "Okayama via Himeji",
+   "Two nights in Hiroshima with a whole day on Miyajima"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Sensoji Temple (Asakusa)",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Meiji Shrine",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Hakone",
+    "city": "Hakone"
+   },
+   {
+    "name_en": "Ago Bay",
+    "city": "Kashikojima"
+   },
+   {
+    "name_en": "Fushimi Inari Taisha",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Kinkaku-ji",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Gion",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Arashiyama",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Nishiki Market",
+    "city": "Kyoto"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/japan-solo-tours",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/destinations/hiroshima",
+   "https://selfguidejapan.com/blog/hiroshima-miyajima",
+   "https://selfguidejapan.com/blog/japan-honeymoon-packages",
+   "https://selfguidejapan.com/blog/ise-grand-shrine"
+  ],
+  "notes": "Pass 2, 1 extended search. /tours/GR007 URL not in Links, but the summary gave a full 13-day day-by-day explicitly headed 'GR007: Sea of Serenity: Kashikojima & Cultural Japan', 13 days, US$3,700-5,200 (price matches round-1 mapping). The 'single room' wording on Day 1 indicates the text is the solo-tours blog's worked example of this route (same itinerary, single-room pricing may differ). Night counts derived from the day table (12 nights). Hotels: only Hiroshima named (Hotel Granvia Hiroshima or similar, 2 nights). Airports not stated. Kashikojima hotel reached by shuttle bus (name not given)."
+ },
+ {
+  "code": "GR008",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR008",
+  "title_en": "Taste Your Way through Japan",
+  "subtitle_en": null,
+  "days": 16,
+  "nights": 15,
+  "price_min": 4400,
+  "price_max": 6100,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "GR",
+  "themes": [
+   "Food",
+   "Culinary"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Nagoya",
+    "nights": null
+   },
+   {
+    "city": "Kashikojima (Ise-Shima)",
+    "nights": null
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Hiroshima",
+    "nights": null
+   },
+   {
+    "city": "Fukuoka",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "16-day culinary and cultural journey: Tokyo, Nagoya, Kashikojima and beyond",
+   "Regional specialties from Matsusaka beef to Kyoto kaiseki",
+   "Stops in Ise-Shima, Kyoto, Hiroshima, Fukuoka and Osaka"
+  ],
+  "attractions_all": [],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/jp-tours",
+   "https://selfguidejapan.com/blog/things-to-do-in-nagoya",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors",
+   "https://selfguidejapan.com/blog/japanese-food",
+   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up). /tours/GR008 URL never in Links. Attributed to GR008: 16 days, US$4,400-6,100 pp, culinary and cultural journey through Tokyo, Nagoya, Kashikojima and beyond; stops in Ise-Shima, Kyoto, Hiroshima, Fukuoka, Osaka (listing order, not verified travel order); regional specialties from Matsusaka beef to Kyoto kaiseki. Round-1 gr.json adds Hotel New Otani Hakata (Fukuoka). Day-by-day and nights NOT obtained."
+ },
+ {
+  "code": "GR009",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR009",
+  "title_en": "Spirit of Tradition: Shirakawago & Cultural Japan",
+  "subtitle_en": null,
+  "days": 14,
+  "nights": 13,
+  "price_min": 4100,
+  "price_max": 5900,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "GR",
+  "themes": [
+   "Tradition",
+   "World Heritage"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": null
+   },
+   {
+    "city": "Hakone",
+    "nights": null
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   },
+   {
+    "city": "Nara",
+    "nights": null
+   },
+   {
+    "city": "Miyajima/Hiroshima",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "Shirakawa-go day by chartered taxi from Takayama (end-to-end)",
+   "Hakone Free Pass",
+   "two hotel dinners (Hakone and Nara)"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "14-day journey from Tokyo through Hakone, Takayama and Shirakawa-go's thatched villages",
+   "Two nights in Takayama",
+   "Hotel dinners in Hakone and Nara",
+   "Kyoto",
+   "Nara",
+   "Miyajima"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Takayama Old Town",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/autumn-in-japan-2026",
+   "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures",
+   "https://selfguidejapan.com/blog/shirakawa-go",
+   "https://selfguidejapan.com/blog/takayama",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/blog/japan-tours-for-first-time-visitors"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + follow-up). /tours/GR009 URL never in Links. Attributed to GR009: 14 days, $4,100-5,900 pp, 'from Tokyo through Hakone, Takayama and Shirakawago's thatched villages'; destinations Hakone, Takayama, Shirakawa-go, Kyoto, Nara, Miyajima; two nights in Takayama; two hotel dinners in Hakone and Nara (so Nara is an overnight stop); Hakone Free Pass included; the Shirakawa-go day arranged end-to-end by chartered taxi from Takayama. Day-by-day, other nights and hotels NOT obtained."
+ },
+ {
+  "code": "GR010",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/GR010",
+  "title_en": "Cultural Odyssey: Tokyo to Fukuoka",
+  "subtitle_en": null,
+  "days": 16,
+  "nights": 15,
+  "price_min": 4500,
+  "price_max": 6200,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "GR",
+  "themes": [
+   "Culture"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda or Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": 3
+   },
+   {
+    "city": "Okayama",
+    "nights": 2
+   },
+   {
+    "city": "Fukuoka",
+    "nights": 2
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Welcome to Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "airport meet at Haneda or Narita",
+    "attractions": [],
+    "activities": "Welcome to Tokyo at Haneda or Narita Airport; hotel check-in",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Tokyo to Takayama",
+    "from": "Tokyo",
+    "to": "Takayama",
+    "transport": "Shinkansen to Nagoya, then limited express to Takayama",
+    "attractions": [],
+    "activities": "Travel from Tokyo to Nagoya by Shinkansen, then limited express train to Takayama",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": "Summary labelled this 'Day 3-4'"
+   },
+   {
+    "day": 5,
+    "title": "Shirakawa-go by chartered taxi",
+    "from": "Takayama",
+    "to": "Takayama",
+    "transport": "chartered taxi",
+    "attractions": [
+     "Shirakawa-go"
+    ],
+    "activities": "Chartered taxi to Shirakawa-go, a UNESCO World Heritage site",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": "Day number as given by summary; conflicts with the 2-night Takayama count if Tokyo is only 2 nights - unverified"
+   },
+   {
+    "day": 6,
+    "title": "Takayama to Kyoto",
+    "from": "Takayama",
+    "to": "Kyoto",
+    "transport": "limited express to Nagoya, then Shinkansen to Kyoto",
+    "attractions": [],
+    "activities": "Travel from Takayama to Nagoya by limited express train, then Shinkansen to Kyoto",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": "Summary labelled this 'Day 6-7'"
+   },
+   {
+    "day": 9,
+    "title": "Kyoto to Himeji (Himeji Castle)",
+    "from": "Kyoto",
+    "to": "Himeji",
+    "transport": "Shinkansen",
+    "attractions": [
+     "Himeji Castle"
+    ],
+    "activities": "Travel from Kyoto to Himeji by Shinkansen to visit Himeji Castle (then on to Okayama per route)",
+    "meals": null,
+    "stay": "Okayama",
+    "notes": "Summary labelled this 'Day 9-10'; overnight city inferred from the route (Okayama 2 nights), not stated"
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Takayama streets with Edo-period charm and Shirakawa-go (UNESCO, Gassho-zukuri farmhouses) by chartered taxi",
+   "Three nights in Kyoto",
+   "Himeji Castle",
+   "Okayama: Korakuen Garden, one of Japan's Three Great Gardens",
+   "Fukuoka: yatai food stalls and a river cruise through the canals of Yanagawa",
+   "Hiroshima: Peace Memorial Park and Itsukushima Shrine (UNESCO)",
+   "Return to Tokyo for 2 nights"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Takayama Old Town",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Korakuen Garden",
+    "city": "Okayama"
+   },
+   {
+    "name_en": "Yatai food stalls",
+    "city": "Fukuoka"
+   },
+   {
+    "name_en": "Yanagawa canal river cruise",
+    "city": "Yanagawa"
+   },
+   {
+    "name_en": "Hiroshima Peace Memorial Park",
+    "city": "Hiroshima"
+   },
+   {
+    "name_en": "Itsukushima Shrine (Miyajima)",
+    "city": "Miyajima"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/tours/GR010",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/things-to-do-in-fukuoka",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours",
+   "https://selfguidejapan.com/destinations/hiroshima"
+  ],
+  "notes": "Pass 2, 2 extended searches (base + back-half follow-up); URL CONFIRMED both times (https://selfguidejapan.com/tours/GR010, 'Cultural Odyssey: Tokyo to Fukuoka', 'Course No. GR010'). 16 days, US$4,500-6,200; nights Tokyo 2 / Takayama 2 / Kyoto 3 / Okayama 2 / Fukuoka 2 / Hiroshima 2 / Tokyo 2. The follow-up says the tour 'concludes in Hiroshima' (Peace Park, Itsukushima) before the final Tokyo nights, so the travel order is Kyoto -> Okayama -> Fukuoka -> Hiroshima -> Tokyo as listed. Fukuoka standard-tier hotel: ANA Crowne Plaza Fukuoka (or similar). Day-by-day is PARTIAL: only Day 1, 'Day 3-4', Day 5, 'Day 6-7', 'Day 9-10' were given (recorded at the first number of each range, label noted; the 'Day 5 Shirakawa-go' vs 2 Takayama nights numbering is unverified). Days 8-16 came back only as highlights (Korakuen, Yanagawa cruise, yatai, Peace Park, Itsukushima), not as numbered days, so they are not in day_by_day."
+ },
+ {
+  "code": "KA001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KA001",
+  "title_en": "Kansai Essentials: Osaka, Nara, and Kyoto",
+  "subtitle_en": null,
+  "days": 6,
+  "nights": 5,
+  "price_min": 1000,
+  "price_max": 1500,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "KA",
+  "themes": [
+   "Kansai"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Nara",
+    "nights": 1
+   },
+   {
+    "city": "Kyoto",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Start in Osaka",
+   "One night in Nara to explore Todai-ji, Kasuga Taisha, Kofuku-ji and Nara Park at your own pace",
+   "Finish in Kyoto"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Todai-ji",
+    "city": "Nara"
+   },
+   {
+    "name_en": "Kasuga Taisha",
+    "city": "Nara"
+   },
+   {
+    "name_en": "Kofuku-ji",
+    "city": "Nara"
+   },
+   {
+    "name_en": "Nara Park",
+    "city": "Nara"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/",
+   "https://selfguidejapan.com/destinations/osaka",
+   "https://selfguidejapan.com/blog/things-to-do-in-nara",
+   "https://selfguidejapan.com/blog/things-to-do-in-kyoto",
+   "https://selfguidejapan.com/experiences/World%20Heritage%20&%20National%20Treasures"
+  ],
+  "notes": "Pass 2, 1 extended search. /tours/KA001 URL not in Links. Attributed to KA001: 6 days, $1,000-1,500 pp; starts in Osaka, one night in Nara (Todai-ji, Kasuga Taisha, Kofuku-ji, the park), then Kyoto. Nara hotel: Hotel Nikko Nara (or similar), beside JR Nara Station. Osaka/Kyoto night counts (5 nights total, 1 in Nara) and day-by-day NOT obtained."
+ },
+ {
+  "code": "KA002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KA002",
+  "title_en": "Beyond Kansai: Villages & Timeless Japan",
+  "subtitle_en": null,
+  "days": 7,
+  "nights": 6,
+  "price_min": 2000,
+  "price_max": 3000,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "KA",
+  "themes": [
+   "Villages",
+   "Kansai"
+  ],
+  "season": null,
+  "arrival_airport": "KIX/ITM",
+  "departure_airport": "KIX/ITM",
+  "route": [
+   {
+    "city": "Osaka",
+    "nights": null
+   },
+   {
+    "city": "Kanazawa",
+    "nights": 1
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Osaka",
+    "nights": null
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "chartered taxi Kanazawa -> Shirakawa-go -> Takayama (fares included)"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Starts and ends in Osaka (KIX/ITM arrival)",
+   "A night in Kanazawa",
+   "Shirakawa-go village day by chartered taxi from Kanazawa to Takayama",
+   "Two nights in Takayama"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Takayama Old Town",
+    "city": "Takayama"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/",
+   "https://selfguidejapan.com/blog/shirakawa-go",
+   "https://selfguidejapan.com/blog/things-to-do-in-kanazawa",
+   "https://selfguidejapan.com/blog/self-guided-japan-tours"
+  ],
+  "notes": "Pass 2, 1 extended search. /tours/KA002 URL not in Links. Attributed to KA002: 7 days, US$2,000-3,000, 'perfect 7-day itinerary for travelers arriving at KIX/ITM'; starts and ends in Osaka; 1 night Kanazawa, 2 nights Takayama; Shirakawa-go day with chartered taxi Kanazawa -> Shirakawa-go -> Takayama, fares included. Kanazawa hotel: Mitsui Garden Hotel Kanazawa (or similar). Osaka nights (3 implied, split unknown) and day-by-day NOT obtained. A sentence about 'staying overnight near Shirakawa-go with hot spring and Hida meals' came from the Shirakawa-go blog and is NOT attributed to KA002."
+ },
+ {
+  "code": "KR003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/KR003",
+  "title_en": "Hidden Cherry Blossom & Ancient Temple of Nara",
+  "subtitle_en": null,
+  "days": 4,
+  "nights": 3,
+  "price_min": 900,
+  "price_max": 1500,
+  "currency": "USD",
+  "price_note": "Standard plan US$900 pp two sharing (all dates Apr 8-17, 2027); Deluxe (Sheraton Miyako Hotel Osaka) US$1,400 (Apr 11-13, 17) or US$1,500 (Apr 8-10, 14-16)",
+  "series": "KR",
+  "themes": [
+   "Cherry Blossom",
+   "Hidden Gems"
+  ],
+  "season": "Cherry blossom; departs only April 8-17, 2027",
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Osaka",
+    "nights": 3
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 2,
+    "title": "Cherry Blossom Trails of Nara",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": "Kintetsu train to Haibara, bus to Takami-no-Sato; Kintetsu to Hasedera (transport and entrance fees included)",
+    "attractions": [
+     "Takami-no-Sato (weeping cherry garden)",
+     "Hasedera Temple"
+    ],
+    "activities": "Kintetsu train to Haibara, then bus to Takami-no-Sato, a mountain garden of over 1,000 weeping cherry trees with lookouts over the mountains; continue by Kintetsu to Hasedera, the 'Temple of Flowers', with its long covered stairway up to the Main Hall",
+    "meals": null,
+    "stay": "Osaka",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Ancient Nara at Your Own Pace",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": "Kintetsu to Kintetsu-Nara Station on the IC card",
+    "attractions": [
+     "Nara Park",
+     "Nara deer"
+    ],
+    "activities": "Ride to Kintetsu Nara Station on your IC card and explore Nara Park and its deer; optional 'Perfect Nara Park Tour' English-guided sightseeing bus by Nara Kotsu (not included)",
+    "meals": null,
+    "stay": "Osaka",
+    "notes": null
+   }
+  ],
+  "inclusions": [
+   "3 nights Osaka hotel",
+   "transport and entrance fees for Takami-no-Sato and Hasedera (Day 2)",
+   "IC card"
+  ],
+  "exclusions": [
+   "optional Perfect Nara Park Tour (Nara Kotsu guided bus)"
+  ],
+  "highlights": [
+   "Osaka-based 4-day cherry-blossom trip using the Kintetsu Railway to reach blossom spots away from the tourist circuit",
+   "Takami-no-Sato weeping cherries",
+   "Hasedera, the Temple of Flowers",
+   "Nara Park"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Takami-no-Sato",
+    "city": "Higashiyoshino/Nara Prefecture"
+   },
+   {
+    "name_en": "Hasedera Temple",
+    "city": "Sakurai"
+   },
+   {
+    "name_en": "Nara Park",
+    "city": "Nara"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/blog/japan-cherry-blossom-tours",
+   "https://selfguidejapan.com/destinations/nara",
+   "https://selfguidejapan.com/blog/spring-in-japan",
+   "https://selfguidejapan.com/experiences/Hidden%20Gems",
+   "https://selfguidejapan.com/blog/mount-yoshino"
+  ],
+  "notes": "Pass 2, 1 extended search. /tours/KR003 URL not in Links, but the summary gave explicit titled days for KR003: 'Day 2 - Cherry Blossom Trails of Nara' and 'Day 3 - Ancient Nara at Your Own Pace'. Day 1 (arrival Osaka) and Day 4 (departure) were not given and are NOT recorded. Hotels: Standard = Miyako City Osaka Hommachi or Miyako City Osaka Tennoji (3 nights); Deluxe = Sheraton Miyako Hotel Osaka. Departures only Apr 8-17, 2027."
+ },
+ {
+  "code": "FG001",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/FG001",
+  "title_en": "Family Holidays: Shared Journey Through Japan's Classics",
+  "subtitle_en": null,
+  "days": 13,
+  "nights": 12,
+  "price_min": 2700,
+  "price_max": 4100,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "FG",
+  "themes": [
+   "Family"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 3
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": 4
+   },
+   {
+    "city": "Hakone",
+    "nights": 1
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [],
+  "inclusions": [
+   "Hakone Freepass",
+   "Miyajima ferry"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo 3 nights",
+   "Hiroshima 2 nights with Miyajima ferry",
+   "Kyoto 4 nights",
+   "Hakone onsen night with Hakone Freepass"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   },
+   {
+    "name_en": "Hakone",
+    "city": "Hakone"
+   }
+  ],
+  "source_confidence": "low",
+  "sources": [
+   "https://selfguidejapan.com/blog/japan-family-vacation-packages",
+   "https://selfguidejapan.com/blog/travel-to-japan-with-family",
+   "https://selfguidejapan.com/blog/japan-travel-packages",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/japan-itinerary-with-kids"
+  ],
+  "notes": "Pass 2, 1 extended search. /tours/FG001 URL not in Links (FG002 and FG003 pages were). Attributed to FG001: 13 days, $2,700-4,100 pp, stays Tokyo 3 / Hiroshima 2 / Kyoto 4 / Hakone 1 / Tokyo 2 (listing order; travel order unverified), Hakone Freepass and Miyajima ferry included. The summary's 'day-by-day' (5 Tokyo days incl. Disney, Hakone days 6-7, Kyoto 8-11, Osaka 12-13) is the generic two-week plan from the 'Japan Itinerary With Kids' blog - it contradicts the FG001 night counts (no Osaka, Hiroshima missing) and was deliberately NOT recorded. Day-by-day and hotels NOT obtained."
+ },
+ {
+  "code": "FG002",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/FG002",
+  "title_en": "Vibrant Cities, Scenic Hakone & Shirakawago",
+  "subtitle_en": "Family Holidays: Family Journey to Japan's Classics",
+  "days": 13,
+  "nights": 12,
+  "price_min": null,
+  "price_max": null,
+  "currency": null,
+  "price_note": null,
+  "series": "FG",
+  "themes": [
+   "Family"
+  ],
+  "season": null,
+  "arrival_airport": null,
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 3
+   },
+   {
+    "city": "Hakone",
+    "nights": 1
+   },
+   {
+    "city": "Osaka",
+    "nights": 4
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrive Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": "Begin in Tokyo (block 'Days 1-3: Tokyo, 3 nights')",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Arrival details/airport not given in summary"
+   },
+   {
+    "day": 2,
+    "title": "Tokyo",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [
+     "Sensoji Temple (Asakusa)",
+     "Tokyo Skytree",
+     "Imperial Palace",
+     "Shibuya Scramble Crossing",
+     "Harajuku"
+    ],
+    "activities": "Recommended sightseeing for the Tokyo stay: Asakusa and Sensoji Temple, Tokyo Skytree, the Imperial Palace, Shibuya Scramble Crossing, Harajuku",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Derived from block 'Days 1-3: Tokyo'"
+   },
+   {
+    "day": 3,
+    "title": "Tokyo",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Derived from block 'Days 1-3: Tokyo'"
+   },
+   {
+    "day": 4,
+    "title": "Tokyo to Hakone",
+    "from": "Tokyo",
+    "to": "Hakone",
+    "transport": "Shinkansen to Odawara, local train to Hakone-Yumoto",
+    "attractions": [
+     "Hakone Open-Air Museum",
+     "Owakudani",
+     "Togendai",
+     "Lake Ashi",
+     "Old Tokaido Highway Cedar Avenue"
+    ],
+    "activities": "Travel Tokyo -> Odawara by Shinkansen, local train to Hakone-Yumoto; attractions: Hakone Open-Air Museum, Owakudani, Togendai, Lake Ashi, the Old Highway Cedar Avenue",
+    "meals": null,
+    "stay": "Hakone",
+    "notes": null
+   },
+   {
+    "day": 5,
+    "title": "Hakone to Osaka",
+    "from": "Hakone",
+    "to": "Osaka",
+    "transport": "local train Hakone-Yumoto -> Odawara, Shinkansen to Shin-Osaka",
+    "attractions": [
+     "Dotonbori",
+     "Shinsaibashi",
+     "Umeda Sky Building"
+    ],
+    "activities": "Travel to Shin-Osaka; Osaka stay recommendations: Dotonbori & Shinsaibashi street food, Umeda Sky Building views",
+    "meals": null,
+    "stay": "Osaka",
+    "notes": null
+   },
+   {
+    "day": 6,
+    "title": "Osaka",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Osaka",
+    "notes": "Derived from block 'Days 5-8: Osaka, 4 nights'"
+   },
+   {
+    "day": 7,
+    "title": "Osaka",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Osaka",
+    "notes": "Derived from block 'Days 5-8: Osaka, 4 nights'"
+   },
+   {
+    "day": 8,
+    "title": "Osaka",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Osaka",
+    "notes": "Derived from block 'Days 5-8: Osaka, 4 nights'"
+   },
+   {
+    "day": 9,
+    "title": "Osaka to Takayama",
+    "from": "Osaka",
+    "to": "Takayama",
+    "transport": "Shinkansen Shin-Osaka -> Nagoya, limited express to Takayama",
+    "attractions": [
+     "Takayama Jinya",
+     "Takayama Old Town (Sanmachi Street)",
+     "Hida no Sato (Hida Folk Village)"
+    ],
+    "activities": "Travel to Takayama; explore Takayama Jinya, the Old Town (Sanmachi Street) and Hida no Sato open-air museum with Gassho-style houses",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": null
+   },
+   {
+    "day": 10,
+    "title": "Shirakawa-go day trip",
+    "from": "Takayama",
+    "to": "Takayama",
+    "transport": "chartered taxi",
+    "attractions": [
+     "Shirakawa-go",
+     "Wada House",
+     "Shirakawa-go Observatory (Ogimachi Castle viewpoint)"
+    ],
+    "activities": "Chartered taxi to Shirakawa-go (UNESCO World Heritage); Gassho-zukuri thatched houses; Wada House and the Shirakawa-go Observatory",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": null
+   },
+   {
+    "day": 11,
+    "title": "Takayama to Tokyo",
+    "from": "Takayama",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": "Return to Tokyo (block 'Days 11-13: Tokyo, 2 nights')",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Transport not stated"
+   },
+   {
+    "day": 12,
+    "title": "Tokyo",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Derived from block 'Days 11-13: Tokyo'"
+   },
+   {
+    "day": 13,
+    "title": "Tour ends",
+    "from": "Tokyo",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Tour ends (13th day; 2 Tokyo nights)",
+    "meals": null,
+    "stay": null,
+    "notes": "End-of-tour day implied by the 13-day length"
+   }
+  ],
+  "inclusions": [
+   "chartered taxi for Shirakawa-go"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo 3 nights",
+   "Hakone night (Open-Air Museum, Owakudani, Lake Ashi)",
+   "Osaka 4 nights",
+   "Takayama 2 nights with Shirakawa-go chartered taxi day"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Sensoji Temple",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Tokyo Skytree",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Imperial Palace",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Shibuya Scramble Crossing",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Harajuku",
+    "city": "Tokyo"
+   },
+   {
+    "name_en": "Hakone Open-Air Museum",
+    "city": "Hakone"
+   },
+   {
+    "name_en": "Owakudani",
+    "city": "Hakone"
+   },
+   {
+    "name_en": "Lake Ashi",
+    "city": "Hakone"
+   },
+   {
+    "name_en": "Dotonbori",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Umeda Sky Building",
+    "city": "Osaka"
+   },
+   {
+    "name_en": "Takayama Jinya",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Hida no Sato",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Wada House",
+    "city": "Shirakawa-go"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/tours/FG002",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/blog/shirakawa-go",
+   "https://selfguidejapan.com/blog/hakone"
+  ],
+  "notes": "Pass 2, 1 extended search; URL CONFIRMED: https://selfguidejapan.com/tours/FG002 appeared in Links, indexed with the title 'Family Holidays: Family Journey to Japan's Classics' (recorded as subtitle_en; the caller-confirmed name is kept as title_en). Page summary gives 13 days, Tokyo 3 / Hakone 1 / Osaka 4 / Takayama 2 / Tokyo 2 with a chartered taxi for Shirakawa-go. Days 4, 5, 9, 10 are explicit in the summary; the other days are derived from the summary's day blocks ('Days 1-3 Tokyo', 'Days 5-8 Osaka', 'Days 11-13 Tokyo') and carry a note. Price and hotel names NOT given this pass (see round-1 fg_lx.json for price)."
+ },
+ {
+  "code": "FG003",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/FG003",
+  "title_en": "Family Holidays: Castles, Villages & Sacred Shrines Together",
+  "subtitle_en": null,
+  "days": 13,
+  "nights": 12,
+  "price_min": 2800,
+  "price_max": 4300,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "FG",
+  "themes": [
+   "Family"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda or Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo",
+    "nights": 2
+   },
+   {
+    "city": "Takayama",
+    "nights": 2
+   },
+   {
+    "city": "Kyoto",
+    "nights": 4
+   },
+   {
+    "city": "Hiroshima",
+    "nights": 2
+   },
+   {
+    "city": "Tokyo",
+    "nights": 2
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Arrive Tokyo",
+    "from": null,
+    "to": "Tokyo",
+    "transport": "airport meet (Haneda or Narita), transfer to hotel",
+    "attractions": [],
+    "activities": "Arrive at Haneda or Narita Airport with staff assistance and transfer to hotel",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Tokyo on foot",
+    "from": "Tokyo",
+    "to": "Tokyo",
+    "transport": null,
+    "attractions": [],
+    "activities": "Explore vibrant Tokyo on foot",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": null
+   },
+   {
+    "day": 3,
+    "title": "Tokyo to Takayama",
+    "from": "Tokyo",
+    "to": "Takayama",
+    "transport": "Shinkansen to Nagoya, limited express to Takayama; large luggage sent to Kyoto",
+    "attractions": [
+     "Takayama Old Town"
+    ],
+    "activities": "Send large luggage to Kyoto; Shinkansen to Nagoya, then limited express to Takayama, a historic mountain town with Edo-period buildings",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": "Block 'Days 3-4: Takayama (2 nights)'"
+   },
+   {
+    "day": 4,
+    "title": "Takayama",
+    "from": "Takayama",
+    "to": "Takayama",
+    "transport": null,
+    "attractions": [],
+    "activities": "Walk around Takayama's traditional houses and local culture",
+    "meals": null,
+    "stay": "Takayama",
+    "notes": "Derived from block 'Days 3-4: Takayama'"
+   },
+   {
+    "day": 5,
+    "title": "Shirakawa-go day trip",
+    "from": "Takayama",
+    "to": null,
+    "transport": "chartered taxi",
+    "attractions": [
+     "Shirakawa-go"
+    ],
+    "activities": "Chartered taxi to Shirakawa-go (UNESCO World Heritage), Gassho-zukuri thatched farmhouses",
+    "meals": null,
+    "stay": null,
+    "notes": "Day number as given ('Day 5: Shirakawa-go Day Trip'); the overnight city is unclear - with only 2 Takayama nights this is probably also the transfer day to Kyoto. Unverified."
+   },
+   {
+    "day": 6,
+    "title": "Kyoto",
+    "from": null,
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [],
+    "activities": "Kyoto: historic temples, shrines and beautiful streets",
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": "Block 'Days 6-9: Kyoto (4 nights)'. The summary's transport sentence for this block ('Inuyama -> Meitetsu Nagoya -> Tokyo by Shinkansen') belongs to another tour and was NOT recorded."
+   },
+   {
+    "day": 7,
+    "title": "Kyoto",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": "Derived from block 'Days 6-9: Kyoto'"
+   },
+   {
+    "day": 8,
+    "title": "Kyoto",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": "Derived from block 'Days 6-9: Kyoto'"
+   },
+   {
+    "day": 9,
+    "title": "Kyoto",
+    "from": "Kyoto",
+    "to": "Kyoto",
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": "Kyoto",
+    "notes": "Derived from block 'Days 6-9: Kyoto'"
+   },
+   {
+    "day": 10,
+    "title": "Kyoto to Himeji to Hiroshima",
+    "from": "Kyoto",
+    "to": "Hiroshima",
+    "transport": "Shinkansen Kyoto -> Himeji, afternoon Shinkansen Himeji -> Hiroshima; large luggage sent to Tokyo",
+    "attractions": [
+     "Himeji Castle"
+    ],
+    "activities": "Send large luggage to Tokyo; Shinkansen to Himeji (castle), afternoon Shinkansen on to Hiroshima",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": "Block 'Days 10-11: Hiroshima (2 nights)'; Himeji Castle visit implied by the Himeji stop"
+   },
+   {
+    "day": 11,
+    "title": "Miyajima",
+    "from": "Hiroshima",
+    "to": "Hiroshima",
+    "transport": "ferry to Miyajima (included)",
+    "attractions": [
+     "Miyajima (Itsukushima Shrine)"
+    ],
+    "activities": "Travel to Miyajima by ferry - the 'island of the gods' in Hiroshima Bay",
+    "meals": null,
+    "stay": "Hiroshima",
+    "notes": null
+   },
+   {
+    "day": 12,
+    "title": "Hiroshima to Tokyo",
+    "from": "Hiroshima",
+    "to": "Tokyo",
+    "transport": "Shinkansen (afternoon)",
+    "attractions": [],
+    "activities": "In the afternoon, Shinkansen from Hiroshima to Tokyo",
+    "meals": null,
+    "stay": "Tokyo",
+    "notes": "Block 'Days 12-13: Return to Tokyo (2 nights)'"
+   },
+   {
+    "day": 13,
+    "title": "Tokyo / tour ends",
+    "from": "Tokyo",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": null,
+    "meals": null,
+    "stay": null,
+    "notes": "Block 'Days 12-13: Tokyo (2 nights)' as given; with 13 days this should be the departure day - unverified"
+   }
+  ],
+  "inclusions": [
+   "Shirakawa-go chartered taxi",
+   "Miyajima ferry",
+   "luggage forwarding Takayama -> Kyoto and Kyoto -> Tokyo",
+   "airport meet at Haneda or Narita"
+  ],
+  "exclusions": [],
+  "highlights": [
+   "Tokyo 2 nights",
+   "Takayama 2 nights with Shirakawa-go by chartered taxi",
+   "Kyoto 4 nights",
+   "Himeji Castle en route to Hiroshima",
+   "Hiroshima 2 nights with Miyajima ferry"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Takayama Old Town",
+    "city": "Takayama"
+   },
+   {
+    "name_en": "Shirakawa-go",
+    "city": "Shirakawa-go"
+   },
+   {
+    "name_en": "Himeji Castle",
+    "city": "Himeji"
+   },
+   {
+    "name_en": "Miyajima (Itsukushima Shrine)",
+    "city": "Miyajima"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/tours/FG003",
+   "https://selfguidejapan.com/tours",
+   "https://selfguidejapan.com/destinations/hiroshima",
+   "https://selfguidejapan.com/blog/japan-itinerary-with-kids"
+  ],
+  "notes": "Pass 2, 1 extended search; URL CONFIRMED: https://selfguidejapan.com/tours/FG003 in Links with matching title. Page summary: 13 days, US$2,800-4,300, Tokyo 2 / Takayama 2 / Kyoto 4 / Hiroshima 2 / Tokyo 2; includes Shirakawa-go taxi and Miyajima ferry. Day blocks as labelled by the summary; two inconsistencies flagged in day notes (Day 5 Shirakawa-go vs 2 Takayama nights; 'Days 12-13 Tokyo 2 nights' vs 13-day length). Hotel names NOT given."
+ },
+ {
+  "code": "FG004",
+  "exists": true,
+  "url": "https://selfguidejapan.com/tours/FG004",
+  "title_en": "Family Holidays: Tokyo Bay, Creative Parks & Osaka Thrills",
+  "subtitle_en": null,
+  "days": 9,
+  "nights": 8,
+  "price_min": 2000,
+  "price_max": 3500,
+  "currency": "USD",
+  "price_note": "per person (as quoted by site blog/listing summaries)",
+  "series": "FG",
+  "themes": [
+   "Family",
+   "Theme Parks"
+  ],
+  "season": null,
+  "arrival_airport": "Haneda or Narita",
+  "departure_airport": null,
+  "route": [
+   {
+    "city": "Tokyo Bay (Maihama)",
+    "nights": 3
+   },
+   {
+    "city": "Nagoya",
+    "nights": 2
+   },
+   {
+    "city": "Osaka (Universal City)",
+    "nights": 3
+   }
+  ],
+  "day_by_day": [
+   {
+    "day": 1,
+    "title": "Welcome to Japan",
+    "from": null,
+    "to": "Tokyo Bay (Maihama)",
+    "transport": "airport meet (Haneda or Narita)",
+    "attractions": [],
+    "activities": "Arrival at Haneda or Narita Airport with staff assistance and hotel check-in; admission tickets can be bought at the hotel",
+    "meals": null,
+    "stay": "Maihama",
+    "notes": null
+   },
+   {
+    "day": 2,
+    "title": "Tokyo Bay theme resort day",
+    "from": "Maihama",
+    "to": "Maihama",
+    "transport": null,
+    "attractions": [
+     "Tokyo Disneyland / Tokyo DisneySea (page wording: 'Tokyo Bay theme resorts', 'a castle with classic rides and parades', 'a sea-themed park')"
+    ],
+    "activities": "Full day at the Tokyo Bay theme resorts - designed streets, seasonal displays, a castle park with classic rides and parades, and a sea-themed park",
+    "meals": null,
+    "stay": "Maihama",
+    "notes": "Page describes the parks generically; Disney identification is inferred from the wording"
+   },
+   {
+    "day": 3,
+    "title": "Second park day or Tokyo city",
+    "from": "Maihama",
+    "to": "Maihama",
+    "transport": null,
+    "attractions": [
+     "Tokyo Disneyland / Tokyo DisneySea (the other park)",
+     "Tokyo historic streets and shopping areas"
+    ],
+    "activities": "Another day at a different park with new themes, or explore Tokyo's urban attractions (historic streets, shopping areas)",
+    "meals": null,
+    "stay": "Maihama",
+    "notes": null
+   },
+   {
+    "day": 4,
+    "title": "To Nagoya",
+    "from": "Maihama",
+    "to": "Nagoya",
+    "transport": null,
+    "attractions": [],
+    "activities": "Travel to Nagoya; luggage sent ahead to Osaka; explore Nagoya at leisure",
+    "meals": null,
+    "stay": "Nagoya",
+    "notes": "Transport mode not stated"
+   },
+   {
+    "day": 5,
+    "title": "Creative parks in Nagoya",
+    "from": "Nagoya",
+    "to": "Nagoya",
+    "transport": null,
+    "attractions": [
+     "LEGOLAND Japan (page wording: 'brick theme park')",
+     "Ghibli Park (page wording: 'Japanese animation world')"
+    ],
+    "activities": "Brick theme park and Japanese animation world experience in the Nagoya area, including nature parks and areas themed around famous brick toys",
+    "meals": null,
+    "stay": "Nagoya",
+    "notes": "Park names inferred from the page's generic wording"
+   },
+   {
+    "day": 6,
+    "title": "To Osaka / Universal City",
+    "from": "Nagoya",
+    "to": "Osaka (Universal City)",
+    "transport": null,
+    "attractions": [
+     "Universal Studios Japan (page wording: 'world-class theme park with Hollywood movie attractions and popular video games')"
+    ],
+    "activities": "Travel to Osaka and Universal City; theme park with Hollywood movie attractions and popular video-game entertainment",
+    "meals": null,
+    "stay": "Universal City",
+    "notes": "Transport mode not stated; park name inferred"
+   },
+   {
+    "day": 7,
+    "title": "Osaka: history, views and food",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": null,
+    "attractions": [],
+    "activities": "History, views and food in Osaka (block 'Days 7-8')",
+    "meals": null,
+    "stay": "Universal City",
+    "notes": null
+   },
+   {
+    "day": 8,
+    "title": "Osaka: history, views and food",
+    "from": "Osaka",
+    "to": "Osaka",
+    "transport": null,
+    "attractions": [],
+    "activities": "History, views and food in Osaka (block 'Days 7-8')",
+    "meals": null,
+    "stay": "Universal City",
+    "notes": null
+   },
+   {
+    "day": 9,
+    "title": "Tour ends",
+    "from": "Osaka",
+    "to": null,
+    "transport": null,
+    "attractions": [],
+    "activities": "Tour ends at hotel check-out",
+    "meals": null,
+    "stay": null,
+    "notes": null
+   }
+  ],
+  "inclusions": [
+   "breakfast daily",
+   "luggage forwarding Tokyo Bay -> Osaka",
+   "airport meet at Haneda or Narita"
+  ],
+  "exclusions": [
+   "theme park admission tickets (bought at the hotel)"
+  ],
+  "highlights": [
+   "3 nights at Tokyo Bay (Maihama) for the theme resorts",
+   "2 nights in Nagoya for the brick theme park and animation park",
+   "3 nights at Universal City, Osaka"
+  ],
+  "attractions_all": [
+   {
+    "name_en": "Tokyo Disney Resort (inferred)",
+    "city": "Maihama"
+   },
+   {
+    "name_en": "LEGOLAND Japan (inferred)",
+    "city": "Nagoya"
+   },
+   {
+    "name_en": "Ghibli Park (inferred)",
+    "city": "Nagakute/Nagoya"
+   },
+   {
+    "name_en": "Universal Studios Japan (inferred)",
+    "city": "Osaka"
+   }
+  ],
+  "source_confidence": "medium",
+  "sources": [
+   "https://selfguidejapan.com/tours/TP004",
+   "https://selfguidejapan.com/experiences/Theme%20Parks",
+   "https://selfguidejapan.com/blog/japan-family-vacation-packages",
+   "https://selfguidejapan.com/blog/japan-theme-parks",
+   "https://selfguidejapan.com/blog/travel-to-japan-with-family"
+  ],
+  "notes": "Pass 2, 1 extended search. /tours/FG004 URL NOT in Links; the same-named theme-park twin https://selfguidejapan.com/tours/TP004 'Tokyo Bay, Creative Parks & Osaka Thrills' was, so the day-by-day most likely comes from the TP004 page (the summary attributes it to FG004: 9 days, $2,000-3,500, Maihama 3 / Nagoya 2 / Universal City 3, breakfast daily). Treat as shared-route cross-information. Hotel names NOT given. Park names are inferred from the page's generic descriptions and marked as such."
+ }
+]

@@ -1,0 +1,583 @@
+﻿name_en,name_cn,name_ja,city,city_cn,region,region_cn,category,category_cn,tour_count,level,families,tours,site,description
+Mt Fuji,富士山,,Fuji,富士山,Chubu,中部,nature,自然景观,2,common,F12,NT004 NT104,selfguidejapan.com,
+Meoto Iwa,夫妇岩,,Futami,二见,Chubu,中部,,,2,common,F05 F15 F18,JNJ-DISCOVER-FUKUOKA LX001,japan-navi-journey.com selfguidejapan.com,
+Gero Onsen,下吕温泉,,Gero,下吕温泉,Chubu,中部,onsen,温泉,2,common,F03 F04 F13,HS001 HS002,selfguidejapan.com,
+Hakuba Tsugaike ski area,白马栂池滑雪场,,Hakuba,白马,Chubu,中部,ski,滑雪,2,common,F11 F17,SK002 SK005,selfguidejapan.com,
+Hakuba Misorano (Happo-one area) ski,白马八方尾根滑雪区,,Hakuba,白马,Chubu,中部,ski,滑雪,1,optional,F11,SK102,selfguidejapan.com,
+Hakuba Wadano ski area,白马和田野滑雪场,,Hakuba,白马,Chubu,中部,ski,滑雪,1,optional,F11,SK205,selfguidejapan.com,
+Inuyama Castle,犬山城,,Inuyama,犬山,Chubu,中部,castle,城堡/武家,2,common,F03,FG002 FG003,selfguidejapan.com,
+Ise Grand Shrine (Ise Jingu),伊势神宫,,Ise,伊势,Chubu,中部,shrine,神社,7,core,F02 F05 F06,FG005 GR001 GR007 KM001 KM002 NT008 NT009,selfguidejapan.com,
+Ise Jingu,伊势神宫,伊勢神宮,Ise,伊势,Chubu,中部,shrine,神社,3,core,F05 F15,GR001 LX001 SL007,selfguidejapan.com,"Japan's most sacred Shinto shrine, visited from the Ise-Shima base."
+Futamiura Wedded Rocks (Meoto Iwa),二见浦夫妇岩,,Ise,伊势,Chubu,中部,,,1,optional,F05,FG005,selfguidejapan.com,
+Ise Jingu Geku (Outer Shrine),伊势神宫外宫,,Ise,伊势,Chubu,中部,shrine,神社,1,optional,F05 F15,LX001,selfguidejapan.com,
+Ise Jingu Naiku (Inner Shrine),伊势神宫内宫,,Ise,伊势,Chubu,中部,shrine,神社,1,optional,F05 F15,LX001,selfguidejapan.com,
+Okage Yokocho,托福横丁,,Ise,伊势,Chubu,中部,market,市场/美食,1,optional,F02,NT009,selfguidejapan.com,
+Uji Bridge,宇治桥,,Ise,伊势,Chubu,中部,district,街区/城镇,1,optional,F05,GR001,selfguidejapan.com,
+Wedded Rocks (Meoto Iwa),夫妇岩,,Ise,伊势,Chubu,中部,,,1,optional,F05 F15,LX001,selfguidejapan.com,
+Ago Bay,英虞湾,,Kashikojima,贤岛,Chubu,中部,nature,自然景观,7,core,F05 F15,GR001 GR007 KM001 KM002 LX001 SL001 SL007,selfguidejapan.com,
+Ago Bay cruise,英虞湾游船,英虞湾,Kashikojima (Ise-Shima),贤岛,Chubu,中部,nature,自然景观,4,core,F05,GR101 KM001 SL001 SL007,selfguidejapan.com,Bay cruise among 60+ small islands.
+Coastal viewpoints,海岸观景点,,Kashikojima (Ise-Shima),贤岛,Chubu,中部,viewpoint,观景,0,optional,,,selfguidejapan.com,Coastal viewpoints around Ise-Shima.
+Ryokan stay,日式旅馆住宿,旅館,Kashikojima (Ise-Shima),贤岛,Chubu,中部,experience,体验/活动,0,optional,,,selfguidejapan.com,Ryokan stays listed among things to do.
+Shimakaze train,观光特急 Shimakaze,しまかぜ,Kashikojima (Ise-Shima),贤岛,Chubu,中部,transport_experience,观光交通,0,optional,,,selfguidejapan.com,"Kintetsu luxury sightseeing limited express from Osaka-Namba, Kyoto and Kintetsu Nagoya to Kashikojima."
+Shimakaze sightseeing limited express,观光特急 Shimakaze,,Kashikojima-Kyoto,贤岛,Chubu,中部,,,1,optional,F05 F15,LX001,selfguidejapan.com,
+Kamikochi,上高地,上高地,Matsumoto,松本,Chubu,中部,nature,自然景观,2,common,F12,NT004 NT104,japan-navi-journey.com selfguidejapan.com,"Alpine valley in the Northern Japan Alps with clear rivers, forests and scenic hiking trails; dedicated travel guide."
+Matsumoto Castle,松本城,松本城,Matsumoto,松本,Chubu,中部,castle,城堡/武家,3,core,F12 F17,JNJ-NAGANO-PREMIUM-RETREAT NT005 NT105,japan-navi-journey.com selfguidejapan.com,"Preserved wooden interiors, historic weapon displays and panoramic views from the top floor; castle reflected in the moat, best in spring and autumn."
+Matsumoto,松本,,Matsumoto,松本,Chubu,中部,,,1,optional,F12,NT004,selfguidejapan.com,
+Utsukushigahara,美原高原,,Matsumoto,松本,Chubu,中部,,,1,optional,F12,NT004,selfguidejapan.com,
+Wadakin (Matsusaka wagyu),和田金（松阪牛）,,Matsusaka,松阪,Chubu,中部,market,市场/美食,1,optional,F05 F15,LX001,selfguidejapan.com,
+Animation-world park at Ai-Chikyuhaku Kinen Koen,吉卜力公园（爱·地球博纪念公园）,,Nagakute (Nagoya area),长久手,Chubu,中部,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Ghibli Park (inferred),吉卜力公园,ジブリパーク,Nagakute/Nagoya,长久手,Chubu,中部,theme_park,主题乐园,2,common,F14 F19,FG004 JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com selfguidejapan.com,Listed as 'Ghibli' for a second day.
+Animation-themed park at Ai-Chikyuhaku Kinen Koen (Expo 2005 Commemorative Park),吉卜力公园（爱·地球博纪念公园）,,Nagoya,名古屋,Chubu,中部,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Brick theme park popular with children,积木主题乐园（名古屋乐高乐园）,,Nagoya,名古屋,Chubu,中部,theme_park,主题乐园,1,optional,F14,TP004,selfguidejapan.com,
+Brick-toy theme park at Nagoya Port,名古屋乐高乐园（名古屋港）,,Nagoya,名古屋,Chubu,中部,theme_park,主题乐园,1,optional,F14,TP004,selfguidejapan.com,
+"Brick-toy theme park, Nagoya Port",名古屋乐高乐园（名古屋港）,,Nagoya,名古屋,Chubu,中部,theme_park,主题乐园,1,optional,F14,TP004,selfguidejapan.com,
+LEGOLAND Japan (inferred),日本乐高乐园,,Nagoya,名古屋,Chubu,中部,theme_park,主题乐园,1,optional,F14,FG004,selfguidejapan.com,
+Nagoya Castle,名古屋城,名古屋城,Nagoya,名古屋,Chubu,中部,castle,城堡/武家,1,optional,F14,TP004,japan-navi-journey.com selfguidejapan.com,Built in the early 17th century by Tokugawa Ieyasu as a key Edo-period defensive base.
+Noritake Forest,则武之森,,Nagoya,名古屋,Chubu,中部,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Osu Shopping District,大须商店街,大須,Nagoya,名古屋,Chubu,中部,district,街区/城镇,1,optional,F14,TP004,selfguidejapan.com,Shopping and temple district.
+SCMAGLEV and Railway Park,磁浮铁道馆,,Nagoya,名古屋,Chubu,中部,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Atsuta Jingu,热田神宫,熱田神宮,Nagoya,名古屋,Chubu,中部,shrine,神社,0,optional,,,selfguidejapan.com,One of Japan's most important shrines; enshrines the Kusanagi sword of the imperial regalia; camphor-forest grounds.
+Inuyama,犬山,犬山,Nagoya,名古屋,Chubu,中部,castle,城堡/武家,0,optional,,,selfguidejapan.com,Castle town listed as a second-day option.
+Nabana no Sato illumination,名花之里灯光秀,なばなの里,Nagoya,名古屋,Chubu,中部,theme_park,主题乐园,0,optional,,,selfguidejapan.com,Winter illumination reachable from Nagoya; separate blog on dates and tickets.
+Nagoya Castle and Hommaru Palace,名古屋城与本丸御殿,名古屋城 本丸御殿,Nagoya,名古屋,Chubu,中部,castle,城堡/武家,0,optional,,,selfguidejapan.com,Castle with the rebuilt Hommaru Palace.
+Nagoya meshi,名古屋美食,名古屋めし,Nagoya,名古屋,Chubu,中部,food,美食,0,optional,,,selfguidejapan.com,"Local cuisine: miso katsu, hitsumabushi, tebasaki."
+Tokugawa collection (Tokugawa Art Museum),德川美术馆,徳川美術館,Nagoya,名古屋,Chubu,中部,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,Listed as 'the Tokugawa collection'.
+Toyota site,丰田产业技术纪念馆,,Nagoya,名古屋,Chubu,中部,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,'The Toyota site' listed for a second day.
+New park themed on Japan's iconic animated films,吉卜力公园,,Nagoya (area),名古屋,Chubu,中部,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Shinhotaka,新穗高缆车,,Okuhida,奥飞驒温泉乡,Chubu,中部,,,1,optional,F12,NT004,selfguidejapan.com,
+Tsugaike Kogen ski area (Hakuba),栂池高原滑雪场（白马）,,Otari / Hakuba,白马,Chubu,中部,ski,滑雪,1,optional,F11 F17,SK005,selfguidejapan.com,
+Shirakawa-go (optional),白川乡,,Shirakawa-go,白川乡,Chubu,中部,,,20,core,F02 F03 F04 F05 F06 F12 F13 F14,BF003 FG002 FG003 GR002 GR003 GR009 GR010 GR102 HS001 HS002 KA002 KM002 KM003 NT004 NT104 SL003 SL004 SL103 TP001 TP003,selfguidejapan.com,
+Shirakawa-go gassho villages,白川乡合掌村,,Shirakawa-go,白川乡,Chubu,中部,district,街区/城镇,1,optional,F05,KM001,selfguidejapan.com,
+Wada House,和田家,,Shirakawa-go,白川乡,Chubu,中部,,,1,optional,F03,FG002,selfguidejapan.com,
+Shirakawa-go gassho-zukuri village,白川乡合掌造村落,白川郷,Shirakawa-go (from Takayama),白川乡,Chubu,中部,district,街区/城镇,1,optional,F06,SL003,selfguidejapan.com,UNESCO farmhouse village visited as a day trip from Takayama.
+Shirakawago,白川乡,,Shirakawa-go (listed in page description; presumably from Takayama),白川乡,Chubu,中部,,,1,optional,F05 F14,TP101,selfguidejapan.com,
+Takayama Old Town (Sanmachi),高山老街,古い町並,Takayama,高山,Chubu,中部,district,街区/城镇,9,core,F02 F03 F04,BF003 FG002 FG003 GR002 GR009 GR010 KA002 SL004 SL103,selfguidejapan.com,Preserved merchant houses in the Hida old town.
+Takayama,高山,,Takayama,高山,Chubu,中部,,,4,core,F03 F04 F06 F12 F13 F14,HS001 KM003 NT004 TP003,selfguidejapan.com,
+Takayama Jinya,高山阵屋,高山陣屋,Takayama,高山,Chubu,中部,museum,博物馆/美术馆,2,common,F03 F06,FG002 SL003,selfguidejapan.com,Historic Edo-period government house.
+Hida no Sato,飞驒之里,,Takayama,高山,Chubu,中部,,,1,optional,F03,FG002,selfguidejapan.com,
+Hida-Takayama old town,飞驒高山老街,,Takayama,高山,Chubu,中部,district,街区/城镇,1,optional,F03 F13,HS002,selfguidejapan.com,
+Sanmachi Street (Old Town),三町筋老街,,Takayama,高山,Chubu,中部,district,街区/城镇,1,optional,F06,SL003,selfguidejapan.com,
+Shirakawa-go Observatory (Ogimachi Castle viewpoint),荻町城迹展望台,,Takayama,高山,Chubu,中部,castle,城堡/武家,1,optional,F03,FG002,selfguidejapan.com,
+Festival floats exhibition hall,高山祭屋台会馆,高山祭屋台会館,Takayama,高山,Chubu,中部,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,Hall exhibiting the festival floats.
+Hida Folk Village,飞驒之里,飛騨の里,Takayama,高山,Chubu,中部,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,Open-air village of relocated Hida farmhouses.
+Shirakawa-go day trip,白川乡一日游,白川郷,Takayama,高山,Chubu,中部,district,街区/城镇,0,optional,,,selfguidejapan.com,Gassho-zukuri village 50 minutes away by bus or chartered taxi.
+Takayama Festival,高山祭,高山祭,Takayama,高山,Chubu,中部,experience,体验/活动,0,optional,,,selfguidejapan.com,Spring festival April 14-15 and autumn festival October 9-10.
+Takayama morning markets,高山朝市,高山の朝市,Takayama,高山,Chubu,中部,market,市场/美食,0,optional,,,selfguidejapan.com,Two morning markets that have run for centuries.
+Ama hut,海女小屋,,Toba,鸟羽,Chubu,中部,,,3,core,F05 F15,GR001 LX001 SL001,selfguidejapan.com,
+Mikimoto Pearl Island,御木本真珠岛,ミキモト真珠島,Toba,鸟羽,Chubu,中部,museum,博物馆/美术馆,2,common,F05 F15,GR001 LX001,selfguidejapan.com,"Birthplace of cultured pearls, in Toba."
+Toba,鸟羽,鳥羽,Toba,鸟羽,Chubu,中部,district,街区/城镇,1,optional,F02,NT009,selfguidejapan.com,Neighbouring port town reachable from Kashikojima.
+Ama hut (pearl-diver hut) lunch,海女小屋午餐,,Toba / Ise-Shima,鸟羽,Chubu,中部,market,市场/美食,3,core,F05 F06,GR001 GR101 NT008,selfguidejapan.com,
+Ama hut seafood lunch,海女小屋海鲜午餐,,Toba / Ise-Shima,鸟羽,Chubu,中部,market,市场/美食,1,optional,F05,SL001,selfguidejapan.com,
+Jigokudani Monkey Park,地狱谷野猿公苑,地獄谷野猿公苑,Yamanouchi,山之内（汤田中/涩温泉）,Chubu,中部,onsen,温泉,3,core,F11 F17,SK005 SK006 SK205,japan-navi-journey.com selfguidejapan.com,Wild Japanese macaques soaking in natural hot springs; dedicated 'Ultimate Guide' article.
+Shiga Kogen ski area,志贺高原滑雪场,,Yamanouchi,山之内（汤田中/涩温泉）,Chubu,中部,ski,滑雪,2,common,F11 F17,SK004 SK006,selfguidejapan.com,
+Yudanaka Onsen,汤田中温泉,,Yamanouchi,山之内（汤田中/涩温泉）,Chubu,中部,onsen,温泉,2,common,F11 F17,SK005 SK006,selfguidejapan.com,
+Tomonoura,鞆之浦,,Fukuyama (Tomonoura),福山,Chugoku,中国地方,,,1,optional,F07,SE002,selfguidejapan.com,
+Tomonoura historic port,鞆之浦历史港町,,Fukuyama (Tomonoura),福山,Chugoku,中国地方,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Hiroshima Peace Memorial Park,广岛和平纪念公园,,Hiroshima,广岛,Chugoku,中国地方,nature,自然景观,8,core,F04 F05 F07 F15,BF004 BF005 GR004 GR005 GR010 KM002 LX003 SE003,selfguidejapan.com,
+Miyajima / Itsukushima Shrine,宫岛·严岛神社,,Hiroshima,广岛,Chugoku,中国地方,shrine,神社,6,core,F03 F04 F05 F07 F15,GR005 GR009 KM002 LX003 SE003 SL005,selfguidejapan.com,
+Hiroshima,广岛,,Hiroshima,广岛,Chugoku,中国地方,,,3,core,F04 F13,HS001 SL004 SL005,selfguidejapan.com,
+Atomic Bomb Dome,原爆圆顶,,Hiroshima,广岛,Chugoku,中国地方,,,1,optional,F04 F15,LX003,selfguidejapan.com,
+Hiroshima Peace Memorial area,广岛和平纪念公园,,Hiroshima,广岛,Chugoku,中国地方,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Hiroshima city (by streetcar),广岛市区（路面电车）,,Hiroshima,广岛,Chugoku,中国地方,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Peace Memorial Park,广岛和平纪念公园,,Hiroshima,广岛,Chugoku,中国地方,nature,自然景观,1,optional,F04 F15,LX003,selfguidejapan.com,
+Hiroshima Castle,广岛城,広島城,Hiroshima,广岛,Chugoku,中国地方,castle,城堡/武家,0,optional,,,selfguidejapan.com,Listed in the things-to-do blog title alongside the Peace Park.
+Hiroshima-style okonomiyaki,广岛烧,広島風お好み焼き,Hiroshima,广岛,Chugoku,中国地方,food,美食,0,optional,,,selfguidejapan.com,"Layered-noodle okonomiyaki, called some of Japan's best."
+Momijidani (Maple Valley),红叶谷公园,紅葉谷,Hiroshima,广岛,Chugoku,中国地方,nature,自然景观,0,optional,,,selfguidejapan.com,"Miyajima's maple valley, brilliant red in Oct-Nov."
+Peace Boulevard,和平大道,平和大通り,Hiroshima,广岛,Chugoku,中国地方,viewpoint,观景,0,optional,,,selfguidejapan.com,Cherry blossoms late March to mid April.
+Peace Memorial Park and Museum,广岛和平纪念公园与资料馆,平和記念公園,Hiroshima,广岛,Chugoku,中国地方,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,Described as one of the most powerful experiences in Japan.
+Miyajima Island,宫岛,宮島,Hiroshima (Hatsukaichi),广岛,Chugoku,中国地方,nature,自然景观,2,common,F04,BF004 BF005,selfguidejapan.com,Shrine island reached from Hiroshima.
+Izumo Taisha (implied by title; not named in summary),出云大社（据标题推断）,,Izumo,出云,Chugoku,中国地方,shrine,神社,1,optional,F07,SE005,selfguidejapan.com,
+Kurashiki Bikan historic quarter (implied by stay; not named in summary),仓敷美观地区（据住宿推断）,,Kurashiki,仓敷,Chugoku,中国地方,experience,体验/活动,1,optional,F07,SE005,selfguidejapan.com,
+Ohara Museum of Art,大原美术馆,,Kurashiki,仓敷,Chugoku,中国地方,museum,博物馆/美术馆,1,optional,F04,SL004,selfguidejapan.com,
+Tamatsukuri Onsen,玉造温泉,,Matsue,松江,Chugoku,中国地方,onsen,温泉,1,optional,F07,SE005,selfguidejapan.com,
+Miyajima (Itsukushima Shrine),宫岛,,Miyajima,宫岛,Chugoku,中国地方,shrine,神社,14,core,F03 F04 F05 F07 F13 F15,BF004 BF005 FG001 FG003 GR004 GR005 GR007 GR009 KA003 LX003 SE003 SL004 SL005 SL007,selfguidejapan.com,
+Itsukushima Shrine (Miyajima),严岛神社,厳島神社,Miyajima,宫岛,Chugoku,中国地方,shrine,神社,4,core,F04 F15,GR010 LX003 SL004 SL005,selfguidejapan.com,Home of the iconic 'floating' torii gate.
+Miyajima / Itsukushima floating shrine,宫岛·严岛神社海上鸟居,,Miyajima,宫岛,Chugoku,中国地方,shrine,神社,2,common,F05 F07,KM002 SE003,selfguidejapan.com,
+Kurashiki Bikan Historical Quarter,仓敷美观地区,,Okayama,冈山,Chugoku,中国地方,district,街区/城镇,3,core,F04,GR005 SL004 SL005,selfguidejapan.com,
+Korakuen Garden,后乐园,,Okayama,冈山,Chugoku,中国地方,garden,庭园,2,common,F04,GR010 SL004,selfguidejapan.com,
+Himeji (Himeji Castle area),姬路城,,Okayama,冈山,Chugoku,中国地方,castle,城堡/武家,1,optional,F05,SL007,selfguidejapan.com,
+Kurashiki,仓敷,,Okayama,冈山,Chugoku,中国地方,,,1,optional,F04,SL005,selfguidejapan.com,
+Okayama,冈山,,Okayama,冈山,Chugoku,中国地方,,,1,optional,F04,SL005,selfguidejapan.com,
+Okayama Castle,冈山城,,Okayama,冈山,Chugoku,中国地方,castle,城堡/武家,1,optional,F04,SL004,selfguidejapan.com,
+Setouchi Islands,濑户内诸岛,,Okayama,冈山,Chugoku,中国地方,nature,自然景观,1,optional,F04,SL005,selfguidejapan.com,
+Onomichi,尾道,,Onomichi,尾道,Chugoku,中国地方,,,1,optional,F07,SE002,selfguidejapan.com,
+Onomichi hillside streets,尾道坡道老街,,Onomichi,尾道,Chugoku,中国地方,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Onomichi hillside streets and temples,尾道坡道与寺庙,,Onomichi,尾道,Chugoku,中国地方,temple,寺院,1,optional,F07,SE003,selfguidejapan.com,
+Onomichi retro buildings,尾道复古建筑,,Onomichi,尾道,Chugoku,中国地方,,,1,optional,F07,SE003,selfguidejapan.com,
+Onomichi sloping streets,尾道坡道,,Onomichi,尾道,Chugoku,中国地方,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Onomichi temples,尾道寺庙,,Onomichi,尾道,Chugoku,中国地方,temple,寺院,1,optional,F07,SE003,selfguidejapan.com,
+Ikuchijima Island,生口岛,,Tomonoura,鞆之浦,Chugoku,中国地方,nature,自然景观,1,optional,F07,SE003,selfguidejapan.com,
+Shiomachi Shopping Street,濑户田汐町商店街,,Tomonoura,鞆之浦,Chugoku,中国地方,market,市场/美食,1,optional,F07,SE003,selfguidejapan.com,
+Lake Akan,阿寒湖,,Akan,阿寒湖,Hokkaido,北海道,nature,自然景观,1,optional,F09,HD001,selfguidejapan.com,
+Asahiyama Zoo,旭山动物园,,Asahikawa,旭川,Hokkaido,北海道,nature,自然景观,1,optional,F09,HD001,selfguidejapan.com,
+Kamui Ski Links,神居滑雪场,,Asahikawa,旭川,Hokkaido,北海道,ski,滑雪,1,optional,F10,HK003,selfguidejapan.com,
+Bihoro Pass,美幌峠,,Bihoro,美幌,Hokkaido,北海道,,,1,optional,F09,HD001,selfguidejapan.com,
+Furano Ski Resort,富良野滑雪场,,Furano,富良野,Hokkaido,北海道,ski,滑雪,3,core,F10,HK004 HK006 HK007,selfguidejapan.com,
+Hachiman-zaka slope,八幡坂,,Hakodate,函馆,Hokkaido,北海道,district,街区/城镇,1,optional,F09,HD002,selfguidejapan.com,
+Hakodate,函馆,,Hakodate,函馆,Hokkaido,北海道,,,1,optional,F09,HD002,selfguidejapan.com,
+Hakodate Morning Market,函馆朝市,,Hakodate,函馆,Hokkaido,北海道,market,市场/美食,1,optional,F09,HD002,selfguidejapan.com,
+Mount Hakodate night view,函馆山夜景,,Hakodate,函馆,Hokkaido,北海道,nature,自然景观,1,optional,F09,HD002,selfguidejapan.com,
+Nayoro Piyashiri Ski Area,名寄 Piyashiri 滑雪场,,Nayoro,名寄,Hokkaido,北海道,ski,滑雪,1,optional,F10,HK003,selfguidejapan.com,
+Noboribetsu Hell Valley,登别地狱谷,,Noboribetsu,登别温泉,Hokkaido,北海道,onsen,温泉,1,optional,F09,HD002,selfguidejapan.com,
+Noboribetsu Jigokudani (Hell Valley),登别地狱谷,,Noboribetsu,登别温泉,Hokkaido,北海道,onsen,温泉,1,optional,F09,HD002,selfguidejapan.com,
+Noboribetsu Onsen,登别温泉,,Noboribetsu,登别温泉,Hokkaido,北海道,onsen,温泉,1,optional,F10,HK008,selfguidejapan.com,
+Otaru,小樽,,Otaru,小樽,Hokkaido,北海道,,,1,optional,F09,HD002,selfguidejapan.com,
+Otaru Canal,小樽运河,,Otaru,小樽,Hokkaido,北海道,district,街区/城镇,1,optional,F09,HD002,selfguidejapan.com,
+Pippu Ski Area,比布滑雪场,,Pippu,比布,Hokkaido,北海道,ski,滑雪,1,optional,F10,HK003,selfguidejapan.com,
+Rusutsu Resort ski area,留寿都度假村滑雪场,,Rusutsu,留寿都,Hokkaido,北海道,ski,滑雪,4,core,F10,HK005 HK006 HK007 HK008,selfguidejapan.com,
+Jozankei Onsen,定山溪温泉,,Sapporo (Jozankei),札幌,Hokkaido,北海道,onsen,温泉,1,optional,F10,HK006,selfguidejapan.com,
+Shiretoko,知床,,Shiretoko,知床,Hokkaido,北海道,,,1,optional,F09,HD001,selfguidejapan.com,
+Kurodake Ropeway,黑岳缆车,,Sounkyo,层云峡,Hokkaido,北海道,transport_experience,观光交通,1,optional,F09,HD001,selfguidejapan.com,
+Sounkyo Gorge,层云峡,,Sounkyo,层云峡,Hokkaido,北海道,nature,自然景观,1,optional,F09,HD001,selfguidejapan.com,
+Lake Kussharo,屈斜路湖,,Teshikaga,弟子屈,Hokkaido,北海道,nature,自然景观,1,optional,F09,HD001,selfguidejapan.com,
+Lake Toya,洞爷湖,,Toyako,洞爷湖,Hokkaido,北海道,nature,自然景观,1,optional,F09,HD002,selfguidejapan.com,
+Kenroku-en Garden,兼六园,,Kanazawa,金泽,Hokuriku,北陆,garden,庭园,5,core,F02 F03 F04,BF002 GR003 GR005 GR006 SL103,selfguidejapan.com,
+Kanazawa,金泽,,Kanazawa,金泽,Hokuriku,北陆,,,3,core,F05 F12 F15 F17,LX001 NT005 NT105,selfguidejapan.com,
+Kenrokuen Garden,兼六园,兼六園,Kanazawa,金泽,Hokuriku,北陆,garden,庭园,3,core,F02 F03 F04,GR003 GR006 SL005,selfguidejapan.com,The city's landmark garden.
+21st Century Museum of Contemporary Art,金泽 21 世纪美术馆,金沢21世紀美術館,Kanazawa,金泽,Hokuriku,北陆,museum,博物馆/美术馆,2,common,F02 F03,BF002 GR003,selfguidejapan.com,Contemporary art museum.
+Kanazawa Castle Park,金泽城公园,金沢城公園,Kanazawa,金泽,Hokuriku,北陆,castle,城堡/武家,2,common,F02 F03,BF002 GR003,selfguidejapan.com,Castle park next door to Kenrokuen.
+"Geisha districts (Higashi Chaya etc., per page summary 'geisha districts')",茶屋街（东茶屋街等）,,Kanazawa,金泽,Hokuriku,北陆,district,街区/城镇,1,optional,F02,BF002,selfguidejapan.com,
+Higashi Chaya District,东茶屋街,ひがし茶屋街,Kanazawa,金泽,Hokuriku,北陆,district,街区/城镇,1,optional,F03,GR003,selfguidejapan.com,Geisha teahouse district.
+Kanazawa Castle,金泽城,,Kanazawa,金泽,Hokuriku,北陆,castle,城堡/武家,1,optional,F03,GR003,selfguidejapan.com,
+Kenroku-en (pass 1),兼六园,,Kanazawa,金泽,Hokuriku,北陆,garden,庭园,1,optional,F04,SL005,selfguidejapan.com,
+Nagamachi Samurai District,长町武家屋敷,長町武家屋敷跡,Kanazawa,金泽,Hokuriku,北陆,district,街区/城镇,1,optional,F03,SL103,selfguidejapan.com,Preserved samurai residences and earthen walls.
+Omicho Market,近江町市场,近江町市場,Kanazawa,金泽,Hokuriku,北陆,market,市场/美食,1,optional,F03,GR003,selfguidejapan.com,"Seafood market, recommended for breakfast."
+Myoryuji (Ninja Temple),妙立寺（忍者寺）,妙立寺,Kanazawa,金泽,Hokuriku,北陆,temple,寺院,0,optional,,,selfguidejapan.com,Temple known as the 'Ninja Temple'.
+Tateyama Kurobe Alpine Route,立山黑部阿尔卑斯路线,,Tateyama,立山,Hokuriku,北陆,nature,自然景观,2,common,F12 F17,NT004 NT005,selfguidejapan.com,
+Yuki-no-Otani snow corridor,雪之大谷,,Tateyama,立山,Hokuriku,北陆,ski,滑雪,2,common,F12,NT104 NT105,selfguidejapan.com,
+"Amanohashidate sandbar (3.6 km pine-lined path, one of Japan's Three Great Views)",天桥立（日本三景）,,Amanohashidate,天桥立,Kansai,关西,viewpoint,观景,1,optional,F04 F13,KM004,selfguidejapan.com,
+Takami-no-Sato,高见之乡（枝垂樱）,,Higashiyoshino/Nara Prefecture,奈良,Kansai,关西,,,1,optional,F01 F21,KR003,selfguidejapan.com,
+Hikone Castle,彦根城,,Hikone,彦根,Kansai,关西,castle,城堡/武家,1,optional,F15,LX002,selfguidejapan.com,
+Himeji Castle,姬路城,姫路城,Himeji,姬路,Kansai,关西,castle,城堡/武家,15,core,F03 F04 F05 F07 F13,BF004 BF005 FG003 GR004 GR005 GR007 GR010 HS001 KA003 KM002 KM004 SE001 SE005 SL004 SL005,japan-navi-journey.com selfguidejapan.com,Dedicated 'must-see' article on Himeji Castle.
+Himeji Castle area,姬路城,,Himeji,姬路,Kansai,关西,castle,城堡/武家,1,optional,F05,SL007,selfguidejapan.com,
+Samurai residences and Japanese gardens near Himeji Castle,姬路城旁武家屋敷与庭园（好古园）,,Himeji,姬路,Kansai,关西,castle,城堡/武家,1,optional,F04,SL005,selfguidejapan.com,
+Kumano Kodo,熊野古道,,Hongu,熊野本宫,Kansai,关西,experience,体验/活动,4,core,F06,NT-?SACRED NT002 NT006 NT007,selfguidejapan.com,
+Hosshinmon-oji – Kumano Hongu Taisha walk,发心门王子→熊野本宫大社徒步段,,Hongu,熊野本宫,Kansai,关西,shrine,神社,1,optional,F05 F06,NT008,selfguidejapan.com,
+Kawayu Onsen,川汤温泉,,Hongu,熊野本宫,Kansai,关西,onsen,温泉,1,optional,F06,NT006,selfguidejapan.com,
+Kinosaki Onsen,城崎温泉,,Kinosaki Onsen,城崎温泉,Kansai,关西,onsen,温泉,1,optional,F03 F13,HS002,selfguidejapan.com,
+Kinosaki Onsen bathhouses,城崎温泉外汤,,Kinosaki Onsen,城崎温泉,Kansai,关西,onsen,温泉,1,optional,F13,HS003,selfguidejapan.com,
+"Kinosaki Onsen hot-spring town (wooden inns, willow-lined canal)",城崎温泉,,Kinosaki Onsen,城崎温泉,Kansai,关西,onsen,温泉,1,optional,F04 F13,KM004,selfguidejapan.com,
+Kinosaki Onsen public bathhouses,城崎温泉外汤,,Kinosaki Onsen,城崎温泉,Kansai,关西,onsen,温泉,1,optional,F04 F13,KM004,selfguidejapan.com,
+Kinosaki Onsen town,城崎温泉,,Kinosaki Onsen,城崎温泉,Kansai,关西,onsen,温泉,1,optional,F04 F13,KA003,selfguidejapan.com,
+Kitayama River IKADA rafting,北山川筏流,,Kitayama,北山村,Kansai,关西,transport_experience,观光交通,1,optional,F06,NT006,selfguidejapan.com,
+Koyasan,高野山,,Koyasan,高野山,Kansai,关西,temple,寺院,4,core,F04 F05 F06 F13,GR001 KM004 NT007 SL001,selfguidejapan.com,
+Koyasan / Fukuchi-in shukubo,高野山福智院宿坊,,Koyasan,高野山,Kansai,关西,temple,寺院,3,core,F05 F06,KM001 KM002 KM003,selfguidejapan.com,
+Koyasan temple lodging (shukubo),高野山宿坊,,Koyasan,高野山,Kansai,关西,temple,寺院,3,core,F05 F06,KM001 NT002 NT006,selfguidejapan.com,
+"Danjo Garan (Konpon Daito Pagoda, Kondo Hall)",坛上伽蓝,,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F06,SL003,selfguidejapan.com,
+Kondo Hall,金堂（坛上伽蓝）,,Koyasan,高野山,Kansai,关西,,,1,optional,F06,SL003,selfguidejapan.com,
+Kongobuji Temple,金刚峰寺,金剛峯寺,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F06,SL003,selfguidejapan.com,Head temple in the middle of town.
+Konpon Daito Pagoda,根本大塔,,Koyasan,高野山,Kansai,关西,,,1,optional,F06,SL003,selfguidejapan.com,
+Koyasan sacred grounds,高野山圣域,,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F04 F13,KM004,selfguidejapan.com,
+Koyasan shukubo,高野山宿坊,,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F06,NT-?SACRED,selfguidejapan.com,
+Koyasan temple complex / shukubo,高野山寺院群·宿坊,,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F06,SL003,selfguidejapan.com,
+Okunoin (pass 1),奥之院,,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F06,SL003,selfguidejapan.com,
+Okunoin cemetery,奥之院,奥之院,Koyasan,高野山,Kansai,关西,temple,寺院,1,optional,F06,KM003,selfguidejapan.com,Vast forest cemetery; 'mystical Okunoin' explored on the Koyasan tour.
+Fukuchi-in,福智院（宿坊）,福智院,Koyasan,高野山,Kansai,关西,temple,寺院,0,optional,,,selfguidejapan.com,"Temple founded about 800 years ago, a few minutes' walk from Kongobuji; the site's booked shukubo."
+Shukubo temple stay,宿坊体验,宿坊,Koyasan,高野山,Kansai,关西,experience,体验/活动,0,optional,,,selfguidejapan.com,"Night in a working temple: tatami room, vegetarian dinner on lacquer trays, communal bath, chanted morning service."
+Kumano Sanzan shrines,熊野三山,,Kumano,熊野,Kansai,关西,shrine,神社,1,optional,F02,NT009,selfguidejapan.com,
+Fushimi Inari Taisha,伏见稻荷大社,伏見稲荷大社,Kyoto,京都,Kansai,关西,shrine,神社,5,core,F02 F04 F05 F06 F13 F14,BF002 GR007 KM004 SL003 TP101,selfguidejapan.com,Shrine of thousands of torii gates.
+Kinkaku-ji Temple,金阁寺,金閣寺,Kyoto,京都,Kansai,关西,temple,寺院,5,core,F02 F04 F05 F06 F14 F15,BF002 GR007 LX003 SL003 TP101,selfguidejapan.com,The Golden Pavilion.
+Kyoto,京都,,Kyoto,京都,Kansai,关西,,,5,core,F05 F06 F12 F13 F15 F17,HS003 KM003 LX001 NT005 NT105,selfguidejapan.com,
+Arashiyama,岚山,嵐山,Kyoto,京都,Kansai,关西,district,街区/城镇,4,core,F02 F03 F04 F05 F15,GR003 GR006 GR007 LX003,selfguidejapan.com,Western district with bamboo grove and river scenery; suggested as a base for a second visit.
+Nara (option),奈良,,Kyoto,京都,Kansai,关西,,,4,core,F01 F05 F21,GR007 KM001 KM002 KR003,selfguidejapan.com,
+Gion,祇园,祇園,Kyoto,京都,Kansai,关西,district,街区/城镇,3,core,F02 F04 F05 F15,BF002 GR007 LX003,selfguidejapan.com,Traditional geisha district; recommended stay area for atmosphere (with southern Higashiyama).
+Nishiki Market,锦市场,錦市場,Kyoto,京都,Kansai,关西,market,市场/美食,3,core,F02 F05 F06,BF002 GR007 SL003,selfguidejapan.com,Downtown food market.
+Arashiyama Bamboo Grove,岚山竹林,,Kyoto,京都,Kansai,关西,nature,自然景观,2,common,F02 F06,BF002 SL003,selfguidejapan.com,
+Fushimi,伏见,,Kyoto,京都,Kansai,关西,,,2,common,F04 F15,LX002 LX003,selfguidejapan.com,
+Kinkakuji Temple,金阁寺,,Kyoto,京都,Kansai,关西,temple,寺院,2,common,F04 F05 F13 F14,KM004 TP101,selfguidejapan.com,
+Kiyomizu-dera Temple,清水寺,清水寺,Kyoto,京都,Kansai,关西,temple,寺院,2,common,F02 F04 F15,BF002 LX003,selfguidejapan.com,Hillside temple above the Higashiyama slopes.
+Sanzen-in (Ohara),三千院,,Kyoto,京都,Kansai,关西,temple,寺院,2,common,F04 F15,LX002 LX003,selfguidejapan.com,
+Akame 48 Falls (ninja training),赤目四十八瀑（忍者修行）,,Kyoto,京都,Kansai,关西,nature,自然景观,1,optional,F05,FG005,selfguidejapan.com,
+Ginkaku-ji (Silver Pavilion),银阁寺,,Kyoto,京都,Kansai,关西,temple,寺院,1,optional,F04 F15,LX003,selfguidejapan.com,
+Ise Jingu Inner Shrine (Naiku),伊势神宫内宫,,Kyoto,京都,Kansai,关西,shrine,神社,1,optional,F05 F15,LX001,selfguidejapan.com,
+Ise Jingu Outer Shrine (Geku),伊势神宫外宫,,Kyoto,京都,Kansai,关西,shrine,神社,1,optional,F05 F15,LX001,selfguidejapan.com,
+Kawadoko dining,川床料理,,Kyoto,京都,Kansai,关西,market,市场/美食,1,optional,F06,NT006,selfguidejapan.com,
+Kyoto gardens,京都庭园,,Kyoto,京都,Kansai,关西,garden,庭园,1,optional,F05,KM002,selfguidejapan.com,
+Mount Hiei,比叡山,,Kyoto,京都,Kansai,关西,nature,自然景观,1,optional,F04 F15,LX003,selfguidejapan.com,
+Nijo Castle,二条城,二条城,Kyoto,京都,Kansai,关西,castle,城堡/武家,1,optional,F05 F14,TP101,selfguidejapan.com,Shogunate castle in central Kyoto.
+Ohara,大原,,Kyoto,京都,Kansai,关西,,,1,optional,F15,LX002,selfguidejapan.com,
+Ryoan-ji,龙安寺,,Kyoto,京都,Kansai,关西,temple,寺院,1,optional,F04 F15,LX003,selfguidejapan.com,
+Ryoan-ji rock garden,龙安寺石庭,,Kyoto,京都,Kansai,关西,temple,寺院,1,optional,F04 F15,LX003,selfguidejapan.com,
+Sanzen-in (Ohara) moss garden,大原三千院苔庭,,Kyoto,京都,Kansai,关西,temple,寺院,1,optional,F15,LX002,selfguidejapan.com,
+Yasaka Shrine,八坂神社,,Kyoto,京都,Kansai,关西,shrine,神社,1,optional,F02,BF002,selfguidejapan.com,
+Higashiyama slopes,东山坂道（二年坂·三年坂）,東山,Kyoto,京都,Kansai,关西,district,街区/城镇,0,optional,,,selfguidejapan.com,Preserved lanes leading up to Kiyomizu-dera.
+Kyoto Station area,京都站周边,京都駅,Kyoto,京都,Kansai,关西,district,街区/城镇,0,optional,,,selfguidejapan.com,Most convenient base for day trips and the Shinkansen (first-time visitors).
+Shijo-Kawaramachi,四条河原町,四条河原町,Kyoto,京都,Kansai,关西,district,街区/城镇,0,optional,,,selfguidejapan.com,Downtown area recommended for food and evenings.
+Amanohashidate,天桥立,,Miyazu,宫津（天桥立）,Kansai,关西,,,1,optional,F04 F13,KM004,selfguidejapan.com,
+Tango Ao-Matsu sightseeing train,丹后青松号观光列车,,Miyazu - Toyooka,宫津（天桥立）,Kansai,关西,transport_experience,观光交通,1,optional,F04 F13,KM004,selfguidejapan.com,
+Akame 48 Falls ninja training,赤目四十八瀑忍者修行,,Nabari,名张,Kansai,关西,nature,自然景观,1,optional,F05,FG005,selfguidejapan.com,
+Cave onsen,洞窟温泉,,Nachikatsuura,那智胜浦,Kansai,关西,onsen,温泉,1,optional,F06,NT-?SACRED,selfguidejapan.com,
+Kumano Nachi Taisha,熊野那智大社,,Nachikatsuura,那智胜浦,Kansai,关西,shrine,神社,1,optional,F06,NT006,selfguidejapan.com,
+Nachi Falls,那智瀑布,,Nachikatsuura,那智胜浦,Kansai,关西,nature,自然景观,1,optional,F02,NT009,selfguidejapan.com,
+Nachi Falls / Kumano Nachi Taisha,那智瀑布·熊野那智大社,,Nachikatsuura,那智胜浦,Kansai,关西,shrine,神社,1,optional,F05 F06,NT008,selfguidejapan.com,
+Nara Park,奈良公园,奈良公園,Nara,奈良,Kansai,关西,nature,自然景观,3,core,F01 F02 F21,GR006 KA001 KR003,selfguidejapan.com,"Over 1,200 semi-wild sika deer roam freely and bow for crackers."
+Kasuga Taisha,春日大社,春日大社,Nara,奈良,Kansai,关西,shrine,神社,2,common,F01 F05 F14,KA001 TP101,selfguidejapan.com,"Shrine with 3,000 stone and bronze lanterns; maple-lined approach in autumn."
+Todai-ji,东大寺,東大寺,Nara,奈良,Kansai,关西,temple,寺院,2,common,F01 F05 F14,KA001 TP101,selfguidejapan.com,Houses the world's largest bronze Buddha in one of the world's largest wooden buildings.
+Kofuku-ji,兴福寺,,Nara,奈良,Kansai,关西,temple,寺院,1,optional,F01,KA001,selfguidejapan.com,
+UNESCO World Heritage sites of Nara,奈良世界遗产群,,Nara,奈良,Kansai,关西,,,1,optional,F05 F14,TP101,selfguidejapan.com,
+Mount Yoshino,吉野山,吉野山,Nara,奈良,Kansai,关西,nature,自然景观,0,optional,,,selfguidejapan.com,Nearby cherry-blossom mountain (late March - mid April).
+Omihachiman canal town,近江八幡水乡,,Omihachiman,近江八幡,Kansai,关西,district,街区/城镇,1,optional,F15,LX002,selfguidejapan.com,
+Universal City theme park (2 days),日本环球影城,,Osaka,大阪,Kansai,关西,theme_park,主题乐园,6,core,F03 F04 F05 F14,TP001 TP002 TP003 TP004 TP101 TP102,selfguidejapan.com,
+Dotonbori,道顿堀,道頓堀,Osaka,大阪,Kansai,关西,food,美食,4,core,F03 F04 F14 F21,FG002 JNJ-OSAKA-5DAYS SL004 TP004,japan-navi-journey.com selfguidejapan.com,Neon-lit canal district famous for street food.
+Osaka Castle,大阪城,大阪城,Osaka,大阪,Kansai,关西,castle,城堡/武家,3,core,F02 F04 F21,GR006 JNJ-OSAKA-5DAYS SL004,japan-navi-journey.com selfguidejapan.com,Towering castle; the park is a cherry-blossom spot in late March-April.
+Shinsaibashi,心斋桥,,Osaka,大阪,Kansai,关西,,,2,common,F03 F14,FG002 TP004,selfguidejapan.com,
+Umeda Sky Building,梅田蓝天大厦,梅田スカイビル,Osaka,大阪,Kansai,关西,viewpoint,观景,2,common,F03 F14,FG002 TP004,japan-navi-journey.com selfguidejapan.com,Twin towers joined by a sky bridge; 360-degree views from the Floating Garden Observatory.
+Universal Studios Japan (inferred),日本环球影城,,Osaka,大阪,Kansai,关西,theme_park,主题乐园,2,common,F05 F14,FG004 TP101,selfguidejapan.com,
+Abeno Harukas,阿倍野 Harukas,あべのハルカス,Osaka,大阪,Kansai,关西,viewpoint,观景,1,optional,F14,TP004,japan-navi-journey.com selfguidejapan.com,300 m skyscraper described as Japan's tallest.
+Nara deer,奈良鹿,,Osaka,大阪,Kansai,关西,,,1,optional,F01 F21,KR003,selfguidejapan.com,
+Osaka street food,大阪街头小吃,,Osaka,大阪,Kansai,关西,market,市场/美食,1,optional,F03,FG002,selfguidejapan.com,
+Universal City theme-park area,环球城乐园区,,Osaka,大阪,Kansai,关西,theme_park,主题乐园,1,optional,F14,FG004,selfguidejapan.com,
+Universal City – Hollywood-themed movie park,日本环球影城,,Osaka,大阪,Kansai,关西,theme_park,主题乐园,1,optional,F14,TP004,selfguidejapan.com,
+Ebisubashi Bridge,戎桥,戎橋,Osaka,大阪,Kansai,关西,viewpoint,观景,0,optional,,,selfguidejapan.com,"Bridge over the Dotonbori canal, classic photo spot."
+Kuromon Market,黑门市场,黒門市場,Osaka,大阪,Kansai,关西,market,市场/美食,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com selfguidejapan.com,Fresh sashimi and grilled seafood market.
+Osaka Castle Park,大阪城,大阪城公園,Osaka,大阪,Kansai,关西,nature,自然景观,0,optional,,,selfguidejapan.com,"Park around the castle, cherry blossoms in spring."
+Tenjin Matsuri,天神祭,天神祭,Osaka,大阪,Kansai,关西,experience,体验/活动,0,optional,,,selfguidejapan.com,"Late-July festival, described as one of Japan's top three."
+Osaka or Nara (free-day option),大阪或奈良（自由日可选）,,Osaka/Nara,大阪,Kansai,关西,,,1,optional,F05,FG005,selfguidejapan.com,
+Ishiyama-dera,石山寺,,Otsu,大津,Kansai,关西,temple,寺院,1,optional,F15,LX002,selfguidejapan.com,
+Lake Biwa,琵琶湖,,Otsu,大津,Kansai,关西,nature,自然景观,1,optional,F15,LX002,selfguidejapan.com,
+Lake Biwa Michigan cruise,琵琶湖密歇根号游船,,Otsu,大津,Kansai,关西,nature,自然景观,1,optional,F15,LX002,selfguidejapan.com,
+Mii-dera,三井寺,,Otsu,大津,Kansai,关西,temple,寺院,1,optional,F15,LX002,selfguidejapan.com,
+Enryaku-ji (Mount Hiei),延历寺,,Otsu/Kyoto,大津,Kansai,关西,temple,寺院,1,optional,F04 F15,LX003,selfguidejapan.com,
+Hasedera Temple,长谷寺（镰仓）,長谷寺,Sakurai,樱井,Kansai,关西,temple,寺院,1,optional,F01 F21,KR003,japan-navi-journey.com selfguidejapan.com,Called the 'Temple of Flowers' for its hillside plantings that change with the seasons.
+Dorokyo Gorge cruise,瀞峡,,Shingu,新宫,Kansai,关西,nature,自然景观,2,common,F05 F06,NT-?SACRED NT008,selfguidejapan.com,
+Kumano Hayatama Taisha,熊野速玉大社,,Shingu,新宫,Kansai,关西,shrine,神社,1,optional,F05 F06,NT008,selfguidejapan.com,
+Shirahama,白滨,,Shirahama,白滨,Kansai,关西,,,1,optional,F06,NT007,selfguidejapan.com,
+Ryujin Onsen,龙神温泉,,Tanabe,田边,Kansai,关西,onsen,温泉,1,optional,F06,NT-?SACRED,selfguidejapan.com,
+Uji,宇治,,Uji,宇治,Kansai,关西,,,2,common,F04 F15,LX002 LX003,selfguidejapan.com,
+Hakone,箱根神社,,Hakone,箱根,Kanto,关东,,,5,core,F03 F04 F05 F13,FG001 FG002 GR007 HS003 SL007,selfguidejapan.com,
+Lake Ashi / Mount Fuji views,芦之湖·富士山景观,,Hakone,箱根,Kanto,关东,nature,自然景观,2,common,F03 F05,GR007 GR009,selfguidejapan.com,
+Hakone Open-Air Museum,箱根雕刻之森美术馆,,Hakone,箱根,Kanto,关东,museum,博物馆/美术馆,1,optional,F03,FG002,selfguidejapan.com,
+Hakone hot springs,箱根空中缆车,,Hakone,箱根,Kanto,关东,onsen,温泉,1,optional,F03 F13,HS002,selfguidejapan.com,
+Lake Ashi,芦之湖,芦ノ湖,Hakone,箱根,Kanto,关东,nature,自然景观,1,optional,F03,FG002,selfguidejapan.com,Crater lake with Mt Fuji behind it on a clear day.
+Mt. Fuji views,富士山景观,,Hakone,箱根,Kanto,关东,nature,自然景观,1,optional,F03,FG002,selfguidejapan.com,
+Old Tokaido Highway Cedar Avenue,旧东海道杉并木,,Hakone,箱根,Kanto,关东,,,1,optional,F03,FG002,selfguidejapan.com,
+Owakudani,大涌谷,大涌谷,Hakone,箱根,Kanto,关东,nature,自然景观,1,optional,F03,FG002,selfguidejapan.com,Active volcanic valley reached by ropeway.
+The Fujiya Hotel (Miyanoshita),富士屋酒店（宫之下）,,Hakone,箱根,Kanto,关东,,,1,optional,F05,GR107,selfguidejapan.com,
+Togendai,桃源台,,Hakone,箱根,Kanto,关东,,,1,optional,F03,FG002,selfguidejapan.com,
+Hakone Freepass,箱根周游券,箱根フリーパス,Hakone,箱根,Kanto,关东,transport_experience,观光交通,0,optional,,,selfguidejapan.com,"Covers train, cable car, ropeway, pirate ship and buses."
+Hakone Loop,箱根周游线,,Hakone,箱根,Kanto,关东,transport_experience,观光交通,0,optional,,,selfguidejapan.com,"Circuit done counter-clockwise: up by rail, across by ropeway and boat, back by bus; takes most of a day."
+Hakone Ropeway,箱根空中缆车,箱根ロープウェイ,Hakone,箱根,Kanto,关东,transport_experience,观光交通,0,optional,,,selfguidejapan.com,"Gondolas about every minute across the ridge to Owakudani, then down to Togendai."
+Hakone Shrine torii gate,箱根神社平和鸟居,箱根神社,Hakone,箱根,Kanto,关东,shrine,神社,0,optional,,,selfguidejapan.com,Shrine gate standing in the water of Lake Ashi.
+Hakone Sightseeing Cruise (pirate ships),芦之湖海贼观光船,箱根海賊船,Hakone,箱根,Kanto,关东,transport_experience,观光交通,0,optional,,,selfguidejapan.com,Togendai to Hakone-machi / Moto-Hakone in 25-40 minutes on pirate-ship-styled boats.
+Hakone museums,箱根美术馆群,,Hakone,箱根,Kanto,关东,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,The area's 'fine museums' are part of the loop.
+Onsen night,温泉旅馆之夜,温泉,Hakone,箱根,Kanto,关东,onsen,温泉,0,optional,,,selfguidejapan.com,A night in the hot springs is the site's main recommendation.
+Second Maihama park,东京迪士尼海洋（舞滨第二园区）,,Maihama,舞滨,Kanto,关东,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+"Tokyo Bay theme resort - castle park (classic rides, parades)",东京迪士尼乐园（城堡园区）,,Maihama,舞滨,Kanto,关东,castle,城堡/武家,1,optional,F14,TP004,selfguidejapan.com,
+Tokyo Bay theme resort - sea-themed park,东京迪士尼海洋,,Maihama,舞滨,Kanto,关东,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Tokyo Disney Resort (inferred),东京迪士尼度假区,東京ディズニーリゾート,Maihama,舞滨,Kanto,关东,theme_park,主题乐园,1,optional,F14,FG004,selfguidejapan.com,Listed simply as 'Disney' among Tokyo's big experiences.
+"Tokyo Disneyland / Tokyo DisneySea (page wording: 'Tokyo Bay theme resorts', 'a castle with classic rides and parades', 'a sea-themed park')",东京迪士尼乐园 / 迪士尼海洋,,Maihama,舞滨,Kanto,关东,theme_park,主题乐园,1,optional,F14,FG004,selfguidejapan.com,
+Tokyo historic streets & shopping areas,东京老街与购物区,,Maihama,舞滨,Kanto,关东,market,市场/美食,1,optional,F14,TP004,selfguidejapan.com,
+Tokyo historic streets and shopping areas,东京老街与购物区,,Maihama,舞滨,Kanto,关东,market,市场/美食,1,optional,F14,FG004,selfguidejapan.com,
+Harajuku,原宿,,Tokyo,东京,Kanto,关东,district,街区/城镇,9,core,F02 F03 F04 F05 F06 F07 F14 F15,BF002 FG002 GR007 LX001 SE003 SL003 SL004 SL005 TP101,selfguidejapan.com,
+Imperial Palace,皇居,,Tokyo,东京,Kanto,关东,,,8,core,F02 F03 F04 F05 F06 F07 F11 F14 F17,BF002 FG002 SE003 SK006 SL003 SL004 SL005 TP101,selfguidejapan.com,
+Asakusa,浅草,,Tokyo,东京,Kanto,关东,district,街区/城镇,7,core,F02 F04 F05 F06 F07 F14,BF002 GR007 SE003 SL003 SL004 SL005 TP101,selfguidejapan.com,
+Tokyo Skytree,东京晴空塔,,Tokyo,东京,Kanto,关东,viewpoint,观景,7,core,F02 F03 F04 F05 F06 F07 F14,BF002 FG002 SE003 SL003 SL004 SL005 TP101,selfguidejapan.com,
+Shibuya Scramble Crossing,涩谷十字路口,,Tokyo,东京,Kanto,关东,district,街区/城镇,6,core,F02 F03 F04 F06 F07,BF002 FG002 SE003 SL003 SL004 SL005,selfguidejapan.com,
+Sensoji Temple,浅草寺,,Tokyo,东京,Kanto,关东,temple,寺院,4,core,F02 F03 F05 F07,BF002 FG002 GR007 SE003,selfguidejapan.com,
+Shibuya,涩谷,,Tokyo,东京,Kanto,关东,district,街区/城镇,3,core,F05 F14 F15,GR007 LX001 TP101,selfguidejapan.com,
+Asakusa / Senso-ji,浅草·浅草寺,,Tokyo,东京,Kanto,关东,temple,寺院,2,common,F05 F11 F15 F17,LX001 SK006,selfguidejapan.com,
+Asakusa / Kaminarimon Gate / Sensoji Temple,浅草·雷门·浅草寺,,Tokyo,东京,Kanto,关东,temple,寺院,1,optional,F07,SE003,selfguidejapan.com,
+Asakusa / Sensoji,浅草·浅草寺,,Tokyo,东京,Kanto,关东,district,街区/城镇,1,optional,F06,SL003,selfguidejapan.com,
+Asakusa / Sensoji Temple / Kaminarimon,浅草·浅草寺·雷门,,Tokyo,东京,Kanto,关东,temple,寺院,1,optional,F04,SL005,selfguidejapan.com,
+Ginza,银座,,Tokyo,东京,Kanto,关东,district,街区/城镇,1,optional,F15,LX002,selfguidejapan.com,
+Hotel Chinzanso gardens,椿山庄庭园,,Tokyo,东京,Kanto,关东,garden,庭园,1,optional,F15,LX002,selfguidejapan.com,
+Imperial Palace gardens,皇居,,Tokyo,东京,Kanto,关东,garden,庭园,1,optional,F05 F15,LX001,selfguidejapan.com,
+Kabuki-za,歌舞伎座,,Tokyo,东京,Kanto,关东,museum,博物馆/美术馆,1,optional,F15,LX002,selfguidejapan.com,
+Kamakura (option),镰仓（可选）,,Tokyo,东京,Kanto,关东,,,1,optional,F05,GR007,selfguidejapan.com,
+Kaminarimon Gate,雷门,,Tokyo,东京,Kanto,关东,,,1,optional,F07,SE003,selfguidejapan.com,
+Meiji Shrine,明治神宫,明治神宮,Tokyo,东京,Kanto,关东,shrine,神社,1,optional,F05,GR007,selfguidejapan.com,Forested Shinto shrine next to Harajuku.
+Nakamise shopping street,仲见世商店街,,Tokyo,东京,Kanto,关东,market,市场/美食,1,optional,F11 F17,SK006,selfguidejapan.com,
+Nikko (option),日光（可选）,,Tokyo,东京,Kanto,关东,,,1,optional,F05,GR007,selfguidejapan.com,
+Senso-ji / Asakusa,浅草寺·浅草,,Tokyo,东京,Kanto,关东,temple,寺院,1,optional,F05 F15,LX001,selfguidejapan.com,
+Senso-ji Temple / Nakamise,浅草寺·仲见世,,Tokyo,东京,Kanto,关东,temple,寺院,1,optional,F11 F17,SK006,selfguidejapan.com,
+Tokyo Station area,东京站周边,,Tokyo,东京,Kanto,关东,district,街区/城镇,1,optional,F11 F17,SK006,selfguidejapan.com,
+Ghibli Museum,三鹰之森吉卜力美术馆,三鷹の森ジブリ美術館,Tokyo,东京,Kanto,关东,museum,博物馆/美术馆,0,optional,,,selfguidejapan.com,Studio Ghibli museum in Mitaka; needs advance booking.
+Hakone day trip,箱根一日游,箱根,Tokyo,东京,Kanto,关东,onsen,温泉,0,optional,,,selfguidejapan.com,Hakone day trip listed as an alternative add-on from Tokyo.
+Mt Fuji day trip,富士山一日游,富士山,Tokyo,东京,Kanto,关东,nature,自然景观,0,optional,,,selfguidejapan.com,Mt Fuji day trips are listed as a Tokyo add-on for five-day stays.
+Observation decks,观景台,,Tokyo,东京,Kanto,关东,viewpoint,观景,0,optional,,,selfguidejapan.com,City observation decks are listed among first-trip essentials.
+Senso-ji Temple,浅草寺,浅草寺,Tokyo,东京,Kanto,关东,temple,寺院,0,optional,,,selfguidejapan.com,"Asakusa's historic temple, listed first among the site's best things to do on a first trip."
+Shibuya Crossing,涩谷十字路口,渋谷スクランブル交差点,Tokyo,东京,Kanto,关东,district,街区/城镇,0,optional,,,selfguidejapan.com,The famous scramble crossing in Shibuya.
+Shibuya Sky,Shibuya Sky 观景台,渋谷スカイ,Tokyo,东京,Kanto,关东,viewpoint,观景,0,optional,,,selfguidejapan.com,Rooftop observation deck above Shibuya Crossing.
+Shinjuku,新宿,新宿,Tokyo,东京,Kanto,关东,district,街区/城镇,0,optional,,,selfguidejapan.com,Major entertainment and transport district.
+Sumo,相扑,相撲,Tokyo,东京,Kanto,关东,experience,体验/活动,0,optional,,,selfguidejapan.com,Watching sumo is listed as a Tokyo experience.
+Tsukiji,筑地,築地,Tokyo,东京,Kanto,关东,market,市场/美食,0,optional,,,selfguidejapan.com,Tsukiji outer market food area.
+Two theme resorts on the Maihama coastline (Tokyo Bay),东京迪士尼度假区（舞滨两园）,,Tokyo Bay / Maihama,东京湾,Kanto,关东,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Tokyo Bay theme-park area (Maihama),东京湾乐园区（舞滨）,,Urayasu,浦安,Kanto,关东,nature,自然景观,1,optional,F14,FG004,selfguidejapan.com,
+Tokyo Bay theme resort (two Maihama parks),东京迪士尼度假区（舞滨两园）,,Urayasu (Maihama),浦安,Kanto,关东,nature,自然景观,1,optional,F14,TP004,selfguidejapan.com,
+Arita pottery town,有田陶瓷小镇,,Arita,有田,Kyushu,九州,district,街区/城镇,1,optional,F08,KY004,selfguidejapan.com,
+Aso-Kuju National Park,阿苏九重国立公园,,Aso,阿苏,Kyushu,九州,nature,自然景观,1,optional,F08,KY003,selfguidejapan.com,
+Kusasenri,草千里,,Aso,阿苏,Kyushu,九州,,,1,optional,F08,KY003,selfguidejapan.com,
+Mount Aso,阿苏山,,Aso,阿苏,Kyushu,九州,nature,自然景观,1,optional,F08,KY003,selfguidejapan.com,
+Nakadake Crater,阿苏中岳火口,,Aso,阿苏,Kyushu,九州,nature,自然景观,1,optional,F08,KY003,selfguidejapan.com,
+Beppu,别府,,Beppu,别府,Kyushu,九州,,,1,optional,F08,KY004,selfguidejapan.com,
+Beppu Hells (Jigoku Meguri),别府地狱巡游,,Beppu,别府,Kyushu,九州,onsen,温泉,1,optional,F08,KY003,selfguidejapan.com,
+Beppu Onsen,别府温泉,,Beppu,别府,Kyushu,九州,onsen,温泉,1,optional,F08,KY003,selfguidejapan.com,
+Chiran Samurai Residences,知览武家屋敷,,Chiran,知览,Kyushu,九州,castle,城堡/武家,1,optional,F08,KY003,selfguidejapan.com,
+Fukuoka yatai street-food stalls,福冈屋台,,Fukuoka,福冈,Kyushu,九州,market,市场/美食,1,optional,F04,BF005,selfguidejapan.com,
+Solaria Nishitetsu Hotel Fukuoka (or similar) – hotel,（酒店）Solaria 西铁福冈,,Fukuoka,福冈,Kyushu,九州,,,1,optional,F05,GR108,selfguidejapan.com,
+Yatai (Nakasu food stalls),福冈屋台,,Fukuoka,福冈,Kyushu,九州,market,市场/美食,1,optional,F08,KY003,selfguidejapan.com,
+Yatai food stalls,屋台,屋台,Fukuoka,福冈,Kyushu,九州,food,美食,1,optional,F04,GR010,japan-navi-journey.com selfguidejapan.com,About a hundred open-air food stalls set up along the river every evening.
+Yatai street food stalls (pass 1),屋台,,Fukuoka,福冈,Kyushu,九州,market,市场/美食,1,optional,F04,SL004,selfguidejapan.com,
+Canal City Hakata,博多运河城,キャナルシティ博多,Fukuoka,福冈,Kyushu,九州,district,街区/城镇,0,optional,,,selfguidejapan.com,Shopping and entertainment complex.
+Dazaifu,太宰府,太宰府,Fukuoka,福冈,Kyushu,九州,shrine,神社,0,optional,,,selfguidejapan.com,Day trip (Dazaifu Tenmangu area).
+Fukuoka Castle ruins,福冈城迹,福岡城跡,Fukuoka,福冈,Kyushu,九州,castle,城堡/武家,0,optional,,,japan-navi-journey.com selfguidejapan.com,Castle ruins next to Ohori Park.
+Hakata ramen,博多拉面,博多ラーメン,Fukuoka,福冈,Kyushu,九州,food,美食,0,optional,,,selfguidejapan.com,Tonkotsu ramen originated here.
+Kushida Shrine,栉田神社,櫛田神社,Fukuoka,福冈,Kyushu,九州,shrine,神社,0,optional,,,japan-navi-journey.com selfguidejapan.com,Central Hakata shrine.
+Nanzoin,南藏院（卧佛）,南蔵院,Fukuoka,福冈,Kyushu,九州,temple,寺院,0,optional,,,selfguidejapan.com,Temple day trip from Fukuoka.
+Ohori Park,大濠公园,大濠公園,Fukuoka,福冈,Kyushu,九州,garden,庭园,0,optional,,,japan-navi-journey.com selfguidejapan.com,"Large pond with stone bridges, the Ukimido pavilion, swan boats and a loop path."
+Hasami pottery town,波佐见陶瓷小镇,,Hasami,波佐见,Kyushu,九州,district,街区/城镇,1,optional,F08,KY004,selfguidejapan.com,
+Hita,日田,,Hita,日田,Kyushu,九州,,,1,optional,F08,KY004,selfguidejapan.com,
+Ibusuki Onsen,指宿温泉,,Ibusuki,指宿,Kyushu,九州,onsen,温泉,1,optional,F08,KY005,selfguidejapan.com,
+Ibusuki no Tamatebako,观光列车「指宿之玉手箱」,,Ibusuki,指宿,Kyushu,九州,,,1,optional,F08,KY003,selfguidejapan.com,
+Ibusuki sand bath,指宿砂蒸温泉,,Ibusuki,指宿,Kyushu,九州,onsen,温泉,1,optional,F08,KY003,selfguidejapan.com,
+Imari pottery town,伊万里陶瓷小镇,,Imari,伊万里,Kyushu,九州,district,街区/城镇,1,optional,F08,KY004,selfguidejapan.com,
+Kagoshima,鹿儿岛,,Kagoshima,鹿儿岛,Kyushu,九州,,,1,optional,F08,KY005,selfguidejapan.com,
+Sakurajima,樱岛,,Kagoshima,鹿儿岛,Kyushu,九州,,,1,optional,F08,KY003,selfguidejapan.com,
+Sengan-en Garden,仙岩园,,Kagoshima,鹿儿岛,Kyushu,九州,garden,庭园,1,optional,F08,KY003,selfguidejapan.com,
+Suizenji Jojuen Garden,水前寺成趣园,,Kumamoto,熊本,Kyushu,九州,garden,庭园,1,optional,F08,KY003,selfguidejapan.com,
+Suizenji Park (Suizenji Jojuen),水前寺成趣园,,Kumamoto,熊本,Kyushu,九州,nature,自然景观,1,optional,F08,KY003,selfguidejapan.com,
+Gunkanjima (Battleship Island) landing cruise,军舰岛登岛游船,,Nagasaki,长崎,Kyushu,九州,nature,自然景观,1,optional,F08,KY004,selfguidejapan.com,
+Huis Ten Bosch,豪斯登堡,,Sasebo (Nagasaki Pref.),佐世保,Kyushu,九州,theme_park,主题乐园,1,optional,F08,KY002,selfguidejapan.com,
+Manai Falls,真名井瀑布,,Takachiho,高千穗,Kyushu,九州,nature,自然景观,1,optional,F08,KY003,selfguidejapan.com,
+Takachiho Gorge,高千穗峡,,Takachiho,高千穗,Kyushu,九州,nature,自然景观,1,optional,F08,KY003,selfguidejapan.com,
+Unzen Onsen,云仙温泉,,Unzen,云仙温泉,Kyushu,九州,onsen,温泉,1,optional,F08,KY004,selfguidejapan.com,
+Yanagawa,柳川,柳川,Yanagawa,柳川,Kyushu,九州,experience,体验/活动,1,optional,F08,KY005,selfguidejapan.com,Canal town day trip.
+Yanagawa canal river cruise,柳川川下り游船,,Yanagawa,柳川,Kyushu,九州,transport_experience,观光交通,1,optional,F04,GR010,selfguidejapan.com,
+Yanagawa canals,柳川水道,,Yanagawa,柳川,Kyushu,九州,district,街区/城镇,1,optional,F08,KY004,selfguidejapan.com,
+Yanagawa canal cruise (donko boat),柳川川下り游船,,Yanagawa (Fukuoka),柳川,Kyushu,九州,transport_experience,观光交通,1,optional,F04,GR010,selfguidejapan.com,
+Naoshima art island,直岛艺术岛,,Naoshima,直岛,Setouchi,濑户内,nature,自然景观,4,core,F04,GR004 GR005 SL004 SL005,selfguidejapan.com,
+Naoshima,直岛,,Naoshima,直岛,Setouchi,濑户内,,,2,common,F04,SL004 SL005,selfguidejapan.com,
+Naoshima - Yayoi Kusama 'Red Pumpkin' and contemporary art museums,直岛草间弥生红南瓜与当代美术馆,,Naoshima,直岛,Setouchi,濑户内,museum,博物馆/美术馆,1,optional,F04,GR010,selfguidejapan.com,
+Ikuchijima Island / Shiomachi Shopping Street,生口岛·汐町商店街,,Setoda (Ikuchijima),濑户田（生口岛）,Setouchi,濑户内,market,市场/美食,1,optional,F07,SE003,selfguidejapan.com,
+Setouchi art islands,濑户内艺术岛,,Setouchi,濑户内,Setouchi,濑户内,nature,自然景观,2,common,F07,SE001 SE002,selfguidejapan.com,
+Dogo Onsen,道后温泉,,Matsuyama,松山,Shikoku,四国,onsen,温泉,1,optional,F07,SE003,selfguidejapan.com,
+Matsuyama historic streets,松山历史街区,,Matsuyama,松山,Shikoku,四国,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Iyo-Ozu,伊予大洲,,Ozu,大洲,Shikoku,四国,,,1,optional,F07,SE003,selfguidejapan.com,
+Uchiko historic town,内子历史小镇,,Uchiko,内子,Shikoku,四国,district,街区/城镇,1,optional,F07,SE003,selfguidejapan.com,
+Zao Onsen ski resort,藏王温泉滑雪场,,Zao,藏王,Tohoku,东北,ski,滑雪,3,core,F11,SK002 SK004 SK102,selfguidejapan.com,
+Nakasendo,中山道,,,,,,experience,体验/活动,1,optional,F06,NT002,selfguidejapan.com,
+Achi Village stargazing tour,阿智村观星之旅,,Achi,阿智村,Chubu,中部,experience,体验/活动,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Hirugami Onsen,昼神温泉,,Achi,阿智村,Chubu,中部,onsen,温泉,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Meiji Village (Meiji-mura),明治神宫,博物館明治村,Aichi / Chita Peninsula (Nagoya),爱知,Chubu,中部,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,"Open-air museum in Inuyama preserving more than 60 relocated, restored Meiji-era (1868–1912) buildings."
+Noma Lighthouse,野间灯塔,野間埼灯台,Aichi / Chita Peninsula (Nagoya),爱知,Chubu,中部,viewpoint,观景,0,optional,,,japan-navi-journey.com,"Oldest lighthouse in Aichi (first lit 1921), 18 m tall, white silhouette over Mikawa Bay in Mihama."
+Osu Shopping Street & Osu Kannon,大须商店街与大须观音,大須商店街・大須観音,Aichi / Chita Peninsula (Nagoya),爱知,Chubu,中部,district,街区/城镇,0,optional,,,japan-navi-journey.com,"Traditional shopping street with vintage clothing, souvenirs and street snacks; home to Osu Kannon Temple."
+Fujimi Panorama Resort,富士见全景度假村（缆车）,,Fujimi,富士见,Chubu,中部,,,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Local farm (farm-to-table),本地农场（农场到餐桌）,,Fujimi / Suwa area,富士见,Chubu,中部,,,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Hirugami Onsen village,昼神温泉乡,,Hirugami Onsen (Achi),昼神温泉,Chubu,中部,onsen,温泉,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Ina Valley,伊那谷,,Ina,伊那,Chubu,中部,nature,自然景观,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+"Suwa local shrines (Suwa Taisha implied, not confirmed)",诹访当地神社（疑为诹访大社）,,Ina,伊那,Chubu,中部,shrine,神社,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Komagatake Ropeway & Senjojiki Cirque,驹岳缆车与千叠敷冰斗,駒ヶ岳ロープウェイ・千畳敷カール,Ina Valley,伊那谷,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,Ropeway from Shirabidaira Station climbs about 950 m in roughly 7.5 minutes toward the Central Alps; a gentle 45-minute loop trail circles Senjojiki Cirque.
+Shimoguri village,下栗之里,下栗の里,Ina Valley,伊那谷,Chubu,中部,viewpoint,观景,0,optional,,,japan-navi-journey.com,Steep hillside village often called the 'Tyrol of Japan'.
+Snowshoeing in the Central Alps,中央阿尔卑斯雪鞋徒步,,Ina Valley,伊那谷,Chubu,中部,experience,体验/活动,0,optional,,,japan-navi-journey.com,Winter snowshoe walks across the snow-covered alpine landscape.
+Soba-making and local wine & sake tasting,荞麦面制作与本地葡萄酒·清酒品鉴,,Ina Valley,伊那谷,Chubu,中部,experience,体验/活动,0,optional,,,japan-navi-journey.com,Hands-on soba-making plus tastings of regional wine and sake.
+Takato Castle Ruins Park,高远城址公园,高遠城址公園,Ina Valley,伊那谷,Chubu,中部,castle,城堡/武家,0,optional,,,japan-navi-journey.com,Widely regarded as one of Japan's top cherry blossom spots.
+Tenryu River cruise (Tenryukyo Gorge),天龙峡游船,天竜川 天竜峡,Ina Valley,伊那谷,Chubu,中部,transport_experience,观光交通,0,optional,,,japan-navi-journey.com,"About 50-minute boat ride through Tenryukyo Gorge, a nationally designated scenic spot."
+Traditional festivals of the Ina Valley,伊那谷传统祭典,,Ina Valley,伊那谷,Chubu,中部,festival,祭典,0,optional,,,japan-navi-journey.com,Local festivals preserved for over 300 years.
+Karuizawa,轻井泽,,Karuizawa,轻井泽,Chubu,中部,,,1,optional,F17,JNJ-EASTERN-NAGANO-ESCAPE-5D,japan-navi-journey.com,
+Kiso Valley,木曾谷,,Kiso,木曾,Chubu,中部,nature,自然景观,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Kiso-Fukushima post town,木曾福岛宿场,,Kiso,木曾,Chubu,中部,district,街区/城镇,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Senjojiki Cirque / Komagatake Ropeway,千叠敷冰斗·驹岳缆车,,Komagane,驹根,Chubu,中部,transport_experience,观光交通,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Karuizawa Prince Hotel Ski Resort,轻井泽王子大饭店滑雪场,軽井沢プリンスホテルスキー場,Komoro / Karuizawa,小诸,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,Ski/snowboard resort with gentle beginner slopes and more challenging runs.
+Karuizawa Prince Shopping Plaza,轻井泽王子购物广场,軽井沢・プリンスショッピングプラザ,Komoro / Karuizawa,小诸,Chubu,中部,district,街区/城镇,0,optional,,,japan-navi-journey.com,"Large outlet mall with luxury brands, boutiques and specialty stores against a mountain backdrop."
+"Karuizawa bakeries, cafes & Shinshu cuisine",轻井泽面包房、咖啡馆与信州料理,,Komoro / Karuizawa,小诸,Chubu,中部,food,美食,0,optional,,,japan-navi-journey.com,"European-style bakeries and coffee shops, handmade jams, dairy, Shinshu beef, soba and wild mountain vegetables."
+Komoro Castle Ruins (Kaikoen Park),小诸城址怀古园,小諸城址 懐古園,Komoro / Karuizawa,小诸,Chubu,中部,castle,城堡/武家,0,optional,,,japan-navi-journey.com,"One of Japan's Top 100 Castles, unusual for sitting below the town; preserved as Kaikoen Park with cherry blossoms, autumn foliage, a small zoo and amusement area."
+Kumoba Pond (Swan Lake),云场池,雲場池,Komoro / Karuizawa,小诸,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,"Pond for leisurely walks, especially in autumn colour."
+Shiraito Falls,白丝瀑布,白糸の滝,Komoro / Karuizawa,小诸,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,Curtain-like waterfall surrounded by lush greenery.
+Tobira Onsen Myojinkan,扉温泉 明神馆,,Matsumoto,松本,Chubu,中部,onsen,温泉,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Fukashi Shrine,深志神社,深志神社,Matsumoto,松本,Chubu,中部,shrine,神社,0,optional,,,japan-navi-journey.com,Tranquil shrine a short walk from the castle.
+Matsumoto Castle festivals,松本城祭典,,Matsumoto,松本,Chubu,中部,festival,祭典,0,optional,,,japan-navi-journey.com,"Spring Cherry Blossom Festival (April), Taiko Drum Festival (July) and Ice Carving Festival (January) held at the castle."
+Matsumoto City Museum of Art,松本市美术馆,松本市美術館,Matsumoto,松本,Chubu,中部,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,Celebrates Matsumoto-born artist Yayoi Kusama's polka-dot works alongside contemporary exhibits.
+Nakamachi Street,中町通,中町通り,Matsumoto,松本,Chubu,中部,district,街区/城镇,0,optional,,,japan-navi-journey.com,"Historic shopping street of kura-zukuri storehouses with shops, cafes, sake breweries and handicrafts."
+Tobira Onsen,扉温泉,,Matsumoto (Tobira Onsen),松本,Chubu,中部,onsen,温泉,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Komagatake Ropeway,驹岳缆车,,Matsumoto Station / Matsumoto Airport,松本,Chubu,中部,transport_experience,观光交通,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Senjojiki Cirque (Central Alps),千叠敷冰斗（中央阿尔卑斯）,,Matsumoto Station / Matsumoto Airport,松本,Chubu,中部,,,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Ebisenbei no Sato,虾仙贝之里,,Mihama (Chita),美滨（知多）,Chubu,中部,,,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Farm Aichi,Farm Aichi 农场,,Nagakute,长久手,Chubu,中部,,,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Ghibli Park - Mononoke no Sato,吉卜力公园·魔法公主之里,,Nagakute,长久手,Chubu,中部,theme_park,主题乐园,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Higashiyama Botanical Garden (teahouse) or Farm Aichi,东山植物园茶室或 Farm Aichi,,Nagakute,长久手,Chubu,中部,garden,庭园,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Anrakuji Temple,安乐寺（八角三重塔）,安楽寺,Nagano,长野,Chubu,中部,temple,寺院,0,optional,,,japan-navi-journey.com,"Described as the oldest Zen temple in Nagano (Bessho Onsen area, Ueda)."
+Bessho Onsen,别所温泉,別所温泉,Nagano,长野,Chubu,中部,onsen,温泉,0,optional,,,japan-navi-journey.com,"One of Nagano's oldest hot-spring areas (over 1,400 years) with alkaline 'skin-beautifying' water; historic Anrakuji Temple and Kitamuki Kannon nearby."
+Fruit picking in Nagano,长野采果体验,,Nagano,长野,Chubu,中部,experience,体验/活动,0,optional,,,japan-navi-journey.com,"Year-round fruit picking: cherries in summer, apples and pears in autumn."
+Hakuba,白马,白馬,Nagano,长野,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,Ski and mountain resort area; dedicated 'Skiing and Beyond' travel guide.
+Kanbayashi Onsen,上林温泉,上林温泉,Nagano,长野,Chubu,中部,onsen,温泉,0,optional,,,japan-navi-journey.com,"Hot spring near Jigokudani Monkey Park with mildly sulfuric, slightly cloudy soothing water."
+Kitamuki Kannon,北向观音,北向観音,Nagano,长野,Chubu,中部,temple,寺院,0,optional,,,japan-navi-journey.com,Historic temple in Bessho Onsen paired with Anrakuji in the onsen guide.
+Madarao Kogen Ski Resort,斑尾高原滑雪场,斑尾高原スキー場,Nagano,长野,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,"Ski resort between Nagano and Niigata with well-maintained beginner slopes, ideal for first-time skiers (from 'Top Ski Resorts in Nagano')."
+Matsushiro Castle Ruins / Matsushiro samurai district,松代城址与松代武家屋敷,松代城跡,Nagano,长野,Chubu,中部,castle,城堡/武家,0,optional,,,japan-navi-journey.com,16th-century castle ruins and historic samurai district tied to the Sanada clan; especially scenic in cherry blossom season.
+Nagano Olympics sites,长野冬奥场馆,,Nagano,长野,Chubu,中部,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,Must-visit venues of the 1998 Nagano Winter Olympics.
+Nagano Shinkansen (Hokuriku Shinkansen) travel,北陆新干线（长野）,,Nagano,长野,Chubu,中部,transport_experience,观光交通,0,optional,,,japan-navi-journey.com,'Nagano Shinkansen Travel Guide' article on reaching Nagano by bullet train.
+Nagano local dishes & specialties,长野乡土料理,,Nagano,长野,Chubu,中部,food,美食,0,optional,,,japan-navi-journey.com,'Must-Try Dishes and Local Specialties in Nagano' article.
+Nagano shopping spots,长野购物,,Nagano,长野,Chubu,中部,district,街区/城镇,0,optional,,,japan-navi-journey.com,Guide to Nagano's best shopping spots.
+Nozawa Onsen,野泽温泉,野沢温泉,Nagano,长野,Chubu,中部,onsen,温泉,0,optional,,,japan-navi-journey.com,Village famous for 13 free public bathhouses run by locals; water is so hot locals add cold water before bathing.
+Shibu Onsen,涩温泉,渋温泉,Nagano,长野,Chubu,中部,onsen,温泉,0,optional,,,japan-navi-journey.com,"Nostalgic hot-spring town in Yamanouchi with stone-paved lanes, wooden ryokan and nine traditional public baths, each with its own mineral makeup and 100% natural spring water."
+Shiga Kogen Ski Resort,志贺高原滑雪场,志賀高原,Nagano,长野,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,One of Japan's largest ski resorts with over 50 interconnected runs across 19 ski areas.
+Shirahone Onsen,白骨温泉,白骨温泉,Nagano,长野,Chubu,中部,onsen,温泉,0,optional,,,japan-navi-journey.com,Milky-white waters in a hidden mountain setting.
+Soba-making experience,荞麦面制作体验,,Nagano,长野,Chubu,中部,experience,体验/活动,0,optional,,,japan-navi-journey.com,Hands-on buckwheat-noodle making; Nagano has over 400 years of soba cultivation.
+Togakushi Ninja Village / Kids' Ninja Village,户隐忍者村,戸隠 チビッ子忍者村,Nagano,长野,Chubu,中部,experience,体验/活动,0,optional,,,japan-navi-journey.com,Shuriken throwing and outdoor ninja obstacle courses with ninja gear for children.
+Togakushi Shrine,户隐神社,戸隠神社,Nagano,长野,Chubu,中部,shrine,神社,0,optional,,,japan-navi-journey.com,"Mountain shrine complex north of Nagano City, paired with Zenko-ji in a dedicated article."
+Zenko-ji Temple,善光寺,善光寺,Nagano,长野,Chubu,中部,temple,寺院,0,optional,,,japan-navi-journey.com,"Founded in the 7th century with over 1,400 years of history and said to hold Japan's first Buddhist statue; features the Okaidan Meguri pitch-dark passage where visitors search for the 'Key to Paradise'."
+Higashiyama Botanical Garden,东山动植物园,,Nagoya,名古屋,Chubu,中部,garden,庭园,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Miwa Shrine,三轮神社（知多）,,Nagoya,名古屋,Chubu,中部,shrine,神社,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,"One of the most historically significant shrines in the Chita area, dedicated to Omononushi (safety, prosperity, protection)."
+Nagoya Castle / Honmaru Palace,名古屋城·本丸御殿,,Nagoya,名古屋,Chubu,中部,castle,城堡/武家,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Osu Shopping Street,大须商店街,,Nagoya,名古屋,Chubu,中部,market,市场/美食,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Magome-juku,马笼宿,馬籠宿,Nakasendo / Kiso Valley,中山道,Chubu,中部,district,街区/城镇,0,optional,,,japan-navi-journey.com,"Hillside post town with a steep stone-paved slope, inns, teahouses, craft shops, water wheels and Kiso Valley views."
+Tsumago-juku,妻笼宿,妻籠宿,Nakasendo / Kiso Valley,中山道,Chubu,中部,district,街区/城镇,0,optional,,,japan-navi-journey.com,"One of Japan's best-preserved post towns, among the first protected by national preservation law; hidden cables, car-free centre, wooden ryokan, teahouses and restored honjin."
+Tsumago–Magome walk,妻笼—马笼古道徒步,,Nakasendo / Kiso Valley,中山道,Chubu,中部,experience,体验/活动,0,optional,,,japan-navi-journey.com,"Roughly 7–8 km section of the Nakasendo, about 2.5–3 hours at a relaxed pace."
+Onogame & Futatsugame,大野龟与二龟,大野亀・二ツ亀,Niigata / Sado Island,新潟,Chubu,中部,viewpoint,观景,0,optional,,,japan-navi-journey.com,Scenic coastal spots on northern Sado visited in the afternoon of the tour (page describes sea and rice-terrace scenery).
+Sado Island,佐渡岛,佐渡島,Niigata / Sado Island,新潟,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,'Pristine hidden gem' explored on a 4-day private tour covering its most historic and scenic spots; reached by ferry (~2 h) from Niigata Port or Naoetsu Port.
+Japanese Crested Ibis (toki) observation,朱鹮观察,,Ogi Port / Ryotsu Port (ferry to Niigata),小木港,Chubu,中部,viewpoint,观景,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Local morning market,本地早市,,Ogi Port / Ryotsu Port (ferry to Niigata),小木港,Chubu,中部,market,市场/美食,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Futatsugame,二龟,,Sado,佐渡岛,Chubu,中部,,,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Japanese Crested Ibis (toki) viewing,朱鹮观察,,Sado,佐渡岛,Chubu,中部,viewpoint,观景,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Ogi Port,小木港（盆舟）,,Sado,佐渡岛,Chubu,中部,district,街区/城镇,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Onogame,大野龟,,Sado,佐渡岛,Chubu,中部,,,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Ryotsu Port,两津港,,Sado,佐渡岛,Chubu,中部,district,街区/城镇,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Sado Gold Mine,佐渡金山,佐渡金山,Sado,佐渡岛,Chubu,中部,museum,博物馆/美术馆,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,Historic gold mine described on the itinerary page as a World Heritage candidate; centrepiece of the 4-day Sado tour.
+Sado Island cultural landmarks,佐渡文化地标,,Sado Island,佐渡岛,Chubu,中部,nature,自然景观,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Southwest Sado coast,佐渡西南海岸,,Southwest Sado,佐渡西南部,Chubu,中部,,,1,optional,F20,JNJ-SADO-ISLAND,japan-navi-journey.com,
+Lake Suwa,诹访湖,,Suwa,诹访,Chubu,中部,nature,自然景观,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Suwa Five Sake Brewery Tour,诹访五藏酒藏巡游,,Suwa,诹访,Chubu,中部,experience,体验/活动,1,optional,F17,JNJ-NAGANO-PREMIUM-RETREAT,japan-navi-journey.com,
+Katakurakan,片仓馆,片倉館,Suwa,诹访,Chubu,中部,onsen,温泉,0,optional,,,japan-navi-journey.com,"Historic public bathhouse built in 1928, originally a guesthouse for silk magnates and dignitaries."
+Suwa Gokura sake breweries,诹访五藏,諏訪五蔵,Suwa,诹访,Chubu,中部,food,美食,0,optional,,,japan-navi-journey.com,"Five historic breweries clustered in Kamisuwa: Masumi, Reijin, Honkin, Maihime and Yokobue."
+Suwa Taisha,诹访大社,諏訪大社,Suwa,诹访,Chubu,中部,shrine,神社,0,optional,,,japan-navi-journey.com,"One of Japan's oldest and most esteemed Shinto shrines, head shrine of over 10,000 Suwa shrines nationwide."
+Takashima Castle,高岛城,高島城,Suwa,诹访,Chubu,中部,castle,城堡/武家,0,optional,,,japan-navi-journey.com,"'Floating Castle of Suwa', reconstructed in 1970; keep houses a small museum of local samurai history."
+Tateishi Park,立石公园,立石公園,Suwa,诹访,Chubu,中部,viewpoint,观景,0,optional,,,japan-navi-journey.com,Hillside park with panoramic views over Lake Suwa; said to be a model for a backdrop in the film 'Your Name'.
+Yokoya Gorge,横谷溪谷,横谷渓谷,Suwa,诹访,Chubu,中部,nature,自然景观,0,optional,,,japan-navi-journey.com,"Waterfalls, mossy rocks and a mostly flat, family-friendly 6 km trail along the Shibu River."
+Tokoname pottery walk,常滑陶瓷散步道,,Tokoname,常滑,Chubu,中部,experience,体验/活动,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Flight of Dreams,Flight of Dreams（中部机场波音展馆）,,Tokoname (Centrair),常滑,Chubu,中部,,,1,optional,F19,JNJ-AICHI-NAGOYA-CHITA,japan-navi-journey.com,
+Goryokaku Park,五棱郭,五稜郭公園,Hokkaido / Hakodate,北海道,Hokkaido,北海道,garden,庭园,0,optional,,,japan-navi-journey.com,"National historic site in Hakodate: star-shaped fortress and moat surrounded by nearly 1,500 cherry trees, mostly Somei Yoshino."
+"Sumo demonstration, Izumisano",泉佐野相扑表演,,Izumisano,泉佐野,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Sumo experience,相扑体验,,Izumisano,泉佐野,Kansai,关西,experience,体验/活动,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Kurama,鞍马,鞍馬,Kyoto,京都,Kansai,关西,nature,自然景观,0,optional,,,japan-navi-journey.com,"Mountain retreat north of Kyoto with hiking trails, temples, hot springs and the famous Kurama Fire Festival; day trip or overnight."
+Kyoto Tower,京都塔,京都タワー,Kyoto,京都,Kansai,关西,viewpoint,观景,0,optional,,,japan-navi-journey.com,131 m tower across from Kyoto Station with panoramic views over temples to the surrounding mountains.
+Maruyama Park,圆山公园,円山公園,Kyoto,京都,Kansai,关西,garden,庭园,0,optional,,,japan-navi-journey.com,Hanami park known for its large weeping cherry tree and food stalls at peak bloom.
+Philosopher's Path,哲学之道,哲学の道,Kyoto,京都,Kansai,关西,viewpoint,观景,0,optional,,,japan-navi-journey.com,"Roughly 2 km canal-side walkway lined with cherry trees, about 30 minutes at a leisurely pace."
+Expo 2025 Yumeshima,2025 大阪世博（梦洲）,,Osaka,大阪,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Nagai Botanical Garden (teamLab),长居植物园 teamLab,,Osaka,大阪,Kansai,关西,garden,庭园,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Toyokuni Shrine,丰国神社,,Osaka,大阪,Kansai,关西,shrine,神社,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+De Sakai blacksmith experience,堺打刃物锻造体验,,Osaka / Sakai,大阪,Kansai,关西,experience,体验/活动,0,optional,,,japan-navi-journey.com,"Workshop led by French artisan Eric Chevallier where visitors watch or try Japanese blade-making, forging items such as incense holders and candle stands."
+Expo 2025 Osaka kid-friendly activities,大阪世博亲子活动,大阪・関西万博,Osaka / Sakai,大阪,Kansai,关西,experience,体验/活动,0,optional,,,japan-navi-journey.com,Article on the best kid-friendly activities at Expo 2025 (event ended Oct 2025).
+Hozenji Yokocho,法善寺横丁,法善寺横丁,Osaka / Sakai,大阪,Kansai,关西,district,街区/城镇,0,optional,,,japan-navi-journey.com,Lantern-lit alley near Dotonbori leading to Hozenji Temple.
+Maruichi Kashiho wagashi workshop,丸一菓子舗和菓子工坊,丸市菓子舗,Osaka / Sakai,大阪,Kansai,关西,experience,体验/活动,0,optional,,,japan-navi-journey.com,Sakai wagashi shop of over 120 years offering hands-on seasonal sweet-making with house-made bean paste.
+Mozu kofun burial mounds (Sakai),百舌鸟古坟群（堺）,百舌鳥古墳群,Osaka / Sakai,大阪,Kansai,关西,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,Majestic kofun burial mounds in Sakai.
+Nagai Botanical Garden – teamLab,长居植物园 teamLab,長居植物園 teamLab,Osaka / Sakai,大阪,Kansai,关西,garden,庭园,0,optional,,,japan-navi-journey.com,teamLab digital-art installations among the plants of Nagai Botanical Garden.
+Nishikinohama Beach Park,二色之滨公园,二色の浜公園,Osaka / Sakai,大阪,Kansai,关西,nature,自然景观,0,optional,,,japan-navi-journey.com,Beach park in southern Osaka (Kaizuka); dedicated guide.
+Osaka transport guide,大阪交通指南,,Osaka / Sakai,大阪,Kansai,关西,transport_experience,观光交通,0,optional,,,japan-navi-journey.com,Getting around Osaka article (known from task brief).
+Sakai Plaza of Rikyu and Akiko (tea ceremony),堺利晶之杜（茶道体验）,さかい利晶の杜,Osaka / Sakai,大阪,Kansai,关西,experience,体验/活动,0,optional,,,japan-navi-journey.com,"Traditional tea ceremony in a Ryurei-style tea room, pairing matcha with wagashi."
+Shitennoji Temple,四天王寺,四天王寺,Osaka / Sakai,大阪,Kansai,关西,temple,寺院,0,optional,,,japan-navi-journey.com,Founded in 593 by Prince Shotoku; Japan's oldest state-established Buddhist temple.
+Sumiyoshi Taisha Shrine,住吉大社,住吉大社,Osaka / Sakai,大阪,Kansai,关西,shrine,神社,0,optional,,,japan-navi-journey.com,"Shrine dating to the 3rd century with unique Sumiyoshi-zukuri architecture, a purely Japanese style."
+Tempozan Ferris Wheel,天保山大摩天轮,天保山大観覧車,Osaka / Sakai,大阪,Kansai,关西,viewpoint,观景,0,optional,,,japan-navi-journey.com,"112.5 m Ferris wheel over Osaka Bay, one of Japan's largest."
+Tsutenkaku Tower (Shinsekai),通天阁（新世界）,通天閣,Osaka / Sakai,大阪,Kansai,关西,viewpoint,观景,0,optional,,,japan-navi-journey.com,Retro Shinsekai district tower nicknamed the 'Eiffel Tower of Osaka'.
+Maruichi Kashiho,丸一菓子舗,,Sakai,堺,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Mozu Kofun (balloon flight),百舌鸟古坟群热气球,,Sakai,堺,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Mozu kofun tombs (balloon flight),百舌鸟古坟群热气球,,Sakai,堺,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Ryurei-style tea room,立礼式茶室,,Sakai,堺,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Sakai blacksmith workshop,堺刃物锻造工坊,,Sakai,堺,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Sakai knife blacksmith workshop,堺打刃物工坊,,Sakai,堺,Kansai,关西,,,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Expo '70 Commemorative Park,万博纪念公园（太阳之塔）,,Suita,吹田,Kansai,关西,nature,自然景观,1,optional,F21,JNJ-OSAKA-5DAYS,japan-navi-journey.com,
+Asuka Village – Ishibutai Tumulus,飞鸟村石舞台古坟,明日香村 石舞台古墳,Yoshino (Nara),吉野,Kansai,关西,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,Historic village near Yoshino where cherry trees bloom around one of Japan's largest stone burial chambers.
+Chikurin-in Temple (Gunpoen garden),竹林院群芳园,竹林院 群芳園,Yoshino (Nara),吉野,Kansai,关西,garden,庭园,0,optional,,,japan-navi-journey.com,Temple garden with cherry blossoms around a pond.
+Mount Yoshinoyama (Senbonzakura),吉野山千本樱,吉野山,Yoshino (Nara),吉野,Kansai,关西,nature,自然景观,0,optional,,,japan-navi-journey.com,"Over 30,000 cherry trees in layered groves across the mountain."
+Yoshino Mikumari Shrine & Hanayagura Observatory,吉野水分神社与花矢仓展望台,吉野水分神社・花矢倉展望台,Yoshino (Nara),吉野,Kansai,关西,shrine,神社,0,optional,,,japan-navi-journey.com,"Shrine whose torii gates are framed by blossoms, with a nearby observatory offering panoramic views of Yoshino."
+Engakuji Temple,圆觉寺,円覚寺,Kamakura,镰仓,Kanto,关东,temple,寺院,0,optional,,,japan-navi-journey.com,One of the main Zen temples of Kamakura.
+Hokokuji Temple (Bamboo Temple),报国寺（竹寺）,報国寺,Kamakura,镰仓,Kanto,关东,temple,寺院,0,optional,,,japan-navi-journey.com,Known for its famous bamboo grove.
+Komachi-dori Street,小町通,小町通り,Kamakura,镰仓,Kanto,关东,district,街区/城镇,0,optional,,,japan-navi-journey.com,Popular shopping street near Kamakura Station for local food and souvenirs.
+Kotoku-in (Great Buddha of Kamakura),高德院（镰仓大佛）,高徳院（鎌倉大仏）,Kamakura,镰仓,Kanto,关东,temple,寺院,0,optional,,,japan-navi-journey.com,"Bronze Great Buddha 13.35 m tall and about 121 tonnes, Japan's second tallest bronze Buddha."
+Tsurugaoka Hachimangu,鹤冈八幡宫,鶴岡八幡宮,Kamakura,镰仓,Kanto,关东,shrine,神社,0,optional,,,japan-navi-journey.com,"Shrine dedicated to Hachiman, closely linked to the Minamoto clan and the samurai era."
+Kamakura day trip from Tokyo,东京出发镰仓一日游,鎌倉,Tokyo,东京,Kanto,关东,district,街区/城镇,0,optional,,,japan-navi-journey.com,"Coastal town about an hour from Tokyo, easy to explore in a day."
+Meguro River cherry blossoms,目黑川樱花,目黒川,Tokyo,东京,Kanto,关东,viewpoint,观景,0,optional,,,japan-navi-journey.com,Romantic stretch of cherry trees arching over the river.
+Ueno Park (hanami),上野公园,上野公園,Tokyo,东京,Kanto,关东,garden,庭园,0,optional,,,japan-navi-journey.com,"One of Tokyo's best-known hanami spots with over 1,000 cherry trees."
+Dazaifu Tenmangu,太宰府天满宫,,Dazaifu,太宰府,Kyushu,九州,shrine,神社,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Hakata Old Town,博多旧市街,博多旧市街,Fukuoka,福冈,Kyushu,九州,district,街区/城镇,0,optional,,,japan-navi-journey.com,"One of Fukuoka's oldest districts with shrines, traditional shops and preserved buildings."
+Shikanoshima Island,志贺岛,志賀島,Fukuoka,福冈,Kyushu,九州,nature,自然景观,0,optional,,,japan-navi-journey.com,Island about 40 minutes from downtown Fukuoka surrounded by clear blue sea and low hills.
+Shikaumi Shrine,志贺海神社,志賀海神社,Fukuoka,福冈,Kyushu,九州,shrine,神社,0,optional,,,japan-navi-journey.com,"Main shrine for sea deities on Shikanoshima, with views over the Genkai Sea."
+Tochoji Temple,东长寺（福冈大佛）,東長寺,Fukuoka,福冈,Kyushu,九州,temple,寺院,0,optional,,,japan-navi-journey.com,"Short walk from Hakata Station; houses the city's largest seated wooden Buddha, over 10 metres tall."
+Fukuoka City shopping,福冈市购物,,Fukuoka City,福冈,Kyushu,九州,market,市场/美食,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Fukutsu seaside town (seasonal flowers),福津海滨小镇（季节花田）,,Fukuoka City,福冈,Kyushu,九州,nature,自然景观,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Fukutsu,福津,,Fukutsu,福津,Kyushu,九州,,,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Itoshima artists' studios & seaside galleries,糸岛艺术家工作室与海滨画廊,,Itoshima,糸岛,Kyushu,九州,,,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Sakurai Futamigaura (Meoto Iwa),樱井二见浦夫妇岩,桜井二見ヶ浦,Itoshima,糸岛,Kyushu,九州,viewpoint,观景,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,Itoshima beach famous for sunsets and the two 'Married Rocks' joined by a sacred shimenawa rope.
+Kurume Kasuri craft studio,久留米絣工坊,,Kurume,久留米,Kyushu,九州,,,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Kurume Kasuri studio,久留米絣工坊,,Kurume,久留米,Kyushu,九州,,,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Local sake brewery,本地酒藏,,Kurume,久留米,Kyushu,九州,,,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Munakata Taisha,宗像大社,,Munakata,宗像,Kyushu,九州,shrine,神社,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Munakata museum (Kaino-michi),宗像·海之道博物馆,,Munakata,宗像,Kyushu,九州,museum,博物馆/美术馆,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Beppu Jigoku Meguri (Hells of Beppu),别府地狱巡游,別府地獄めぐり,Oita (Yufuin / Beppu),大分,Kyushu,九州,onsen,温泉,0,optional,,,japan-navi-journey.com,"Seven geothermal 'hells' near 100°C, including cobalt-blue Umi Jigoku and red Chinoike Jigoku; Beppu has Japan's highest number of hot springs."
+Jigoku-mushi (hell-steamed cuisine),地狱蒸料理,地獄蒸し,Oita (Yufuin / Beppu),大分,Kyushu,九州,food,美食,0,optional,,,japan-navi-journey.com,Ingredients cooked with natural hot-spring steam.
+Lake Kinrin,金鳞湖,金鱗湖,Oita (Yufuin / Beppu),大分,Kyushu,九州,nature,自然景观,0,optional,,,japan-navi-journey.com,Lake at the end of Yunotsubo Kaido with foot baths nearby.
+Toriten (chicken tempura),炸鸡天妇罗（大分名物）,とり天,Oita (Yufuin / Beppu),大分,Kyushu,九州,food,美食,0,optional,,,japan-navi-journey.com,"Oita comfort food served with kabosu citrus, mustard and ponzu or soy sauce."
+Yufuin Floral Village,由布院花卉村,湯布院フローラルビレッジ,Oita (Yufuin / Beppu),大分,Kyushu,九州,experience,体验/活动,0,optional,,,japan-navi-journey.com,"Cotswolds-inspired village of flower-lined paths, shops, cafes and an owl experience."
+Yunotsubo Kaido (Yufuin),汤之坪街道（由布院）,湯の坪街道,Oita (Yufuin / Beppu),大分,Kyushu,九州,district,街区/城镇,0,optional,,,japan-navi-journey.com,"Roughly 800 m street from Yufuin Station to Lake Kinrin lined with cafes, souvenir shops and boutiques in traditional-style buildings; foot baths along the way."
+Ukiha fruit farms,浮羽水果农园,,Ukiha,浮羽,Kyushu,九州,,,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Ukiha white-walled streets,浮羽白壁街道,,Ukiha,浮羽,Kyushu,九州,district,街区/城镇,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Ukihane Inari Shrine,浮羽稻荷神社,,Ukiha,浮羽,Kyushu,九州,shrine,神社,1,optional,F18,JNJ-DISCOVER-FUKUOKA,japan-navi-journey.com,
+Aomori Nebuta Festival,青森睡魔祭,青森ねぶた祭,Aomori,青森,Tohoku,东北,festival,祭典,1,optional,F16,JNJ-NEBUTA,japan-navi-journey.com,August festival with massive glowing illuminated floats paraded through Aomori City.
+Hakkoda / Mt. Tamoyachidake snow monsters (juhyo),八甲田树冰,,Aomori,青森,Tohoku,东北,ski,滑雪,1,optional,F16,JNJ-TOKYO-TOHOKU-SNOW-MONSTERS-10D,japan-navi-journey.com,
+Mount Hakkoda,八甲田山,,Aomori,青森,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Nebuta Museum Wa Rasse,睡魔之家 WA RASSE,,Aomori,青森,Tohoku,东北,museum,博物馆/美术馆,1,optional,F16,JNJ-NEBUTA,japan-navi-journey.com,
+Nebuta workshop (dance & music),睡魔祭舞蹈·音乐工作坊,,Aomori,青森,Tohoku,东北,,,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Sukayu Onsen,酸汤温泉（千人风吕）,酸ヶ湯温泉,Aomori,青森,Tohoku,东北,onsen,温泉,1,optional,F16,JNJ-TOKYO-TOHOKU-SNOW-MONSTERS-10D,japan-navi-journey.com,"Hot spring with over 300 years of history, famous for the enormous all-cypress 'Senjinburo' bath said to hold 1,000 bathers."
+A-Factory,A-Factory（青森苹果西打工坊）,A-FACTORY,Aomori,青森,Tohoku,东北,market,市场/美食,0,optional,,,japan-navi-journey.com,"Hub for local flavours and souvenirs (cider, apples, produce) by the Aomori waterfront."
+Aomori autumn foliage (koyo) spots,青森红叶名所,,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Seasonal guide to the best places to see fall colours in Aomori.
+Aomori beaches,青森海滩,,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Article on Aomori beaches to visit in summer.
+Aomori local food (5 must-try dishes),青森乡土美食,,Aomori,青森,Tohoku,东北,food,美食,0,optional,,,japan-navi-journey.com,Food guide to five local Aomori dishes.
+Asamushi Onsen,浅虫温泉,浅虫温泉,Aomori,青森,Tohoku,东北,onsen,温泉,0,optional,,,japan-navi-journey.com,Seaside resort near Aomori City nicknamed 'Mutsu no Atami'; traditional inns and modern hotels with baths overlooking Mutsu Bay.
+Furukawa Fish Market,古川市场（海鲜丼）,青森魚菜センター（古川市場）,Aomori,青森,Tohoku,东北,market,市场/美食,0,optional,,,japan-navi-journey.com,Local market in Aomori City where visitors assemble their own 'Nokke-don' seafood rice bowl.
+Hakkoda Mountains,八甲田山,八甲田山,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Mountain range known for deep powder snow and frost-covered 'snow monster' trees in winter.
+Hakkoda Mountains year-round guide,八甲田四季,八甲田山,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Dedicated article 'Hakkoda Mountains in Aomori City: What to See and Do Year-Round'.
+Hirosaki Castle / Hirosaki Park,弘前城·弘前公园,弘前城,Aomori,青森,Tohoku,东北,castle,城堡/武家,0,optional,,,japan-navi-journey.com,"One of the last remaining Edo-period castles; Hirosaki Park holds over 2,600 cherry trees."
+Inakadate Rice Paddy Art,田舍馆村稻田艺术,田舎館村 田んぼアート,Aomori,青森,Tohoku,东北,experience,体验/活动,0,optional,,,japan-navi-journey.com,Giant artworks created in rice fields using different coloured rice strains in Inakadate Village.
+Jomon Prehistoric Sites (UNESCO),绳文遗迹群（世界遗产·三内丸山）,,Aomori,青森,Tohoku,东北,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,Jomon-period archaeological sites in Aomori inscribed as UNESCO World Heritage (article 'Exploring Aomori's UNESCO World Heritage Sites').
+Kabushima Shrine,蕪岛神社,蕪嶋神社,Aomori,青森,Tohoku,东北,shrine,神社,0,optional,,,japan-navi-journey.com,"Shrine on Kabushima island in Hachinohe, famous as a black-tailed gull breeding ground."
+Koganezaki Furofushi Onsen,黄金崎不老不死温泉,黄金崎不老ふ死温泉,Aomori,青森,Tohoku,东北,onsen,温泉,0,optional,,,japan-navi-journey.com,"Open-air bath on the Sea of Japan coast, listed among Aomori's onsen highlights."
+Lake Towada,十和田湖,十和田湖,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Caldera lake on the Aomori–Akita border; paired with the Oirase Gorge trail.
+Lake Towada cruises & scenic trails,十和田湖游船与步道,十和田湖,Aomori,青森,Tohoku,东北,transport_experience,观光交通,0,optional,,,japan-navi-journey.com,Dedicated Lake Towada travel guide covering sightseeing cruises and scenic trails.
+Lamp no Yado Aoni Onsen (Lamp Inn),青荷温泉（灯之宿）,ランプの宿 青荷温泉,Aomori,青森,Tohoku,东北,onsen,温泉,0,optional,,,japan-navi-journey.com,"Inn hidden deep in the mountains of Kuroishi lit only by oil lamps – no electricity, no internet."
+Oirase Gorge / Oirase Stream,奥入濑溪流,奥入瀬渓流,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Trail through lush forest and waterfalls along the stream flowing from Lake Towada.
+Oku-Yagen Onsen (Kappa-no-Yu),奥药研温泉（河童之汤）,奥薬研温泉 かっぱの湯,Aomori,青森,Tohoku,东北,onsen,温泉,0,optional,,,japan-navi-journey.com,About 2 km upstream of Yagen Onsen along the Ohata River; free open-air baths Kappa-no-Yu and Fufu-Kappa-no-Yu with separate men's and women's baths.
+Owani Onsen,大鳄温泉,大鰐温泉,Aomori,青森,Tohoku,东北,onsen,温泉,0,optional,,,japan-navi-journey.com,"Hot-spring town with over 800 years of history, several public bathhouses and traditional ryokan in a walkable, nostalgic setting."
+Takayama Inari Shrine,高山稻荷神社（青森）,高山稲荷神社,Aomori,青森,Tohoku,东北,shrine,神社,0,optional,,,japan-navi-journey.com,Shrine in Tsugaru known for its long tunnel of red torii gates.
+Yagen Onsen,药研温泉,,Aomori,青森,Tohoku,东北,onsen,温泉,0,optional,,,japan-navi-journey.com,Remote hot spring in the Yagen Valley of the Shimokita Peninsula.
+Yagen Valley,药研溪流,薬研渓流,Aomori,青森,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,Valley on the Shimokita Peninsula noted for its hot springs and gorge scenery.
+"Aomori City cafes, galleries, craft shops",青森市咖啡馆·画廊·工艺店,,Aomori / Hachinohe,青森,Tohoku,东北,market,市场/美食,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Aomori City,青森市,,Aomori City,青森,Tohoku,东北,,,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Nebuta culture (workshop),睡魔祭文化工作坊,,Aomori City,青森,Tohoku,东北,,,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Hachinohe,八户,,Hachinohe,八户,Tohoku,东北,,,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Hachinohe morning market,八户馆鼻岸壁朝市,,Hachinohe,八户,Tohoku,东北,market,市场/美食,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Kabushima Island,蕪岛,,Hachinohe,八户,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Tanesashi Coast,种差海岸,,Hachinohe,八户,Tohoku,东北,,,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Mount Hakkoda primeval beech forest,八甲田山毛榉原生林,,Hakkoda / Oirase,八甲田,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Oirase (gorge/stream area),奥入濑溪流,,Hakkoda / Oirase,八甲田,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+"Motsuji Hondo, Cultural Assets Repository & Kaizando",毛越寺本堂·宝物馆·开山堂,,Hiraizumi (Iwate),平泉,Tohoku,东北,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,"Main hall, artifact repository and the Kaizando hall honouring Tendai leaders and the Fujiwara lords of Hiraizumi."
+Motsuji Temple,毛越寺,毛越寺,Hiraizumi (Iwate),平泉,Tohoku,东北,temple,寺院,0,optional,,,japan-navi-journey.com,"UNESCO World Heritage temple famous for its Pure Land garden, largely unchanged for centuries."
+Oizumi-ga-ike Pond (Motsuji Pure Land Garden),毛越寺净土庭园大泉池,大泉が池,Hiraizumi (Iwate),平泉,Tohoku,东北,garden,庭园,0,optional,,,japan-navi-journey.com,"Wide mirror-like pond with small islands and carefully arranged stones, the highlight of the garden."
+Hirosaki Apple Park,弘前苹果公园,弘前市りんご公園,Hirosaki,弘前,Tohoku,东北,experience,体验/活动,0,optional,,,japan-navi-journey.com,Apple orchards where guests can pick apples from early August to mid-November.
+Hirosaki Castle,弘前城,弘前城,Hirosaki,弘前,Tohoku,东北,castle,城堡/武家,0,optional,,,japan-navi-journey.com,"Built in 1611 by the Tsugaru clan; one of the '100 Fine Castles of Japan', with over 2,600 cherry trees and the Hirosaki Cherry Blossom Festival (23 April–5 May)."
+Hirosaki Castle Botanical Garden,弘前城植物园,弘前城植物園,Hirosaki,弘前,Tohoku,东北,garden,庭园,0,optional,,,japan-navi-journey.com,"Garden within the castle grounds with more than 1,200 plant species in thematic zones."
+Hirosaki Castle Snow Lantern Festival,弘前城雪灯笼祭,弘前城雪燈籠まつり,Hirosaki,弘前,Tohoku,东北,festival,祭典,0,optional,,,japan-navi-journey.com,"Winter festival with hundreds of glowing snow lanterns, ice sculptures and projection mapping on the castle grounds."
+Hirosaki Castle keep exhibits,弘前城天守展示,,Hirosaki,弘前,Tohoku,东北,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,The historic castle keep houses exhibits on the Tsugaru domain's feudal history.
+Hirosaki Neputa Festival,弘前睡魔祭,弘前ねぷたまつり,Hirosaki,弘前,Tohoku,东北,festival,祭典,0,optional,,,japan-navi-journey.com,Held every year 1–7 August; designated an Important Intangible Folk Cultural Property of Japan.
+Kimori Cider Factory,Kimori 苹果酒工坊,,Hirosaki,弘前,Tohoku,东北,food,美食,0,optional,,,japan-navi-journey.com,Cidery in the apple park area offering tastings of alcoholic and non-alcoholic ciders from locally grown fruit.
+Shirakami-Sanchi,白神山地,白神山地,Hirosaki,弘前,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,"UNESCO World Natural Heritage beech forest about 30 minutes by car from central Hirosaki, with clear streams and mountain scenery."
+Mt. Iwaki,岩木山,,Hirosaki / Tsugaru,弘前,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-TSUGARU-SLOW-TRAVEL-3D,japan-navi-journey.com,
+Aoni Onsen (Lamp Inn),青荷温泉（灯之宿）,,Kuroishi,黑石,Tohoku,东北,onsen,温泉,1,optional,F16,JNJ-TOKYO-TOHOKU-SNOW-MONSTERS-10D,japan-navi-journey.com,
+Misawa,三泽,,Misawa,三泽,Tohoku,东北,,,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Mount Osore (Osorezan),恐山,恐山,Mutsu,陆奥,Tohoku,东北,temple,寺院,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,"Sacred volcanic mountain and temple on the Shimokita Peninsula, one of Japan's three most sacred places."
+Shimokita Peninsula,下北半岛,,Mutsu,陆奥,Tohoku,东北,,,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Fugen-in temple lodging,普贤院宿坊,,Mutsu (Shimokita),陆奥,Tohoku,东北,temple,寺院,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Oma fishing port (tuna line fishing),大间渔港（金枪鱼一本钓）,,Oma,大间,Tohoku,东北,district,街区/城镇,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Hotokegaura,仏之浦,仏ヶ浦,Sai (Shimokita),佐井,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,Dramatic eroded rock formations on the west coast of the Shimokita Peninsula.
+Akiu Winery,秋保酒庄,秋保ワイナリー,Sendai,仙台,Tohoku,东北,food,美食,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,Winery in the Akiu area of Sendai visited for dining on the Premium Tohoku Gourmet Tour.
+Akiu wineries (Akiu Winery),秋保酒庄,,Sendai,仙台,Tohoku,东北,,,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Sendai City,仙台市,,Sendai,仙台,Tohoku,东北,,,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Shozan restaurant,Shozan 餐厅（仙台）,,Sendai,仙台,Tohoku,东北,food,美食,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,Renowned Sendai restaurant included in the Premium Tohoku Gourmet Tour.
+Aoba Castle (Sendai Castle) ruins,青叶城（仙台城）址,青葉城（仙台城跡）,Sendai (Miyagi),仙台,Tohoku,东北,castle,城堡/武家,0,optional,,,japan-navi-journey.com,"Hilltop castle site of warlord Date Masamune overlooking Sendai; Honmaru stone walls including a roughly 15 m north wall; seasonal cherry blossoms, foliage and winter views."
+Aoba Castle Museum and Exhibition Hall,青叶城资料展示馆,青葉城資料展示館,Sendai (Miyagi),仙台,Tohoku,东北,museum,博物馆/美术馆,0,optional,,,japan-navi-journey.com,"Historical artifacts, models of the original castle and VR headsets that recreate the castle grounds."
+Shimokita fishing villages,下北渔村,,Shimokita,下北半岛,Tohoku,东北,district,街区/城镇,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Oma (tuna fishing port),大间（金枪鱼渔港）,,Shimokita (Oma / Mutsu),下北半岛,Tohoku,东北,district,街区/城镇,1,optional,F16,JNJ-PREMIUM-TOHOKU-GOURMET-TOUR,japan-navi-journey.com,
+Hotokegaura cliffs,仏之浦奇岩,,Shimokita Peninsula,下北半岛,Tohoku,东北,,,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,
+Oma Town & harbour,大间町与港口,大間町,Shimokita Peninsula / Oma,下北半岛,Tohoku,东北,district,街区/城镇,0,optional,,,japan-navi-journey.com,Town at the northernmost tip of Honshu famed for bluefin tuna ('black diamonds') fattened by the meeting currents of the Tsugaru Strait; fishing boats come and go in the harbour.
+Oma Tuna Fishing Experience,大间金枪鱼垂钓体验,,Shimokita Peninsula / Oma,下北半岛,Tohoku,东北,experience,体验/活动,0,optional,,,japan-navi-journey.com,Join a tuna-fishing outing from Oma; best season June–October when seas are calmer.
+Oma Tuna Monument (Cape Oma),大间崎金枪鱼纪念碑,大間崎 本州最北端の碑,Shimokita Peninsula / Oma,下北半岛,Tohoku,东北,viewpoint,观景,0,optional,,,japan-navi-journey.com,Well-known tuna monument marking the northern tip of Honshu; Mount Hakodate is visible across the strait on clear days.
+Oma tuna (bluefin) dining,大间蓝鳍金枪鱼料理,大間まぐろ,Shimokita Peninsula / Oma,下北半岛,Tohoku,东北,food,美食,0,optional,,,japan-navi-journey.com,'The Ultimate Bite for Seafood Lovers in Tohoku' – eating Oma bluefin tuna.
+Taijima Island,弁天岛（大间崎）,弁天島,Shimokita Peninsula / Oma,下北半岛,Tohoku,东北,nature,自然景观,0,optional,,,japan-navi-journey.com,"Small island off Oma: short walk around the island, a shrine and views of the surrounding waters."
+Oirase Gorge,奥入濑溪流,,Towada,十和田,Tohoku,东北,nature,自然景观,1,optional,F16,JNJ-AOMORI-UNVEILED,japan-navi-journey.com,

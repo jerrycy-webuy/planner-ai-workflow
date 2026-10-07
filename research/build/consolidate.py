@@ -13,12 +13,15 @@ except Exception:
     names = None
 
 SERIES_DIR, OUT_DIR = sys.argv[1], sys.argv[2]
+SITE = sys.argv[3] if len(sys.argv) > 3 else "selfguidejapan.com"
+SITE_LABEL = {"selfguidejapan.com": "Self-Guided Japan（selfguidejapan.com）", "japan-navi-journey.com": "Japan Navi Journey（japan-navi-journey.com）"}.get(SITE, SITE)
 os.makedirs(OUT_DIR, exist_ok=True)
 
 SERIES_CN = {
     "BF": "基础精选（7天）", "GR": "黄金路线", "SL": "单人出行 SOLO", "FG": "家庭亲子", "TP": "主题乐园",
     "KY": "九州温泉", "HD": "北海道（夏季）", "HK": "北海道滑雪/冬季", "SE": "濑户内·四国", "KA": "关西出发",
-    "HS": "温泉之旅", "KM": "高野山·熊野灵场", "NT": "自然徒步", "LX": "奢华", "WT": "冬季", "CB": "樱花", "SK": "滑雪",
+    "HS": "温泉之旅", "KM": "高野山·熊野灵场", "NT": "自然徒步", "LX": "奢华", "WT": "冬季", "CB": "樱花", "SK": "滑雪", "KR": "樱花短线",
+    "JNJ": "Japan Navi Journey 私人定制团",
 }
 TRANSPORT_CN = [
     (r"shinkansen|bullet", "新干线"), (r"limited express|express train|train", "火车"),
@@ -88,16 +91,21 @@ def title_cn_of(t):
     if k3 in _TITLE_IDX: return "单人·" + _TITLE_IDX[k3]
     return ""
 
-_ATTR_IDX = None
+_ATTR_IDX = None; _ATTR_IDX2 = None
 def attr_cn_of(name_en):
-    global _ATTR_IDX
+    global _ATTR_IDX, _ATTR_IDX2
     if not names: return ""
     if _ATTR_IDX is None:
-        _ATTR_IDX = {}
+        _ATTR_IDX, _ATTR_IDX2 = {}, {}
         for k, v in getattr(names, "ATTR_CN", {}).items():
-            _ATTR_IDX.setdefault(akey(k), v)
-            _ATTR_IDX.setdefault(akey2(k), v)
-    return names.ATTR_CN.get(name_en) or _ATTR_IDX.get(akey(name_en)) or _ATTR_IDX.get(akey2(name_en)) or ""
+            _ATTR_IDX.setdefault(akey(k), v)      # 严格：只去冠词/寺社后缀
+            _ATTR_IDX2.setdefault(akey2(k), v)    # 宽松：再去 castle/garden/park 等通用词
+    if names.ATTR_CN.get(name_en): return names.ATTR_CN[name_en]
+    if _ATTR_IDX.get(akey(name_en)): return _ATTR_IDX[akey(name_en)]
+    # 裸地名（如 "Matsumoto"）优先按城市表翻译，避免被 "Matsumoto Castle" 的宽松匹配污染
+    ccn, _, _ = geo.city_info(name_en)
+    if ccn and len(name_en.split()) <= 2: return ccn
+    return _ATTR_IDX2.get(akey2(name_en)) or ""
 
 def akey2(s):
     """更松：去掉 temple/shrine/garden/castle/park/museum 等通用词"""
@@ -115,7 +123,8 @@ def akey(s):
 
 def merge_rec(a, b):
     """按代码逐字段合并两条记录：exists 取真优先；标量取非空（逐日更长者优先）；列表取并集。"""
-    score = lambda x: (1 if x.get("exists") else 0, len(x.get("day_by_day") or []), 1 if x.get("_file") == "main_session.json" else 0, 1 if (x.get("source_confidence") == "high") else 0)
+    prio = lambda x: 2 if x.get("_file") == "main_session.json" else (1 if str(x.get("_file", "")).startswith("pass2") else 0)
+    score = lambda x: (1 if x.get("exists") else 0, len(x.get("day_by_day") or []), prio(x), 1 if (x.get("source_confidence") == "high") else 0)
     hi, lo = (a, b) if score(a) >= score(b) else (b, a)
     out = dict(hi)
     for k, v in lo.items():
@@ -182,8 +191,8 @@ with open(os.path.join(OUT_DIR, "tours_catalog.csv"), "w", newline="", encoding=
 # catalog md grouped by series
 by_series = defaultdict(list)
 for r in cat_rows: by_series[r["series"]].append(r)
-md = ["# Self-Guided Japan（selfguidejapan.com）线路目录", "",
-      f"共 {len(cat_rows)} 条线路（站点自称 111 条）。价格为每人、两人一房、不含国际机票（SOLO 系列为单人单房价）。数据来自搜索索引摘要，未直接读取网页，见 README。", ""]
+md = [f"# {SITE_LABEL} 线路目录", "",
+      f"共 {len(cat_rows)} 条线路。" + ("价格为每人、两人一房、不含国际机票（SOLO 系列为单人单房价）。" if SITE == "selfguidejapan.com" else "私人定制团，价格按询价（站点不公开标价）。") + "数据来自搜索索引摘要，未直接读取网页，见 README。", ""]
 for s in sorted(by_series, key=lambda x: (x not in SERIES_CN, x)):
     rows = sorted(by_series[s], key=lambda r: r["code"])
     md += [f"## {s} · {SERIES_CN.get(s, s)}（{len(rows)} 条）", "",
@@ -200,7 +209,7 @@ with open(os.path.join(OUT_DIR, "tours_catalog.md"), "w", encoding="utf-8") as f
 
 # ---------- package tours (standard itinerary) ----------
 pt_json = []
-pm = ["# Self-Guided Japan 标准行程（Package Tour 格式）", "",
+pm = [f"# {SITE_LABEL} 标准行程（Package Tour 格式）", "",
       "格式沿用 WEBUY 行程 house grammar：`CITY_EN 中文`、`>` 陆路 / `✈` 航班、(2N) 连住、只列有信息的餐食。",
       "所有内容转录自 selfguidejapan.com 各产品页的搜索索引摘要；空白 = 来源未给出，**不是**不包含。", ""]
 # 目录
@@ -232,6 +241,8 @@ for code, t in existing.items():
     rs = route_str(t.get("route"))
     if rs: meta.append(f"- **路线**：{rs}")
     if t.get("highlights"): meta.append("- **亮点**：" + " ".join("✦ " + h(x) for x in t["highlights"]))
+    if t.get("tour_type"): meta.append(f"- **产品形态**：{h(t['tour_type'])}")
+    if t.get("hotels"): meta.append("- **酒店/旅馆**：" + "、".join(h(x) for x in t["hotels"]))
     inc = "、".join(t.get("inclusions") or []); exc = "、".join(t.get("exclusions") or [])
     if inc or exc: meta.append(f"- **含**：{inc or '—'} · **不含**：{exc or '—'}")
     meta.append(f"- **来源**：{t.get('url') or ''}（可信度 {t.get('source_confidence') or '?'}）" + (f" · 备注：{h(t.get('notes'))}" if t.get("notes") else ""))
@@ -273,6 +284,7 @@ for code, t in existing.items():
             ("meals", d.get("meals")), ("stay", d.get("stay")), ("stay_cn", city_cn(d.get("stay"))), ("notes", d.get("notes"))]) for d in dbd]),
         ("highlights", t.get("highlights") or []), ("inclusions", t.get("inclusions") or []), ("exclusions", t.get("exclusions") or []),
         ("source_confidence", t.get("source_confidence")), ("sources", t.get("sources") or []), ("notes", t.get("notes")),
+        ("site", SITE), ("tour_type", t.get("tour_type")), ("region", t.get("region")), ("prefectures", t.get("prefectures") or []), ("hotels", t.get("hotels") or []),
     ]))
 with open(os.path.join(OUT_DIR, "package_tours.md"), "w", encoding="utf-8") as f: f.write("\n".join(pm))
 with open(os.path.join(OUT_DIR, "package_tours.json"), "w", encoding="utf-8") as f: json.dump(pt_json, f, ensure_ascii=False, indent=1)
@@ -324,7 +336,7 @@ CAT_KW = [
     ("viewpoint", r"view|observ|tower|skytree|sky|deck|dam"),
 ]
 CAT_CN = {"ski": "滑雪", "theme_park": "主题乐园", "onsen": "温泉", "temple": "寺院", "shrine": "神社", "castle": "城堡/武家", "garden": "庭园", "museum": "博物馆/美术馆",
-          "market": "市场/美食", "nature": "自然景观", "transport_experience": "观光交通", "experience": "体验/活动", "district": "街区/城镇", "viewpoint": "观景", "food": "美食", "hotel": "酒店", "city": "城市"}
+          "market": "市场/美食", "nature": "自然景观", "festival": "祭典", "village": "村落", "beach": "海滩", "winery": "酒庄/酒藏", "craft": "工艺体验", "transport_experience": "观光交通", "experience": "体验/活动", "district": "街区/城镇", "viewpoint": "观景", "food": "美食", "hotel": "酒店", "city": "城市"}
 def guess_cat(name, desc=""):
     s = f"{name} {desc}".lower()
     for c, pat in CAT_KW:
@@ -340,13 +352,13 @@ for k, r in attr.items():
         ("name_en", r["name_en"]), ("name_cn", r["name_cn"] or ""), ("name_ja", r["name_ja"] or ""),
         ("city", r["city"]), ("city_cn", cn or ""), ("region", reg or ""), ("region_cn", regcn or ""),
         ("category", r["category"]), ("category_cn", CAT_CN.get(r["category"], r["category"])), ("tour_count", len(r["tours"])), ("tours", " ".join(sorted(r["tours"]))),
-        ("description", r["description"]), ("sources", " ".join(r["sources"][:3])),
+        ("description", r["description"]), ("sources", " ".join(r["sources"][:3])), ("site", SITE),
     ]))
 rows.sort(key=lambda r: (r["region"] or "zz", r["city"], -r["tour_count"], r["name_en"]))
 with open(os.path.join(OUT_DIR, "attractions.csv"), "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else ["name_en"]); w.writeheader(); w.writerows(rows)
 
-am = ["# Self-Guided Japan 景点列表", "", f"共 {len(rows)} 个景点/体验，按区域 → 城市分组；「线路」列为出现该景点的线路代码，次数越多说明越是该站的核心卖点。", ""]
+am = [f"# {SITE_LABEL} 景点列表", "", f"共 {len(rows)} 个景点/体验，按区域 → 城市分组；「线路」列为出现该景点的线路代码，次数越多说明越是该站的核心卖点。", ""]
 by_reg = defaultdict(lambda: defaultdict(list))
 for r in rows: by_reg[r["region"] or "其他/未归类"][r["city"] or "（未标城市）"].append(r)
 order = ["Hokkaido", "Tohoku", "Kanto", "Chubu", "Hokuriku", "Kansai", "Chugoku", "Setouchi", "Shikoku", "Kyushu", "Okinawa"]

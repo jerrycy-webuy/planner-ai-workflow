@@ -1,0 +1,1767 @@
+[
+ {
+  "destination": "Aomori",
+  "slug": null,
+  "region": "Tohoku",
+  "prefecture": "Aomori",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/428/",
+   "https://japan-navi-journey.com/column/182/",
+   "https://japan-navi-journey.com/column/829/",
+   "https://japan-navi-journey.com/column/547/",
+   "https://japan-navi-journey.com/column/491/",
+   "https://japan-navi-journey.com/column/682/",
+   "https://japan-navi-journey.com/column/501/",
+   "https://japan-navi-journey.com/column/557/",
+   "https://japan-navi-journey.com/column/656/",
+   "https://japan-navi-journey.com/column/529/",
+   "https://japan-navi-journey.com/column/359/",
+   "https://japan-navi-journey.com/column/best-aomori-beaches/",
+   "https://japan-navi-journey.com/column/699/",
+   "https://japan-navi-journey.com/column/810/",
+   "https://japan-navi-journey.com/column/550/",
+   "https://japan-navi-journey.com/column/674/",
+   "https://japan-navi-journey.com/column/821/",
+   "https://japan-navi-journey.com/column/hakkoda-aomori-guide/"
+  ],
+  "summary_en": "Aomori, at Japan's northern tip of Honshu, is covered on the site by a series of column articles: '8 Things to Do in Aomori' (castle, onsen, Lake Towada/Oirase, Hakkoda, Nebuta, rice-paddy art), '5 Must-Visit Sightseeing Spots' (Hakkoda, Towada, Oirase, Osorezan, Hotokegaura), a 2025 travel guide, autumn foliage, the Nebuta Festival, UNESCO Jomon sites, Furukawa Fish Market, Takayama Inari Shrine, A-Factory and a local food guide.",
+  "attractions": [
+   {
+    "name_en": "Hirosaki Castle / Hirosaki Park",
+    "name_ja": "弘前城",
+    "category": "castle",
+    "description_en": "One of the last remaining Edo-period castles; Hirosaki Park holds over 2,600 cherry trees.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Sukayu Onsen",
+    "name_ja": "酸ヶ湯温泉",
+    "category": "onsen",
+    "description_en": "Hot spring with over 300 years of history, famous for the enormous all-cypress 'Senjinburo' bath said to hold 1,000 bathers.",
+    "note": "also listed in /column/428",
+    "source": "https://japan-navi-journey.com/column/674/"
+   },
+   {
+    "name_en": "Yagen Onsen",
+    "name_ja": null,
+    "category": "onsen",
+    "description_en": "Remote hot spring in the Yagen Valley of the Shimokita Peninsula.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Asamushi Onsen",
+    "name_ja": "浅虫温泉",
+    "category": "onsen",
+    "description_en": "Seaside resort near Aomori City nicknamed 'Mutsu no Atami'; traditional inns and modern hotels with baths overlooking Mutsu Bay.",
+    "note": "also listed in /column/428",
+    "source": "https://japan-navi-journey.com/column/674/"
+   },
+   {
+    "name_en": "Koganezaki Furofushi Onsen",
+    "name_ja": "黄金崎不老ふ死温泉",
+    "category": "onsen",
+    "description_en": "Open-air bath on the Sea of Japan coast, listed among Aomori's onsen highlights.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Lake Towada",
+    "name_ja": "十和田湖",
+    "category": "nature",
+    "description_en": "Caldera lake on the Aomori–Akita border; paired with the Oirase Gorge trail.",
+    "note": "also in /column/182 as one of 5 must-visit spots",
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Oirase Gorge / Oirase Stream",
+    "name_ja": "奥入瀬渓流",
+    "category": "nature",
+    "description_en": "Trail through lush forest and waterfalls along the stream flowing from Lake Towada.",
+    "note": "also in /column/182",
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Hakkoda Mountains",
+    "name_ja": "八甲田山",
+    "category": "nature",
+    "description_en": "Mountain range known for deep powder snow and frost-covered 'snow monster' trees in winter.",
+    "note": "also in /column/182 as Mount Hakkoda",
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Aomori Nebuta Festival",
+    "name_ja": "青森ねぶた祭",
+    "category": "festival",
+    "description_en": "August festival with massive glowing illuminated floats paraded through Aomori City.",
+    "note": "also listed in /column/428; site offers a dedicated Nebuta tour (itinerary slug 'nebuta')",
+    "source": "https://japan-navi-journey.com/column/491/"
+   },
+   {
+    "name_en": "Inakadate Rice Paddy Art",
+    "name_ja": "田舎館村 田んぼアート",
+    "category": "experience",
+    "description_en": "Giant artworks created in rice fields using different coloured rice strains in Inakadate Village.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/428/"
+   },
+   {
+    "name_en": "Mount Osore (Osorezan)",
+    "name_ja": "恐山",
+    "category": "temple",
+    "description_en": "Sacred volcanic mountain and temple on the Shimokita Peninsula, one of Japan's three most sacred places.",
+    "note": "dedicated article 'Discovering Mount Osore: A Quiet Day Trip in Aomori'; also in /column/182 and /column/829",
+    "source": "https://japan-navi-journey.com/column/821/"
+   },
+   {
+    "name_en": "Hotokegaura",
+    "name_ja": "仏ヶ浦",
+    "category": "nature",
+    "description_en": "Dramatic eroded rock formations on the west coast of the Shimokita Peninsula.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/182/"
+   },
+   {
+    "name_en": "Kabushima Shrine",
+    "name_ja": "蕪嶋神社",
+    "category": "shrine",
+    "description_en": "Shrine on Kabushima island in Hachinohe, famous as a black-tailed gull breeding ground.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/829/"
+   },
+   {
+    "name_en": "Yagen Valley",
+    "name_ja": "薬研渓流",
+    "category": "nature",
+    "description_en": "Valley on the Shimokita Peninsula noted for its hot springs and gorge scenery.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/829/"
+   },
+   {
+    "name_en": "Jomon Prehistoric Sites (UNESCO)",
+    "name_ja": null,
+    "category": "museum",
+    "description_en": "Jomon-period archaeological sites in Aomori inscribed as UNESCO World Heritage (article 'Exploring Aomori's UNESCO World Heritage Sites').",
+    "note": "specific site names (e.g. Sannai-Maruyama) not confirmed from the search snippet",
+    "source": "https://japan-navi-journey.com/column/682/"
+   },
+   {
+    "name_en": "Furukawa Fish Market",
+    "name_ja": "青森魚菜センター（古川市場）",
+    "category": "market",
+    "description_en": "Local market in Aomori City where visitors assemble their own 'Nokke-don' seafood rice bowl.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/501/"
+   },
+   {
+    "name_en": "Takayama Inari Shrine",
+    "name_ja": "高山稲荷神社",
+    "category": "shrine",
+    "description_en": "Shrine in Tsugaru known for its long tunnel of red torii gates.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/557/"
+   },
+   {
+    "name_en": "A-Factory",
+    "name_ja": "A-FACTORY",
+    "category": "market",
+    "description_en": "Hub for local flavours and souvenirs (cider, apples, produce) by the Aomori waterfront.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/656/"
+   },
+   {
+    "name_en": "Aomori autumn foliage (koyo) spots",
+    "name_ja": null,
+    "category": "nature",
+    "description_en": "Seasonal guide to the best places to see fall colours in Aomori.",
+    "note": "individual spot names not captured in the search snippet",
+    "source": "https://japan-navi-journey.com/column/547/"
+   },
+   {
+    "name_en": "Aomori local food (5 must-try dishes)",
+    "name_ja": null,
+    "category": "food",
+    "description_en": "Food guide to five local Aomori dishes.",
+    "note": "dish names not captured in the search snippet",
+    "source": "https://japan-navi-journey.com/column/529/"
+   },
+   {
+    "name_en": "Lake Towada cruises & scenic trails",
+    "name_ja": "十和田湖",
+    "category": "transport_experience",
+    "description_en": "Dedicated Lake Towada travel guide covering sightseeing cruises and scenic trails.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/359/"
+   },
+   {
+    "name_en": "Aomori beaches",
+    "name_ja": null,
+    "category": "nature",
+    "description_en": "Article on Aomori beaches to visit in summer.",
+    "note": "beach names not captured in search snippet",
+    "source": "https://japan-navi-journey.com/column/best-aomori-beaches/"
+   },
+   {
+    "name_en": "Hakkoda Mountains year-round guide",
+    "name_ja": "八甲田山",
+    "category": "nature",
+    "description_en": "Dedicated article 'Hakkoda Mountains in Aomori City: What to See and Do Year-Round'.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/550/"
+   },
+   {
+    "name_en": "Lamp no Yado Aoni Onsen (Lamp Inn)",
+    "name_ja": "ランプの宿 青荷温泉",
+    "category": "onsen",
+    "description_en": "Inn hidden deep in the mountains of Kuroishi lit only by oil lamps – no electricity, no internet.",
+    "note": "confirmed in /column/674 (Aomori Onsen Guide)",
+    "source": "https://japan-navi-journey.com/column/674/"
+   },
+   {
+    "name_en": "Owani Onsen",
+    "name_ja": "大鰐温泉",
+    "category": "onsen",
+    "description_en": "Hot-spring town with over 800 years of history, several public bathhouses and traditional ryokan in a walkable, nostalgic setting.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/674/"
+   },
+   {
+    "name_en": "Oku-Yagen Onsen (Kappa-no-Yu)",
+    "name_ja": "奥薬研温泉 かっぱの湯",
+    "category": "onsen",
+    "description_en": "About 2 km upstream of Yagen Onsen along the Ohata River; free open-air baths Kappa-no-Yu and Fufu-Kappa-no-Yu with separate men's and women's baths.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/674/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/428/",
+   "https://japan-navi-journey.com/column/182/",
+   "https://japan-navi-journey.com/column/829/",
+   "https://japan-navi-journey.com/column/547/",
+   "https://japan-navi-journey.com/column/491/",
+   "https://japan-navi-journey.com/column/682/",
+   "https://japan-navi-journey.com/column/501/",
+   "https://japan-navi-journey.com/column/557/",
+   "https://japan-navi-journey.com/column/656/",
+   "https://japan-navi-journey.com/column/529/",
+   "https://japan-navi-journey.com/itinerary/aomori-unveiled/"
+  ]
+ },
+ {
+  "destination": "Hirosaki",
+  "slug": null,
+  "region": "Tohoku",
+  "prefecture": "Aomori",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/292/",
+   "https://japan-navi-journey.com/column/1213/",
+   "https://japan-navi-journey.com/column/444/",
+   "https://japan-navi-journey.com/column/656/",
+   "https://japan-navi-journey.com/column/889/"
+  ],
+  "summary_en": "Hirosaki, a castle town in western Aomori, is covered by articles on Hirosaki Castle (1611, Tsugaru clan, one of the 100 Fine Castles of Japan, cherry blossom festival 23 April–5 May, botanical garden, winter Snow Lantern Festival), a summer guide (Shirakami-Sanchi and the Hirosaki Neputa Festival, 1–7 August) and Hirosaki Apple Park with apple picking and the Kimori Cider Factory.",
+  "attractions": [
+   {
+    "name_en": "Hirosaki Castle",
+    "name_ja": "弘前城",
+    "category": "castle",
+    "description_en": "Built in 1611 by the Tsugaru clan; one of the '100 Fine Castles of Japan', with over 2,600 cherry trees and the Hirosaki Cherry Blossom Festival (23 April–5 May).",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/292/"
+   },
+   {
+    "name_en": "Hirosaki Castle keep exhibits",
+    "name_ja": null,
+    "category": "museum",
+    "description_en": "The historic castle keep houses exhibits on the Tsugaru domain's feudal history.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/292/"
+   },
+   {
+    "name_en": "Hirosaki Castle Botanical Garden",
+    "name_ja": "弘前城植物園",
+    "category": "garden",
+    "description_en": "Garden within the castle grounds with more than 1,200 plant species in thematic zones.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/292/"
+   },
+   {
+    "name_en": "Hirosaki Castle Snow Lantern Festival",
+    "name_ja": "弘前城雪燈籠まつり",
+    "category": "festival",
+    "description_en": "Winter festival with hundreds of glowing snow lanterns, ice sculptures and projection mapping on the castle grounds.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/292/"
+   },
+   {
+    "name_en": "Hirosaki Neputa Festival",
+    "name_ja": "弘前ねぷたまつり",
+    "category": "festival",
+    "description_en": "Held every year 1–7 August; designated an Important Intangible Folk Cultural Property of Japan.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1213/"
+   },
+   {
+    "name_en": "Shirakami-Sanchi",
+    "name_ja": "白神山地",
+    "category": "nature",
+    "description_en": "UNESCO World Natural Heritage beech forest about 30 minutes by car from central Hirosaki, with clear streams and mountain scenery.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1213/"
+   },
+   {
+    "name_en": "Hirosaki Apple Park",
+    "name_ja": "弘前市りんご公園",
+    "category": "experience",
+    "description_en": "Apple orchards where guests can pick apples from early August to mid-November.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/444/"
+   },
+   {
+    "name_en": "Kimori Cider Factory",
+    "name_ja": null,
+    "category": "food",
+    "description_en": "Cidery in the apple park area offering tastings of alcoholic and non-alcoholic ciders from locally grown fruit.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/444/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/292/",
+   "https://japan-navi-journey.com/column/1213/",
+   "https://japan-navi-journey.com/column/444/",
+   "https://japan-navi-journey.com/column/656/",
+   "https://japan-navi-journey.com/column/889/"
+  ]
+ },
+ {
+  "destination": "Nagano",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Nagano",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/106/",
+   "https://japan-navi-journey.com/column/206/",
+   "https://japan-navi-journey.com/column/135/",
+   "https://japan-navi-journey.com/column/147/",
+   "https://japan-navi-journey.com/column/466/",
+   "https://japan-navi-journey.com/column/397/",
+   "https://japan-navi-journey.com/column/475/",
+   "https://japan-navi-journey.com/column/563/",
+   "https://japan-navi-journey.com/column/662/",
+   "https://japan-navi-journey.com/column/649/",
+   "https://japan-navi-journey.com/column/205/",
+   "https://japan-navi-journey.com/column/216/",
+   "https://japan-navi-journey.com/column/1090/",
+   "https://japan-navi-journey.com/column/293/",
+   "https://japan-navi-journey.com/column/195/",
+   "https://japan-navi-journey.com/column/200/",
+   "https://japan-navi-journey.com/column/374/",
+   "https://japan-navi-journey.com/column/151/",
+   "https://japan-navi-journey.com/column/143/"
+  ],
+  "summary_en": "Nagano is the site's most densely covered prefecture: a Nagano City travel guide, '5 Must-Do Activities', Zenko-ji & Togakushi, the Snow Monkey Park, family activities, top 5 onsen, shopping, Anrakuji Temple, Nagano Olympics sites, Matsushiro samurai district, Kamikochi and Hakuba guides, plus the Ina Valley (treated separately).",
+  "attractions": [
+   {
+    "name_en": "Zenko-ji Temple",
+    "name_ja": "善光寺",
+    "category": "temple",
+    "description_en": "Founded in the 7th century with over 1,400 years of history and said to hold Japan's first Buddhist statue; features the Okaidan Meguri pitch-dark passage where visitors search for the 'Key to Paradise'.",
+    "note": "also featured in /column/106 and /column/206 per search summary",
+    "source": "https://japan-navi-journey.com/column/135/"
+   },
+   {
+    "name_en": "Togakushi Shrine",
+    "name_ja": "戸隠神社",
+    "category": "shrine",
+    "description_en": "Mountain shrine complex north of Nagano City, paired with Zenko-ji in a dedicated article.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/135/"
+   },
+   {
+    "name_en": "Jigokudani Monkey Park (Snow Monkey Park)",
+    "name_ja": "地獄谷野猿公苑",
+    "category": "nature",
+    "description_en": "Wild Japanese macaques soaking in natural hot springs; dedicated 'Ultimate Guide' article.",
+    "note": "also a family pick in /column/466: short hike through snow-covered forest to see macaques bathing in winter",
+    "source": "https://japan-navi-journey.com/column/147/"
+   },
+   {
+    "name_en": "Matsushiro Castle Ruins / Matsushiro samurai district",
+    "name_ja": "松代城跡",
+    "category": "castle",
+    "description_en": "16th-century castle ruins and historic samurai district tied to the Sanada clan; especially scenic in cherry blossom season.",
+    "note": "castle ruins also mentioned in the Nagano City guide /column/106 per search summary",
+    "source": "https://japan-navi-journey.com/column/649/"
+   },
+   {
+    "name_en": "Kamikochi",
+    "name_ja": "上高地",
+    "category": "nature",
+    "description_en": "Alpine valley in the Northern Japan Alps with clear rivers, forests and scenic hiking trails; dedicated travel guide.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/205/"
+   },
+   {
+    "name_en": "Shiga Kogen Ski Resort",
+    "name_ja": "志賀高原",
+    "category": "nature",
+    "description_en": "One of Japan's largest ski resorts with over 50 interconnected runs across 19 ski areas.",
+    "note": "attribution to /column/206 inferred from search summary, not confirmed",
+    "source": "https://japan-navi-journey.com/column/206/"
+   },
+   {
+    "name_en": "Soba-making experience",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Hands-on buckwheat-noodle making; Nagano has over 400 years of soba cultivation.",
+    "note": "attribution to /column/206 inferred from search summary, not confirmed",
+    "source": "https://japan-navi-journey.com/column/206/"
+   },
+   {
+    "name_en": "Anrakuji Temple",
+    "name_ja": "安楽寺",
+    "category": "temple",
+    "description_en": "Described as the oldest Zen temple in Nagano (Bessho Onsen area, Ueda).",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/563/"
+   },
+   {
+    "name_en": "Hakuba",
+    "name_ja": "白馬",
+    "category": "nature",
+    "description_en": "Ski and mountain resort area; dedicated 'Skiing and Beyond' travel guide.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/216/"
+   },
+   {
+    "name_en": "Nagano Olympics sites",
+    "name_ja": null,
+    "category": "museum",
+    "description_en": "Must-visit venues of the 1998 Nagano Winter Olympics.",
+    "note": "venue names not captured in search snippet",
+    "source": "https://japan-navi-journey.com/column/662/"
+   },
+   {
+    "name_en": "Nagano shopping spots",
+    "name_ja": null,
+    "category": "district",
+    "description_en": "Guide to Nagano's best shopping spots.",
+    "note": "spot names not captured in search snippet",
+    "source": "https://japan-navi-journey.com/column/475/"
+   },
+   {
+    "name_en": "Nagano local dishes & specialties",
+    "name_ja": null,
+    "category": "food",
+    "description_en": "'Must-Try Dishes and Local Specialties in Nagano' article.",
+    "note": "dish names not captured in search snippet",
+    "source": "https://japan-navi-journey.com/column/293/"
+   },
+   {
+    "name_en": "Madarao Kogen Ski Resort",
+    "name_ja": "斑尾高原スキー場",
+    "category": "nature",
+    "description_en": "Ski resort between Nagano and Niigata with well-maintained beginner slopes, ideal for first-time skiers (from 'Top Ski Resorts in Nagano').",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/151/"
+   },
+   {
+    "name_en": "Nagano Shinkansen (Hokuriku Shinkansen) travel",
+    "name_ja": null,
+    "category": "transport_experience",
+    "description_en": "'Nagano Shinkansen Travel Guide' article on reaching Nagano by bullet train.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/143/"
+   },
+   {
+    "name_en": "Shibu Onsen",
+    "name_ja": "渋温泉",
+    "category": "onsen",
+    "description_en": "Nostalgic hot-spring town in Yamanouchi with stone-paved lanes, wooden ryokan and nine traditional public baths, each with its own mineral makeup and 100% natural spring water.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/397/"
+   },
+   {
+    "name_en": "Bessho Onsen",
+    "name_ja": "別所温泉",
+    "category": "onsen",
+    "description_en": "One of Nagano's oldest hot-spring areas (over 1,400 years) with alkaline 'skin-beautifying' water; historic Anrakuji Temple and Kitamuki Kannon nearby.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/397/"
+   },
+   {
+    "name_en": "Kitamuki Kannon",
+    "name_ja": "北向観音",
+    "category": "temple",
+    "description_en": "Historic temple in Bessho Onsen paired with Anrakuji in the onsen guide.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/397/"
+   },
+   {
+    "name_en": "Nozawa Onsen",
+    "name_ja": "野沢温泉",
+    "category": "onsen",
+    "description_en": "Village famous for 13 free public bathhouses run by locals; water is so hot locals add cold water before bathing.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/397/"
+   },
+   {
+    "name_en": "Kanbayashi Onsen",
+    "name_ja": "上林温泉",
+    "category": "onsen",
+    "description_en": "Hot spring near Jigokudani Monkey Park with mildly sulfuric, slightly cloudy soothing water.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/397/"
+   },
+   {
+    "name_en": "Shirahone Onsen",
+    "name_ja": "白骨温泉",
+    "category": "onsen",
+    "description_en": "Milky-white waters in a hidden mountain setting.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/397/"
+   },
+   {
+    "name_en": "Togakushi Ninja Village / Kids' Ninja Village",
+    "name_ja": "戸隠 チビッ子忍者村",
+    "category": "experience",
+    "description_en": "Shuriken throwing and outdoor ninja obstacle courses with ninja gear for children.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/466/"
+   },
+   {
+    "name_en": "Fruit picking in Nagano",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Year-round fruit picking: cherries in summer, apples and pears in autumn.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/466/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/106/",
+   "https://japan-navi-journey.com/column/206/",
+   "https://japan-navi-journey.com/column/135/",
+   "https://japan-navi-journey.com/column/147/",
+   "https://japan-navi-journey.com/column/466/",
+   "https://japan-navi-journey.com/column/397/",
+   "https://japan-navi-journey.com/column/475/",
+   "https://japan-navi-journey.com/column/563/",
+   "https://japan-navi-journey.com/column/662/",
+   "https://japan-navi-journey.com/column/649/",
+   "https://japan-navi-journey.com/column/205/",
+   "https://japan-navi-journey.com/column/216/"
+  ]
+ },
+ {
+  "destination": "Fukuoka",
+  "slug": null,
+  "region": "Kyushu",
+  "prefecture": "Fukuoka",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/789/",
+   "https://japan-navi-journey.com/column/876/",
+   "https://japan-navi-journey.com/column/651/",
+   "https://japan-navi-journey.com/column/756/",
+   "https://japan-navi-journey.com/column/766/"
+  ],
+  "summary_en": "Fukuoka coverage centres on a '2 Days in Fukuoka' itinerary article (Shikanoshima Island, Shikaumi Shrine, Hakata Old Town, Kushida Shrine, yatai stalls) plus dedicated pieces on Tochoji Temple's 10 m wooden Buddha, Ohori Park, the Fukuoka Castle Ruins and the Couple Stones of Sakurai Futamigaura in Itoshima. The site also sells a 6-day 'Discover Fukuoka' sample itinerary.",
+  "attractions": [
+   {
+    "name_en": "Shikanoshima Island",
+    "name_ja": "志賀島",
+    "category": "nature",
+    "description_en": "Island about 40 minutes from downtown Fukuoka surrounded by clear blue sea and low hills.",
+    "note": "attribution to /column/789 inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/789/"
+   },
+   {
+    "name_en": "Shikaumi Shrine",
+    "name_ja": "志賀海神社",
+    "category": "shrine",
+    "description_en": "Main shrine for sea deities on Shikanoshima, with views over the Genkai Sea.",
+    "note": "attribution to /column/789 inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/789/"
+   },
+   {
+    "name_en": "Sakurai Futamigaura (Couple Stones)",
+    "name_ja": "桜井二見ヶ浦",
+    "category": "viewpoint",
+    "description_en": "Itoshima beach famous for sunsets and the two 'Married Rocks' joined by a sacred shimenawa rope.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/766/"
+   },
+   {
+    "name_en": "Hakata Old Town",
+    "name_ja": "博多旧市街",
+    "category": "district",
+    "description_en": "One of Fukuoka's oldest districts with shrines, traditional shops and preserved buildings.",
+    "note": "attribution to /column/789 inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/789/"
+   },
+   {
+    "name_en": "Kushida Shrine",
+    "name_ja": "櫛田神社",
+    "category": "shrine",
+    "description_en": "One of the city's best-known shrines and main site of the Hakata Gion Yamakasa festival.",
+    "note": "attribution to /column/789 inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/789/"
+   },
+   {
+    "name_en": "Tochoji Temple",
+    "name_ja": "東長寺",
+    "category": "temple",
+    "description_en": "Short walk from Hakata Station; houses the city's largest seated wooden Buddha, over 10 metres tall.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/876/"
+   },
+   {
+    "name_en": "Ohori Park",
+    "name_ja": "大濠公園",
+    "category": "garden",
+    "description_en": "Central lakeside park popular with locals and tourists, with scenic walking trails.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/651/"
+   },
+   {
+    "name_en": "Fukuoka Castle Ruins (Maizuru Park)",
+    "name_ja": "福岡城跡",
+    "category": "castle",
+    "description_en": "Remaining stone walls and viewpoints with sweeping panoramas of the city.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/756/"
+   },
+   {
+    "name_en": "Yatai food stalls (Nakasu)",
+    "name_ja": "屋台",
+    "category": "food",
+    "description_en": "Open-air evening food stalls serving ramen, yakitori and oden, especially along the Nakasu river.",
+    "note": "attribution to /column/789 inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/789/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/789/",
+   "https://japan-navi-journey.com/column/876/",
+   "https://japan-navi-journey.com/column/651/",
+   "https://japan-navi-journey.com/column/756/",
+   "https://japan-navi-journey.com/column/766/",
+   "https://japan-navi-journey.com/itinerary/discover-fukuoka/"
+  ]
+ },
+ {
+  "destination": "Kamakura",
+  "slug": null,
+  "region": "Kanto",
+  "prefecture": "Kanagawa",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/924/"
+  ],
+  "summary_en": "A single day-trip article covers Kamakura, the political centre of Japan in the Kamakura period (1185–1333), highlighting Tsurugaoka Hachimangu, the Great Buddha of Kotoku-in, Hasedera, Engakuji, Hokokuji's bamboo grove and Komachi-dori shopping street.",
+  "attractions": [
+   {
+    "name_en": "Tsurugaoka Hachimangu",
+    "name_ja": "鶴岡八幡宮",
+    "category": "shrine",
+    "description_en": "Shrine dedicated to Hachiman, closely linked to the Minamoto clan and the samurai era.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   },
+   {
+    "name_en": "Kotoku-in (Great Buddha of Kamakura)",
+    "name_ja": "高徳院（鎌倉大仏）",
+    "category": "temple",
+    "description_en": "Bronze Great Buddha 13.35 m tall and about 121 tonnes, Japan's second tallest bronze Buddha.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   },
+   {
+    "name_en": "Hasedera Temple",
+    "name_ja": "長谷寺",
+    "category": "temple",
+    "description_en": "Called the 'Temple of Flowers' for its hillside plantings that change with the seasons.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   },
+   {
+    "name_en": "Engakuji Temple",
+    "name_ja": "円覚寺",
+    "category": "temple",
+    "description_en": "One of the main Zen temples of Kamakura.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   },
+   {
+    "name_en": "Hokokuji Temple (Bamboo Temple)",
+    "name_ja": "報国寺",
+    "category": "temple",
+    "description_en": "Known for its famous bamboo grove.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   },
+   {
+    "name_en": "Komachi-dori Street",
+    "name_ja": "小町通り",
+    "category": "district",
+    "description_en": "Popular shopping street near Kamakura Station for local food and souvenirs.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/924/"
+  ]
+ },
+ {
+  "destination": "Shimokita Peninsula / Oma",
+  "slug": null,
+  "region": "Tohoku",
+  "prefecture": "Aomori",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/699/",
+   "https://japan-navi-journey.com/column/810/",
+   "https://japan-navi-journey.com/column/829/",
+   "https://japan-navi-journey.com/column/182/",
+   "https://japan-navi-journey.com/column/821/"
+  ],
+  "summary_en": "The Shimokita Peninsula at the northernmost tip of Honshu is covered through Oma tuna articles (Oma bluefin 'black diamonds', a June–October tuna-fishing experience), the Aomori 2025 guide (Osorezan, Yagen Valley, coastal towns) and the 5-spots article (Osorezan, Hotokegaura). The site's 5-day Premium Tohoku Gourmet Tour is built around Oma tuna and Shimokita.",
+  "attractions": [
+   {
+    "name_en": "Oma Town & harbour",
+    "name_ja": "大間町",
+    "category": "district",
+    "description_en": "Town at the northernmost tip of Honshu famed for bluefin tuna ('black diamonds') fattened by the meeting currents of the Tsugaru Strait; fishing boats come and go in the harbour.",
+    "note": "attribution between /column/699 and /column/810 inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/699/"
+   },
+   {
+    "name_en": "Oma Tuna Monument (Cape Oma)",
+    "name_ja": "大間崎 本州最北端の碑",
+    "category": "viewpoint",
+    "description_en": "Well-known tuna monument marking the northern tip of Honshu; Mount Hakodate is visible across the strait on clear days.",
+    "note": "attribution inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/810/"
+   },
+   {
+    "name_en": "Oma Tuna Fishing Experience",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Join a tuna-fishing outing from Oma; best season June–October when seas are calmer.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/810/"
+   },
+   {
+    "name_en": "Oma tuna (bluefin) dining",
+    "name_ja": "大間まぐろ",
+    "category": "food",
+    "description_en": "'The Ultimate Bite for Seafood Lovers in Tohoku' – eating Oma bluefin tuna.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/699/"
+   },
+   {
+    "name_en": "Yagen Valley",
+    "name_ja": "薬研渓流",
+    "category": "nature",
+    "description_en": "Calm valley deep in the peninsula with dense forests, clear rivers and gentle walking trails.",
+    "note": "attribution inferred from search summary",
+    "source": "https://japan-navi-journey.com/column/829/"
+   },
+   {
+    "name_en": "Taijima Island",
+    "name_ja": "弁天島",
+    "category": "nature",
+    "description_en": "Small island off Oma: short walk around the island, a shrine and views of the surrounding waters.",
+    "note": "attribution inferred; Japanese name (Bentenjima) is the common name of the island off Oma – verify",
+    "source": "https://japan-navi-journey.com/column/829/"
+   },
+   {
+    "name_en": "Hotokegaura",
+    "name_ja": "仏ヶ浦",
+    "category": "nature",
+    "description_en": "Coastline where towering pale-green rock formations rise like sculptures said to resemble Buddhist statues.",
+    "note": "also /column/829",
+    "source": "https://japan-navi-journey.com/column/182/"
+   },
+   {
+    "name_en": "Mount Osore (Osorezan)",
+    "name_ja": "恐山",
+    "category": "temple",
+    "description_en": "Sacred volcanic mountain-temple on the peninsula.",
+    "note": "dedicated day-trip article; also in /column/182 and /column/829",
+    "source": "https://japan-navi-journey.com/column/821/"
+   },
+   {
+    "name_en": "Oku-Yagen Onsen (Kappa-no-Yu)",
+    "name_ja": "奥薬研温泉 かっぱの湯",
+    "category": "onsen",
+    "description_en": "Free riverside open-air baths 2 km upstream of Yagen Onsen on the Ohata River.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/674/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/699/",
+   "https://japan-navi-journey.com/column/810/",
+   "https://japan-navi-journey.com/column/829/",
+   "https://japan-navi-journey.com/column/182/",
+   "https://japan-navi-journey.com/itinerary/premium-tohoku-gourmet-tour/"
+  ]
+ },
+ {
+  "destination": "Ina Valley",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Nagano",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/1090/"
+  ],
+  "summary_en": "'Explore the Ina Valley: A Different Side of Nagano' presents southern Nagano's valley between the Central and Southern Alps: Tenryu River cruising through Tenryukyo Gorge, the Komagatake Ropeway to Senjojiki Cirque, winter snowshoeing, soba-making and local wine/sake tasting, Takato Castle Ruins cherry blossoms, the hillside village of Shimoguri ('Tyrol of Japan') and festivals preserved for over 300 years.",
+  "attractions": [
+   {
+    "name_en": "Tenryu River cruise (Tenryukyo Gorge)",
+    "name_ja": "天竜川 天竜峡",
+    "category": "transport_experience",
+    "description_en": "About 50-minute boat ride through Tenryukyo Gorge, a nationally designated scenic spot.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1090/"
+   },
+   {
+    "name_en": "Komagatake Ropeway & Senjojiki Cirque",
+    "name_ja": "駒ヶ岳ロープウェイ・千畳敷カール",
+    "category": "nature",
+    "description_en": "Ropeway from Shirabidaira Station climbs about 950 m in roughly 7.5 minutes toward the Central Alps; a gentle 45-minute loop trail circles Senjojiki Cirque.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1090/"
+   },
+   {
+    "name_en": "Snowshoeing in the Central Alps",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Winter snowshoe walks across the snow-covered alpine landscape.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1090/"
+   },
+   {
+    "name_en": "Soba-making and local wine & sake tasting",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Hands-on soba-making plus tastings of regional wine and sake.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1090/"
+   },
+   {
+    "name_en": "Takato Castle Ruins Park",
+    "name_ja": "高遠城址公園",
+    "category": "castle",
+    "description_en": "Widely regarded as one of Japan's top cherry blossom spots.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1090/"
+   },
+   {
+    "name_en": "Shimoguri village",
+    "name_ja": "下栗の里",
+    "category": "viewpoint",
+    "description_en": "Steep hillside village often called the 'Tyrol of Japan'.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/1090/"
+   },
+   {
+    "name_en": "Traditional festivals of the Ina Valley",
+    "name_ja": null,
+    "category": "festival",
+    "description_en": "Local festivals preserved for over 300 years.",
+    "note": "festival names not captured in search snippet",
+    "source": "https://japan-navi-journey.com/column/1090/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/1090/",
+   "https://japan-navi-journey.com/itinerary/nagano-premium-retreat/"
+  ]
+ },
+ {
+  "destination": "Komoro / Karuizawa",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Nagano",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/200/",
+   "https://japan-navi-journey.com/column/861/",
+   "https://japan-navi-journey.com/column/komoro-castle-nagano-guide/"
+  ],
+  "summary_en": "Eastern Nagano: the Karuizawa Travel Guide describes a mountain retreat at the foot of Mount Asama (Shiraito Falls, Kumoba Pond, Prince Shopping Plaza, bakeries and Shinshu beef, Prince Hotel ski resort), and a Komoro Castle article covers one of Japan's Top 100 castles preserved as Kaikoen Park.",
+  "attractions": [
+   {
+    "name_en": "Shiraito Falls",
+    "name_ja": "白糸の滝",
+    "category": "nature",
+    "description_en": "Curtain-like waterfall surrounded by lush greenery.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/200/"
+   },
+   {
+    "name_en": "Kumoba Pond (Swan Lake)",
+    "name_ja": "雲場池",
+    "category": "nature",
+    "description_en": "Pond for leisurely walks, especially in autumn colour.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/200/"
+   },
+   {
+    "name_en": "Karuizawa Prince Shopping Plaza",
+    "name_ja": "軽井沢・プリンスショッピングプラザ",
+    "category": "district",
+    "description_en": "Large outlet mall with luxury brands, boutiques and specialty stores against a mountain backdrop.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/200/"
+   },
+   {
+    "name_en": "Karuizawa bakeries, cafes & Shinshu cuisine",
+    "name_ja": null,
+    "category": "food",
+    "description_en": "European-style bakeries and coffee shops, handmade jams, dairy, Shinshu beef, soba and wild mountain vegetables.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/200/"
+   },
+   {
+    "name_en": "Karuizawa Prince Hotel Ski Resort",
+    "name_ja": "軽井沢プリンスホテルスキー場",
+    "category": "nature",
+    "description_en": "Ski/snowboard resort with gentle beginner slopes and more challenging runs.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/200/"
+   },
+   {
+    "name_en": "Komoro Castle Ruins (Kaikoen Park)",
+    "name_ja": "小諸城址 懐古園",
+    "category": "castle",
+    "description_en": "One of Japan's Top 100 Castles, unusual for sitting below the town; preserved as Kaikoen Park with cherry blossoms, autumn foliage, a small zoo and amusement area.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/861/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/200/",
+   "https://japan-navi-journey.com/column/861/",
+   "https://japan-navi-journey.com/column/komoro-castle-nagano-guide/"
+  ]
+ },
+ {
+  "destination": "Matsumoto",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Nagano",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/195/"
+  ],
+  "summary_en": "The Matsumoto Castle Travel Guide covers the castle keep, gardens and seasonal festivals (cherry blossom in April, Taiko Drum Festival in July, Ice Carving Festival in January), plus Nakamachi Street's kura storehouses, the Matsumoto City Museum of Art (Yayoi Kusama) and Fukashi Shrine.",
+  "attractions": [
+   {
+    "name_en": "Matsumoto Castle (keep / Tenshu)",
+    "name_ja": "松本城",
+    "category": "castle",
+    "description_en": "Preserved wooden interiors, historic weapon displays and panoramic views from the top floor; castle reflected in the moat, best in spring and autumn.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/195/"
+   },
+   {
+    "name_en": "Matsumoto Castle festivals",
+    "name_ja": null,
+    "category": "festival",
+    "description_en": "Spring Cherry Blossom Festival (April), Taiko Drum Festival (July) and Ice Carving Festival (January) held at the castle.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/195/"
+   },
+   {
+    "name_en": "Nakamachi Street",
+    "name_ja": "中町通り",
+    "category": "district",
+    "description_en": "Historic shopping street of kura-zukuri storehouses with shops, cafes, sake breweries and handicrafts.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/195/"
+   },
+   {
+    "name_en": "Matsumoto City Museum of Art",
+    "name_ja": "松本市美術館",
+    "category": "museum",
+    "description_en": "Celebrates Matsumoto-born artist Yayoi Kusama's polka-dot works alongside contemporary exhibits.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/195/"
+   },
+   {
+    "name_en": "Fukashi Shrine",
+    "name_ja": "深志神社",
+    "category": "shrine",
+    "description_en": "Tranquil shrine a short walk from the castle.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/195/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/195/",
+   "https://japan-navi-journey.com/itinerary/nagano-premium-retreat/"
+  ]
+ },
+ {
+  "destination": "Hiraizumi (Iwate)",
+  "slug": null,
+  "region": "Tohoku",
+  "prefecture": "Iwate",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/749/"
+  ],
+  "summary_en": "Iwate coverage found so far is a single article on Motsuji Temple in Hiraizumi, a UNESCO World Heritage site famed for its Pure Land garden around Oizumi-ga-ike Pond, with the Hondo, Cultural Assets Repository and Kaizando.",
+  "attractions": [
+   {
+    "name_en": "Motsuji Temple",
+    "name_ja": "毛越寺",
+    "category": "temple",
+    "description_en": "UNESCO World Heritage temple famous for its Pure Land garden, largely unchanged for centuries.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/749/"
+   },
+   {
+    "name_en": "Oizumi-ga-ike Pond (Motsuji Pure Land Garden)",
+    "name_ja": "大泉が池",
+    "category": "garden",
+    "description_en": "Wide mirror-like pond with small islands and carefully arranged stones, the highlight of the garden.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/749/"
+   },
+   {
+    "name_en": "Motsuji Hondo, Cultural Assets Repository & Kaizando",
+    "name_ja": null,
+    "category": "museum",
+    "description_en": "Main hall, artifact repository and the Kaizando hall honouring Tendai leaders and the Fujiwara lords of Hiraizumi.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/749/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/749/"
+  ]
+ },
+ {
+  "destination": "Sendai (Miyagi)",
+  "slug": null,
+  "region": "Tohoku",
+  "prefecture": "Miyagi",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/704/"
+  ],
+  "summary_en": "Miyagi coverage found is an article on Aoba (Sendai) Castle, the hilltop stronghold of Date Masamune, with its Honmaru stone walls, museum/VR exhibition hall and seasonal views; the Premium Tohoku Gourmet Tour itinerary also includes Sendai dining at Akiu Winery and the Shozan restaurant.",
+  "attractions": [
+   {
+    "name_en": "Aoba Castle (Sendai Castle) ruins",
+    "name_ja": "青葉城（仙台城跡）",
+    "category": "castle",
+    "description_en": "Hilltop castle site of warlord Date Masamune overlooking Sendai; Honmaru stone walls including a roughly 15 m north wall; seasonal cherry blossoms, foliage and winter views.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/704/"
+   },
+   {
+    "name_en": "Aoba Castle Museum and Exhibition Hall",
+    "name_ja": "青葉城資料展示館",
+    "category": "museum",
+    "description_en": "Historical artifacts, models of the original castle and VR headsets that recreate the castle grounds.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/704/"
+   },
+   {
+    "name_en": "Akiu Winery",
+    "name_ja": "秋保ワイナリー",
+    "category": "food",
+    "description_en": "Winery in the Akiu area of Sendai visited for dining on the Premium Tohoku Gourmet Tour.",
+    "note": "from itinerary page, not a column article",
+    "source": "https://japan-navi-journey.com/itinerary/premium-tohoku-gourmet-tour/"
+   },
+   {
+    "name_en": "Shozan restaurant",
+    "name_ja": null,
+    "category": "food",
+    "description_en": "Renowned Sendai restaurant included in the Premium Tohoku Gourmet Tour.",
+    "note": "from itinerary page, not a column article; exact venue not verified",
+    "source": "https://japan-navi-journey.com/itinerary/premium-tohoku-gourmet-tour/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/704/",
+   "https://japan-navi-journey.com/itinerary/premium-tohoku-gourmet-tour/"
+  ]
+ },
+ {
+  "destination": "Yamagata / Zao",
+  "slug": null,
+  "region": "Tohoku",
+  "prefecture": "Yamagata",
+  "url": null,
+  "blog_urls": [],
+  "summary_en": "No column article about Yamagata or Zao was found via site-restricted search. The only related reference is the 10-day 'Tokyo & Tohoku Snow Monsters and Hidden Onsen' itinerary title surfaced in the Tokyo search (slug unknown).",
+  "attractions": [],
+  "sources": [],
+  "note": "NOT FOUND – two searches ('Yamagata Zao' and the 10-day 'Tokyo & Tohoku Snow Monsters and Hidden Onsen' itinerary) returned no Yamagata page; the 10-day itinerary exists but its slug was not returned."
+ },
+ {
+  "destination": "Niigata / Sado Island",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Niigata",
+  "url": "https://japan-navi-journey.com/itinerary/sado-island/",
+  "blog_urls": [],
+  "summary_en": "No dedicated Niigata column article was found; Niigata appears via the 4-day 'Explore Sado' private tour itinerary (ferry about 2 hours from Niigata Port or Naoetsu Port; access via Niigata Station, Joetsu-Myoko Station or Niigata Airport; stays at traditional inns) and the Madarao Kogen ski resort mentioned in a Nagano ski article. The Sado tour page highlights the Sado Gold Mine and the Onogame/Futatsugame coast, with 3 nights at traditional inns or seaside resorts, most meals, a private taxi with English-speaking driver and a full-time licensed English-speaking guide.",
+  "attractions": [
+   {
+    "name_en": "Sado Island",
+    "name_ja": "佐渡島",
+    "category": "nature",
+    "description_en": "'Pristine hidden gem' explored on a 4-day private tour covering its most historic and scenic spots; reached by ferry (~2 h) from Niigata Port or Naoetsu Port.",
+    "note": "from itinerary page, not a column article; individual Sado sites not captured",
+    "source": "https://japan-navi-journey.com/itinerary/sado-island/"
+   },
+   {
+    "name_en": "Madarao Kogen Ski Resort",
+    "name_ja": "斑尾高原スキー場",
+    "category": "nature",
+    "description_en": "Ski resort straddling the Nagano–Niigata border with beginner-friendly slopes.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/151/"
+   },
+   {
+    "name_en": "Sado Gold Mine",
+    "name_ja": "佐渡金山",
+    "category": "museum",
+    "description_en": "Historic gold mine described on the itinerary page as a World Heritage candidate; centrepiece of the 4-day Sado tour.",
+    "note": "from itinerary page (not a column); the page's 'candidate' wording is recorded as-is",
+    "source": "https://japan-navi-journey.com/itinerary/sado-island/"
+   },
+   {
+    "name_en": "Onogame & Futatsugame",
+    "name_ja": "大野亀・二ツ亀",
+    "category": "viewpoint",
+    "description_en": "Scenic coastal spots on northern Sado visited in the afternoon of the tour (page describes sea and rice-terrace scenery).",
+    "note": "from itinerary page (not a column)",
+    "source": "https://japan-navi-journey.com/itinerary/sado-island/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/itinerary/sado-island/",
+   "https://japan-navi-journey.com/column/151/"
+  ],
+  "note": "Column article not found; itinerary-based entry."
+ },
+ {
+  "destination": "Tochigi / Nikko",
+  "slug": null,
+  "region": "Kanto",
+  "prefecture": "Tochigi",
+  "url": null,
+  "blog_urls": [],
+  "summary_en": "No Nikko/Tochigi column article was found. The search surfaced only the title of a 4-day itinerary, 'Tochigi in Four Days: World Heritage, Hot Springs & Cultural Charms' (slug not returned).",
+  "attractions": [],
+  "sources": [
+   "https://japan-navi-journey.com/itinerary/"
+  ],
+  "note": "NOT FOUND as a column article; a 4-day 'Tochigi in Four Days: World Heritage, Hot Springs & Cultural Charms' itinerary is listed on /itinerary/ but its URL/day-by-day were not returned by two searches."
+ },
+ {
+  "destination": "Tokyo",
+  "slug": null,
+  "region": "Kanto",
+  "prefecture": "Tokyo",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/889/"
+  ],
+  "summary_en": "No dedicated Tokyo 'things to do' column exists on the site; Tokyo appears in the 2026 cherry blossom guide (Ueno Park, Meguro River), as the starting point of the 10-day 'Tokyo & Tohoku Snow Monsters and Hidden Onsen' itinerary, and as the base for the Kamakura day-trip article.",
+  "attractions": [
+   {
+    "name_en": "Ueno Park (hanami)",
+    "name_ja": "上野公園",
+    "category": "garden",
+    "description_en": "One of Tokyo's best-known hanami spots with over 1,000 cherry trees.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/889/"
+   },
+   {
+    "name_en": "Meguro River cherry blossoms",
+    "name_ja": "目黒川",
+    "category": "viewpoint",
+    "description_en": "Romantic stretch of cherry trees arching over the river.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/889/"
+   },
+   {
+    "name_en": "Kamakura day trip from Tokyo",
+    "name_ja": "鎌倉",
+    "category": "district",
+    "description_en": "Coastal town about an hour from Tokyo, easy to explore in a day.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/924/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/889/",
+   "https://japan-navi-journey.com/column/924/"
+  ],
+  "note": "No Tokyo-specific column found; entries come from the cherry-blossom and Kamakura articles."
+ },
+ {
+  "destination": "Osaka / Sakai",
+  "slug": null,
+  "region": "Kansai",
+  "prefecture": "Osaka",
+  "url": "https://japan-navi-journey.com/itinerary/osaka-5days/",
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/518/",
+   "https://japan-navi-journey.com/column/522/",
+   "https://japan-navi-journey.com/column/600/",
+   "https://japan-navi-journey.com/column/572/",
+   "https://japan-navi-journey.com/column/517/",
+   "https://japan-navi-journey.com/column/644/",
+   "https://japan-navi-journey.com/column/589/",
+   "https://japan-navi-journey.com/column/567/",
+   "https://japan-navi-journey.com/column/291/",
+   "https://japan-navi-journey.com/column/533/"
+  ],
+  "summary_en": "Osaka is covered by articles on Osaka Castle, Umeda Sky Building, Shitennoji, Sumiyoshi Taisha, a must-see landmarks roundup, Nishikinohama Beach Park, Expo 2025 kid-friendly activities and Osaka transport, while Sakai gets craft-experience pieces: the De Sakai blacksmith workshop and a wagashi workshop at Maruichi Kashiho. The 5-day 'Discover Osaka' itinerary adds a tea ceremony at the Sakai Plaza of Rikyu and Akiko, kofun burial mounds and teamLab at Nagai Botanical Garden.",
+  "attractions": [
+   {
+    "name_en": "De Sakai blacksmith experience",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Workshop led by French artisan Eric Chevallier where visitors watch or try Japanese blade-making, forging items such as incense holders and candle stands.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/518/"
+   },
+   {
+    "name_en": "Maruichi Kashiho wagashi workshop",
+    "name_ja": "丸市菓子舗",
+    "category": "experience",
+    "description_en": "Sakai wagashi shop of over 120 years offering hands-on seasonal sweet-making with house-made bean paste.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/522/"
+   },
+   {
+    "name_en": "Sakai Plaza of Rikyu and Akiko (tea ceremony)",
+    "name_ja": "さかい利晶の杜",
+    "category": "experience",
+    "description_en": "Traditional tea ceremony in a Ryurei-style tea room, pairing matcha with wagashi.",
+    "note": "attributed to the Osaka 5-day itinerary page per search summary",
+    "source": "https://japan-navi-journey.com/itinerary/osaka-5days/"
+   },
+   {
+    "name_en": "Mozu kofun burial mounds (Sakai)",
+    "name_ja": "百舌鳥古墳群",
+    "category": "museum",
+    "description_en": "Majestic kofun burial mounds in Sakai.",
+    "note": "name 'Mozu' is the standard name of the Sakai kofun group; snippet only says 'kofun burial mounds'",
+    "source": "https://japan-navi-journey.com/itinerary/osaka-5days/"
+   },
+   {
+    "name_en": "Nagai Botanical Garden – teamLab",
+    "name_ja": "長居植物園 teamLab",
+    "category": "garden",
+    "description_en": "teamLab digital-art installations among the plants of Nagai Botanical Garden.",
+    "note": "attributed to the Osaka 5-day itinerary page per search summary",
+    "source": "https://japan-navi-journey.com/itinerary/osaka-5days/"
+   },
+   {
+    "name_en": "Osaka Castle",
+    "name_ja": "大阪城",
+    "category": "castle",
+    "description_en": "Built by Toyotomi Hideyoshi in the 16th century; the reconstructed main tower houses a museum on the castle's role in Japan's unification.",
+    "note": "also in landmarks roundup /column/572",
+    "source": "https://japan-navi-journey.com/column/517/"
+   },
+   {
+    "name_en": "Umeda Sky Building",
+    "name_ja": "梅田スカイビル",
+    "category": "viewpoint",
+    "description_en": "Twin towers joined by a sky bridge; 360-degree views from the Floating Garden Observatory.",
+    "note": "also in /column/572",
+    "source": "https://japan-navi-journey.com/column/644/"
+   },
+   {
+    "name_en": "Shitennoji Temple",
+    "name_ja": "四天王寺",
+    "category": "temple",
+    "description_en": "Founded in 593 by Prince Shotoku; Japan's oldest state-established Buddhist temple.",
+    "note": "also in /column/572",
+    "source": "https://japan-navi-journey.com/column/589/"
+   },
+   {
+    "name_en": "Sumiyoshi Taisha Shrine",
+    "name_ja": "住吉大社",
+    "category": "shrine",
+    "description_en": "Shrine dating to the 3rd century with unique Sumiyoshi-zukuri architecture, a purely Japanese style.",
+    "note": "also in /column/572",
+    "source": "https://japan-navi-journey.com/column/567/"
+   },
+   {
+    "name_en": "Nishikinohama Beach Park",
+    "name_ja": "二色の浜公園",
+    "category": "nature",
+    "description_en": "Beach park in southern Osaka (Kaizuka); dedicated guide.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/600/"
+   },
+   {
+    "name_en": "Expo 2025 Osaka kid-friendly activities",
+    "name_ja": "大阪・関西万博",
+    "category": "experience",
+    "description_en": "Article on the best kid-friendly activities at Expo 2025 (event ended Oct 2025).",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/291/"
+   },
+   {
+    "name_en": "Osaka transport guide",
+    "name_ja": null,
+    "category": "transport_experience",
+    "description_en": "Getting around Osaka article (known from task brief).",
+    "note": "content not captured by search",
+    "source": "https://japan-navi-journey.com/column/533/"
+   },
+   {
+    "name_en": "Tempozan Ferris Wheel",
+    "name_ja": "天保山大観覧車",
+    "category": "viewpoint",
+    "description_en": "112.5 m Ferris wheel over Osaka Bay, one of Japan's largest.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/572/"
+   },
+   {
+    "name_en": "Tsutenkaku Tower (Shinsekai)",
+    "name_ja": "通天閣",
+    "category": "viewpoint",
+    "description_en": "Retro Shinsekai district tower nicknamed the 'Eiffel Tower of Osaka'.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/572/"
+   },
+   {
+    "name_en": "Abeno Harukas",
+    "name_ja": "あべのハルカス",
+    "category": "viewpoint",
+    "description_en": "300 m skyscraper described as Japan's tallest.",
+    "note": "page's 'tallest' claim recorded as-is (Azabudai Hills Mori JP Tower has since surpassed it)",
+    "source": "https://japan-navi-journey.com/column/572/"
+   },
+   {
+    "name_en": "Hozenji Yokocho",
+    "name_ja": "法善寺横丁",
+    "category": "district",
+    "description_en": "Lantern-lit alley near Dotonbori leading to Hozenji Temple.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/572/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/518/",
+   "https://japan-navi-journey.com/column/522/",
+   "https://japan-navi-journey.com/column/600/",
+   "https://japan-navi-journey.com/column/572/",
+   "https://japan-navi-journey.com/column/517/",
+   "https://japan-navi-journey.com/column/644/",
+   "https://japan-navi-journey.com/column/589/",
+   "https://japan-navi-journey.com/column/567/",
+   "https://japan-navi-journey.com/column/291/",
+   "https://japan-navi-journey.com/itinerary/osaka-5days/"
+  ]
+ },
+ {
+  "destination": "Kyoto",
+  "slug": null,
+  "region": "Kansai",
+  "prefecture": "Kyoto",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/775/",
+   "https://japan-navi-journey.com/column/784/",
+   "https://japan-navi-journey.com/column/889/"
+  ],
+  "summary_en": "Kyoto coverage consists of a Kurama mountain-retreat article (hikes, temples, hot springs, Fire Festival), a Kyoto Tower guide, and cherry-blossom entries for the Philosopher's Path and Maruyama Park in the 2026 sakura guide.",
+  "attractions": [
+   {
+    "name_en": "Kurama",
+    "name_ja": "鞍馬",
+    "category": "nature",
+    "description_en": "Mountain retreat north of Kyoto with hiking trails, temples, hot springs and the famous Kurama Fire Festival; day trip or overnight.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/775/"
+   },
+   {
+    "name_en": "Kyoto Tower",
+    "name_ja": "京都タワー",
+    "category": "viewpoint",
+    "description_en": "131 m tower across from Kyoto Station with panoramic views over temples to the surrounding mountains.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/784/"
+   },
+   {
+    "name_en": "Philosopher's Path",
+    "name_ja": "哲学の道",
+    "category": "viewpoint",
+    "description_en": "Roughly 2 km canal-side walkway lined with cherry trees, about 30 minutes at a leisurely pace.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/889/"
+   },
+   {
+    "name_en": "Maruyama Park",
+    "name_ja": "円山公園",
+    "category": "garden",
+    "description_en": "Hanami park known for its large weeping cherry tree and food stalls at peak bloom.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/889/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/775/",
+   "https://japan-navi-journey.com/column/784/",
+   "https://japan-navi-journey.com/column/889/"
+  ]
+ },
+ {
+  "destination": "Aichi / Chita Peninsula (Nagoya)",
+  "slug": null,
+  "region": "Chubu (Tokai)",
+  "prefecture": "Aichi",
+  "url": "https://japan-navi-journey.com/itinerary/aichi-nagoya-chita/",
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/867/"
+  ],
+  "summary_en": "'Discovering the Charm of the Chita Peninsula: 6 Places to Explore Near Nagoya' pairs the peninsula south of Nagoya (Miwa Shrine, Noma Lighthouse) with city and regional highlights: Nagoya Castle, Osu Shopping Street, Ghibli Park and Meiji Village in Inuyama. The site also sells a 4-day 'Nagoya Chita Peninsula' luxury itinerary.",
+  "attractions": [
+   {
+    "name_en": "Miwa Shrine (Chita)",
+    "name_ja": null,
+    "category": "shrine",
+    "description_en": "One of the most historically significant shrines in the Chita area, dedicated to Omononushi (safety, prosperity, protection).",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/867/"
+   },
+   {
+    "name_en": "Noma Lighthouse",
+    "name_ja": "野間埼灯台",
+    "category": "viewpoint",
+    "description_en": "Oldest lighthouse in Aichi (first lit 1921), 18 m tall, white silhouette over Mikawa Bay in Mihama.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/867/"
+   },
+   {
+    "name_en": "Nagoya Castle",
+    "name_ja": "名古屋城",
+    "category": "castle",
+    "description_en": "Built in the early 17th century by Tokugawa Ieyasu as a key Edo-period defensive base.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/867/"
+   },
+   {
+    "name_en": "Osu Shopping Street & Osu Kannon",
+    "name_ja": "大須商店街・大須観音",
+    "category": "district",
+    "description_en": "Traditional shopping street with vintage clothing, souvenirs and street snacks; home to Osu Kannon Temple.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/867/"
+   },
+   {
+    "name_en": "Ghibli Park",
+    "name_ja": "ジブリパーク",
+    "category": "experience",
+    "description_en": "Within Expo 2005 Aichi Commemorative Park; recreates worlds from Totoro, Spirited Away and Howl's Moving Castle.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/867/"
+   },
+   {
+    "name_en": "Meiji Village (Meiji-mura)",
+    "name_ja": "博物館明治村",
+    "category": "museum",
+    "description_en": "Open-air museum in Inuyama preserving more than 60 relocated, restored Meiji-era (1868–1912) buildings.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/867/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/867/",
+   "https://japan-navi-journey.com/itinerary/aichi-nagoya-chita/"
+  ]
+ },
+ {
+  "destination": "Hokkaido / Hakodate",
+  "slug": null,
+  "region": "Hokkaido",
+  "prefecture": "Hokkaido",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/889/"
+  ],
+  "summary_en": "No Hokkaido column article was found; the only Hokkaido reference is Goryokaku Park in Hakodate, listed in the 2026 cherry blossom guide. (Oma articles note Mount Hakodate is visible across the Tsugaru Strait.)",
+  "attractions": [
+   {
+    "name_en": "Goryokaku Park",
+    "name_ja": "五稜郭公園",
+    "category": "garden",
+    "description_en": "National historic site in Hakodate: star-shaped fortress and moat surrounded by nearly 1,500 cherry trees, mostly Somei Yoshino.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/889/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/889/"
+  ],
+  "note": "NOT FOUND as a dedicated column after two searches ('Hokkaido Hakodate' and 'Sapporo Niseko Furano Otaru'); only Goryokaku Park appears, in the sakura guide."
+ },
+ {
+  "destination": "Suwa",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Nagano",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/374/"
+  ],
+  "summary_en": "'6 Hidden Gems in Suwa' covers the Lake Suwa area: Suwa Taisha, Tateishi Park ('Your Name' viewpoint), the 1928 Katakurakan bathhouse, the five Suwa Gokura sake breweries, Takashima Castle and Yokoya Gorge.",
+  "attractions": [
+   {
+    "name_en": "Suwa Taisha",
+    "name_ja": "諏訪大社",
+    "category": "shrine",
+    "description_en": "One of Japan's oldest and most esteemed Shinto shrines, head shrine of over 10,000 Suwa shrines nationwide.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/374/"
+   },
+   {
+    "name_en": "Tateishi Park",
+    "name_ja": "立石公園",
+    "category": "viewpoint",
+    "description_en": "Hillside park with panoramic views over Lake Suwa; said to be a model for a backdrop in the film 'Your Name'.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/374/"
+   },
+   {
+    "name_en": "Katakurakan",
+    "name_ja": "片倉館",
+    "category": "onsen",
+    "description_en": "Historic public bathhouse built in 1928, originally a guesthouse for silk magnates and dignitaries.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/374/"
+   },
+   {
+    "name_en": "Suwa Gokura sake breweries",
+    "name_ja": "諏訪五蔵",
+    "category": "food",
+    "description_en": "Five historic breweries clustered in Kamisuwa: Masumi, Reijin, Honkin, Maihime and Yokobue.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/374/"
+   },
+   {
+    "name_en": "Takashima Castle",
+    "name_ja": "高島城",
+    "category": "castle",
+    "description_en": "'Floating Castle of Suwa', reconstructed in 1970; keep houses a small museum of local samurai history.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/374/"
+   },
+   {
+    "name_en": "Yokoya Gorge",
+    "name_ja": "横谷渓谷",
+    "category": "nature",
+    "description_en": "Waterfalls, mossy rocks and a mostly flat, family-friendly 6 km trail along the Shibu River.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/374/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/374/"
+  ]
+ },
+ {
+  "destination": "Oita (Yufuin / Beppu)",
+  "slug": null,
+  "region": "Kyushu",
+  "prefecture": "Oita",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+  ],
+  "summary_en": "'Things to Do in Oita' presents Japan's 'Onsen Prefecture' (5,093 natural hot springs): Yufuin's Yunotsubo Kaido street and foot baths, Yufuin Floral Village, Beppu's steaming streets and the seven Hells (Jigoku Meguri), plus local dishes toriten and jigoku-mushi.",
+  "attractions": [
+   {
+    "name_en": "Yunotsubo Kaido (Yufuin)",
+    "name_ja": "湯の坪街道",
+    "category": "district",
+    "description_en": "Roughly 800 m street from Yufuin Station to Lake Kinrin lined with cafes, souvenir shops and boutiques in traditional-style buildings; foot baths along the way.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+   },
+   {
+    "name_en": "Lake Kinrin",
+    "name_ja": "金鱗湖",
+    "category": "nature",
+    "description_en": "Lake at the end of Yunotsubo Kaido with foot baths nearby.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+   },
+   {
+    "name_en": "Yufuin Floral Village",
+    "name_ja": "湯布院フローラルビレッジ",
+    "category": "experience",
+    "description_en": "Cotswolds-inspired village of flower-lined paths, shops, cafes and an owl experience.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+   },
+   {
+    "name_en": "Beppu Jigoku Meguri (Hells of Beppu)",
+    "name_ja": "別府地獄めぐり",
+    "category": "onsen",
+    "description_en": "Seven geothermal 'hells' near 100°C, including cobalt-blue Umi Jigoku and red Chinoike Jigoku; Beppu has Japan's highest number of hot springs.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+   },
+   {
+    "name_en": "Toriten (chicken tempura)",
+    "name_ja": "とり天",
+    "category": "food",
+    "description_en": "Oita comfort food served with kabosu citrus, mustard and ponzu or soy sauce.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+   },
+   {
+    "name_en": "Jigoku-mushi (hell-steamed cuisine)",
+    "name_ja": "地獄蒸し",
+    "category": "food",
+    "description_en": "Ingredients cooked with natural hot-spring steam.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/things-to-do-in-oita/"
+  ]
+ },
+ {
+  "destination": "Yoshino (Nara)",
+  "slug": null,
+  "region": "Kansai",
+  "prefecture": "Nara",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/938/"
+  ],
+  "summary_en": "'Where to Go in Yoshino, Nara for Sakura Views' covers Mount Yoshinoyama's 30,000-tree Senbonzakura, Yoshino Mikumari Shrine and the Hanayagura Observatory, Chikurin-in's Gunpoen garden and nearby Asuka Village's Ishibutai Tumulus; blooms late March to early April.",
+  "attractions": [
+   {
+    "name_en": "Mount Yoshinoyama (Senbonzakura)",
+    "name_ja": "吉野山",
+    "category": "nature",
+    "description_en": "Over 30,000 cherry trees in layered groves across the mountain.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/938/"
+   },
+   {
+    "name_en": "Yoshino Mikumari Shrine & Hanayagura Observatory",
+    "name_ja": "吉野水分神社・花矢倉展望台",
+    "category": "shrine",
+    "description_en": "Shrine whose torii gates are framed by blossoms, with a nearby observatory offering panoramic views of Yoshino.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/938/"
+   },
+   {
+    "name_en": "Chikurin-in Temple (Gunpoen garden)",
+    "name_ja": "竹林院 群芳園",
+    "category": "garden",
+    "description_en": "Temple garden with cherry blossoms around a pond.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/938/"
+   },
+   {
+    "name_en": "Asuka Village – Ishibutai Tumulus",
+    "name_ja": "明日香村 石舞台古墳",
+    "category": "museum",
+    "description_en": "Historic village near Yoshino where cherry trees bloom around one of Japan's largest stone burial chambers.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/938/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/938/"
+  ]
+ },
+ {
+  "destination": "Nakasendo / Kiso Valley",
+  "slug": null,
+  "region": "Chubu (Koshinetsu)",
+  "prefecture": "Nagano / Gifu",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/606/"
+  ],
+  "summary_en": "The Nakasendo Trail Guide describes the Edo-period 'Central Mountain Route' (530+ km between Edo and Kyoto) and its post towns, focusing on preserved Tsumago-juku and hillside Magome-juku and the 7–8 km walk between them.",
+  "attractions": [
+   {
+    "name_en": "Tsumago-juku",
+    "name_ja": "妻籠宿",
+    "category": "district",
+    "description_en": "One of Japan's best-preserved post towns, among the first protected by national preservation law; hidden cables, car-free centre, wooden ryokan, teahouses and restored honjin.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/606/"
+   },
+   {
+    "name_en": "Magome-juku",
+    "name_ja": "馬籠宿",
+    "category": "district",
+    "description_en": "Hillside post town with a steep stone-paved slope, inns, teahouses, craft shops, water wheels and Kiso Valley views.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/606/"
+   },
+   {
+    "name_en": "Tsumago–Magome walk",
+    "name_ja": null,
+    "category": "experience",
+    "description_en": "Roughly 7–8 km section of the Nakasendo, about 2.5–3 hours at a relaxed pace.",
+    "note": null,
+    "source": "https://japan-navi-journey.com/column/606/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/606/"
+  ]
+ },
+ {
+  "destination": "Himeji (Hyogo)",
+  "slug": null,
+  "region": "Kansai",
+  "prefecture": "Hyogo",
+  "url": null,
+  "blog_urls": [
+   "https://japan-navi-journey.com/column/771/"
+  ],
+  "summary_en": "A single article, 'Why Himeji Castle Is a Must-See on Your Japan Trip', was surfaced by the Osaka landmarks search; its content was not captured.",
+  "attractions": [
+   {
+    "name_en": "Himeji Castle",
+    "name_ja": "姫路城",
+    "category": "castle",
+    "description_en": "Dedicated 'must-see' article on Himeji Castle.",
+    "note": "article body not captured by search snippet",
+    "source": "https://japan-navi-journey.com/column/771/"
+   }
+  ],
+  "sources": [
+   "https://japan-navi-journey.com/column/771/"
+  ],
+  "note": "Found incidentally at the search cap; details not retrieved."
+ }
+]

@@ -42,3 +42,10 @@
 }
 写完后校验：python3 -I -c 'import json,sys; json.load(open(sys.argv[1]))' <文件>
 最后回复：存在/不存在代码清单、拿到逐日行程的代码数、未拿到的代码数、异常。
+
+---
+## 第二轮补抓附加规则（2026-10-07 第二轮）
+- **额度纪律**：本轮 WebSearch 总额度 200 次、所有子任务共用。你的硬上限写在任务里；达到上限立刻停止并写文件。搜索返回「budget is used up」也立刻停止并写出已有结果。先写一次中间结果文件再继续搜。
+- 本轮目标是**逐日行程**：每个代码只做 1 次查询（`selfguidejapan.com/tours/<CODE> <线路名> itinerary day by day Day 1 Day 2 ... hotels`，mode="extended"），只有当线路 ≥12 天且摘要截断时才对该代码追加 1 次（`... Day 8 Day 9 Day 10 Day 11 Day 12`）。
+- 存在性已在上一轮确认，不要再做存在性搜索；也不要抓豪华版（1xx）代码。
+- 输出同样的 JSON 结构；day_by_day 只写摘要明确给出的天，缺的天不要补造；每天的 attractions 写景点英文名。
