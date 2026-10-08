@@ -1,0 +1,3726 @@
+[
+ {
+  "code": "KRAT09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/autumn-brilliance-of-korea",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "AUTUMN BRILLIANCE OF KOREA",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": 3288.0,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Nature & Wildlife",
+   "Culture & History",
+   "Photography"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - INCHEON",
+    "title_cn": null,
+    "desc": "Assemble at Singapore Changi Airport and check-in for your flight to Seoul, the starting point of your adventure in the Autumn Brilliance of Korea.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Ganghwa Peace Observatory",
+     "Gimpo Hamsang Park"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ganghwa Peace Observatory",
+      "name_cn": "江华和平展望台",
+      "city_key": "ganghwa",
+      "category": "dmz"
+     },
+     {
+      "name_en": "Gimpo Hamsang Park",
+      "name_cn": "金浦舰上公园",
+      "city_key": "gimpo",
+      "category": "park"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "LD",
+    "meals_desc": [
+     "Lunch: Korean-Style",
+     "Dinner: Clam Seafood"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or similar",
+    "title": "INCHEON - SEOUL",
+    "title_cn": null,
+    "desc": "Upon arrival, meet & greet the local driver guide and transfer start the tour. \r\n \r\n Ganghwado Peace Observatory - is the closest island to North Korea, with the Hangang River running between them. Positioned on the northernmost mountain of the island, it provides clear views of North Korea. Visitors can use telescopes to observe North Korea directly and explore exhibitions related to the country. \n\r\n Gimpo Hamsang Park - is the first battleship themed park in the Seoul metropolitan area. With LST battleship on display, there are many things to see and experience at the park. Visitors can learn various information about the lives and duties of naval officers as well as enjoy a panoramic view of the West Sea. \n\r\n Peace Nuri Road - is a beautiful unification park, which serves as a symbol of the peace and reunification efforts between North and South Korea. \n\r\n \r\n Accommodation: Seoul Garden or Amanti Seoul or Amid Hotel Seoul or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong",
+     "Jeonju Hanok Village",
+     "Gyeonggijeon Shrine"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gongju Gongsanseong & Tomb of King Muryeong",
+      "name_cn": "公州公山城·武宁王陵",
+      "city_key": "gongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Jeonju Hanok Village",
+      "name_cn": "全州韩屋村",
+      "city_key": "jeonju",
+      "category": "village"
+     },
+     {
+      "name_en": "Gyeonggijeon Shrine",
+      "name_cn": "庆基殿",
+      "city_key": "jeonju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Black Ginseng Chicken Soup",
+     "Dinner: Jeonju Stone Pot Bibimbap + Seafood Pancake"
+    ],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "title": "SEOUL - GONGJU - JEONJU",
+    "title_cn": null,
+    "desc": "• Gongju Gongsanseong Fortress (UNESCO) - is a fortification situated at the heart of Gongju. As a result, numerous historical sites have accumulated in the area over time. From the fortress, visitors can enjoy a panoramic view of Gongju’s city center and the Geumgang River. \n\r\n • Mireuseom Island - You can enjoy a variety of beautiful flowers on Island. The most popular one is the pandan grass road formed around the Jinjiang River, which is the best place to visit. In addition, if you go in the direction of Gongju Bridge, you will see even more beautiful scenery. \n\r\n • Jeonju Hanok Village - i s comprised of some 700 beautiful hanok buildings, and is Korea's largest, and only urban, traditional hanok village. The village started in the early 1900s around the areas of Gyeonggijeon Shrine, Omokdae, and Jeonjuhyanggyo Confusian Academy - all important cultural heritages. \n\r\n Accommodation: Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Naejangsan National Park",
+     "Autumn Foliage"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Naejangsan National Park",
+      "name_cn": "内藏山国立公园",
+      "city_key": "jeongeup",
+      "category": "nature"
+     },
+     {
+      "name_en": "Autumn Foliage",
+      "name_cn": "赏枫",
+      "city_key": "jeonju",
+      "category": "festival"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Dinner: Abalone Health Soup"
+    ],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "title": "JEONJU - JEOLLABUK-DO - JENOJU",
+    "title_cn": null,
+    "desc": "• Naejangsan National Park - is a famous mountain in Jeonbuk-do, and the best mountain in Korea to view the fall foliage. Because of the bright autumn leaves that blanket Naejangsan Mountain in fall, the mountain is also referred to as Geumgang of Honam, referencing the beautiful Geumgangsan Mountain. \n\r\n • Naejangsa Temple - cradled within the stunning Naejangsan National Park, is believed to have been established in the year 636, within the Baekje Kingdom. Historically, the site once hosted about 50 large temple buildings. However, they were destroyed during foreign invasions of Korea and the Korean War. Most of the structures standing today were reconstructed later. \n\r\n Accommodation: Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Soswaewon Garden",
+     "Damyang Metasequoia Road"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Soswaewon Garden",
+      "name_cn": "潇洒园",
+      "city_key": "damyang",
+      "category": "park"
+     },
+     {
+      "name_en": "Damyang Metasequoia Road",
+      "name_cn": "潭阳水杉林道",
+      "city_key": "damyang",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Bamboo Rice + Grilled Pork Patties",
+     "Dinner: Grilled Pork Ribs"
+    ],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or similar",
+    "title": "JEONJU - DAMYANG - JEONJU",
+    "title_cn": null,
+    "desc": "• Soswaewon Garden - s a private garden from the Joseon period where Korea's traditional beauty is preserved. Soswaewon Garden presents itself as a clean and transparent garden where the righteous enjoy the life of anbinnakdo (being comfortable amid poverty and taking pleasure in an honest lifestyle) surrounded by a bamboo grove. \n\r\n • Damyang Metasequoia Lined Road - is one of Korea's most beautiful paths. Metasequoia trees were planted along the street in the early 1970s by the Ministry of Internal Affairs after National Road 24 was rebuilt. Thanks to these stately trees, in 2002 the Korea Forest Service selected the boulevard as one of the most beautiful roads in Korea. \n\r\n • Damyang Meta Provence - is a tourist complex located in Damyang, which attracts approximately 5 million tourists a year. Meta Provence consists of fashion streets, design handicraft workshops, commercial spaces, banquet halls and many other open spaces where culture, art and business coexist to provide great experiences for not only individual tourists but also families and groups, and, through diverse and differentiated high-quality services, it strives to provide special memories and new experiences to all visitors. \n\r\n Accommodation: Jeonju Lahan or Jeonju Best Western or Guangju Ramada or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Naganeupseong Folk Village",
+     "Suncheon Bay Wetland Reserve"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Naganeupseong Folk Village",
+      "name_cn": "乐安邑城民俗村",
+      "city_key": "suncheon",
+      "category": "village"
+     },
+     {
+      "name_en": "Suncheon Bay Wetland Reserve",
+      "name_cn": "顺天湾湿地",
+      "city_key": "suncheon",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Beolgyo Cockle Set",
+     "Dinner: Grilled Eel"
+    ],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "title": "JEONJU - SUNCHEON - JEONJU",
+    "title_cn": null,
+    "desc": "• Naganeupseong Walled Town - The fortress walls were built using square-shaped stones to reach 4 meters in height, 3 to 4 meters in width, and 1,410 meters in total length. The town consists of three neighborhoods along the east, south and west of the fortress walls. The village is overall well preserved, allowing visitors to observe houses and lifestyles that have all been passed down from the past. The town is highly valued as a historical and cultural resource for studying traditional folk customs. \n\r\n • Suncheonman Wetland - is one of the world's top five coastal wetlands, stretching along a 3km river with mudflats and reed beds. The reed colonies serve as wintering and breeding grounds for various birds such as Hooded Cranes. The tidal flats are home to diverse species including Mudskippers and East Asian Seepweed. \n\r\n Accommodation: Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Fugu Soup",
+     "Dinner: Hanjeonsik"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or simila r",
+    "title": "JEONJU - DAEJEON - SEOUL",
+    "title_cn": null,
+    "desc": "• Sangso-dong Forest Park - The road to the park is beautifully lined with sycamore trees. The park offers various facilities for enjoying nature and in particular, the stone pagodas placed throughout the park are a must-see. \n\r\n • Baekbeom Plaza - Located in Namsan Mountain, Baekbeom Plaza can be found by walking up the mountain path from Hoehyeon-dong. A statue of Kim Gu - a leader, an educator, a politician - symbolizes the spirit of patriotism which led to the Korea's independence. In front of the statue is a large grassy square and road leading up the mountain. \n\r\n Accommodation: Seoul Garden or Amanti Seoul or Amid Hotel Seoul or simila r",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Deoksugung Palace",
+     "Myeongdong Shopping Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ginseng Shop",
+      "name_cn": "高丽人参店",
+      "city_key": "seoul",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Cosmetics Shop",
+      "name_cn": "化妆品店",
+      "city_key": "seoul",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Deoksugung Palace",
+      "name_cn": "德寿宫",
+      "city_key": "seoul",
+      "category": "palace"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Abalone Hot Pot Rice"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or simila r",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "• Korean Ginseng Shop - Delve into the rich heritage of Korean traditional medicine and discover a treasure trove of ginseng -based remedies, supplements, and wellness products, each meticulously crafted to harness the incredible health benefits of this revered root. \n\r\n • Korean Skincare & Cosmetic Shop - Discover their commitment to skincare health, natural ingredients, and a wide spectrum of makeup options. Renowned worldwide for its effectiveness, quality, and distinctive packaging, it's a beauty journey unlike any other. \n\r\n • Deoksugung Palace + Stone Wall Path - is one of five royal palace Remained in Seoul. Mainly built during the near the tum of the 20th century, Deoksugung is the smallest of Seoul’s palaces. The name Deoksugung means “palace of virture and signifies longevity” in the spirit of praying for long life for Emperor Gojong. \n\r\n • Myeongdong - I s one of the primary shopping districts in Seoul. \n\r\n Accommodation: Seoul Garden or Amanti Seoul or Amid Hotel Seoul or simila r",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Gyeongui Line Forest Park",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gyeongui Line Forest Park",
+      "name_cn": "京义线林荫道",
+      "city_key": "seoul",
+      "category": "park"
+     },
+     {
+      "name_en": "Hongdae (Hongik Univ. Street)",
+      "name_cn": "弘大",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCHEON - SINGAPORE",
+    "title_cn": null,
+    "desc": "• Korea Dawon Hoganbo - Explore Korean wellness centre that promotes liver health with \n\r\n natural ingredients like herbs and antioxidants, supporting detoxification and overall liver function. \n\r\n • Gyeongui Line Forest Park - is a linear city park located in Mapo-gu and is also called Yeontral Park. Gyeongui Line Forest Park was designed to be incomplete on purpose to invite the citizens to complete the park. The area which could have been left empty and neglected has turned into a meaningful green park for the citizens by the citizens. \n\r\n • Hongdae - Is a neighborhood known for its youthful ambience, with shops selling everything from clothing and cosmetics to living goods and books, as well as unique cafés and restaurants. \n\r\n After that, transfer to the airport for your flight. \n\r\n It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. \n\r\n We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Marvel at the vibrant hues of red and gold foliage that adorn Naejangsan National Park. Witness the awe-inspiring scenery of Suncheon Bay Nature Reserve, a sanctuary for migratory birds and a breathtaking spectacle of marshes and reed fields. And be sure to catch a glimpse of the iconic Blue House, the official residence of Korea's president."
+  ],
+  "remarks": "The sequence of the tour is subject to change without prior notice in the event of a change in flight time, bad weather or unforeseen circumstances. \n\r\n All hotel accommodation star ratings are based on local standards. \n\r\n During major conferences, fairs & festivals and extreme peak season, accommodation may be located outside the city or in an alternate city without prior notice. \n\r\n Booking terms and conditions apply.",
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 4
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or similar",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 1
+   },
+   {
+    "name": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "city": "Jeonju",
+    "city_key": "jeonju",
+    "nights": 2
+   },
+   {
+    "name": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or similar",
+    "city": "Jeonju",
+    "city_key": "jeonju",
+    "nights": 1
+   },
+   {
+    "name": "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar",
+    "city": "Jeonju",
+    "city_key": "jeonju",
+    "nights": 1
+   },
+   {
+    "name": "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or simila r",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 2
+   }
+  ]
+ },
+ {
+  "code": "KJJS09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/best-of-jeju-island-2n-seoul",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "BEST OF JEJU ISLAND + 2N SEOUL",
+  "title_cn": null,
+  "days": 7,
+  "nights": 5,
+  "season": null,
+  "price": {
+   "min": 2888.0,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Nature & Wildlife",
+   "Outdoor & Adventure",
+   "Culture & History"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - INCHEON",
+    "title_cn": null,
+    "desc": "Assemble at Changi Airport for our flight to Incheon, South Korea. Begin your long-awaited vacation.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Alpaca World",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Halla Arboretum"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Alpaca World",
+      "name_cn": "羊驼世界",
+      "city_key": "jeju",
+      "category": "farm"
+     },
+     {
+      "name_en": "O'sulloc Tea Museum & Innisfree House",
+      "name_cn": "雪绿茶博物馆·悦诗风吟",
+      "city_key": "seogwipo",
+      "category": "museum"
+     },
+     {
+      "name_en": "Halla Arboretum",
+      "name_cn": "汉拿树木园",
+      "city_key": "jeju",
+      "category": "park"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "L",
+    "meals_desc": [
+     "Lunch: Hanjeongsik"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Gloucester Hotel Jeju or similar",
+    "title": "INCHEON - GIMPO - JEJU ISLAND",
+    "title_cn": null,
+    "desc": "Upon arrival, meet your local driver-guide and begin the tour. \n\r\n\r\n • Dochidol Alpaca Farm – Meet alpacas and other adorable animals roaming freely in a green forest setting. Enjoy fun feeding experiences on the spacious meadow. \n\r\n\r\n • O’Sulloc Tea Museum – A cultural space blending East and West, tradition and modernity. Explore the tea gallery, eco-friendly rest areas, and café offering delicious tea-based desserts.\n\r\n Includes 1 complimentary Green Tea Ice Cream. \n\r\n\r\n • Sumokwon Night Market – A unique forest night market located inside Jeju’s oldest pine tree colony. Opened in 2018, it is Korea’s first nature-based night market, supporting multicultural families and local start-ups within a lively theme-park complex. \n\r\n\r\n Accommodation: Gloucester Hotel Jeju or similar.",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "9.81 Park",
+     "Hallasan National Park",
+     "Sanbangsan & Yongmeori Coast",
+     "Tangerine Picking / Jam DIY"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "9.81 Park",
+      "name_cn": "9.81 公园（无动力赛车）",
+      "city_key": "jeju",
+      "category": "themepark"
+     },
+     {
+      "name_en": "Hallasan National Park",
+      "name_cn": "汉拿山国立公园",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Sanbangsan & Yongmeori Coast",
+      "name_cn": "山房山·龙头海岸",
+      "city_key": "seogwipo",
+      "category": "nature"
+     },
+     {
+      "name_en": "Tangerine Picking / Jam DIY",
+      "name_cn": "柑橘采摘·果酱 DIY",
+      "city_key": "jeju",
+      "category": "farm"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Seafood Noodles",
+     "Dinner: Black Pork BBQ"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Gloucester Hotel Jeju or similar",
+    "title": "JEJU ISLAND",
+    "title_cn": null,
+    "desc": "• 9.81 Theme Park (includes 3 rides) – Korea’s first non-motorized racing theme park, where you can experience eco-friendly gravity racing. Enjoy thrilling downhill runs powered by gravity (9.81 m/s²) with views of the Jeju sea, and relaxed uphill rides facing Hallasan. \n\r\n\r\n • Yongmeori Beach – A dramatic hydrovolcanic rocky shoreline formed by underwater eruptions. Its layered cliffs resemble a dragon’s head (“Yongmeori”) and create stunning coastal scenery. Walk along the seaside trail and see the Hamel Monument, marking the spot where Hendrick Hamel drifted ashore. \n\r\n\r\n • The Cliff Café – A stylish beachside café with sunbeds and parasols set across a large open space, offering a Southeast Asian-inspired atmosphere. Drink excluded. \n\r\n\r\n • Jeju Tangerine Sangria + Stamp Making – Create Jeju-style tangerine sangria using local fruits, then craft a personalized stamp from native Jeju wood as a memorable keepsake. \n\r\n\r\n Accommodation: Gloucester Hotel Jeju or similar.",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Hallasan National Park",
+     "Hueree Hydrangea Garden",
+     "Aromatherapy Footbath"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Hallasan National Park",
+      "name_cn": "汉拿山国立公园",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Hueree Hydrangea Garden",
+      "name_cn": "休爱里绣球花园",
+      "city_key": "seogwipo",
+      "category": "festival"
+     },
+     {
+      "name_en": "Aromatherapy Footbath",
+      "name_cn": "香薰足浴",
+      "city_key": "jeju",
+      "category": "experience"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Dinner: Abalone Seafood Steamboat"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Gloucester Hotel Jeju or similar",
+    "title": "JEJU ISLAND",
+    "title_cn": null,
+    "desc": "• Mt. Hallasan Trekking (Eoseungsaengak Course, approx. 1.5 hours) – Trek Korea’s tallest peak at 1,950m, one of the nation’s three spirit mountains. This scenic trail showcases rich vegetation and diverse wildlife, highlighting Hallasan’s remarkable ecological value. \n\r\n\r\n • Jeju Local Tea Omakase – Enjoy a curated tasting of 4 local teas paired with 6 traditional tea confectioneries. \n\r\n\r\n • Hueree Natural Park – A nature park at the foot of Hallasan where you can stroll along Jeju Olle trails and enjoy charming black pig performances. \n\r\n\r\n • Foot Bath Experience – Soothe your feet with a relaxing herbal foot bath using medicinal herbal packs. \n\r\n\r\n Accommodation: Gloucester Hotel Jeju or similar.",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haenyeo (Women Divers) Show",
+     "Udo Island",
+     "Snoopy Garden"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Haenyeo (Women Divers) Show",
+      "name_cn": "海女表演",
+      "city_key": "jeju",
+      "category": "show"
+     },
+     {
+      "name_en": "Udo Island",
+      "name_cn": "牛岛",
+      "city_key": "udo",
+      "category": "island"
+     },
+     {
+      "name_en": "Snoopy Garden",
+      "name_cn": "史努比花园",
+      "city_key": "jeju",
+      "category": "themepark"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Abalone Hotpot Rice with Grilled Abalone",
+     "Dinner: Hairtail Fish Set"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Gloucester Hotel Jeju or similar",
+    "title": "JEJU ISLAND",
+    "title_cn": null,
+    "desc": "• Woman Diver Museum – Learn about Jeju’s iconic haenyeo (female divers) and their cultural, economic, and historical contributions. Exhibits highlight local marine life, fishing villages, and traditional coastal culture centered around haenyeo heritage. \n\r\n\r\n • Udo Island (by ferry) – A beautiful volcanic island famous for its “Eight Scenic Views.” Enjoy sights such as Hagosudong Beach, known for its coral sand and crystal-clear waters. \n\r\n\r\n • Snoopy Garden – Meet Snoopy and the Peanuts characters in themed halls designed around “Peanuts, Nature & Life.” Explore five themed spaces and browse the Peanuts Store at Snoopy Garden House. \n\r\n\r\n Accommodation: Gloucester Hotel Jeju or similar.",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Teseum Safari",
+     "Gotjawal Forest"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ginseng Shop",
+      "name_cn": "高丽人参店",
+      "city_key": "jeju",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Cosmetics Shop",
+      "name_cn": "化妆品店",
+      "city_key": "jeju",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Teseum Safari",
+      "name_cn": "Teseum 野生动物园",
+      "city_key": "jeju",
+      "category": "themepark"
+     },
+     {
+      "name_en": "Gotjawal Forest",
+      "name_cn": "Gotjawal 原始林",
+      "city_key": "jeju",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Ginseng Chicken",
+     "Dinner: Braised Pork Ribs in Potato Soup"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Gloucester Hotel Jeju or similar",
+    "title": "JEJU ISLAND",
+    "title_cn": null,
+    "desc": "• Korean Ginseng Shop – Explore the heritage of Korean traditional medicine and browse a variety of ginseng-based wellness products known for their health-boosting benefits. \n\r\n\r\n • Korean Skincare & Cosmetic Shop – Discover high-quality skincare and makeup crafted with natural ingredients. Experience why Korean beauty is globally admired for its effectiveness and innovative designs. \n\r\n\r\n • Teseum Bear Museum + Teddy Bear Making – Visit this charming teddy bear museum, designed to bring joy and emotional comfort. Create your own teddy bear as a memorable hands-on experience. \n\r\n\r\n • Eco Land (includes train ride) – Tour the mystical Gotjawal Forest aboard a vintage-style Baldwin train. Enjoy the lush scenery filled with unique plants, animals, and insects. \n\r\n\r\n • Stone Cultural Park – Learn about Jeju’s stone culture, inspired by the legend of Seolmundae Halmang and the Obaek Janggun (Five Hundred Generals). Discover how stones shape the island’s identity. \n\r\n\r\n Accommodation: Gloucester Hotel Jeju or similar.",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sollago Hotel Myeongdong or similar",
+    "title": "JEJU ISLAND - GIMPO - SEOUL",
+    "title_cn": null,
+    "desc": "After breakfast, transfer to Gimpo Airport for your flight. Upon arrival, transfer to Seoul and enjoy free time at your leisure. \n\r\n\r\n Accommodation: Sollago Hotel Myeongdong or similar.",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sollago Hotel Myeongdong or similar",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "Free at your own leisure. \n\r\n Accommodation: Sollago Hotel Myeongdong or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCHEON - SINGAPORE",
+    "title_cn": null,
+    "desc": "After breakfast, free at your own until transfer to the airport for your flight. It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Embark on a scenic adventure through Jeju Island, where natural beauty meets cultural charm. Feed alpacas, explore volcanic shores, and ride gravity-powered race cars at 9.81 Theme Park. Immerse yourself in Jeju’s traditions with tangerine sangria making and tea tastings. Trek Hallasan Mountain, visit Udo Island’s stunning beaches, and marvel at Snoopy Garden."
+  ],
+  "remarks": "$18",
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 5
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Gloucester Hotel Jeju or similar",
+    "city": "Jeju",
+    "city_key": "jeju",
+    "nights": 5
+   },
+   {
+    "name": "Sollago Hotel Myeongdong or similar",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 2
+   }
+  ]
+ },
+ {
+  "code": "KGYE09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/beyond-seoul-gyeonggi-ultimate-family-fun",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "BEYOND SEOUL: GYEONGGI ULTIMATE FAMILY FUN",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": 3888.0,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - INCHEON",
+    "title_cn": null,
+    "desc": "Assemble at Changi Airport for our flight to Incheon , South Korea. Begin your long-awaited vacation.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "D",
+    "meals_desc": [],
+    "stay": "Incheon",
+    "stay_key": "incheon",
+    "hotel": "Nest Hotel or similar property",
+    "title": "INCHEON",
+    "title_cn": null,
+    "desc": "Upon arrival, meet & greet the local guide and transfer to hotel . \n\r\n\n\r\n Accommodation: Nest Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Goyang (Ilsan)",
+    "key": "goyang",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Incheon Open Port Street",
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience",
+     "Aegibong Peace Ecopark",
+     "Jogang Observatory"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Incheon Open Port Street",
+      "name_cn": "仁川开港场街",
+      "city_key": "incheon",
+      "category": "district"
+     },
+     {
+      "name_en": "Rice Flower's Farmer (Gimpo)",
+      "name_cn": "金浦米花农场",
+      "city_key": "gimpo",
+      "category": "farm"
+     },
+     {
+      "name_en": "Gochujang-making Experience",
+      "name_cn": "辣椒酱制作体验",
+      "city_key": "seoul",
+      "category": "experience"
+     },
+     {
+      "name_en": "Aegibong Peace Ecopark",
+      "name_cn": "爱妓峰和平生态公园",
+      "city_key": "gimpo",
+      "category": "dmz"
+     },
+     {
+      "name_en": "Jogang Observatory",
+      "name_cn": "祖江展望台",
+      "city_key": "gimpo",
+      "category": "dmz"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "LD",
+    "meals_desc": [
+     "Lunch: Bibimbap",
+     "Dinner: Unlimited Steamed Red Snow Crab"
+    ],
+    "stay": "Goyang (Ilsan)",
+    "stay_key": "goyang",
+    "hotel": "Sono Calm Goyang or similar property",
+    "title": "INCHEON - GYEONGGI",
+    "title_cn": null,
+    "desc": "• Open Port Nuri-gil (inc. 19 century electric Car) - Also known as Gaehangjang (Open Port Area) Street, is where the vestiges of the struggle among the powers to occupy Joseon remain intact. The then world powers, including Japan, built banks, company buildings, villas, and hotels in this area as part of their plan for exploitation. \n\r\n • Rice Flower Farm + Gochujang Making & Coffee Making - Where you will experience how to make gochujang (red chili paste) and millstone coffee. \n\r\n • Gimpo Aegibong Observatory - The old observatory, which was established in 1978, was demolished and it was newly renewed to Aegibong with peace, ecology and future stories along with new Jogang observatory where you can see the northern land from the closest distance. \n\r\n\n\r\n Accommodation: Sono Calm Goyang or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Pocheon Art Valley"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Pocheon Art Valley",
+      "name_cn": "抱川艺谷",
+      "city_key": "pocheon",
+      "category": "park"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Braised Duck with Porridge",
+     "Dinner: BBQ @ Glamping Site"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Glamping or similar property",
+    "title": "GYEONGGI (GLAMPING)",
+    "title_cn": null,
+    "desc": "• Pocheon Art Valley (inc. Monorail) - The green waters of the lake and the sharply cut cliffs above make a picture-perfect landscape. This beautiful natural scenery, remnant of an old rock quarry, remained relatively unknown until the 1990s . \n\r\n • Nolja Forest Theme Park - Where you'll find a perfect blend of indoor and outdoor activities. This forest-themed playground offers a wide range of attractions, including high elements, rock climbing, an outdoor net playground, a thrilling flying fox, and a hillside slide, making it an enjoyable destination for children and adults alike. \n\r\n\n\r\n Accommodation: Glamping or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Suwon",
+    "key": "suwon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Yangpyeong Dumulmeori",
+     "Suwon Hwaseong Fortress",
+     "Premium Outlet"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Yangpyeong Dumulmeori",
+      "name_cn": "杨平两水头",
+      "city_key": "yangpyeong",
+      "category": "nature"
+     },
+     {
+      "name_en": "Suwon Hwaseong Fortress",
+      "name_cn": "水原华城",
+      "city_key": "suwon",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Premium Outlet",
+      "name_cn": "名品奥特莱斯",
+      "city_key": "seoul",
+      "category": "outlet"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Glamping",
+     "Lunch: Fried Chicken",
+     "Dinner: Pork BBQ"
+    ],
+    "stay": "Suwon",
+    "stay_key": "suwon",
+    "hotel": "Novotel Ambassador Suwon or similar property",
+    "title": "GYEONGGI",
+    "title_cn": null,
+    "desc": "• Saemiwon & Dumulmeori - where you can explore lush lotus flowers gardens and nearby Dumulmeori for its serene ambiance and picturesque landscapes, perfect for a leisurely stroll. \n\r\n • DIY Fried Chicken - A n unconventional institution that fosters a deep love for fried chicken and expertise in franchise management. Here, you'll have an absolute blast, participating in a hands-on fried chicken making experience, perfecting your culinary skills. \n\r\n • Simmons Terrace - A social space where you can immerse yourself in all aspects of lifestyle exploration. \n\r\n *valid on Tue - Fri Only. Sat - Mon will replaced by Suwon Hwaseong \n\r\n • Incheon Premium Outlet - B oasting an impressive selection of around 330 brands, including Polo, Nike Clearance, Ferragamo, and more. \n\r\n Satisfy your shopping desires at LOTTE Premium Outlet Icheon, where the largest and most convenient parking facility awaits your arrival. \n\r\n\n\r\n Accommodation: Novotel Ambassador Suwon or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Samsung Transportation Museum",
+     "Everland"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Samsung Transportation Museum",
+      "name_cn": "三星交通博物馆",
+      "city_key": "yongin",
+      "category": "museum"
+     },
+     {
+      "name_en": "Everland",
+      "name_cn": "爱宝乐园",
+      "city_key": "yongin",
+      "category": "themepark"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Dinner: Soy Sauce Marinated Crab Set"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sofitel Ambassador Seoul Hotel or similar property",
+    "title": "GYEONGGI - SEOUL",
+    "title_cn": null,
+    "desc": "• Samsung Transportation Museum - Is Korea’s first automobile museum established in April 1998. It intends to pay tribute to the history of automobile that has shaped the 20th century civilization. The main role the museum serves is to introduce and make the automobile culture available to the public. \n\r\n • Everland with Free Pass - I s an amusement park that entertains visitors through attractions in the five themed areas of Global Fair, American Adventure, Magic Land, Zootopia, and European Adventure. \n\r\n\n\r\n Accommodation: Sofitel Ambassador Seoul Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gapyeong Begonia Bird Park",
+     "Samaksan Lake Cable Car",
+     "Dongdaemun Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gapyeong Begonia Bird Park",
+      "name_cn": "加平秋海棠鸟园",
+      "city_key": "gapyeong",
+      "category": "park"
+     },
+     {
+      "name_en": "Samaksan Lake Cable Car",
+      "name_cn": "三岳山湖缆车",
+      "city_key": "chuncheon",
+      "category": "ride"
+     },
+     {
+      "name_en": "Dongdaemun Market",
+      "name_cn": "东大门市场",
+      "city_key": "seoul",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Pan Fried Spicy Chicken",
+     "Dinner: Hanjeongsik Set"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sofitel Ambassador Seoul Hotel or similar property",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "• Gapyeong Begonia Bird Park - Filled with colorful Begonias and Hanging Flowers, walk through the fragrant greenhouse. From rare parrots to wild birds and waterfowl, listen to the singing voices of over 140 birds. walk through a garden that can be visited in any season. \n\r\n • Samaksan Cable Car - At 3.61km total, the Chuncheon Lake Samaksan Cable Cars’ trail is the longest in the country and connects Samak Mountain from Samchenodong to Lake Uiam. \n\r\n • Dongdaemun Market - Is one of Korea’s most well-known markets. It was founded in December 1970 as the largest of its kind in Asia and has maintained that status for the last 40 years. Browsing the plethora of shops, you can find fabric and clothing following all the latest global fashion trends. \n\r\n\n\r\n Accommodation: Sofitel Ambassador Seoul Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ikseon-dong Hanok Street",
+      "name_cn": "益善洞韩屋街",
+      "city_key": "seoul",
+      "category": "village"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Abalone Ginseng Chicken Soup"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sofitel Ambassador Seoul Hotel or similar property",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "• Ikseon-dong Hanok Village - I s a place where the harmony of alleys and hanok houses exudes beautiful charm and is a must-visit spot for tourists of all ages and genders. It is also an area that connects the younger and older generations. \n\r\n • DIY Rice Cake Making - Enjoy the DIY fun. \n\r\n • Myeongdong - I s one of the primary shopping districts in Seoul. \n\r\n\n\r\n Accommodation: Sofitel Ambassador Seoul Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCEHON - SINGAPORE",
+    "title_cn": null,
+    "desc": "After breakfast, free at your own leisure until transfer to the airport for your flight. It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Gyeonggi-do, a province nestled in South Korea, beckons with an alluring charm, offering an immersive and authentic travel experience that remains hidden from the bustling tourist throngs. Within this captivating destination lies a wealth of adventures to satisfy every traveler’s soul. It boasts family-friendly museums that awaken curiosity with interactive marvels, exhilarating theme parks delighting both the young and young at heart, and the embrace of nature in the form of lush forests, tranquil rivers, and rolling hills, beckoning exploration like never before."
+  ],
+  "remarks": "$18",
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Goyang (Ilsan)",
+    "key": "goyang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Suwon",
+    "key": "suwon",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Nest Hotel or similar property",
+    "city": "Incheon",
+    "city_key": "incheon",
+    "nights": 1
+   },
+   {
+    "name": "Sono Calm Goyang or similar property",
+    "city": "Goyang (Ilsan)",
+    "city_key": "goyang",
+    "nights": 1
+   },
+   {
+    "name": "Glamping or similar property",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 1
+   },
+   {
+    "name": "Novotel Ambassador Suwon or similar property",
+    "city": "Suwon",
+    "city_key": "suwon",
+    "nights": 1
+   },
+   {
+    "name": "Sofitel Ambassador Seoul Hotel or similar property",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 3
+   }
+  ]
+ },
+ {
+  "code": "KBJC09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/busan-jeollanamdo-cherry-blossom",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "BUSAN JEOLLANAMDO CHERRY BLOSSOM",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Culture & History",
+   "Nature & Wildlife",
+   "Wellness"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - BUSAN",
+    "title_cn": null,
+    "desc": "Assemble at Changi Airport for our flight to Busan, South Korea. Begin your long-awaited vacation.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Shinsegae Centum City & Spaland",
+     "Busan Yacht Tour",
+     "Gwangalli Beach & Gwangan Bridge",
+     "The Bay 101"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gamcheon Culture Village",
+      "name_cn": "甘川洞文化村",
+      "city_key": "busan",
+      "category": "village"
+     },
+     {
+      "name_en": "Shinsegae Centum City & Spaland",
+      "name_cn": "新世界 Centum 城·Spaland",
+      "city_key": "busan",
+      "category": "outlet"
+     },
+     {
+      "name_en": "Busan Yacht Tour",
+      "name_cn": "釜山游艇",
+      "city_key": "busan",
+      "category": "ride"
+     },
+     {
+      "name_en": "Gwangalli Beach & Gwangan Bridge",
+      "name_cn": "广安里海滩·广安大桥",
+      "city_key": "busan",
+      "category": "beach"
+     },
+     {
+      "name_en": "The Bay 101",
+      "name_cn": "The Bay 101 海云台夜景",
+      "city_key": "busan",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "D",
+    "meals_desc": [
+     "Dinner: Lobster + Abalone Seafood Pot"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "Upon arrival, meet your local driver-guide and begin your tour of Busan, starting with the colorful Gamcheon Cultural Village, known as the “Machu Picchu of Busan.” Continue to the world’s largest shopping complex, Shinsegae Centum City, before enjoying the scenic cherry-blossom-lined Dalmaji Road. Stop at Millac The Market for its trendy atmosphere and impressive views of Gwangandaegyo Bridge, perfect for photos, and end the day at The Bay 101, renowned for its stunning night skyline.\n\r\n\n\r\nAccommodation: Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Cheongsapo Daritdol Skywalk",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Haedong Yonggungsa Temple",
+     "Duty-free Shop"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Cheongsapo Daritdol Skywalk",
+      "name_cn": "青沙浦踏石展望台",
+      "city_key": "busan",
+      "category": "observatory"
+     },
+     {
+      "name_en": "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+      "name_cn": "海云台蓝线公园（天空胶囊·海边列车）",
+      "city_key": "busan",
+      "category": "ride"
+     },
+     {
+      "name_en": "Haedong Yonggungsa Temple",
+      "name_cn": "海东龙宫寺",
+      "city_key": "busan",
+      "category": "temple"
+     },
+     {
+      "name_en": "Duty-free Shop",
+      "name_cn": "免税店",
+      "city_key": "busan",
+      "category": "shopstop"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Pork Soup with Rice",
+     "Dinner: Snow Crab Set"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "Visit the Cheongsapo Daritdol Observatory, featuring red and white lighthouses and a glass-floor walkway extending over the sea. Then ride the eco-friendly Haeundae Blueline Park capsule train along Busan’s beautiful eastern coast. Explore Haeundae Beach and its nearby traditional market, known for fresh produce, seafood, and local snacks. Continue to Haedong Yonggungsa, a rare seaside temple offering stunning views after descending its 108 steps. End the day at Lotte Mall, a major cultural and shopping complex with duty-free stores, a cinema, and premium lifestyle experiences. \r\n\r\n \n\r\n Accommodation: Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Yeosu",
+    "key": "yeosu",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Gurye Seomjingang Cherry Blossom Road",
+     "Yeosu Odongdo & Maritime Cable Car"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gurye Seomjingang Cherry Blossom Road",
+      "name_cn": "求礼蟾津江樱花路",
+      "city_key": "gurye",
+      "category": "festival"
+     },
+     {
+      "name_en": "Yeosu Odongdo & Maritime Cable Car",
+      "name_cn": "丽水梧桐岛·海上缆车",
+      "city_key": "yeosu",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Natural Pine Mushroom Hotpot"
+    ],
+    "stay": "Yeosu",
+    "stay_key": "yeosu",
+    "hotel": "Shilla Stay Yeosu or Utop Marina Hotel or Venezia Yeosu or similar",
+    "title": "BUSAN - GURYE - YEOSU",
+    "title_cn": null,
+    "desc": "Visit Gurye Hwaeomsa Temple, a cultural treasure house at the foot of sacred Mt. Jirisan, home to numerous national relics and revered as a place of enlightenment. Stroll the Gurye Seomjingang Cherry Blossom Trail, a 3-kilometer riverside path recognized as one of Korea’s “100 Most Beautiful Roads.” Continue to Sansuyu Village, known for its serene scenery backed by the Jirisan range and a charming valley. In the evening, head to Yeosu’s Nangman Pocha Street, where food trucks serve local seafood dishes beneath the Geobukseon Bridge, and enjoy the nearby Hendrick Hamel Lighthouse along the picturesque night coastline.\n\r\n\n\r\n Accommodation: Shilla Stay Yeosu or Utop Marina Hotel or Venezia Yeosu or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Yeosu",
+    "key": "yeosu",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Yeosu Odongdo & Maritime Cable Car",
+     "Naganeupseong Folk Village",
+     "Suncheon Bay Wetland Reserve"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Yeosu Odongdo & Maritime Cable Car",
+      "name_cn": "丽水梧桐岛·海上缆车",
+      "city_key": "yeosu",
+      "category": "nature"
+     },
+     {
+      "name_en": "Naganeupseong Folk Village",
+      "name_cn": "乐安邑城民俗村",
+      "city_key": "suncheon",
+      "category": "village"
+     },
+     {
+      "name_en": "Suncheon Bay Wetland Reserve",
+      "name_cn": "顺天湾湿地",
+      "city_key": "suncheon",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Hanjeongsik",
+     "Dinner: Gamjatang"
+    ],
+    "stay": "Yeosu",
+    "stay_key": "yeosu",
+    "hotel": "Shilla Stay Yeosu or Utop Marina Hotel or Venezia Yeosu or similar",
+    "title": "YEOSU - SUNCHEON - YEOSU",
+    "title_cn": null,
+    "desc": "Experience the Yeosu Maritime Cable Car, Korea’s first ocean-crossing cable car, where crystal cabins offer thrilling views through transparent floors. Continue to Naganeupseong Walled Town, a well-preserved fortress village where traditional homes and centuries-old lifestyles remain intact. Then explore the Suncheonman Bay Wetland Reserve, one of the world’s top five coastal wetlands, known for its expansive mudflats, reed fields, and diverse birdlife, including wintering Hooded Cranes.\n\r\n\n\r\nAccommodation: Shilla Stay Yeosu or Utop Marina Hotel or Venezia Yeosu or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Yeosu",
+    "transport": null,
+    "attractions": [
+     "Jinhae Gunhangje Cherry Blossom Festival",
+     "Seomyeon & Jeonpo Café Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jinhae Gunhangje Cherry Blossom Festival",
+      "name_cn": "镇海军港节樱花（余佐川·庆和站）",
+      "city_key": "changwon",
+      "category": "festival"
+     },
+     {
+      "name_en": "Seomyeon & Jeonpo Café Street",
+      "name_cn": "西面·田浦咖啡街",
+      "city_key": "busan",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Ginseng Chicken"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "title": "YEOSU - JINHAE - BUSAN",
+    "title_cn": null,
+    "desc": "Enjoy a scenic ride on the Jinhae Monorail for panoramic views of the city, then experience the famous Jinhae Gunhangje Cherry Blossom Festival, where vibrant spring blooms create one of the world’s most iconic floral displays. Conclude your day at Seomyeon 1beon-ga, Busan’s lively Art Street, known for its bustling atmosphere, shops, and entertainment.\n\r\n\n\r\n Accommodation: Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Taejongdae",
+     "BIFF Square & Nampo-dong",
+     "Jagalchi Fish Market",
+     "Bupyeong Kkangtong Night Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Taejongdae",
+      "name_cn": "太宗台",
+      "city_key": "busan",
+      "category": "nature"
+     },
+     {
+      "name_en": "BIFF Square & Nampo-dong",
+      "name_cn": "BIFF 广场·南浦洞",
+      "city_key": "busan",
+      "category": "district"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "Bupyeong Kkangtong Night Market",
+      "name_cn": "富平罐头夜市",
+      "city_key": "busan",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "Visit Taejongdae Cliffed Coast, one of Busan’s classic scenic spots known for its dramatic seaside views. Continue to BIFF Square, a cultural landmark that helped establish Busan as an international film hub. Explore Jagalchi Market, Korea’s largest seafood market, where you can enjoy fresh catches on the spot. End at Bupyeong Kkangtong Market—once famous for rare imported goods and still known today for its lively atmosphere and diverse offerings.\n\r\n\n\r\nAccommodation: Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "Free at your own leisure.\n\r\n\n\r\nAccommodation: Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Simple Breakfast"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "BUSAN - SINGAPORE",
+    "title_cn": null,
+    "desc": "Early morning, transfer to the airport for your flight. It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Welcome to Korea – a land of rich culture, scenic wonders, and timeless traditions beckoning you to embark on an unforgettable voyage of discovery. Indulge in ultimate relaxation at the luxurious Hurshimchung Hotspring Spa. Soar to new heights with breathtaking vistas on the Yeosu Marine Cable Car. Immerse yourself in the splendor of the Jinhae Cherry Blossom Festival, where nature’s delicate blooms transform the landscape into a vibrant sea of pink and white."
+  ],
+  "remarks": "The sequence of the tour is subject to change without prior notice in the event of a change in flight time, bad weather or unforeseen circumstances. \n\r\n All hotel accommodation star ratings are based on local standards. \n\r\n During major conferences, fairs & festivals and extreme peak season, accommodation may be located outside the city or in an alternate city without prior notice. \n\r\n Booking terms and conditions apply.",
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Yeosu",
+    "key": "yeosu",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 3
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 2
+   },
+   {
+    "name": "Shilla Stay Yeosu or Utop Marina Hotel or Venezia Yeosu or similar",
+    "city": "Yeosu",
+    "city_key": "yeosu",
+    "nights": 2
+   },
+   {
+    "name": "Asti Busan or Crown Harbor or Solaria Busan or similar property",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 3
+   }
+  ]
+ },
+ {
+  "code": "KRDB06",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/daejeon-buyeo-the-dual-journey-of-wellness-culture",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "DAEJEON & BUYEO: THE DUAL JOURNEY OF WELLNESS & CULTURE",
+  "title_cn": null,
+  "days": 6,
+  "nights": 5,
+  "season": null,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Wellness",
+   "Culture & History",
+   "Off-the-beaten Path"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Daejeon",
+    "key": "daejeon",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Aromatherapy Footbath",
+     "Daejeon Shinsegae Art & Science",
+     "Daejeon Expo Science Park",
+     "Yeosu Odongdo & Maritime Cable Car"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Aromatherapy Footbath",
+      "name_cn": "香薰足浴",
+      "city_key": "daejeon",
+      "category": "experience"
+     },
+     {
+      "name_en": "Daejeon Shinsegae Art & Science",
+      "name_cn": "大田新世界 Art & Science",
+      "city_key": "daejeon",
+      "category": "outlet"
+     },
+     {
+      "name_en": "Daejeon Expo Science Park",
+      "name_cn": "大田世博科学公园",
+      "city_key": "daejeon",
+      "category": "park"
+     },
+     {
+      "name_en": "Yeosu Odongdo & Maritime Cable Car",
+      "name_cn": "丽水梧桐岛·海上缆车",
+      "city_key": "yeosu",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": "Daejeon",
+    "stay_key": "daejeon",
+    "hotel": "Hotel Onoma Daejon Autograph Collection or similar",
+    "title": "SINGAPORE - INCHEON - DAEJEON",
+    "title_cn": null,
+    "desc": "Upon your arrival at the Incheon International Airport, your friendly driverguide \n\r\n will greet you and transport you to Korea's fifth-largest metropolis \n\r\n Daejeon . \n\r\n • Yuseong Hot Spring Foot Bath Experience - known for its mineral-rich geothermal waters \n\r\n that offer a serene and rejuvenating experience in a natural setting. \n\r\n • Daejeon Shinsegae Art & Science - is a culture and art complex containing cultural and art contents and the identity of Daejeon as the science capital of Korea. It was designed by a consortium of the Shinsegae Group and Kyeryong Construction Industrial and was built with five underground floors and 43 ground floors over a section of the Expo Science Park site. \n\r\n • Expo Aquarium - a departure from traditional aquariums, as it integrates media art installations, providing an abundance of photo-worthy spots and interactive experiences, such as fish feeding opportunities. \n\r\n • Expo Science Park - That boasts iconic landmarks such as Expo Bridge, Hanbit Tower, Expo Memorial Hall, World Expo Memorial Museum, and Daejeon Traffic Culture Institute. \n\r\n Accommodation: Hotel Onoma Daejon Autograph Collection or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Daejeon",
+    "key": "daejeon",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Cheongnamdae",
+     "Gyejoksan Red Clay Trail",
+     "Korean Chuna Therapy",
+     "Premium Outlet"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Cheongnamdae",
+      "name_cn": "青南台",
+      "city_key": "cheongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Gyejoksan Red Clay Trail",
+      "name_cn": "鸡足山黄土路",
+      "city_key": "daejeon",
+      "category": "nature"
+     },
+     {
+      "name_en": "Korean Chuna Therapy",
+      "name_cn": "韩式推拿",
+      "city_key": "daejeon",
+      "category": "experience"
+     },
+     {
+      "name_en": "Premium Outlet",
+      "name_cn": "名品奥特莱斯",
+      "city_key": "daejeon",
+      "category": "outlet"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Dinner: Korean Pork BBQ"
+    ],
+    "stay": "Daejeon",
+    "stay_key": "daejeon",
+    "hotel": "Hotel Onoma Daejon Autograph Collection or similar",
+    "title": "DAEJEON",
+    "title_cn": null,
+    "desc": "• Cheongnamdae (former Presidential Villa) - Which means \"Cheong Wa Dae in a warm southern land,\" was once a private villa used by former presidents of Korea. The total area spans 1,825,000 ｍ² and consists of a main building, golf range, heliport, and fishing area. The natural environment surrounding the area has been well preserved, serving as a home to wildlife, including over 143 species of wild flowers and 124 species of trees as well as several endangered species. \n\r\n • Gyejoksan Red Clay Trail (barefoot walking) - Offers a tranquil and soothing opportunity to \n\r\n walk barefoot through the beautiful natural landscapes of Gyejoksan Mountain. Red clay is renowned for its numerous health advantages, as it is rich in essential minerals like potassium, iron, and calcium. Furthermore, it serves as a natural purifier, antioxidant, disinfectant, and detoxifier. This clay emits infrared rays that the body absorbs, aiding in improved blood circulation and cell regeneration. \n\r\n • PHIL Hospital - Where traditional Korean Chuna therapy, a traditional manual therapy that focuses on spinal adjustments and joint mobilization to promote overall health and wellness \n\r\n and Facial Acupuncture therapy, a treatment that boosts lymphatic and circulatory systems, nourishing and oxygenating skin cells, while internally promoting collagen and elastin production that contributes to both a rejuvenated appearance and improved overall skin health. \n\r\n • Hyundai Premium Outlet - A high-end shopping ",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Buyeo",
+    "key": "buyeo",
+    "from": "Daejeon",
+    "transport": null,
+    "attractions": [
+     "Boryeong Mud Festival / Daecheon Beach",
+     "Scalp Care Clinic",
+     "Daejeon Eunhaeng-dong / Soje-dong",
+     "Myeongdong Shopping Street",
+     "Sungsimdang Bakery"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Boryeong Mud Festival / Daecheon Beach",
+      "name_cn": "保宁泥浆节·大川海水浴场",
+      "city_key": "boryeong",
+      "category": "festival"
+     },
+     {
+      "name_en": "Scalp Care Clinic",
+      "name_cn": "头皮护理体验",
+      "city_key": "buyeo",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Daejeon Eunhaeng-dong / Soje-dong",
+      "name_cn": "大田银杏洞·苏堤洞",
+      "city_key": "daejeon",
+      "category": "district"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "Sungsimdang Bakery",
+      "name_cn": "圣心堂面包",
+      "city_key": "daejeon",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": "Buyeo",
+    "stay_key": "buyeo",
+    "hotel": "Buyeowa Hanok or Naseong Hanok or Seodong Seonhwa Hanok or similar",
+    "title": "DAEJEON - BUYEO",
+    "title_cn": null,
+    "desc": "• Daecheongho Lake Trail - is a 220 kilometer walking path passing through the Daejeon (Dong-gu, Daedeok-gu) and Chungcheongbuk-do (Cheongwon, Okcheon, Boeun) areas. The road passes Daecheongho Lake, small streams, trekking roads, a forest trail, an old path, and much more. \n\r\n • Haru Scalp - a holistic clinic devoted to scalp wellness, where tailored scalp assessments, soothing therapeutic massages with treatments, and a serene atmosphere come together to ensure absolute relaxation and revitalization. \n\r\n • Euneujeongi Culture Street - Is a street located in Daejeon's original city center, resembling Seoul's Myeongdong area. It features clothing stores, restaurants, cafés, and even the flagship store of Daejeon's iconic bakery, \"Sung Sim Dang.\" Close to Daejeon Station, it hosts the annual \"Zero 0' Clock Festival,\" inspired by the tradition of trains departing from Daejeon Station at midnight in the past. \n\r\n • So-dong Café Street - Is a charming district, known for its picturesque streets, cozy cafes, and vibrant atmosphere. \n\r\n Accommodation: Buyeowa Hanok or Naseong Hanok or Seodong Seonhwa Hanok or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Buyeo",
+    "key": "buyeo",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Buyeo Baekje Historic Areas",
+     "Baekmagang River Hwangpo Sailboat"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Buyeo Baekje Historic Areas",
+      "name_cn": "扶余百济历史遗迹区",
+      "city_key": "buyeo",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Baekmagang River Hwangpo Sailboat",
+      "name_cn": "白马江黄布帆船",
+      "city_key": "buyeo",
+      "category": "ride"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "L",
+    "meals_desc": [
+     "Lunch: Yeonipbab Jeongsik Lotus Leaf Rice Set"
+    ],
+    "stay": "Buyeo",
+    "stay_key": "buyeo",
+    "hotel": "Buyeowa Hanok or Naseong Hanok or Seodong Seonhwa Hanok or similar",
+    "title": "BUYEO",
+    "title_cn": null,
+    "desc": "Start your day early with a breathtaking, hour long hot air balloon ride (if weather conditions are unfavorable or if necessary, the experience will be rescheduled to the following morning) and witness the mesmerizing sunrise with panoramic views from above. \n\r\n • Baekje Cultural Land - is the largest history-themed park in Korea, built to share the beautiful culture of the Baekje Kingdom with the world. The large site is filled with traces of Baekje culture. Sabigung Palace is a reconstruction of a real royal palace from the Three Kingdoms period. \n\r\n • Baekmagang River Hwangpo Sailboat - Quietly floats on the Imjingang River moving with the wind with its broad and yellow sail stretched out. Hop on a Hwangpo sailboat, which was a major means of transportation in the Joseon Dynasty and enjoy the beauty of the red cliffs of Imjingang for about 45 minutes from Duji-ri to Jajang-ri. \n\r\n • Nakhwaam Rock - Is a rock cliff towering over Baengmagang River in the northern end of Busosan Mountain. According to the legend, this is where the royal court women of Baekje jumped off to kill themselves when the kingdom of Baekje was defeated during the invasion of Sabiseong Fortress (now Busosanseong Fortress in Buyeo) by the Shilla-Tang Alliance. \n\r\n • Gungnamji Pond - A Historic Site located in Seodong Park, is Korea’s first artificial pond and was created by King Mu from the Baekje dynasty, who fell in love with and eventually married Princess Seonhwa. Gungnamji, literally means a pond i",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Buyeo",
+    "transport": null,
+    "attractions": [
+     "Seongsu-dong"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seongsu-dong",
+      "name_cn": "圣水洞",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Ginseng Chicken"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sotetsu Splaisir Myeongdong or Glad Mapo or Seoul Garden or similar",
+    "title": "BUYEO - SEOUL",
+    "title_cn": null,
+    "desc": "• Seongsu-Dong - is one of the most tagged location in Instagram in 2022, proving itself as currently the most trending neighborhood in Korea. World-famous luxury brands as well as up-and-coming local brand stores and select shops have settled in Seongsu-dong, making it a shopper’s haven. Exploring themed cafés and restaurants that serve delectable desserts and foods is another great way to enjoy what Seongsu-dong has to offer. \n\r\n After lunch, free at your own leisure. \n\r\n Accommodation: Sotetsu Splaisir Myeongdong or Glad Mapo or Seoul Garden or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCEHON - SINGAPORE",
+    "title_cn": null,
+    "desc": "After breakfast, free at your own leisure until transfer to the airport for your flight. \n\r\n It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. \n\r\n We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Unearth the hidden treasures of South Korea through a unique journey that combines wellness and cultural immersion. Begin your adventure in metropolis Daejeon where natural hot springs and modern science centers converge to offer a holistic approach to well-being. Venture into Buyeo county and explore archaeological wonders that bring ancient civilizations to life. This is a dual voyage that promises to revitalize your body and enrich your soul."
+  ],
+  "remarks": "$17",
+  "route": [
+   {
+    "city": "Daejeon",
+    "key": "daejeon",
+    "nights": 2
+   },
+   {
+    "city": "Buyeo",
+    "key": "buyeo",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Hotel Onoma Daejon Autograph Collection or similar",
+    "city": "Daejeon",
+    "city_key": "daejeon",
+    "nights": 2
+   },
+   {
+    "name": "Buyeowa Hanok or Naseong Hanok or Seodong Seonhwa Hanok or similar",
+    "city": "Buyeo",
+    "city_key": "buyeo",
+    "nights": 2
+   },
+   {
+    "name": "Sotetsu Splaisir Myeongdong or Glad Mapo or Seoul Garden or similar",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 1
+   }
+  ]
+ },
+ {
+  "code": "KGYE08",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/gyeonggis-hidden-family-charms",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "GYEONGGI'S HIDDEN FAMILY CHARMS",
+  "title_cn": null,
+  "days": 8,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Nature & Wildlife",
+   "Luxury Lifestyle",
+   "Off-the-beaten Path"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Incheon Open Port Street",
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience",
+     "Aegibong Peace Ecopark",
+     "Jogang Observatory"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Incheon Open Port Street",
+      "name_cn": "仁川开港场街",
+      "city_key": "incheon",
+      "category": "district"
+     },
+     {
+      "name_en": "Rice Flower's Farmer (Gimpo)",
+      "name_cn": "金浦米花农场",
+      "city_key": "gimpo",
+      "category": "farm"
+     },
+     {
+      "name_en": "Gochujang-making Experience",
+      "name_cn": "辣椒酱制作体验",
+      "city_key": "seoul",
+      "category": "experience"
+     },
+     {
+      "name_en": "Aegibong Peace Ecopark",
+      "name_cn": "爱妓峰和平生态公园",
+      "city_key": "gimpo",
+      "category": "dmz"
+     },
+     {
+      "name_en": "Jogang Observatory",
+      "name_cn": "祖江展望台",
+      "city_key": "gimpo",
+      "category": "dmz"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "LD",
+    "meals_desc": [
+     "Lunch: Bibimbap",
+     "Dinner: Chinese Set"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Stay Folio or similar",
+    "title": "SINGAPORE - INCHEON - GYEONGGI",
+    "title_cn": null,
+    "desc": "Assemble at Changi Airport for our flight to Incheon , South Korea. Begin your long-awaited vacation. \n\r\n Upon arrival, meet & greet the local driver guide and transfer to Gyeonggi . \n\r\n • Open Port Nuri-gil (inc. 19 century electric Car) - Also known as Gaehangjang (Open Port Area) Street, is where the vestiges of the struggle among the powers to occupy Joseon remain intact. The then world powers, including Japan, built banks, company buildings, villas, and hotels in this area as part of their plan for exploitation. \n\r\n • Rice Flower Farm + Gochujang Making & Coffee Making - Where you will experience how to make gochujang (red chili paste) and millstone coffee. \n\r\n • Gimpo Aegibong Observatory - The old observatory, which was established in 1978, was demolished and it was newly renewed to Aegibong with peace, ecology and future stories along with new Jogang observatory where you can see the northern land from the closest distance. \n\r\n Accommodation: Stay Folio or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Paju Tofu Village",
+     "Pocheon Art Valley",
+     "Strawberry Picking"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Paju Tofu Village",
+      "name_cn": "坡州豆腐村",
+      "city_key": "paju",
+      "category": "experience"
+     },
+     {
+      "name_en": "Pocheon Art Valley",
+      "name_cn": "抱川艺谷",
+      "city_key": "pocheon",
+      "category": "park"
+     },
+     {
+      "name_en": "Strawberry Picking",
+      "name_cn": "草莓采摘",
+      "city_key": "seoul",
+      "category": "farm"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Local Restaurant",
+     "Lunch: Ssambap + Tofu Set",
+     "Dinner: Braised Pork Ribs in Potato Soup"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Stay Folio or similar",
+    "title": "GYEONGGI",
+    "title_cn": null,
+    "desc": "• Paju Tofu Street + Tofu Cookie Making - Renowned for its Korean tofu specialties, offering you the chance to immerse yourself in a hands-on tofu cookie making experience. \n\r\n • Pocheon Art Valley (inc. Monorail) - The green waters of the lake and the sharply cut cliffs above make a picture-perfect landscape. This beautiful natural scenery, remnant of an old rock quarry, remained relatively unknown until the 1990s . \n\r\n • Strawberry Picking - Enjoy strawberry picking fun \n\r\n *valid from Nov ~ Jun. If don’t have strawberry will be replaced to Apple picking or DIY Makgeolli Making \n\r\n Accommodation: Stay Folio or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Yangpyeong Dumulmeori",
+     "Premium Outlet",
+     "Glamping Stay"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Yangpyeong Dumulmeori",
+      "name_cn": "杨平两水头",
+      "city_key": "yangpyeong",
+      "category": "nature"
+     },
+     {
+      "name_en": "Premium Outlet",
+      "name_cn": "名品奥特莱斯",
+      "city_key": "seoul",
+      "category": "outlet"
+     },
+     {
+      "name_en": "Glamping Stay",
+      "name_cn": "豪华露营",
+      "city_key": "seoul",
+      "category": "experience"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Local Restaurant",
+     "Lunch: Hanjeongsik",
+     "Dinner: BBQ @ Glamping Site"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Glamping or similar",
+    "title": "GYEONGGI (GLAMPING)",
+    "title_cn": null,
+    "desc": "• Yangpyeong The Greem (inc. coffee or soft drink) - The Greem stands as a captivating fusion of nature and artistry. This botanical haven, reminiscent of a master's painting, boasts lush pine forests, elegant European-inspired architecture, and tranquil gazebos nestled near serene valleys. \n\r\n • Soomy Village (inc. ATV Riding + DIY Bun Making + DIY Rice Cake Making) - I mmersing yourself in the authentic farm life experience. This locale offers family-friendly activities such as ATV riding, hands-on bun-making and rice cake-making experiences, allowing you to connect with the farm life in a meaningful way. \n\r\n • Incheon Premium Outlet - B oasting an impressive selection of around 330 brands, including Polo, Nike Clearance, Ferragamo, and more. \n\r\n Satisfy your shopping desires at LOTTE Premium Outlet Icheon, where the largest and most convenient parking facility awaits your arrival. \n\r\n After that, transfer to glamping site. \n\r\n Accommodation: Glamping or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Everland",
+     "Suwon Hwaseong Fortress"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Everland",
+      "name_cn": "爱宝乐园",
+      "city_key": "yongin",
+      "category": "themepark"
+     },
+     {
+      "name_en": "Suwon Hwaseong Fortress",
+      "name_cn": "水原华城",
+      "city_key": "suwon",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Breakfast: Glamping"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "title": "GYEONGGI (GLAMPING) - SEOUL",
+    "title_cn": null,
+    "desc": "• Everland with Free Pass (inc. Private Safari Buggy Tour) - The pinnacle of this visit is an exclusive Private Safari Jeep Tour, where you'll have the incredible up-close opportunity to feed the majestic white tigers, tigers, lions, and bears. This extraordinary wildlife encounter promises to be a highlight of your trip. \n\r\n • Suwon Heaseong Fortress - Built to protect the city, was designated as a UNESCO World Cultural Heritage Site on December 12, 1997 for its historical value. The walls stretch for 5,700 kilometers, with Paldalsan Mountain at the center. \n\r\n After that, transfer to Seoul. \n\r\n Accommodation: Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gapyeong Begonia Bird Park",
+     "Samaksan Lake Cable Car",
+     "Dongdaemun Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gapyeong Begonia Bird Park",
+      "name_cn": "加平秋海棠鸟园",
+      "city_key": "gapyeong",
+      "category": "park"
+     },
+     {
+      "name_en": "Samaksan Lake Cable Car",
+      "name_cn": "三岳山湖缆车",
+      "city_key": "chuncheon",
+      "category": "ride"
+     },
+     {
+      "name_en": "Dongdaemun Market",
+      "name_cn": "东大门市场",
+      "city_key": "seoul",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Pan Fried Spicy Chicken + Fried Rice",
+     "Dinner: Hanjeongsik Set"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "• Gapyeong Begonia Bird Park - Filled with colorful Begonias and Hanging Flowers, walk through the fragrant greenhouse. From rare parrots to wild birds and waterfowl, listen to the singing voices of over 140 birds. walk through a garden that can be visited in any season. \n\r\n • Samaksan Cable Car - At 3.61km total, the Chuncheon Lake Samaksan Cable Cars’ trail is the longest in the country and connects Samak Mountain from Samchenodong to Lake Uiam. \n\r\n • Dongdaemun Market - Is one of Korea’s most well-known markets. It was founded in December 1970 as the largest of its kind in Asia and has maintained that status for the last 40 years. Browsing the plethora of shops, you can find fabric and clothing following all the latest global fashion trends. \n\r\n Accommodation: Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "COEX Mall & Starfield Library",
+     "Lotte World Tower Seoul Sky",
+     "Goto Mall (Express Bus Terminal)",
+     "Gangnam",
+     "Gwangjang Market",
+     "JUMP / Hero Show"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "COEX Mall & Starfield Library",
+      "name_cn": "COEX 星空图书馆",
+      "city_key": "seoul",
+      "category": "outlet"
+     },
+     {
+      "name_en": "Lotte World Tower Seoul Sky",
+      "name_cn": "乐天世界塔 Seoul Sky",
+      "city_key": "seoul",
+      "category": "observatory"
+     },
+     {
+      "name_en": "Goto Mall (Express Bus Terminal)",
+      "name_cn": "高速巴士客运站地下商街",
+      "city_key": "seoul",
+      "category": "outlet"
+     },
+     {
+      "name_en": "Gangnam",
+      "name_cn": "江南",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "Gwangjang Market",
+      "name_cn": "广藏市场",
+      "city_key": "seoul",
+      "category": "market"
+     },
+     {
+      "name_en": "JUMP / Hero Show",
+      "name_cn": "武术喜剧秀",
+      "city_key": "seoul",
+      "category": "show"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "• Starfield COEX Mall - COEX in Seoul isn't just a vast shopping mall; it's a hub of experiences! From the famous Starfield Library to the captivating COEX Aquarium, there's more to explore. \n\r\n • Lotte World Tower (inc. Seoul Sky) - With 123 floors total, the tower is the fifth tallest building in the world, standing at 555 meters. The tower contains galleries, cafés, and a luxury hotel, in addition to a skywalk and an observation deck. It is one of the best spots to appreciate the breathtaking view of Seoul's vibrant city lights. \n\r\n • Goto Mall (Under Ground Shopping Mall) - Gangnam Terminal Underground Shopping Center is often referred to as \"Goto Mall\" in short. Over 600 stores are lined up on both sides of the two long, parallel corridors featuring clothing, fashion accessories, interior products, and flowers. \n\r\n • Gwangjang Market - W as the first permanent market in Korea and continues to thrive as a popular tourist destination today. N ow grown into a large wholesale market selling a variety of goods, including upholstery, imported goods, groceries, dried fish, traditional goods, and more. \n\r\n • Painters Hero Show - Is an innovative non-verbal performance that stages the entire process of painting combined with incredible visual effects and a witty blend of mime, dance and comedy. \n\r\n Accommodation: Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gyeongbokgung Palace",
+      "name_cn": "景福宫",
+      "city_key": "seoul",
+      "category": "palace"
+     },
+     {
+      "name_en": "Hanbok Dress-up Experience",
+      "name_cn": "韩服体验",
+      "city_key": "seoul",
+      "category": "experience"
+     },
+     {
+      "name_en": "Ikseon-dong Hanok Street",
+      "name_cn": "益善洞韩屋街",
+      "city_key": "seoul",
+      "category": "village"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Abalone Ginseng Chicken Soup"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "• Gyeongbokgung Palace (inc. Hanbok Wearing) - Was built as the official palace of the Joseon dynasty by Yi Seong-gye, who becomes King Taejo and the founder of the new regime. and is arguably the most beautiful and is the largest of all five palaces. \n\r\n • Ikseon-dong Hanok Village - I s a place where the harmony of alleys and hanok houses exudes beautiful charm and is a must-visit spot for tourists of all ages and genders. It is also an area that connects the younger and older generations. \n\r\n • Myeongdong - I s one of the primary shopping districts in Seoul. \n\r\n Accommodation: Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCEHON - SINGAPORE",
+    "title_cn": null,
+    "desc": "After breakfast, free at your own leisure until transfer to the airport for your flight. \n\r\n It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. \n\r\n We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Uncover a hidden world of opulence and excitement on a premium land tour in Gyeonggi, Korea. Experience ultimate comfort at the prestigious STAYFOLIO accommodations. Immerse yourself in the tranquil allure of Sumi Village and engage in a range of unique activities. Brace yourself for an up-close encounter with extraordinary wildlife as you embark on a captivating private safari jeep tour at the enchanting Everland."
+  ],
+  "remarks": "$18",
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 7
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Stay Folio or similar",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 2
+   },
+   {
+    "name": "Glamping or similar",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 1
+   },
+   {
+    "name": "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 4
+   }
+  ]
+ },
+ {
+  "code": "KGUB09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/gyeongsangnam-do-ulsan-busan",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "GYEONGSANGNAM-DO, ULSAN & BUSAN",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": 3188.0,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Citylife",
+   "Culture & History",
+   "Nature & Wildlife"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - BUSAN",
+    "title_cn": null,
+    "desc": "Assemble at Changi Airport for our flight to Busan, South Korea. Begin your long-awaited vacation.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Namhae",
+    "key": "namhae",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Aromatherapy Footbath",
+     "Jinhae Gunhangje Cherry Blossom Festival",
+     "Pink Muhly Grass",
+     "Sacheon Namildae Beach"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Aromatherapy Footbath",
+      "name_cn": "香薰足浴",
+      "city_key": "namhae",
+      "category": "experience"
+     },
+     {
+      "name_en": "Jinhae Gunhangje Cherry Blossom Festival",
+      "name_cn": "镇海军港节樱花（余佐川·庆和站）",
+      "city_key": "changwon",
+      "category": "festival"
+     },
+     {
+      "name_en": "Pink Muhly Grass",
+      "name_cn": "粉黛乱子草",
+      "city_key": "namhae",
+      "category": "festival"
+     },
+     {
+      "name_en": "Sacheon Namildae Beach",
+      "name_cn": "泗川南一台海水浴场",
+      "city_key": "sacheon",
+      "category": "beach"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "LD",
+    "meals_desc": [
+     "Lunch: Grilled Short Rib Patties Set",
+     "Dinner: Seafood Hanjeongsik"
+    ],
+    "stay": "Namhae",
+    "stay_key": "namhae",
+    "hotel": "Pension Style",
+    "title": "BUSAN - NAMHAE",
+    "title_cn": null,
+    "desc": "Upon arrival, meet & greet the local driver guide and transfer start the tour . \n\r\n • Haman Healing Farm (walking on red clay road in bare foot + foot spa) - is a village that values flowers and medicinal herbs, and it has been an eco-friendly organic farming and experience farm for 30 years. It has been a destination for healthy living, offering both farming experiences and wellness activities. Another popular experience is the \"Herbal Foot Bath,\" where you can enjoy a soothing foot soak with a blend of six herbs grown at the farm. This 20-30 minute session includes meditation, stretching, and a guided video to enhance your relaxation. \n\r\n *Will replaced to Jinhae Cherry Blossom Festival from 25 Mar - 03 Apr \n\r\n *Will replaced to Sunflower Field from 26 Jun - 14 Jul \n\r\n *Will replaced to Pink Muhly Watching from 05 - 25 Oct \n\r\n\n\r\n • Sacheon Namildae Beach (Elephant Shape Rock) - home to the huge Elephant Rock that resembles an elephant drinking water, Namildae Beach is a popular vacation spot all year round thanks to its clean water and soft sand. The thick surrounding forests and Jinneol Observation Deck, as well as many fishing spots, add to its popularity. \n\r\n *Will replaced to Jinhae Cherry Blossom Festival from 25 Mar - 03 Apr \n\r\n\n\r\n • Nine View Café (Stairway to Heaven) - features a striking white staircase sculpture called \"Stairway to Heaven\" outside, offering the perfect backdrop for capturing emotional and beautiful photos. The terrace on the first floor of the mai",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Namhae",
+    "key": "namhae",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Namhae Geumsan Boriam Hermitage",
+     "Namhae German Village",
+     "Namhae Coast (Treasure Island Observatory)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Namhae Geumsan Boriam Hermitage",
+      "name_cn": "南海锦山菩提庵",
+      "city_key": "namhae",
+      "category": "temple"
+     },
+     {
+      "name_en": "Namhae German Village",
+      "name_cn": "南海德国村",
+      "city_key": "namhae",
+      "category": "village"
+     },
+     {
+      "name_en": "Namhae Coast (Treasure Island Observatory)",
+      "name_cn": "南海海岸（宝物岛展望台）",
+      "city_key": "namhae",
+      "category": "observatory"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "LD",
+    "meals_desc": [
+     "Lunch: Anchovy Ssambap Set",
+     "Dinner: Duck Bulgogi with Fried Rice"
+    ],
+    "stay": "Namhae",
+    "stay_key": "namhae",
+    "hotel": "Pension Style",
+    "title": "NAMHAE",
+    "title_cn": null,
+    "desc": "• Namhae Geumsan Boriam Hermitage (30m walk to Hermitage) - S its atop Geumsan Mountain (alt. 704 m) . The mountain was once called Bogwangsan Mountain as it was home to Bogwangsa Temple, founded by Monk Wonhyo. \n\r\n • Daraengi Village - is famous for terraced rice paddies on a steep hill on the outskirts of Seolheulsan Mountain. The picturesque rice paddies make up 108 steps (consisting of stones and soil) and are great for taking photographs. \n\r\n • Naengcheon Fishing Village (inc. digging clams) - is a coastal village with a rich history, particularly its connection to the Imjin War. During this conflict, the naval forces under General Yi Sun-sin were stationed here, and it is said that they often drank water from a spring in the village. \n\r\n • Namhae Treasure Island Observatory - is a structure that embodies a \"lighthouse that beautifully lights up Namhae,\" the southernmost tip of Korea. The 360° panoramic view from inside the building is equivalent to what can be seen from an ultra-luxury cruise ship and is difficult to find anywhere else in the country. *included drinks \n\r\n\n\r\n Accommodation: Pension Style",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Hadong",
+    "key": "hadong",
+    "from": "Namhae",
+    "transport": null,
+    "attractions": [
+     "Hadong Samseonggung & Hwagae Market",
+     "Hadong (Green Tea & Choi Champan House)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Hadong Samseonggung & Hwagae Market",
+      "name_cn": "河东三圣宫·花开市场",
+      "city_key": "hadong",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Hadong (Green Tea & Choi Champan House)",
+      "name_cn": "河东（绿茶·崔参判宅）",
+      "city_key": "hadong",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BD",
+    "meals_desc": [
+     "Dinner: Braised Herbal Country Chicken"
+    ],
+    "stay": "Hadong",
+    "stay_key": "hadong",
+    "hotel": "Kensington Hotel & Resort Hadong or similar property",
+    "title": "NAMHAE - HADONG",
+    "title_cn": null,
+    "desc": "• Sangsang Sheep Ranch (inc. feeding sheep & bird) - Surrounded by a vast 100,000-pyeong pasture and a cypress forest, the farm offers a peaceful and natural retreat. The cypress trees, along with other surrounding foliage, release phytoncides - natural antimicrobial substances known for their health benefits. Phytoncides are most abundant in coniferous trees like cypress, and they are believed to help clear the mind, alleviate skin conditions, and promote relaxation. Visitors can enjoy a leisurely walk around the farm while breathing in the fresh, healing air. \n\r\n • Hadong Samseonggung - is a Taoist shrine located at 850 meters above sea level on Jirisan Mountain. It serves as a spiritual hub for practicing Sinseondo, embodying traditional Korean culture. \n\r\n • Hadong Tea Museum (Inc: DIY Dasik Making and try with Tea) - It aims to promote the tea culture of the area, the first tea producer in the nation, while advertising the quality and superiority of Hadong green tea. \n\r\n • Hadong Hwagae Market - is one of the five biggest traditional market, which once flooded with people. A market that offers a variety of local products and delicacies, you could count the number of markets of this scale in Korea on one hand. \n\r\n\n\r\n Accommodation: Kensington Hotel & Resort Hadong or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Hadong",
+    "transport": null,
+    "attractions": [
+     "Hydrangea Viewing"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Hydrangea Viewing",
+      "name_cn": "赏绣球花",
+      "city_key": "busan",
+      "category": "festival"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Black Pork Bossam with Buckwheat Noodles",
+     "Dinner: Pan Fried Spicy Chicken"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Avani Central Hotel or similar property",
+    "title": "HADONG - SANCHEONG - HAPCHEON - BUSAN",
+    "title_cn": null,
+    "desc": "• Donguibogam Village (inc. Moxibustion + Gongjindan Making Experience) - Surrounded by deep, lush mountains and green fields, Sancheong has been renowned for its medicinal herbs since ancient times. Good medicinal herbs were also found in Jirisan Mountain. Sancheong is also well known as the place where Heo Jun practiced medicine. \n\r\n • Suseonsa Temple - is a temple situated on Ungseokbong Peak in Jirisan Mountain. Renowned for its picturesque hydrangea and lotus, it has become a favored destination for many visitors. \n\r\n • Hapcheon Film Park - is filled with a unique atmosphere and things to see in every alley, and has been used as a filming location for over 190 dramas, movies, and music videos set in the 1920s to the 1980s. Visitors can look around using trams, wagons, and more while they take pictures of every place. \n\r\n After that, transfer back to Busan. \n\r\n\n\r\n Accommodation: Avani Central Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ulsan Daewangam & Taehwagang Garden",
+     "Ulsan Onggi Village",
+     "Jagalchi Fish Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ulsan Daewangam & Taehwagang Garden",
+      "name_cn": "蔚山大王岩·太和江国家庭园",
+      "city_key": "ulsan",
+      "category": "nature"
+     },
+     {
+      "name_en": "Ulsan Onggi Village",
+      "name_cn": "蔚山瓮器村",
+      "city_key": "ulsan",
+      "category": "museum"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Braised Pork Ribs in Potato Soup"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Avani Central Hotel or similar property",
+    "title": "BUSAN - ULSAN - BUSAN",
+    "title_cn": null,
+    "desc": "• Daewangam Suspension Bridge - is the first suspension bridge in Ulsan and the first large-scale commercial tourism facility in Dong-gu. It was created with a length of 303 meters, connecting Hatgaebi and Surubang coastal trails in Daewangam Park. \n\r\n • Taehwagang Bamboo Forest - is a bamboo forest that stretches over about 4 km along the Taehwagang River and is a natural garden using bamboo that has grown naturally for a long time. It is a healing space in the city where the river wind blowing through the bamboo and the whisper of bamboo leaves tickle your ears. \n\r\n • Ulsan Onggi Museum - was established when earthenware master Heo Deok-man settled in the area in 1975. The village today showcases a massive collection of various earthenware products, which creates a unique sight. Over 50% of the country's earthenware products are crafted at this village. \n\r\n • Busan Jagalchi Cruise (Night View) - is a 3 story ship that weighs 379 tons and can board over 300 passengers. Departing from the dockyard which is located in Jagalchi Market, explores the pleasant scenery as well as the sea with full of life \n\r\n\n\r\n Accommodation: Avani Central Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": "Flight",
+    "attractions": [
+     "Taejongdae",
+     "ARTE Museum Jeju",
+     "Oryukdo Skywalk",
+     "Jagalchi Fish Market",
+     "BIFF Square & Nampo-dong"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Taejongdae",
+      "name_cn": "太宗台",
+      "city_key": "busan",
+      "category": "nature"
+     },
+     {
+      "name_en": "ARTE Museum Jeju",
+      "name_cn": "ARTE 光影美术馆（济州/釜山/江陵/丽水均有）",
+      "city_key": "busan",
+      "category": "museum"
+     },
+     {
+      "name_en": "Oryukdo Skywalk",
+      "name_cn": "五六岛天空步道",
+      "city_key": "busan",
+      "category": "observatory"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "BIFF Square & Nampo-dong",
+      "name_cn": "BIFF 广场·南浦洞",
+      "city_key": "busan",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Pork Bone Soup with Sliced Pork, Sundae"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Avani Central Hotel or similar property",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "• Taejongdae Cliffed Coast (inc. Danubi Train) - Is one of the most famous tourist sites in Busan. Because of how old and famous the park is, it tends to fly under the radar for many tourists who are familiar with Busan. \n\r\n • Arte Museum - is a global immersive media art exhibition that creates new exhibits in each region under the theme of ‘Eternal Nature’, spreading both domestically and internationally. It is known for showcasing works that incorporate the nature and cultural heritage of each region. Arte Museum Busan is particularly unique, with 16 out of 19 media art pieces newly created specifically for Busan. \n\r\n • Oryukdo Sky Walk - meaning a saddle, due to the shape of the point. It was also called Jallokgae by residents and female divers in the area. isitors will be thrilled with the view of the waves while looking down through the transparent floor. The sea stretches out ahead of the skywalk, perfect for a photo op. \n\r\n • Jagalchi Market - I s Korea's largest seafood market, selling both live and dried fish. This market represents Busan and is famous throughout the country. Visitors can eat fresh raw fish right at the market. \n\r\n • BIFF Square - Having been remade into a cultural tourist attraction promoting the advancement of Korea’s film industry, BIFF Square has contributed to Busan’s newfound status as an international cultural tourist city. \n\r\n\n\r\n Accommodation: Avani Central Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "CLUBD OASIS (Spa)",
+     "Jjimjilbang (Korean Sauna)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ginseng Shop",
+      "name_cn": "高丽人参店",
+      "city_key": "busan",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Cosmetics Shop",
+      "name_cn": "化妆品店",
+      "city_key": "busan",
+      "category": "shopstop"
+     },
+     {
+      "name_en": "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+      "name_cn": "海云台蓝线公园（天空胶囊·海边列车）",
+      "city_key": "busan",
+      "category": "ride"
+     },
+     {
+      "name_en": "Cheongsapo Daritdol Skywalk",
+      "name_cn": "青沙浦踏石展望台",
+      "city_key": "busan",
+      "category": "observatory"
+     },
+     {
+      "name_en": "CLUBD OASIS (Spa)",
+      "name_cn": "CLUBD OASIS 水疗",
+      "city_key": "busan",
+      "category": "experience"
+     },
+     {
+      "name_en": "Jjimjilbang (Korean Sauna)",
+      "name_cn": "汗蒸幕",
+      "city_key": "busan",
+      "category": "experience"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Abalone Ginseng Chicken Soup",
+     "Dinner: Lobster Seafood Steamboat"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Avani Central Hotel or similar proeprty",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "• Korean Ginseng Shop - Delve into the rich heritage of Korean traditional medicine and discover a treasure trove of ginseng -based remedies, supplements, and wellness products, each meticulously crafted to harness the incredible health benefits of this revered root. \n\r\n • Korean Skincare & Cosmetic Shop - Discover their commitment to skincare health, natural ingredients, and a wide spectrum of makeup options. Renowned worldwide for its effectiveness, quality, and distinctive packaging, it's a beauty journey unlike any other. \n\r\n • Korea Dawon Hoganbo - Explore Korean wellness centre that promotes liver health with \n\r\n natural ingredients like herbs and antioxidants, supporting detoxification and overall liver function. \n\r\n • Haeundae Sky Capsule - a romantic four-seater automatic capsule train that runs a 2-kilometer rail from 7 to 10 meters above sea level, along the coast from Mipo to Cheongsapo. \n\r\n • ClubD Oasis (Inc. Sauna + Jjimjilbang) - is the first and only urban wellness hot spring in Busan, and it has been approved as the 8th national wellness hot spring in Korea. Experience warm and joyful moments in a unique space with CLUBD OASIS's distinctive hot spring water. You can enjoy an outdoor cabin sauna while gazing at the far horizon touching the sky in the distance. \n\r\n\n\r\n Accommodation: Avani Central Hotel or similar proeprty",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Simple Breakfast"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "BUSAN - SINGAPORE",
+    "title_cn": null,
+    "desc": "Early morning, transfer to the airport for your flight. It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Explore the best of South Korea with a 9-day journey through Gyeongsangnam-do, Ulsan, and Busan. From tranquil landscapes and cultural landmarks to vibrant markets and scenic coastlines, experience a perfect blend of tradition, nature, and modern charm."
+  ],
+  "remarks": "$18",
+  "route": [
+   {
+    "city": "Namhae",
+    "key": "namhae",
+    "nights": 2
+   },
+   {
+    "city": "Hadong",
+    "key": "hadong",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 4
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Pension Style",
+    "city": "Namhae",
+    "city_key": "namhae",
+    "nights": 2
+   },
+   {
+    "name": "Kensington Hotel & Resort Hadong or similar property",
+    "city": "Hadong",
+    "city_key": "hadong",
+    "nights": 1
+   },
+   {
+    "name": "Avani Central Hotel or similar property",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 3
+   },
+   {
+    "name": "Avani Central Hotel or similar proeprty",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 1
+   }
+  ]
+ },
+ {
+  "code": "KRKA09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/korean-adventure",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "KOREAN ADVENTURE",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": 3288.0,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Culture & History",
+   "Outdoor & Adventure",
+   "Citylife"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - INCHEON",
+    "title_cn": null,
+    "desc": "Assemble at Changi Airport for our flight to Incheon, South Korea. Begin your long-awaited vacation.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "D",
+    "meals_desc": [
+     "Dinner: Andong Jjimdak"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "title": "ARRIVAL IN SEOUL - A DAY OF DISCOVERIES",
+    "title_cn": null,
+    "desc": "Upon landing at Incheon International Airport, you'll be greeted by the vibrant ambiance of Seoul. As your journey commences, a charter will transport you from the airport to your hotel, leaving the evening free for self-guided exploration and discovery. \n\r\n\n\r\n Accommodation: Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Seoul",
+    "transport": "Flight",
+    "attractions": [
+     "Yongduam (Dragon Head Rock)",
+     "Mysterious Road",
+     "Jeju Dongmun Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Yongduam (Dragon Head Rock)",
+      "name_cn": "龙头岩",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Mysterious Road",
+      "name_cn": "神秘之路",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Jeju Dongmun Market",
+      "name_cn": "东门传统市场",
+      "city_key": "jeju",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Korean Fish Specialty Meal"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Best Western Hotel or similar property",
+    "title": "SEOUL TO JEJU ISLAND - A DAY OF DISCOVERIES",
+    "title_cn": null,
+    "desc": "At the start of your day, a charter will whisk you away from your hotel to Gimpo International Airport, where a domestic flight awaits to fly you into the captivating world of Jeju Island. Here, you'll delve into the essence of Jeju's culture and beauty. Your exploration will encompass the awe-inspiring Yongduam Rock, the mystic Mysterious Road, the treasure trove of tradition at Jeju Folklore and Natural History Museum, and the bustling Dongmun Traditional Market. \n\r\n\n\r\n Accommodation: Best Western Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Seongeup Folk Village",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Cheonjiyeon / Cheonjeyeon Falls"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seongsan Ilchulbong (Sunrise Peak)",
+      "name_cn": "城山日出峰",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Seongeup Folk Village",
+      "name_cn": "城邑民俗村",
+      "city_key": "seogwipo",
+      "category": "village"
+     },
+     {
+      "name_en": "O'sulloc Tea Museum & Innisfree House",
+      "name_cn": "雪绿茶博物馆·悦诗风吟",
+      "city_key": "seogwipo",
+      "category": "museum"
+     },
+     {
+      "name_en": "Cheonjiyeon / Cheonjeyeon Falls",
+      "name_cn": "天地渊/天帝渊瀑布",
+      "city_key": "seogwipo",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: BBQ black pork",
+     "Dinner: Abalone specialty"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Best Western Hotel or similar property",
+    "title": "UNVEILING JEJU’S NATURAL WONDERS",
+    "title_cn": null,
+    "desc": "This day is dedicated to exploring the natural wonders of Jeju Island. You'll ascend to the summit of the UNESCO World Natural Heritage site known as \"Sunrise Peak\" at Seongsan Ilchulbong,\" where the panoramic view is a reward in itself. Following this, your journey continues with a visit to Seongeup Folk Village, a living testament to traditional Korean culture. The day is sprinkled with the joy of fruits picking (based on the fruits in season) at fruits orchard. You'll also have the opportunity to explore the fascinating columnar jointing formations at the Osulloc Tea Museum and finally experience the mesmerizing Cheonjiyeon Falls. \n\r\n\n\r\n Accommodation: Best Western Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Gamcheon Culture Village",
+     "BIFF Square & Nampo-dong",
+     "Myeongdong Shopping Street",
+     "Jagalchi Fish Market",
+     "Gukje Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gamcheon Culture Village",
+      "name_cn": "甘川洞文化村",
+      "city_key": "busan",
+      "category": "village"
+     },
+     {
+      "name_en": "BIFF Square & Nampo-dong",
+      "name_cn": "BIFF 广场·南浦洞",
+      "city_key": "busan",
+      "category": "district"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "Gukje Market",
+      "name_cn": "国际市场",
+      "city_key": "busan",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Korean Army Stew"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Hotel or Crown Harbor or similar property",
+    "title": "JEJU ISLAND TO BUSAN - A JOURNEY OF CONTRASTS",
+    "title_cn": null,
+    "desc": "A seamless transition takes you from Jeju Island to Busan as you board a domestic flight departing from Jeju International Airport and arriving at Gimhae International Airport. Busan, South Korea's second-largest city, promises a day of stark contrasts and captivating experiences. Your adventure includes a visit to the enchanting Gamcheon Cultural Village, known for its colorful houses and artistic charm. The Songdo Sky Walk provides breathtaking panoramic views of the cityscape. After lunch, dive into the vibrant energy of Nampo-dong (including BIFF Street, etc.) , often referred to as Busan's Myeongdong. Don't miss the chance to savor local delicacies at the popular Jagalchi Fish Market and explore the eclectic offerings of Gukje Market. \n\r\n\n\r\n Accommodation: Asti Hotel or Crown Harbor or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "BUSAN X the SKY (LCT)",
+     "Haedong Yonggungsa Temple",
+     "The Bay 101",
+     "Busan Yacht Tour",
+     "Shinsegae Centum City & Spaland"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+      "name_cn": "海云台蓝线公园（天空胶囊·海边列车）",
+      "city_key": "busan",
+      "category": "ride"
+     },
+     {
+      "name_en": "BUSAN X the SKY (LCT)",
+      "name_cn": "釜山 X the SKY 观景台",
+      "city_key": "busan",
+      "category": "observatory"
+     },
+     {
+      "name_en": "Haedong Yonggungsa Temple",
+      "name_cn": "海东龙宫寺",
+      "city_key": "busan",
+      "category": "temple"
+     },
+     {
+      "name_en": "The Bay 101",
+      "name_cn": "The Bay 101 海云台夜景",
+      "city_key": "busan",
+      "category": "district"
+     },
+     {
+      "name_en": "Busan Yacht Tour",
+      "name_cn": "釜山游艇",
+      "city_key": "busan",
+      "category": "ride"
+     },
+     {
+      "name_en": "Shinsegae Centum City & Spaland",
+      "name_cn": "新世界 Centum 城·Spaland",
+      "city_key": "busan",
+      "category": "outlet"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Tteokbokki Buffet"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Asti Hotel or Crown Harbor or similar property",
+    "title": "BUSAN’S COASTAL CHARMS",
+    "title_cn": null,
+    "desc": "The day begins with an enchanting exploration of Haeundae Blueline Park, your adventure continues with a ride on the Blueline Train to admire the natural beauty and tranquility of Haeundae beach. Next, explore Busan X The Sky, an awe-inspiring observation deck, offering unrivaled panoramic views of the cityscape and beyond. It's a must-visit spot for breathtaking vistas. Embark on a spiritual visit to Haedong Yonggungsa Temple perched on a cliff overlooking the sea. Stroll through the lively Haeundae Traditional Market, where the hustle and bustle of local life come alive with a rich array of vendors, street food, and traditional treasures waiting to be discovered. Bask in the modernity of The Bay 101, a chic waterfront complex with a yacht club, trendy shops & open-air bars & restaurants. Spend time shopping at Shinsegae Centum City, the largest department store recorded in the Guinness World Records. \n\r\n\n\r\n Accommodation: Asti Hotel or Crown Harbor or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "Flight",
+    "attractions": [
+     "Seongsu-dong",
+     "Myeongdong Shopping Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seongsu-dong",
+      "name_cn": "圣水洞",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Korean Ginseng Chicken Soup",
+     "Dinner: Bibimbap w/Seafood Pancake"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "title": "BUSAN TO SEOUL - A RETURN TO THE CAPITAL",
+    "title_cn": null,
+    "desc": "Bid farewell to Busan as you embark on a domestic flight from Gimhae International Airport to Seoul's Gimpo International Airport. Back in the capital, Seoul awaits with its blend of modernity and tradition. \n\r\n Your day unfolds with visits to unique destinations like RealWorld, an immersive mission-based gaming experience platform cum café (1x drink included per pax) in the charming Seongsu-dong, then explore the innovative shopping space of Common Ground, and the intriguing Space Wadiz, an offline platform for a hands-on experience with crowdfunding products. Visit Myeongdong, Seoul's bustling district, combines shopping, dining, and culture. By day, it's a shopper's paradise; by night, it's alive with street food and entertainment, offering a complete urban experience. \n\r\n\n\r\n Accommodation: Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Cheong Wa Dae (Blue House)",
+     "Ikseon-dong Hanok Street",
+     "Gwangjang Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gyeongbokgung Palace",
+      "name_cn": "景福宫",
+      "city_key": "seoul",
+      "category": "palace"
+     },
+     {
+      "name_en": "Cheong Wa Dae (Blue House)",
+      "name_cn": "青瓦台",
+      "city_key": "seoul",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Ikseon-dong Hanok Street",
+      "name_cn": "益善洞韩屋街",
+      "city_key": "seoul",
+      "category": "village"
+     },
+     {
+      "name_en": "Gwangjang Market",
+      "name_cn": "广藏市场",
+      "city_key": "seoul",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Gamjatang"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "title": "A JOURNEY THROUGH SEOUL’S HISTORIC AND CULTURAL TREASURES",
+    "title_cn": null,
+    "desc": "Delve into Seoul’s rich history and culture with visits to iconic landmarks such as Gyeongbokgung Palace, a historic filming hotspot, and the Blue House, the former presidential residence. Explore the world of authentic Korean ginseng, discovering traditional remedies and wellness products crafted from this revered root. Experience Korea’s innovative beauty scene at a skincare and cosmetics showroom, showcasing natural ingredients, effective products, and unique packaging. Wander through Ikseon-dong, a historic neighborhood of hanoks converted into cafes, shops, and cultural spaces, then conclude at Gwangjang Market, one of Seoul’s oldest markets, famous for its street food and textiles, offering a true taste of local life.\n\r\n\n\r\n Accommodation: Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Hanbok Dress-up Experience",
+     "Starfield Suwon"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Hanbok Dress-up Experience",
+      "name_cn": "韩服体验",
+      "city_key": "incheon",
+      "category": "experience"
+     },
+     {
+      "name_en": "Starfield Suwon",
+      "name_cn": "水原星空图书馆（Starfield）",
+      "city_key": "suwon",
+      "category": "outlet"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCHEON - SINGAPORE",
+    "title_cn": null,
+    "desc": "Your South Korean adventure culminates with a day of immersive cultural experiences. Explore Korean wellness centre that promotes liver health with natural ingredients like herbs and antioxidants, supporting detoxification and overall liver function. Engage in Korean culinary creativity with a hands-on food DIY experience . Craft and savor the beloved Gimbap as featured in \"The Extraordinary Attorney Woo\". Embrace the elegance of traditional Hanbok attire and capture unforgettable moments on cameras. The grand finale of your journey unfolds at Starfield Shopping Mall in Goyang, a world-class shopping destination. It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Embark on a premium journey through South Korea’s enchanting landscapes and vibrant culture. Discover the mystical Yongduam Rock in Jeju, a legendary volcanic formation resembling a dragon’s head, perched above the stunning azure sea. Immerse yourself in the vibrant colors and artistic spirit of the Gamcheon Cultural Village, a picturesque maze of alleyways adorned with captivating murals, perfect for art enthusiasts. And for a taste of Seoul’s contemporary scene, don’t miss the immersive mission-based gaming experience at Seongsu-dong’s Realworld."
+  ],
+  "remarks": "$18",
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 1
+   },
+   {
+    "name": "Best Western Hotel or similar property",
+    "city": "Jeju",
+    "city_key": "jeju",
+    "nights": 2
+   },
+   {
+    "name": "Asti Hotel or Crown Harbor or similar property",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 2
+   },
+   {
+    "name": "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 2
+   }
+  ]
+ },
+ {
+  "code": "KRKG09",
+  "site": "DYN",
+  "source": "dynastytravel.com.sg",
+  "url": "https://www.dynastytravel.com.sg/tour/the-korean-grand-tour",
+  "tour_type": "group_coach",
+  "style": "Premium small group",
+  "title_en": "THE KOREAN GRAND TOUR",
+  "title_cn": "韩国精致之旅",
+  "days": 9,
+  "nights": 7,
+  "season": null,
+  "price": {
+   "min": 4888.0,
+   "max": null,
+   "currency": "SGD",
+   "note": "站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Culture & History",
+   "Citylife",
+   "Photography"
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SINGAPORE - INCHEON",
+    "title_cn": null,
+    "desc": "Assemble at Singapore Changi Airport and check-in for your flight to Seoul, the starting point of your adventure.",
+    "desc_cn": null
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "D",
+    "meals_desc": [
+     "Dinner: Korean Ginseng Chicken"
+    ],
+    "stay": "Incheon",
+    "stay_key": "incheon",
+    "hotel": "Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "title": "INCHEON",
+    "title_cn": null,
+    "desc": "Arrive in Seoul and have dinner at a restaurant featured in the Michelin Guide, famous for its Samgyetang (ginseng chicken soup), accompanied by a variety of traditional Korean dishes. Check-in to hotel and enjoy the evening at leisure.\n\r\n\n\r\nAccommodation: Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Seoul",
+    "transport": "Flight",
+    "attractions": [
+     "Yongduam (Dragon Head Rock)",
+     "ARTE Museum Jeju",
+     "Jeju Dongmun Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Yongduam (Dragon Head Rock)",
+      "name_cn": "龙头岩",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "ARTE Museum Jeju",
+      "name_cn": "ARTE 光影美术馆（济州/釜山/江陵/丽水均有）",
+      "city_key": "jeju",
+      "category": "museum"
+     },
+     {
+      "name_en": "Jeju Dongmun Market",
+      "name_cn": "东门传统市场",
+      "city_key": "jeju",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Jeju Black Pork BBQ"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Grand Hyatt or similar property",
+    "title": "SEOUL - GIMPO - JEJU ISLAND",
+    "title_cn": null,
+    "desc": "Board a domestic flight to Jeju Island and begin with Yongduam Rock, or Dragon Head Rock, a natural formation shaped like a dragon’s head. Explore ARTE Museum, Korea’s largest interactive multimedia art exhibition, featuring immersive galleries inspired by tropical rainforests, swamps, and outer space, engaging sight, sound, and scent for a truly sensory experience. Finish the day at Dongmun Traditional Market, Jeju’s oldest and largest market, offering a vibrant mix of local delicacies, fresh seafood, and unique merchandise.\n\r\n\n\r\nAccommodation: Grand Hyatt or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Jeongbang Waterfall"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seongsan Ilchulbong (Sunrise Peak)",
+      "name_cn": "城山日出峰",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Jeongbang Waterfall",
+      "name_cn": "正房瀑布",
+      "city_key": "seogwipo",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Hairtail Set Meal",
+     "Dinner: Jeju Donbe Noodle Set"
+    ],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": "Grand Hyatt or similar property",
+    "title": "JEJU ISLAND",
+    "title_cn": null,
+    "desc": "Seongsan Ilchulbong (Sunrise Peak), a 5,000-year-old UNESCO volcanic crater, offers some of Jeju’s most beautiful sunrise views. The island’s rich farmland also makes it perfect for seasonal fruit picking directly from local orchards. For a taste of Jeju’s creativity, enjoy a unique pizza-making workshop featuring island ingredients like Jeju pork ham and beet butter. The journey concludes at Jeongbang Waterfall—the only waterfall in Korea that drops straight into the sea—set against scenic coastal trails and dramatic ocean views.\n\r\n\n\r\n Accommodation: Grand Hyatt or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Taejongdae",
+     "Gamcheon Culture Village",
+     "BIFF Square & Nampo-dong",
+     "Jagalchi Fish Market",
+     "Busan Tower (Yongdusan Park)",
+     "Bupyeong Kkangtong Night Market"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Taejongdae",
+      "name_cn": "太宗台",
+      "city_key": "busan",
+      "category": "nature"
+     },
+     {
+      "name_en": "Gamcheon Culture Village",
+      "name_cn": "甘川洞文化村",
+      "city_key": "busan",
+      "category": "village"
+     },
+     {
+      "name_en": "BIFF Square & Nampo-dong",
+      "name_cn": "BIFF 广场·南浦洞",
+      "city_key": "busan",
+      "category": "district"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "Busan Tower (Yongdusan Park)",
+      "name_cn": "釜山塔（龙头山公园）",
+      "city_key": "busan",
+      "category": "observatory"
+     },
+     {
+      "name_en": "Bupyeong Kkangtong Night Market",
+      "name_cn": "富平罐头夜市",
+      "city_key": "busan",
+      "category": "market"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Special Pork Rice Soup"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Lotte Hotel or similar property",
+    "title": "JEJU ISLAND - BUSAN",
+    "title_cn": null,
+    "desc": "Board a domestic flight to Busan and explore its scenic and cultural highlights. Visit Taejongdae, a coastal park with stunning cliffs and greenery, best enjoyed on the Danubi Train for a leisurely tour of its picturesque spots. Wander through Gamcheon Cultural Village, the “Machu Picchu of Busan,” with vibrant murals, sculptures, and winding streets. Discover the bustling Nampo-dong district, home to street markets, dining options, and landmarks like Jagalchi Fish Market, BIFF Square, and Yongdusan Park. Explore Bupyeong Kkangtong Market for unique secondhand and vintage finds, then end the day at Jagalchi Market, where fresh seafood can be purchased and prepared on the spot.\n\r\n\n\r\nAccommodation: Lotte Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Shinsegae Centum City & Spaland",
+     "Jjimjilbang (Korean Sauna)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+      "name_cn": "海云台蓝线公园（天空胶囊·海边列车）",
+      "city_key": "busan",
+      "category": "ride"
+     },
+     {
+      "name_en": "Shinsegae Centum City & Spaland",
+      "name_cn": "新世界 Centum 城·Spaland",
+      "city_key": "busan",
+      "category": "outlet"
+     },
+     {
+      "name_en": "Jjimjilbang (Korean Sauna)",
+      "name_cn": "汗蒸幕",
+      "city_key": "busan",
+      "category": "experience"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Fugu Special Set Meal"
+    ],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Lotte Hotel or similar property",
+    "title": "BUSAN",
+    "title_cn": null,
+    "desc": "Visit Beomeosa Temple, a historic 7th-century Buddhist site renowned for its stunning architecture, serene mountain setting, and cultural significance. Stroll along Haeundae Blueline Park, a coastal trail with scenic beach and ocean views, best enjoyed on a leisurely train ride through the landscape. Relax at The Spaland, a luxurious jjimjilbang (Korean sauna and spa) inside Shinsegae Centum City, the world’s largest department store. End the day exploring Ppangcheon-dong, a vibrant neighborhood famous for its street food, offering a variety of breads, pastries, and local snacks from lively vendors and small shops.\n\r\n\n\r\nAccommodation: Lotte Hotel or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "Flight",
+    "attractions": [
+     "Insadong & Ssamziegil",
+     "N Seoul Tower (Namsan)",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Insadong & Ssamziegil",
+      "name_cn": "仁寺洞·森吉街",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "N Seoul Tower (Namsan)",
+      "name_cn": "N首尔塔（南山塔）",
+      "city_key": "seoul",
+      "category": "observatory"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "Cosmetics Shop",
+      "name_cn": "化妆品店",
+      "city_key": "seoul",
+      "category": "shopstop"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BL",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Gamjatang (Pork Backbone Potato Soup)"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "title": "BUSAN - GIMPO - SEOUL",
+    "title_cn": null,
+    "desc": "Board a domestic flight to Gimpo Airport to return to Seoul and explore the city’s vibrant highlights. Begin in Insa-dong, a neighborhood rich in traditional culture and arts, where you can create personalized stamps through a seal stone engraving experience. Visit N Seoul Tower atop Namsan Mountain for panoramic views of the city from the iconic 236.7-meter landmark. Conclude the day in Myeongdong, a bustling shopping district filled with trendy boutiques, cosmetics shops, and street food vendors, perfect for fashion, snacks, and the lively urban atmosphere.\n\r\n\n\r\nAccommodation: Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gyeongbokgung Palace",
+      "name_cn": "景福宫",
+      "city_key": "seoul",
+      "category": "palace"
+     },
+     {
+      "name_en": "Ikseon-dong Hanok Street",
+      "name_cn": "益善洞韩屋街",
+      "city_key": "seoul",
+      "category": "village"
+     },
+     {
+      "name_en": "Hongdae (Hongik Univ. Street)",
+      "name_cn": "弘大",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "BLD",
+    "meals_desc": [
+     "Breakfast: Hotel",
+     "Lunch: Hanjeongsik",
+     "Dinner: Pojangmacha Food Stall Experience"
+    ],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": "Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "title": "SEOUL",
+    "title_cn": null,
+    "desc": "Visit Gyeongbokgung Palace, the largest Joseon Dynasty royal palace and an iconic site often featured in historic Korean films. Enjoy lunch at a serene restaurant nestled in Seoul’s picturesque hills, offering traditional architecture, garden views, and a cultural dining experience. Stroll through Ikseon-dong, a charming neighborhood of narrow alleys and hanoks converted into modern cafes, shops, and restaurants, and savor a relaxing afternoon tea at a hanok-style café. End the day in Hongdae, a vibrant district known for its indie music, underground culture, clubs, and lively entertainment scene.\n\r\n\n\r\nAccommodation: Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "desc_cn": null
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Starfield Suwon"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Starfield Suwon",
+      "name_cn": "水原星空图书馆（Starfield）",
+      "city_key": "suwon",
+      "category": "outlet"
+     }
+    ],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [
+     "Breakfast: Hotel"
+    ],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "SEOUL - INCHEON - SINGAPORE",
+    "title_cn": null,
+    "desc": "Spend your final day of adventure at a Starfield Shopping Mall in Goyang, where you can enjoy last-minute shopping. After that, transfer to the airport for your flight. It is time to bid farewell to South Korea and travel home with fond memories of the sights, sounds and stories we have collected on this incredible journey. We hope that you have had an enjoyable holiday with Dynasty Travel and look forward to our next trip together!",
+    "desc_cn": null
+   }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "highlights": [
+   "Embark on a premium journey through South Korea’s enchanting landscapes and vibrant culture. Discover the mystical Yongduam Rock in Jeju, a legendary volcanic formation resembling a dragon’s head, perched above the stunning azure sea. Immerse yourself in the vibrant colors and artistic spirit of the Gamcheon Cultural Village, a picturesque maze of alleyways adorned with captivating murals, perfect for art enthusiasts. And for a taste of Seoul’s contemporary scene, don’t miss the immersive mission-based gaming experience at Seongsu-dong’s Realworld."
+  ],
+  "remarks": "The itinerary is designed based on SQ departure. For KE or OZ departure, the 9D7N itinerary will have with a different sequence of destinations and activities, and it will also include a day of free & easy exploration on D7. \n\r\n In the event of bad weather, natural disasters, pandemic or unforeseen circumstances, itineraries or activities may be replaced or cancelled with/without prior notice for safety considerations. \n\r\n Tour sequence, domestic flight, hotels and meals are subject to change with/without prior notice.",
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "city": "Incheon",
+    "city_key": "incheon",
+    "nights": 1
+   },
+   {
+    "name": "Grand Hyatt or similar property",
+    "city": "Jeju",
+    "city_key": "jeju",
+    "nights": 2
+   },
+   {
+    "name": "Lotte Hotel or similar property",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 2
+   },
+   {
+    "name": "Lotte Myeongdong (Main Tower) / Westin Josun or similar property",
+    "city": "Seoul",
+    "city_key": "seoul",
+    "nights": 2
+   }
+  ]
+ }
+]

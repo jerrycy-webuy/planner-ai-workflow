@@ -1,0 +1,360 @@
+﻿region_cn,city,city_cn,name_en,name_cn,category,level,tour_count,families,tours
+,arriveinsingapore,,Kimchi-making Experience,腌泡菜体验,体验,可选,1,K07,KR8SVG
+,gangwon_region,,Ski Resort (snow activities),滑雪场（雪地活动）,滑雪场,核心,7,K01 K05 K06 K07,KR6NST KR8RWG KR8SEG KR8SVG KR8BSG KRICNW KRWSKW
+,gangwon_region,,Alpaca World,羊驼世界,农场/采摘,常见,2,K03 K07,KRWSKW KJJS09
+,singapore,,Healthy Liver Showroom,护肝宝店,团队购物站,核心,23,K01 K03 K04 K05 K06 K07 K08 K11 K13 K14,KR8RWG KR8SEG KR8GAG KR8GKG KR8IG KR8PQG KR8SNG KR8GEG KR8FMG KR8BKG KR8SVG KR8BSG KR8BG KR8UG KR10EG KR8YYG KR6JMG KRBBUW KRBBFS KRWSKW KRJBTS KRJBUS KRSRAS
+忠清道,Asan,牙山,Asan Oeam Folk Village,牙山外岩民俗村,传统村落/韩屋村,可选,0,,
+忠清道,Boeun,报恩,Beopjusa Temple,法住寺,寺庙,常见,2,K03 K08 K13,KR8UG KR10EG
+忠清道,Boeun,报恩,White Dandelion Village (Boeun),报恩白蒲公英村,体验,常见,2,K03 K08 K13,KR8UG KR10EG
+忠清道,Boryeong,保宁,Boryeong Mud Festival / Daecheon Beach,保宁泥浆节·大川海水浴场,节庆/季节限定,可选,1,K13,KRDB06
+忠清道,Buyeo,扶余,Buyeo Baekje Historic Areas,扶余百济历史遗迹区,史迹/世界遗产,常见,2,K03 K08 K13,KR10EG KRDB06
+忠清道,Buyeo,扶余,Baekmagang River Hwangpo Sailboat,白马江黄布帆船,缆车/游船/小火车,可选,1,K13,KRDB06
+忠清道,Buyeo,扶余,Scalp Care Clinic,头皮护理体验,团队购物站,可选,1,K13,KRDB06
+忠清道,Cheongju,清州,Cheongnamdae,青南台,史迹/世界遗产,可选,1,K13,KRDB06
+忠清道,Chungju,忠州,Chungju Lake / Tangeumdae,忠州湖·弹琴台,自然风景,可选,0,,
+忠清道,Chungju,忠州,Suanbo Hot Spring,水安堡温泉,体验,可选,0,,
+忠清道,Daejeon,大田,Daejeon Eunhaeng-dong / Soje-dong,大田银杏洞·苏堤洞,街区/商圈,可选,1,K13,KRDB06
+忠清道,Daejeon,大田,Daejeon Expo Science Park,大田世博科学公园,公园/花园/树木园,可选,1,K13,KRDB06
+忠清道,Daejeon,大田,Daejeon Shinsegae Art & Science,大田新世界 Art & Science,奥特莱斯/商场,可选,1,K13,KRDB06
+忠清道,Daejeon,大田,Gyejoksan Red Clay Trail,鸡足山黄土路,自然风景,可选,1,K13,KRDB06
+忠清道,Daejeon,大田,Korean Chuna Therapy,韩式推拿,体验,可选,1,K13,KRDB06
+忠清道,Daejeon,大田,Sungsimdang Bakery,圣心堂面包,传统市场,可选,1,K13,KRDB06
+忠清道,Daejeon,大田,Jangtaesan Recreational Forest,长泰山休养林,自然风景,可选,0,,
+忠清道,Danyang,丹阳,Danyang Dodamsambong & Mancheonha Skywalk,丹阳岛潭三峰·万天下天空步道,自然风景,可选,1,K06,KR8SNG
+忠清道,Gongju,公州,Gongju Gongsanseong & Tomb of King Muryeong,公州公山城·武宁王陵,史迹/世界遗产,核心,4,K08 K12,KRAT09 KTE-RT7 KTE-W4 KTE-UK16
+忠清道,Jecheon,堤川,Cheongpung Lake Cable Car,清风湖缆车,缆车/游船/小火车,可选,1,K06,KR8SNG
+忠清道,Jecheon,堤川,Oksunbong Peak Suspension Bridge,玉筍峰出口吊桥,观景台/塔,可选,1,K06,KR8SNG
+忠清道,Jecheon,堤川,Woraksan National Park,月岳山国立公园,自然风景,可选,1,K06,KR8SNG
+忠清道,Jincheon,镇川,Jincheon Nongdari Bridge,镇川农桥,史迹/世界遗产,可选,1,K06,KRBBUW
+忠清道,Seosan,瑞山,Apple Farm & DIY Apple Pie,苹果农场·苹果派 DIY,农场/采摘,常见,2,K03 K08 K13,KR8UG KR10EG
+忠清道,Seosan,瑞山,Haemieupseong Fortress,海美邑城,史迹/世界遗产,可选,1,K08 K13,KR8UG
+忠清道,Taean,泰安,Taean Thalassotherapy & Tulip Festival,泰安海洋疗养·郁金香节,体验,可选,1,K08 K13,KR8UG
+忠清道,Yesan,礼山,Yedang Lake Suspension Bridge,礼唐湖出口吊桥,观景台/塔,常见,2,K03 K08 K13,KR8UG KR10EG
+江原道,Cheorwon,铁原,Goseokjeong Flower Garden (Cheorwon),高石亭花园（铁原）,公园/花园/树木园,可选,1,K07,KR8FMG
+江原道,Chuncheon,春川,Samaksan Lake Cable Car,三岳山湖缆车,缆车/游船/小火车,常见,2,K01,KGYE09 KGYE08
+江原道,Chuncheon,春川,Chuncheon Myeongdong Dakgalbi Street,春川明洞辣炒鸡排街,街区/商圈,可选,1,K03,KR8TGG
+江原道,Chuncheon,春川,Gimyujeong Rail Bike,金裕贞铁路自行车,缆车/游船/小火车,可选,1,K03 K08,KR10EG
+江原道,Chuncheon,春川,Elysian Gangchon,江村伊利森滑雪场,滑雪场,可选,0,,
+江原道,Chuncheon,春川,Gangchon Rail Park,江村铁路自行车,缆车/游船/小火车,可选,0,,
+江原道,Chuncheon,春川,Legoland Korea,乐高乐园,主题乐园,可选,0,,
+江原道,Chuncheon,春川,Soyang River Skywalk,昭阳江天空步道,观景台/塔,可选,0,,
+江原道,Donghae,东海,Cheongok Cave,天谷洞窟,自然风景,可选,1,K14,KTE-GW2
+江原道,Donghae,东海,Chuam Candlestick Rock,湫岩烛台岩,自然风景,可选,1,K14,KTE-GW2
+江原道,Donghae,东海,Mukho Port & Nongoldam-gil,墨湖港·论谷潭路,街区/商圈,可选,1,K14,KTE-GW2
+江原道,Gangneung,江陵,Anmok Beach Café Street,安木海边咖啡街,网红咖啡/拍照点,核心,4,K07 K14,KR8RWG KR8FMG KR8BG KTE-GW2
+江原道,Gangneung,江陵,Haslla Art World,哈瑟拉艺术世界,博物馆/美术馆,核心,4,K07,KR8RWG KR8FMG KR8SVG KR8BG
+江原道,Gangneung,江陵,INART Museum,INART 美术馆,博物馆/美术馆,常见,3,K03 K06 K07 K14,KR8PQG KR8BSG KR8BG
+江原道,Gangneung,江陵,Jeongdongjin (Rail Bike & Station),正东津（铁路自行车）,缆车/游船/小火车,常见,3,K07 K14,KR8FMG KR8SVG KTE-GW2
+江原道,Gangneung,江陵,Spoon Mapping Café,Spoon Mapping 咖啡,网红咖啡/拍照点,常见,3,K03 K06 K07 K14,KR8PQG KR8FMG KR8BSG
+江原道,Gangneung,江陵,Gangneung Jungang Market,江陵中央市场,传统市场,常见,2,K07 K14,KR8FMG KTE-GW2
+江原道,Gangneung,江陵,Gyeongpodae & Gyeongpo Beach,镜浦台·镜浦海边,海岸/海滩,常见,2,K07 K14,KR8BG KTE-GW2
+江原道,Gangneung,江陵,Heo Gyun & Heo Nanseolheon Memorial Park,许筠许兰雪轩纪念公园,史迹/世界遗产,可选,1,K07,KR8BG
+江原道,Gangneung,江陵,Ojukheon House,乌竹轩,史迹/世界遗产,可选,1,K14,KTE-GW2
+江原道,Gangneung,江陵,Seongyojang House,船桥庄,史迹/世界遗产,可选,1,K07,KR8RWG
+江原道,Gangneung,江陵,Jumunjin (BTS Bus Stop),注文津（BTS 公交站）,海岸/海滩,可选,0,,
+江原道,Hoengseong,横城,Welli Hilli Park,Welli Hilli 滑雪场,滑雪场,常见,2,K07,KR6NST KR8SVG
+江原道,Hongcheon,洪川,Hongcheon Ginkgo Forest,洪川银杏林,自然风景,可选,0,,
+江原道,Hongcheon,洪川,Sono Vivaldi Park,大明维瓦尔第滑雪场,滑雪场,可选,0,,
+江原道,Hwacheon,华川,Hwacheon Sancheoneo Ice Festival,华川山鳟鱼冰钓节,节庆/季节限定,可选,0,,
+江原道,Jeongseon,旌善,High1 Resort,High1 滑雪场,滑雪场,可选,1,K03,KR8TGG
+江原道,Jeongseon,旌善,Jeongseon Rail Bike,旌善铁路自行车,缆车/游船/小火车,可选,1,K03,KR8TGG
+江原道,Nami Island,南怡岛,Nami Island,南怡岛,海岛,核心,10,K02 K03 K07 K08 K12,KR6NST KR8RWG KR8FMG KR8SVG KR8TGG CB-8885 KR6FGT KR10EG KRWSKW KTE-UK16
+江原道,Pyeongchang,平昌,Mt Balwang Cable Car (Yongpyong),发旺山缆车,缆车/游船/小火车,核心,7,K03 K05 K06 K07 K08 K13 K14,KR8RWG KR8SEG KR8PQG KR8FMG KR8BSG KR8BG KR8UG
+江原道,Pyeongchang,平昌,Yongpyong Resort,龙平滑雪度假村,滑雪场,核心,4,K03 K05 K08 K13 K14,KR8SEG KR8PQG KR8UG KR10EG
+江原道,Pyeongchang,平昌,Daegwallyeong Sky Ranch,大关岭天空牧场,农场/采摘,常见,3,K03 K07 K14,KR8PQG KR8FMG KR8BG
+江原道,Pyeongchang,平昌,Woljeongsa Temple & Fir Forest Road,月精寺·冷杉林路,寺庙,常见,3,K03 K07 K14,KR8PQG KR8FMG KR8BG
+江原道,Pyeongchang,平昌,Ginkgo Trees,银杏,节庆/季节限定,可选,1,K07,KR8FMG
+江原道,Pyeongchang,平昌,Mmango Museum,Mmango 博物馆,博物馆/美术馆,可选,1,K07,KR8FMG
+江原道,Pyeongchang,平昌,Alpensia Resort,阿尔卑西亚度假村,滑雪场,可选,0,,
+江原道,Pyeongchang,平昌,Phoenix Pyeongchang,凤凰平昌滑雪场,滑雪场,可选,0,,
+江原道,Pyeongchang,平昌,Woljeongsa Fir Forest Road,月精寺冷杉林路,自然风景,可选,0,,
+江原道,Samcheok,三陟,Samcheok Ocean Cable Car,三陟海洋缆车,缆车/游船/小火车,可选,0,,
+江原道,Sokcho,束草,Seoraksan National Park & Gwongeumseong Cable Car,雪岳山国立公园·权金城缆车,自然风景,核心,5,K07 K12,KR8SVG KRWSKW KTE-RT7 KTE-E4 KTE-UK16
+江原道,Sokcho,束草,Daepohang Fishery Market,大浦港水产市场,传统市场,可选,1,K07,KR8SVG
+江原道,Sokcho,束草,Sokcho Jungang Market & Abai Village,束草中央市场·阿爸村,传统市场,可选,0,,
+江原道,Wonju,原州,Sogeumsan Suspension Bridge (Wonju),小金山出口吊桥,观景台/塔,可选,1,K06,KRBBUW
+江原道,Yangyang,襄阳,Naksansa Temple,洛山寺,寺庙,可选,0,,
+江原道,Yeongwol,宁越,Yeongwol Y Park & Hanbando Terrain,宁越 Y Park,公园/花园/树木园,可选,1,K05,KR8SEG
+庆尚北道·大邱,Andong,安东,Andong Hahoe Folk Village,安东河回村,传统村落/韩屋村,常见,3,K12,KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Andong,安东,Andong Confucian Academies / Woryeonggyo,安东书院·月映桥,史迹/世界遗产,可选,0,,
+庆尚北道·大邱,Cheongdo,清道,Cheongdo Wine Tunnel,清道红酒隧道,体验,可选,0,,
+庆尚北道·大邱,Daegu,大邱,Dongseongno (Daegu),东城路（大邱）,街区/商圈,核心,6,K05 K06,KR8SEG KR8GAG KR8GKG KR8SNG KR8GEG KR8BKG
+庆尚北道·大邱,Daegu,大邱,Palgongsan & Donghwasa Temple,八公山·桐华寺,寺庙,核心,4,K05 K06,KR8GKG KR8GEG KR8BKG KRBBFS
+庆尚北道·大邱,Daegu,大邱,Daegu Korean Traditional Culture Center,大邱传统文化体验馆,体验,常见,3,K12,KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Daegu,大邱,E-World & 83 Tower,E-World·83塔,主题乐园,可选,1,K05,KR8BKG
+庆尚北道·大邱,Daegu,大邱,Daegu Spa Valley,大邱 Spa Valley,主题乐园,可选,0,,
+庆尚北道·大邱,Daegu,大邱,Kim Kwang-seok Street,金光石街,街区/商圈,可选,0,,
+庆尚北道·大邱,Daegu,大邱,Seomun Market,西门市场,传统市场,可选,0,,
+庆尚北道·大邱,Gyeongju,庆州,Bulguksa Temple,佛国寺,寺庙,核心,7,K06 K10 K12,KR8BSG KR5BJT CB-8546 KRBBFS KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Gyeongju,庆州,Donggung Palace & Wolji Pond,东宫与月池（雁鸭池）,史迹/世界遗产,核心,6,K06 K10 K12,KR8BSG CB-8546 KRBBUW KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Gyeongju,庆州,Daereungwon Tomb Complex,大陵苑,史迹/世界遗产,核心,5,K06 K10 K12,KR5BJT KRBBFS KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Gyeongju,庆州,Cheomseongdae Observatory,瞻星台,史迹/世界遗产,核心,4,K06 K12,KRBBFS KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Gyeongju,庆州,Gyeongju National Museum,国立庆州博物馆,博物馆/美术馆,常见,3,K12,KTE-RT7 KTE-E4 KTE-UK16
+庆尚北道·大邱,Gyeongju,庆州,Gyochon Hanok Village,校村韩屋村,传统村落/韩屋村,常见,2,K06 K10,KR8BSG KR5BJT
+庆尚北道·大邱,Gyeongju,庆州,Hwangnidan-gil,皇理团路,街区/商圈,常见,2,K06,KR8BSG KRBBFS
+庆尚北道·大邱,Gyeongju,庆州,Woljeonggyo Bridge,月精桥,史迹/世界遗产,常见,2,K06 K10,KR5BJT KRBBUW
+庆尚北道·大邱,Gyeongju,庆州,Seokguram Grotto,石窟庵,寺庙,可选,1,K06,KR8BSG
+庆尚北道·大邱,Gyeongju,庆州,Yangdong Folk Village,良洞民俗村,传统村落/韩屋村,可选,1,K10,CB-8546
+庆尚北道·大邱,Gyeongju,庆州,Bomun Lake Resort,普门湖,公园/花园/树木园,可选,0,,
+庆尚北道·大邱,Gyeongju,庆州,Gyeongju World,庆州世界乐园,主题乐园,可选,0,,
+庆尚北道·大邱,Mungyeong,闻庆,Mungyeong Saejae Provincial Park & Drama Set,闻庆鸟岭·电视剧拍摄地,自然风景,可选,1,K06,KRBBUW
+庆尚北道·大邱,Pohang,浦项,Hwanho Park Space Walk,环湖公园太空漫步,观景台/塔,常见,2,K06,KR8SNG KRBBUW
+庆尚北道·大邱,Pohang,浦项,Guryongpo Japanese House Street,九龙浦日式房屋街,街区/商圈,可选,1,K06,KRBBUW
+庆尚北道·大邱,Pohang,浦项,Homigot Sunrise Square,虎尾串日出广场,观景台/塔,可选,1,K06,KR8SNG
+庆尚北道·大邱,Pohang,浦项,Jukdo Market,竹岛市场,传统市场,可选,0,,
+庆尚北道·大邱,Ulleungdo,郁陵岛,Ulleungdo & Dokdo,郁陵岛·独岛,海岛,可选,1,K14,KTE-ULL3
+庆尚北道·大邱,Yeongju,荣州,Yeongju Buseoksa Temple,荣州浮石寺,寺庙,可选,0,,
+庆尚南道·釜山·蔚山,Busan,釜山,Gamcheon Culture Village,甘川洞文化村,传统村落/韩屋村,核心,17,K04 K05 K06 K09 K10,KR8SEG KR8GAG KR8GKG KR8SNG KR8GEG KR8BKG KR8BSG KR5BJT KR5BGT CB-8546 KRBBUW KRBBFS KRJBTS KRJBUS KBJC09 KRKA09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,Haeundae Blue Line Park (Sky Capsule & Beach Train),海云台蓝线公园（天空胶囊·海边列车）,缆车/游船/小火车,核心,17,K03 K04 K05 K06 K09 K10,KR8GAG KR8GKG KR8SNG KR8GEG KR8BKG KR8BSG KR5BJT KR5BGT KR8TGG KRBBUW KRBBFS KRJBTS KRJBUS KBJC09 KGUB09 KRKA09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,BIFF Square & Nampo-dong,BIFF 广场·南浦洞,街区/商圈,核心,16,K04 K05 K06 K09 K10,KR8SEG KR8SNG KR8BKG CB-316692 KR8BSG KR5BJT KR5BGT CB-8546 KRBBUW KRBBFS KRJBTS KRJBUS KBJC09 KGUB09 KRKA09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,Premium Outlet,名品奥特莱斯,奥特莱斯/商场,核心,11,K01 K04 K06 K10 K13,KR8SNG KR5BJT KR5BGT CB-8546 KRICNW KRBBFS KRJBUS KRSRAS KGYE09 KRDB06 KGYE08
+庆尚南道·釜山·蔚山,Busan,釜山,Cheongsapo Daritdol Skywalk,青沙浦踏石展望台,观景台/塔,核心,10,K03 K04 K05 K06 K09,KR8GAG KR8BKG KR8BSG KR8TGG KRBBUW KRBBFS KRJBTS KRJBUS KBJC09 KGUB09
+庆尚南道·釜山·蔚山,Busan,釜山,Haedong Yonggungsa Temple,海东龙宫寺,寺庙,核心,10,K04 K06 K09 K10,KR8SNG CB-316692 KR8BSG KR5BJT KR5BGT KRBBFS KRJBTS KRJBUS KBJC09 KRKA09
+庆尚南道·釜山·蔚山,Busan,釜山,Songdo Marine Cable Car (Busan Air Cruise),松岛海上缆车,缆车/游船/小火车,核心,9,K04 K05 K06 K10 K12,KR8BKG KR5BJT KR5BGT KRBBUW KRBBFS KRJBUS KTE-RT7 KTE-E4 KTE-UK16
+庆尚南道·釜山·蔚山,Busan,釜山,Jagalchi Fish Market,札嘎其鱼市场,传统市场,核心,8,K04 K09 K10 K12,CB-8546 KBJC09 KGUB09 KRKA09 KRKG09 KTE-RT7 KTE-E4 KTE-UK16
+庆尚南道·釜山·蔚山,Busan,釜山,KTX High-speed Train,KTX 高铁,缆车/游船/小火车,核心,8,K04 K06 K08,KR8SNG CB-316692 KR8BSG KR8YYG KRBBUW KRBBFS KRJBTS KRJBUS
+庆尚南道·釜山·蔚山,Busan,釜山,Gukje Market,国际市场,传统市场,核心,6,K04 K05 K06 K10,KR8SNG KR8BKG KR8BSG KR5BJT KR5BGT KRKA09
+庆尚南道·釜山·蔚山,Busan,釜山,Dongbaek Island & Nurimaru APEC House,冬柏岛·APEC世峰楼,公园/花园/树木园,核心,5,K10 K12,KR5BJT KR5BGT KTE-RT7 KTE-E4 KTE-UK16
+庆尚南道·釜山·蔚山,Busan,釜山,Oryukdo Skywalk,五六岛天空步道,观景台/塔,核心,5,K05 K09 K10,KR8SEG KR5BJT KR5BGT CB-8546 KGUB09
+庆尚南道·釜山·蔚山,Busan,釜山,BUSAN X the SKY (LCT),釜山 X the SKY 观景台,观景台/塔,核心,4,K04 K06,KR8SNG KRJBTS KRJBUS KRKA09
+庆尚南道·釜山·蔚山,Busan,釜山,Busan Tower (Yongdusan Park),釜山塔（龙头山公园）,观景台/塔,核心,4,K04 K05 K10,KR8BKG CB-316692 CB-8546 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,CLUBD OASIS (Spa),CLUBD OASIS 水疗,体验,核心,4,K04 K06 K09,KRBBUW KRJBTS KRJBUS KGUB09
+庆尚南道·釜山·蔚山,Busan,釜山,Gwangalli Beach & Gwangan Bridge,广安里海滩·广安大桥,海岸/海滩,核心,4,K06 K09 K10,CB-8546 KRBBUW KRBBFS KBJC09
+庆尚南道·釜山·蔚山,Busan,釜山,Taejongdae,太宗台,自然风景,核心,4,K04 K09 K10,CB-8546 KBJC09 KGUB09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,The Bay 101,The Bay 101 海云台夜景,街区/商圈,核心,4,K04 K09 K10,CB-8546 KRJBUS KBJC09 KRKA09
+庆尚南道·釜山·蔚山,Busan,釜山,Bupyeong Kkangtong Night Market,富平罐头夜市,传统市场,常见,3,K04 K09 K10,CB-8546 KBJC09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,Busan Yacht Tour,釜山游艇,缆车/游船/小火车,常见,3,K04 K06 K09,KR8SNG KBJC09 KRKA09
+庆尚南道·釜山·蔚山,Busan,釜山,Jjimjilbang (Korean Sauna),汗蒸幕,体验,常见,3,K04 K06 K09,KRBBUW KGUB09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,Shinsegae Centum City & Spaland,新世界 Centum 城·Spaland,奥特莱斯/商场,常见,3,K04 K09,KBJC09 KRKA09 KRKG09
+庆尚南道·釜山·蔚山,Busan,釜山,UN Memorial Cemetery,联合国纪念公园,史迹/世界遗产,常见,3,K12,KTE-RT7 KTE-W4 KTE-UK16
+庆尚南道·釜山·蔚山,Busan,釜山,Busan Fireworks Festival,釜山烟花节,节庆/季节限定,可选,1,K06,KRBBFS
+庆尚南道·釜山·蔚山,Busan,釜山,Busan Subway Experience,釜山地铁体验,体验,可选,1,K06,KR8SNG
+庆尚南道·釜山·蔚山,Busan,釜山,Haeundae Beach,海云台海水浴场,海岸/海滩,可选,1,,CB-316692
+庆尚南道·釜山·蔚山,Busan,釜山,Hydrangea Viewing,赏绣球花,节庆/季节限定,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Busan,釜山,Igidae / Igari Anchor Observatory,二妓台·锚形展望台,观景台/塔,可选,1,K06,KRBBUW
+庆尚南道·釜山·蔚山,Busan,釜山,Seomyeon & Jeonpo Café Street,西面·田浦咖啡街,街区/商圈,可选,1,K09,KBJC09
+庆尚南道·釜山·蔚山,Busan,釜山,Songdo Beach,松岛海水浴场,海岸/海滩,可选,1,K05,KR8BKG
+庆尚南道·釜山·蔚山,Busan,釜山,Songdo Yonggung Suspension Bridge,松岛龙宫云桥,观景台/塔,可选,1,K05,KR8BKG
+庆尚南道·釜山·蔚山,Busan,釜山,Huinnyeoul Culture Village,白浅滩文化村,传统村落/韩屋村,可选,0,,
+庆尚南道·釜山·蔚山,Busan,釜山,Lotte Premium Outlet Dongbusan,乐天名品奥特莱斯（东釜山）,奥特莱斯/商场,可选,0,,
+庆尚南道·釜山·蔚山,Busan,釜山,Lotte World Adventure Busan,釜山乐天世界,主题乐园,可选,0,,
+庆尚南道·釜山·蔚山,Busan,釜山,Skyline Luge Busan,Skyline 斜坡滑车,缆车/游船/小火车,可选,0,,
+庆尚南道·釜山·蔚山,Changwon (Jinhae),昌原（镇海）,Jinhae Gunhangje Cherry Blossom Festival,镇海军港节樱花（余佐川·庆和站）,节庆/季节限定,常见,3,K05 K09,KR8BKG KBJC09 KGUB09
+庆尚南道·釜山·蔚山,Geoje,巨济,Geoje Windy Hill & Oedo Botania,巨济风之丘·外岛,海岛,可选,1,K10,KR5BGT
+庆尚南道·釜山·蔚山,Gimhae,金海,Gimhae Gaya Theme Park,金海伽倻主题公园,史迹/世界遗产,可选,0,,
+庆尚南道·釜山·蔚山,Hadong,河东,Hadong (Green Tea & Choi Champan House),河东（绿茶·崔参判宅）,传统村落/韩屋村,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Hadong,河东,Hadong Samseonggung & Hwagae Market,河东三圣宫·花开市场,史迹/世界遗产,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Jinju,晋州,Jinju Fortress,晋州城,史迹/世界遗产,可选,0,,
+庆尚南道·釜山·蔚山,Miryang,密阳,Miryang Yeongnamnu,密阳岭南楼,史迹/世界遗产,可选,0,,
+庆尚南道·釜山·蔚山,Namhae,南海,Namhae Coast (Treasure Island Observatory),南海海岸（宝物岛展望台）,观景台/塔,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Namhae,南海,Namhae German Village,南海德国村,传统村落/韩屋村,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Namhae,南海,Namhae Geumsan Boriam Hermitage,南海锦山菩提庵,寺庙,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Sacheon,泗川,Sacheon Namildae Beach,泗川南一台海水浴场,海岸/海滩,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Tongyeong,统营,Tongyeong Cable Car & Dongpirang Village,统营缆车·东皮郎壁画村,缆车/游船/小火车,可选,0,,
+庆尚南道·釜山·蔚山,Ulsan,蔚山,Ulsan Daewangam & Taehwagang Garden,蔚山大王岩·太和江国家庭园,自然风景,常见,2,K09 K10,CB-8546 KGUB09
+庆尚南道·釜山·蔚山,Ulsan,蔚山,Ulsan Onggi Village,蔚山瓮器村,博物馆/美术馆,可选,1,K09,KGUB09
+庆尚南道·釜山·蔚山,Yangsan,梁山,Tongdosa Temple,通度寺,寺庙,可选,0,,
+济州,Jeju,济州,Seongsan Ilchulbong (Sunrise Peak),城山日出峰,自然风景,核心,12,K03 K04 K05 K11 K12,KR8SEG KR8GKG KR8GEG KR8TGG CB-8880 KR6JLT KR6JMG KRJBTS KRJBUS KRKA09 KRKG09 KTE-UK16
+济州,Jeju,济州,Snoopy Garden,史努比花园,主题乐园,核心,10,K03 K05 K08 K11 K14,KR8SEG KR8GAG KR8GKG KR8PQG KR8GEG KR8BKG KR6JLT KR10EG KR6JMG KJJS09
+济州,Jeju,济州,ARTE Museum Jeju,ARTE 光影美术馆（济州/釜山/江陵/丽水均有）,博物馆/美术馆,核心,9,K03 K04 K05 K06 K08 K09 K11,KR8SEG KR8GAG KR8GKG KR8GEG KR10EG KR6JMG KRBBUW KGUB09 KRKG09
+济州,Jeju,济州,Aromatherapy Footbath,香薰足浴,体验,核心,7,K03 K05 K09 K12 K13,KR8GAG KR8GKG KR8GEG KJJS09 KRDB06 KGUB09 KTE-UK16
+济州,Jeju,济州,Gochujang-making Experience,辣椒酱制作体验,体验,核心,7,K01 K03 K05 K07 K08 K14,KR8GAG KR8PQG KR8BG KR10EG KRICNW KGYE09 KGYE08
+济州,Jeju,济州,Tangerine Picking / Jam DIY,柑橘采摘·果酱 DIY,农场/采摘,核心,7,K03 K05 K06 K08 K11 K14,KR8SEG KR8PQG KR8BSG KR6JLT KR10EG KR6JMG KJJS09
+济州,Jeju,济州,Canola Flower Fields,油菜花田,节庆/季节限定,核心,6,K03 K05 K08 K11,KR8GAG KR8GKG KR8GEG KR8BKG CB-8880 KR10EG
+济州,Jeju,济州,Seopjikoji,涉地可支,自然风景,核心,6,K03 K05 K08 K11,KR8SEG KR8GAG KR8GKG KR8GEG KR10EG KR6JMG
+济州,Jeju,济州,Jeju Dongmun Market,东门传统市场,传统市场,核心,5,K03 K04 K05,KR8GKG KR8GEG KR8TGG KRKA09 KRKG09
+济州,Jeju,济州,NANTA Show,乱打秀,演出,核心,5,K04 K07 K11 K12,KR6JMG KRWSKW KRJBTS KRJBUS KTE-UK16
+济州,Jeju,济州,9.81 Park,9.81 公园（无动力赛车）,主题乐园,核心,4,K03 K08 K11 K14,KR8PQG KR6JLT KR10EG KJJS09
+济州,Jeju,济州,Horse Riding,骑马体验,体验,核心,4,K04 K11,KR6JLT KR6JMG KRJBTS KRJBUS
+济州,Jeju,济州,Yongduam (Dragon Head Rock),龙头岩,自然风景,核心,4,K04 K11,KR6JLT KR6JMG KRKA09 KRKG09
+济州,Jeju,济州,Aewol Café Street,涯月咖啡街,网红咖啡/拍照点,常见,3,K03 K11 K14,KR8PQG KR6JLT KR6JMG
+济州,Jeju,济州,Boromwat Flower Farm,宝伦瓦特花园,公园/花园/树木园,常见,3,K03 K05 K08 K14,KR8PQG KR8BKG KR10EG
+济州,Jeju,济州,Cherry Blossom Viewing,赏樱,节庆/季节限定,常见,3,K04 K05 K07,KR8BKG KR8BG KRJBTS
+济州,Jeju,济州,Gotjawal Forest,Gotjawal 原始林,自然风景,常见,3,K03 K11 K12,KR6JMG KJJS09 KTE-UK16
+济州,Jeju,济州,Rainbow Coastal Road & Iho Tewoo Beach,彩虹海岸路·梨湖海边,海岸/海滩,常见,3,K03 K11,KR8TGG KR6JLT KR6JMG
+济州,Jeju,济州,Sanyang Keuneonggot,山阳大洞穴（Keuneonggot）,自然风景,常见,3,K03 K11 K14,KR8PQG KR6JLT KR6JMG
+济州,Jeju,济州,Yongyeon Suspension Bridge,龙渊吊桥,自然风景,常见,3,K03 K05 K08 K11,KR8GAG KR10EG KR6JMG
+济州,Jeju,济州,Halla Arboretum,汉拿树木园,公园/花园/树木园,常见,2,K03 K05,KR8BKG KJJS09
+济州,Jeju,济州,Hallim Park & Hyeopjae Beach,翰林公园·挟才海水浴场,海岸/海滩,常见,2,K11 K12,KR6JMG KTE-UK16
+济州,Jeju,济州,Jeju Water World,济州水世界,主题乐园,常见,2,K04,KRJBTS KRJBUS
+济州,Jeju,济州,Mysterious Road,神秘之路,自然风景,常见,2,K04 K11,CB-8880 KRKA09
+济州,Jeju,济州,Saebyeol Friends Zoo,新别动物农场,农场/采摘,常见,2,K04,KRJBTS KRJBUS
+济州,Jeju,济州,Teseum Safari,Teseum 野生动物园,主题乐园,常见,2,K03 K05,KR8SEG KJJS09
+济州,Jeju,济州,Bijarim Forest,榧子林,自然风景,可选,1,K12,KTE-UK16
+济州,Jeju,济州,Haenyeo (Women Divers) Show,海女表演,演出,可选,1,K03,KJJS09
+济州,Jeju,济州,Hallasan National Park,汉拿山国立公园,自然风景,可选,1,K03,KJJS09
+济州,Jeju,济州,Jeju Black Pork Street,黑猪肉一条街,街区/商圈,可选,1,K11,KR6JLT
+济州,Jeju,济州,Jeju Donghwa Village,济州童话村,传统村落/韩屋村,可选,1,K11,KR6JMG
+济州,Jeju,济州,Jeju Secret Forest,济州秘密森林,自然风景,可选,1,K11,KR6JMG
+济州,Jeju,济州,Jeju Stone Park,济州石文化公园,公园/花园/树木园,可选,1,K12,KTE-UK16
+济州,Jeju,济州,Jeonnong-ro Cherry Blossom Street,典农路樱花街,节庆/季节限定,可选,1,K04,KRJBTS
+济州,Jeju,济州,Samseonghyeol Shrine,三姓穴,史迹/世界遗产,可选,1,K04,KRJBTS
+济州,Jeju,济州,Sangumburi Crater,山君不离,自然风景,可选,1,K03 K14,KR8PQG
+济州,Jeju,济州,Taekwondo Show,跆拳道表演,演出,可选,1,K03,KR8TGG
+济州,Jeju,济州,Tulip Festival,郁金香节,节庆/季节限定,可选,1,K05,KR8BKG
+济州,Jeju,济州,Jeju Duty-free,济州免税店,团队购物站,可选,0,,
+济州,Jeju,济州,Jeju Loveland,济州爱情乐园,主题乐园,可选,0,,
+济州,Jeju,济州,Saryeoni Forest Path,思连伊林荫道,自然风景,可选,0,,
+济州,Jeju,济州,Woljeong-ri Beach,月汀里海边,海岸/海滩,可选,0,,
+济州,Seogwipo,西归浦,O'sulloc Tea Museum & Innisfree House,雪绿茶博物馆·悦诗风吟,博物馆/美术馆,核心,9,K03 K04 K08 K11 K12,CB-8880 KR6JLT KR10EG KR6JMG KRJBTS KRJBUS KJJS09 KRKA09 KTE-UK16
+济州,Seogwipo,西归浦,Camellia Hill,山茶花之丘,公园/花园/树木园,核心,4,K04 K11,CB-8880 KR6JMG KRJBTS KRJBUS
+济州,Seogwipo,西归浦,Jeju Herb Dongsan,济州香草园,公园/花园/树木园,核心,4,K05 K11,KR8GAG KR8GKG KR8GEG KR6JMG
+济州,Seogwipo,西归浦,Jusangjeolli Cliff,柱状节理带,自然风景,核心,4,K11 K12,CB-8880 KR6JLT KR6JMG KTE-UK16
+济州,Seogwipo,西归浦,Jeongbang Waterfall,正房瀑布,自然风景,常见,3,K04 K11,CB-8880 KR6JLT KRKG09
+济州,Seogwipo,西归浦,Seongeup Folk Village,城邑民俗村,传统村落/韩屋村,常见,3,K03 K04 K11,KR8TGG CB-8880 KRKA09
+济州,Seogwipo,西归浦,Cheonjiyeon / Cheonjeyeon Falls,天地渊/天帝渊瀑布,自然风景,常见,2,K04 K12,KRKA09 KTE-UK16
+济州,Seogwipo,西归浦,Sanbangsan & Yongmeori Coast,山房山·龙头海岸,自然风景,常见,2,K03,KR8TGG KJJS09
+济州,Seogwipo,西归浦,Seogwipo Healing Forest,西归浦治愈森林,自然风景,常见,2,K03 K08 K11,KR10EG KR6JMG
+济州,Seogwipo,西归浦,Seogwipo Maeil Olle Market,西归浦每日偶来市场,传统市场,常见,2,K11,KR6JLT KR6JMG
+济州,Seogwipo,西归浦,Bonte Museum,本态博物馆,博物馆/美术馆,可选,1,K03,KR8TGG
+济州,Seogwipo,西归浦,Hueree Hydrangea Garden,休爱里绣球花园,节庆/季节限定,可选,1,K03,KJJS09
+济州,Seogwipo,西归浦,Pinnacleland,Pinnacleland 树木园,公园/花园/树木园,可选,1,K03 K08,KR10EG
+济州,Seogwipo,西归浦,Jeju Folk Village,济州民俗村,传统村落/韩屋村,可选,0,,
+济州,Seogwipo,西归浦,Songaksan,松岳山,自然风景,可选,0,,
+济州,Udo Island,牛岛,Udo Island,牛岛,海岛,核心,7,K03 K05 K08 K11,KR8GAG KR8GKG KR8GEG KR8BKG KR10EG KR6JMG KJJS09
+济州,Udo Island,牛岛,Geommeolle Beach (Udo),黑沙滩（牛岛）,海岸/海滩,核心,6,K03 K05 K08 K11,KR8GAG KR8GKG KR8GEG KR8BKG KR10EG KR6JMG
+济州,Udo Island,牛岛,Seobin Baeksa Beach (Udo),西滨白沙（牛岛）,海岸/海滩,核心,6,K03 K05 K08 K11,KR8GAG KR8GKG KR8GEG KR8BKG KR10EG KR6JMG
+全罗道,Boseong,宝城,Boseong Green Tea Plantation,宝城绿茶园,自然风景,常见,3,K12,KTE-RT7 KTE-W4 KTE-UK16
+全罗道,Damyang,潭阳,Damyang Metasequoia Road,潭阳水杉林道,自然风景,可选,1,K08,KRAT09
+全罗道,Damyang,潭阳,Soswaewon Garden,潇洒园,公园/花园/树木园,可选,1,K08,KRAT09
+全罗道,Damyang,潭阳,Damyang Juknokwon Bamboo Forest,潭阳竹绿苑,自然风景,可选,0,,
+全罗道,Gunsan,群山,Gunsan Gyeongam-dong Railroad Village,群山京岩洞铁路村,传统村落/韩屋村,可选,1,K08,KR8YYG
+全罗道,Gunsan,群山,Lee Sung Dang Bakery,李圣堂面包（群山）,传统市场,可选,1,K08,KR8YYG
+全罗道,Gurye,求礼,Gurye Seomjingang Cherry Blossom Road,求礼蟾津江樱花路,节庆/季节限定,可选,1,K09,KBJC09
+全罗道,Gwangju,光州,Gwangju 1913 Songjeong Station Market,光州 1913 松汀站市场,传统市场,可选,0,,
+全罗道,Gwangju,光州,Gwangju Yangnim-dong / ACC,光州杨林洞·亚洲文化殿堂,街区/商圈,可选,0,,
+全罗道,Gwangyang,光阳,Gwangyang Maehwa (Plum) Village,光阳梅花村,节庆/季节限定,可选,0,,
+全罗道,Haenam,海南,Haenam (Land's End / Daeheungsa),海南（地端村·大兴寺）,自然风景,可选,1,K08,KR8YYG
+全罗道,Jangseong,长城,Baekyangsa Temple,白羊寺,寺庙,核心,4,K05 K12,KR8GAG KTE-RT7 KTE-W4 KTE-UK16
+全罗道,Jeongeup,井邑,Naejangsan National Park,内藏山国立公园,自然风景,常见,2,K05 K08,KR8GAG KRAT09
+全罗道,Jeonju,全州,Hanbok Dress-up Experience,韩服体验,体验,核心,20,K01 K02 K03 K04 K05 K06 K07 K08 K12 K13 K14,KR8GAG KR8GKG KR8PQG KR8SNG KR8GEG KR8FMG KR8BKG KR8SVG KR8BG KR8TGG CB-8885 KR8UG KR10EG KRICNW KRBBUW KRBBFS KRSRAS KGYE08 KRKA09 KTE-UK16
+全罗道,Jeonju,全州,Jeonju Hanok Village,全州韩屋村,传统村落/韩屋村,核心,10,K03 K05 K08 K12 K13,KR8GAG KR8GKG KR8GEG KR8UG KR10EG KR8YYG KRAT09 KTE-RT7 KTE-W4 KTE-UK16
+全罗道,Jeonju,全州,Guam Farm (Fruit Picking),九岩农场（采摘）,农场/采摘,核心,4,K05 K06,KR8GKG KR8SNG KR8GEG KR8BKG
+全罗道,Jeonju,全州,Autumn Foliage,赏枫,节庆/季节限定,常见,3,K05 K07 K08,KR8GAG KR8FMG KRAT09
+全罗道,Jeonju,全州,Jeondong Catholic Cathedral,殿洞天主教堂,史迹/世界遗产,常见,3,K05 K08 K13,KR8GKG KR8GEG KR8UG
+全罗道,Jeonju,全州,Jeonju Arboretum,全州树木园,公园/花园/树木园,常见,2,K05,KR8GKG KR8GEG
+全罗道,Jeonju,全州,Choco Pie DIY,巧克力派 DIY,体验,可选,1,K08,KR8YYG
+全罗道,Jeonju,全州,Gyeonggijeon Shrine,庆基殿,史迹/世界遗产,可选,1,K08,KRAT09
+全罗道,Jeonju,全州,Wangyijimil Hanok Stay (Jeonju),全州王的家韩屋住宿,体验,可选,1,K08 K13,KR8UG
+全罗道,Mokpo,木浦,Abalone Harvesting Experience,捕鲍鱼体验,体验,可选,1,K08,KR8YYG
+全罗道,Mokpo,木浦,Mokpo Marine Cable Car,木浦海上缆车,缆车/游船/小火车,可选,0,,
+全罗道,Namwon,南原,Namwon Gwanghallu Garden,南原广寒楼苑,公园/花园/树木园,可选,0,,
+全罗道,Sinan (Jeungdo),新安（曾岛）,Jeungdo Taepyeong Salt Farm,曾岛太平盐田,体验,可选,1,K08,KR8YYG
+全罗道,Suncheon,顺天,Naganeupseong Folk Village,乐安邑城民俗村,传统村落/韩屋村,核心,5,K08 K09 K12,KRAT09 KBJC09 KTE-RT7 KTE-W4 KTE-UK16
+全罗道,Suncheon,顺天,Suncheon Bay Wetland Reserve,顺天湾湿地,自然风景,核心,5,K08 K09 K12,KRAT09 KBJC09 KTE-RT7 KTE-W4 KTE-UK16
+全罗道,Suncheon,顺天,Suncheon Bay National Garden,顺天湾国家庭园,公园/花园/树木园,可选,0,,
+全罗道,Wando,莞岛,Wando Marine Healing Centre & Seaweed Museum,莞岛海洋治愈中心·海藻博物馆,体验,可选,1,K08,KR8YYG
+全罗道,Wanju,完州,Wanju Ogung Hanok Village (BTS),完州五宫韩屋村,传统村落/韩屋村,可选,0,,
+全罗道,Yeosu,丽水,Yeosu Odongdo & Maritime Cable Car,丽水梧桐岛·海上缆车,自然风景,常见,2,K09 K13,KBJC09 KRDB06
+首都圈（首尔/仁川/京畿）,Ganghwa,江华岛,Ganghwa Peace Observatory,江华和平展望台,安保观光（DMZ）,核心,4,K01 K02 K07 K08,KR8IG KR8SVG KR6FGT KRAT09
+首都圈（首尔/仁川/京畿）,Ganghwa,江华岛,Joyang Bangjik Café (Ganghwa),江华朝阳纺织咖啡,网红咖啡/拍照点,核心,4,K01 K02 K06 K07,KR8SNG KR8SVG KR6FGT KRICNW
+首都圈（首尔/仁川/京畿）,Ganghwa,江华岛,Ganghwa Anglican Church,江华圣公会圣堂,史迹/世界遗产,常见,3,K01 K02 K07,KR8SVG KR6FGT KRICNW
+首都圈（首尔/仁川/京畿）,Ganghwa,江华岛,Ganghwa Seaside Resort Luge,江华斜坡滑车（Luge）,缆车/游船/小火车,常见,2,K01,KR8IG KRICNW
+首都圈（首尔/仁川/京畿）,Ganghwa,江华岛,Yeonmijeong Pavilion (Ganghwa),燕尾亭（江华）,史迹/世界遗产,可选,1,K07,KR8SVG
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,The Garden of Morning Calm,晨静树木园,公园/花园/树木园,核心,4,K07,KR8RWG KR8FMG KR8BG KRWSKW
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,Gapyeong Begonia Bird Park,加平秋海棠鸟园,公园/花园/树木园,常见,3,K01,KR8IG KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,Petite France,小法国村,传统村落/韩屋村,常见,3,K01 K02 K07,CB-8885 KRWSKW KRSRAS
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,Gapyeong Cruise,加平游船,缆车/游船/小火车,可选,1,K01,KR8IG
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,Gapyeong Italian Village (Pinocchio),意大利村（皮诺曹村）,传统村落/韩屋村,可选,1,K07,KR8SVG
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,Gapyeong Sheep Farm,加平羊群牧场,农场/采摘,可选,1,K01,KRSRAS
+首都圈（首尔/仁川/京畿）,Gapyeong,加平,Eobi Ice Valley,鱼飞溪谷冰瀑,自然风景,可选,0,,
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Aegibong Peace Ecopark,爱妓峰和平生态公园,安保观光（DMZ）,核心,8,K01 K03 K04 K07 K08 K14,KR8PQG KR8BG KR10EG KRICNW KRJBTS KRJBUS KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Rice Flower's Farmer (Gimpo),金浦米花农场,农场/采摘,核心,8,K01 K03 K04 K05 K07 K08 K14,KR8GAG KR8PQG KR8BG KR10EG KRJBTS KRJBUS KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Hyundai Premium Outlet Gimpo,金浦现代名品奥特莱斯,奥特莱斯/商场,核心,6,K03 K05 K07 K08 K14,KR8GKG KR8PQG KR8GEG KR8BKG KR8BG KR10EG
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Jogang Observatory,祖江展望台,安保观光（DMZ）,常见,3,K01 K03 K14,KR8PQG KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Gimpo DMZ Tour,金浦 DMZ 观光,安保观光（DMZ）,常见,2,K03 K07 K14,KR8PQG KR8BG
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Gimpo Hamsang Park,金浦舰上公园,公园/花园/树木园,可选,1,K08,KRAT09
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Gimpo La Veniche Street,金浦拉维尼斯水岸街,街区/商圈,可选,1,K01,KRICNW
+首都圈（首尔/仁川/京畿）,Gimpo,金浦,Gyeongin Ara Waterway,京仁阿拉运河,公园/花园/树木园,可选,0,,
+首都圈（首尔/仁川/京畿）,Goyang (Ilsan),高阳（一山）,Ilsan Lake Park,一山湖水公园,公园/花园/树木园,可选,1,K04,KRJBTS
+首都圈（首尔/仁川/京畿）,Goyang (Ilsan),高阳（一山）,One Mount,One Mount 乐园,主题乐园,可选,0,,
+首都圈（首尔/仁川/京畿）,Gwangmyeong,光明,Gwangmyeong Cave,光明洞窟,自然风景,可选,1,K07,KR8SVG
+首都圈（首尔/仁川/京畿）,Icheon,利川,Jisan Forest Resort,芝山滑雪场,滑雪场,可选,0,,
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Songwol-dong Fairy Tale Village,松月洞童话村,传统村落/韩屋村,核心,5,K01 K06 K07,KR8RWG KR8IG KR8SNG KR8BSG KRSRAS
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Incheon Chinatown & Jjajangmyeon Museum,仁川中华街·炸酱面博物馆,街区/商圈,核心,4,K01 K06,KR8IG KR8SNG KR8BSG KRSRAS
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Incheon Open Port Street,仁川开港场街,街区/商圈,核心,4,K01,KR8IG KRSRAS KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Sinpo International Market,新浦国际市场,传统市场,常见,3,K01 K06 K07,KR8RWG KR8IG KR8SNG
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Hyundai Premium Outlet Songdo,松岛现代名品奥特莱斯,奥特莱斯/商场,常见,2,K01 K07,KR8RWG KR8IG
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Lotte Mart,乐天超市,团队购物站,常见,2,K06 K07,KRBBUW KRWSKW
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Songdo Central Park,松岛中央公园,公园/花园/树木园,常见,2,K01 K06,KR8IG KR8SNG
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Wolmido,月尾岛,街区/商圈,常见,2,K01,KR8IG KRICNW
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Inspire Entertainment Resort,Inspire 度假村,街区/商圈,可选,1,K01,KRICNW
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Renoburg Museum,Renoburg 博物馆,博物馆/美术馆,可选,1,K07,KR8RWG
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Songdo Cloud Walk,松岛云端步道,观景台/塔,可选,1,K04,KRJBTS
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Songdo Triple Street,松岛 Triple Street,奥特莱斯/商场,可选,1,K01,KR8IG
+首都圈（首尔/仁川/京畿）,Incheon,仁川,Paradise City,百乐达斯城,街区/商圈,可选,0,,
+首都圈（首尔/仁川/京畿）,Paju,坡州,Imjingak Park,临津阁,安保观光（DMZ）,常见,2,K03 K12 K14,KR8PQG KTE-UK16
+首都圈（首尔/仁川/京畿）,Paju,坡州,Dora Observatory,都罗展望台,安保观光（DMZ）,可选,1,K12,KTE-UK16
+首都圈（首尔/仁川/京畿）,Paju,坡州,Paju Tofu Village,坡州豆腐村,体验,可选,1,K01,KGYE08
+首都圈（首尔/仁川/京畿）,Paju,坡州,The 3rd Tunnel (DMZ),第三地道,安保观光（DMZ）,可选,1,K12,KTE-UK16
+首都圈（首尔/仁川/京畿）,Paju,坡州,DMZ Tour,DMZ 非军事区,安保观光（DMZ）,可选,0,,
+首都圈（首尔/仁川/京畿）,Paju,坡州,Heyri Art Valley,Heyri 艺术村,传统村落/韩屋村,可选,0,,
+首都圈（首尔/仁川/京畿）,Paju,坡州,Paju Provence Village,坡州普罗旺斯村,传统村落/韩屋村,可选,0,,
+首都圈（首尔/仁川/京畿）,Pocheon,抱川,Pocheon Art Valley,抱川艺谷,公园/花园/树木园,核心,4,K01 K02 K07,KR8FMG CB-8885 KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Pocheon,抱川,Pocheon Herb Island,抱川香草岛,公园/花园/树木园,可选,1,K02,CB-8885
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Myeongdong Shopping Street,明洞购物街,街区/商圈,核心,33,K01 K02 K03 K04 K05 K06 K07 K08 K12 K13 K14,KR8RWG KR8GAG KR8GKG KR8IG KR8PQG KR8SNG KR6FNT KR8GEG KR8FMG KR8BKG KR8SVG CB-316692 KR8BSG KR8BG KR8TGG CB-8885 KR6FGT KR8UG KR10EG KR8YYG KRBBUW KRBBFS KRWSKW KRJBTS KRJBUS KRSRAS KRAT09 KGYE09 KRDB06 KGYE08 KRKA09 KRKG09 KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Gyeongbokgung Palace,景福宫,宫殿,核心,26,K01 K02 K03 K04 K05 K06 K07 K08 K12 K13 K14,KR8RWG KR8SEG KR8GAG KR8GKG KR8PQG KR8SNG KR6FNT KR8GEG KR8BKG KR8SVG CB-316692 KR8BG CB-8885 KR6FGT KR8UG KR10EG KR8YYG KRICNW KRBBUW KRBBFS KRWSKW KRSRAS KGYE08 KRKA09 KRKG09 KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Cosmetics Shop,化妆品店,团队购物站,核心,21,K01 K03 K04 K05 K06 K07 K08 K09 K11 K13 K14,KR8RWG KR8SEG KR8IG KR8PQG KR8SNG KR8BSG KR8UG KR10EG KR8YYG KR6JMG KRICNW KRBBUW KRBBFS KRWSKW KRJBTS KRJBUS KRSRAS KRAT09 KJJS09 KGUB09 KRKG09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Ikseon-dong Hanok Street,益善洞韩屋街,传统村落/韩屋村,核心,17,K01 K03 K04 K05 K06 K07 K08 K13,KR8RWG KR8GAG KR8FMG KR8BKG KR8SVG KR8UG KR10EG KR8YYG KRBBUW KRBBFS KRJBTS KRJBUS KRSRAS KGYE09 KGYE08 KRKA09 KRKG09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Ginseng Shop,高丽人参店,团队购物站,核心,15,K01 K02 K03 K04 K06 K07 K08 K09 K11,KR5SA KR6FNT KR8TGG KR6FGT KR6JMG KRICNW KRBBUW KRBBFS KRWSKW KRJBTS KRJBUS KRSRAS KRAT09 KJJS09 KGUB09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,COEX Mall & Starfield Library,COEX 星空图书馆,奥特莱斯/商场,核心,9,K01 K03 K05 K07 K08 K13 K14,KR8RWG KR8GKG KR8IG KR8PQG KR8GEG KR8SVG KR8BG KR8UG KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Hongdae (Hongik Univ. Street),弘大,街区/商圈,核心,9,K01 K02 K03 K04 K05 K07 K08,KR8SEG KR8GAG KR8IG KR8FMG KR8SVG KR6FGT KR10EG KRAT09 KRKG09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Dongdaemun Market,东大门市场,传统市场,核心,6,K01 K06 K07,KR8RWG KR8BSG KRWSKW KRSRAS KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Gangnam,江南,街区/商圈,核心,6,K01 K03 K07 K14,KR8RWG KR8IG KR8PQG CB-316692 KR8BG KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Gwangjang Market,广藏市场,传统市场,核心,6,K01 K04 K06 K07 K08,KR8SVG KR8YYG KRBBFS KRWSKW KGYE08 KRKA09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Lotte World Tower Seoul Sky,乐天世界塔 Seoul Sky,观景台/塔,核心,6,K01 K05 K07 K08 K12 K13,KR8GAG KR8FMG CB-316692 KR8UG KGYE08 KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Seongsu-dong,圣水洞,街区/商圈,核心,6,K01 K02 K03 K04 K13,KR6FNT KR8TGG KR6FGT KRICNW KRDB06 KRKA09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,N Seoul Tower (Namsan),N首尔塔（南山塔）,观景台/塔,核心,5,K01 K02 K04,CB-8885 KRJBTS KRJBUS KRSRAS KRKG09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Strawberry Picking,草莓采摘,农场/采摘,核心,5,K01 K06 K07,KR8RWG KR8SVG KR8BSG KR8BG KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Deoksugung Palace,德寿宫,宫殿,核心,4,K02 K08,KR6FNT CB-316692 KR6FGT KRAT09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Insadong & Ssamziegil,仁寺洞·森吉街,街区/商圈,核心,4,K04 K05,KR8SEG KR8GKG KR8GEG KRKG09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Bukchon Hanok Village,北村韩屋村,传统村落/韩屋村,常见,3,K02,KR5SA CB-316692 CB-8885
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Duty-free Shop,免税店,团队购物站,常见,3,K01 K07 K09,KR8SVG KRICNW KBJC09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Gwanghwamun Square,光化门广场,街区/商圈,常见,3,K05 K12,KR8GKG KR8GEG KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Jeju/Seoul Concept Café,主题网红咖啡,网红咖啡/拍照点,常见,3,K01 K03,KR8IG KR8TGG KRICNW
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Lotte World Adventure,乐天世界,主题乐园,常见,3,K05 K06 K07,KR8RWG KR8SEG KR8BSG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,BTS Spots,BTS 圣地巡礼,街区/商圈,常见,2,K02 K07,KR5SA KR8RWG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Changdeokgung Palace,昌德宫,宫殿,常见,2,K07,KR8FMG CB-316692
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Cheonggyecheon Stream,清溪川,街区/商圈,常见,2,K05,KR8GKG KR8GEG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Glamping Stay,豪华露营,体验,常见,2,K01 K03,KR8TGG KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Han River Cruise,汉江游船,缆车/游船/小火车,常见,2,K03 K12,KR8TGG KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Han River Park,汉江公园,公园/花园/树木园,常见,2,K03 K12,KR8TGG KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Mangwon Market & Mangridan-gil,望远市场·望理团路,传统市场,常见,2,K01 K03,KR8TGG KRSRAS
+首都圈（首尔/仁川/京畿）,Seoul,首尔,National Folk Museum of Korea,国立民俗博物馆,博物馆/美术馆,常见,2,K02 K12,CB-8885 KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Pink Muhly Grass,粉黛乱子草,节庆/季节限定,常见,2,K07 K09,KR8FMG KGUB09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Tongin Market,通仁市场,传统市场,常见,2,K01 K06,KR8IG KR8BSG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Yeouido Yunjung-ro Cherry Blossom Street,汝矣岛轮中路樱花街,节庆/季节限定,常见,2,K05 K07,KR8BKG KR8BG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Cheong Wa Dae (Blue House),青瓦台,史迹/世界遗产,可选,1,K04,KRKA09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Culture Station Seoul 284,文化站首尔284（旧首尔站）,博物馆/美术馆,可选,1,K03,KR8TGG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Goto Mall (Express Bus Terminal),高速巴士客运站地下商街,奥特莱斯/商场,可选,1,K01,KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Gyeongui Line Forest Park,京义线林荫道,公园/花园/树木园,可选,1,K08,KRAT09
+首都圈（首尔/仁川/京畿）,Seoul,首尔,JUMP / Hero Show,武术喜剧秀,演出,可选,1,K01,KGYE08
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Jogyesa Temple,曹溪寺,寺庙,可选,1,K12,KTE-UK16
+首都圈（首尔/仁川/京畿）,Seoul,首尔,K-pop Spots,K-pop 打卡点,街区/商圈,可选,1,K02,KR5SA
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Mullae-dong Art Village,文来洞艺术村,街区/商圈,可选,1,K03,KR8TGG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,National Museum of Korean Contemporary History,大韩民国历史博物馆,博物馆/美术馆,可选,1,K07,KR8BG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Olympic Park,奥林匹克公园,公园/花园/树木园,可选,1,K05,KR8GAG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Seaweed Museum,海藻博物馆,博物馆/美术馆,可选,1,K03,KR8TGG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Seokchon Lake,石村湖,公园/花园/树木园,可选,1,K05,KR8BKG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Seoul Forest,首尔林,公园/花园/树木园,可选,1,K07,KR8FMG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,The Painters Show,画家秀（The Painters）,演出,可选,1,K06,KR8BSG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Traditional Brewery Visit,传统酒坊参观,体验,可选,1,K01,KRICNW
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Tteokbokki Cooking Class,炒年糕料理课,体验,可选,1,K08 K13,KR8UG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Unhyeongung Palace,云岘宫,宫殿,可选,1,K03,KR8TGG
+首都圈（首尔/仁川/京畿）,Seoul,首尔,War Memorial of Korea,战争纪念馆,博物馆/美术馆,可选,1,,CB-316692
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Amethyst Showroom,紫水晶店,团队购物站,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Bongeunsa Temple,奉恩寺,寺庙,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Changgyeonggung Palace,昌庆宫,宫殿,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Dongdaemun Design Plaza (DDP),东大门设计广场 DDP,街区/商圈,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Garosu-gil,林荫道（新沙洞）,街区/商圈,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Itaewon,梨泰院,街区/商圈,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Myeongdong Cathedral,明洞天主教堂,史迹/世界遗产,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,Namdaemun Market,南大门市场,传统市场,可选,0,,
+首都圈（首尔/仁川/京畿）,Seoul,首尔,National Museum of Korea,国立中央博物馆,博物馆/美术馆,可选,0,,
+首都圈（首尔/仁川/京畿）,Suwon,水原,Starfield Suwon,水原星空图书馆（Starfield）,奥特莱斯/商场,核心,5,K04 K05 K07,KR8GKG KR8GEG KRWSKW KRKA09 KRKG09
+首都圈（首尔/仁川/京畿）,Suwon,水原,Suwon Hwaseong Fortress,水原华城,史迹/世界遗产,常见,3,K01,CB-316692 KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Yangpyeong,杨平,Yangpyeong Dumulmeori,杨平两水头,自然风景,常见,2,K01,KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Yongin,龙仁,Everland,爱宝乐园,主题乐园,核心,12,K01 K02 K05 K07,KR8GKG KR8IG KR6FNT KR8GEG KR8BKG KR8SVG KR8BG CB-8885 KRWSKW KRSRAS KGYE09 KGYE08
+首都圈（首尔/仁川/京畿）,Yongin,龙仁,Samsung Transportation Museum,三星交通博物馆,博物馆/美术馆,可选,1,K01,KGYE09
+首都圈（首尔/仁川/京畿）,Yongin,龙仁,Caribbean Bay,加勒比海湾水上乐园,主题乐园,可选,0,,
+首都圈（首尔/仁川/京畿）,Yongin,龙仁,Korean Folk Village,韩国民俗村,传统村落/韩屋村,可选,0,,

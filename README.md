@@ -15,7 +15,7 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | 架构设计 v0.1 | ✅ 定稿（6 轮访谈 + 2 轮逐项拍板） |
 | Lark Product Base schema | ✅ 定稿（8 项口径全部确认） |
 | Lark Base 实建 | 🟡 8 张表已建；7 张字段 100%，Departures 25/29（剩 4 个公式列） |
-| planner-suite skill 包 | ⬜ 未开始（A3 / A4 优先） |
+| planner-suite skill 包 | 🟡 韩国线 A5 知识包 + 校验器已落地（[korea/](korea/)）；地接填写模板（[dmc_templates/](dmc_templates/)）已出，为 A3 报价转录铺路；A3 / A4 未开始 |
 | Skybear 写 API 联调 | ⬜ 等 IT 上线后启动 |
 
 ## 文档
@@ -26,6 +26,8 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | [docs/02_lark_product_base_schema.md](docs/02_lark_product_base_schema.md) | Lark Product Base 8 张表字段级设计 + 核心机制 + 视图 + 建表进度 |
 | [docs/03_itinerary_skill_v3_proposal.md](docs/03_itinerary_skill_v3_proposal.md) | A5 行程 PDF skill v3 重设计（基于 5 份设计师成品逆向分析） |
 | [docs/overview.html](docs/overview.html) | 一页总览（可直接在浏览器打开） |
+| [korea/](korea/) | **韩国线行程知识库**（按日本版方法）：新加坡 3 家旅行社 + 首尔地接 53 条在售线路、14 个行程家族、城市交通图、359 个按城市 tag 的景点、酒店、季节约束，配检索器、校验器、生成驱动与 skill |
+| [dmc_templates/](dmc_templates/) | **地接社填写模板**：韩国版（中/英/韩，按知识库预填）与台湾版（繁中/英），字段对齐 Lark Suppliers / Quotes / Quote_Lines |
 
 ## 架构一句话
 

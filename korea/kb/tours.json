@@ -1,0 +1,8397 @@
+[
+ {
+  "code": "KR6NST",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Seoul, Nami Island & Ski Stay Live It Up",
+  "title_cn": null,
+  "days": 6,
+  "nights": 4,
+  "price": {
+   "min": 1005,
+   "max": 1005,
+   "currency": "USD",
+   "note": "SGD 1288.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy",
+   "Winter & Ski"
+  ],
+  "season": null,
+  "families": [
+   "K07"
+  ],
+  "route": [
+   {
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "nights": 3
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "from": "Incheon",
+    "transport": "Car",
+    "attractions": [
+     "Nami Island",
+     "Welli Hilli Park"
+    ],
+    "meals": null,
+    "stay": "Hoengseong",
+    "title": "Incheon – Gyeonggi – Gangwon-do"
+   },
+   {
+    "day": 3,
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ski Resort (snow activities)"
+    ],
+    "meals": null,
+    "stay": "Hoengseong",
+    "title": "Gangwon-do"
+   },
+   {
+    "day": 4,
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ski Resort (snow activities)"
+    ],
+    "meals": null,
+    "stay": "Hoengseong",
+    "title": "Gangwon-do"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gangwon-Do",
+    "transport": "Car",
+    "attractions": [
+     "Ski Resort (snow activities)"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Gangwon-do – Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Car / Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul  – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Overnight in Ski Resort: Welli Hilli Snow Park (Hoengseong, 3N)",
+   "Overnight in Seoul: Golden Seoul Hotel/ Ibis Ambassador Yongsan Hotel or similar (Seoul, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [
+   "<p>- Return Airport Transfer</p>",
+   "<p>-1 Nights in Seoul &amp; 3Night In Welli Hilli Snow Park Resort</p>",
+   "<p>- Tour &amp; Meals as per itinerary</p>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/seoul-nami-island-ski-stay-live-it-up"
+ },
+ {
+  "code": "KR5MXT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Seoul Mix & Match",
+  "title_cn": null,
+  "days": 5,
+  "nights": 4,
+  "price": {
+   "min": 739,
+   "max": 739,
+   "currency": "USD",
+   "note": "SGD 948.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy"
+  ],
+  "season": null,
+  "families": [
+   "K02"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 4
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Singapore",
+    "transport": "Flight / Car",
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Singapore – Incheon – Seoul "
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul "
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 5,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Car / Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul  – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Choice of accommodation in Seoul (Seoul, 3N)",
+   "Choice of accommodation in Seoul (Seoul, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [
+   "<p>- 2 way Incheon Airport to Seoul/ Seoul to Airport private transfer</p>",
+   "<p>- 4 Nights accommodation at choice of hotel with daily breakfast</p>",
+   "<p>- Choice of 2 Day Tours</p>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/seoul-mix-match"
+ },
+ {
+  "code": "KR5SA",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Seoul Atelier",
+  "title_cn": null,
+  "days": 5,
+  "nights": 4,
+  "price": {
+   "min": 2253,
+   "max": 2253,
+   "currency": "USD",
+   "note": "SGD 2888.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy"
+  ],
+  "season": null,
+  "families": [
+   "K02"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 4
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Singapore",
+    "transport": "Flight / Car",
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Singapore – Incheon – Seoul "
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "K-pop Spots",
+     "BTS Spots"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul "
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Bukchon Hanok Village"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul "
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul "
+   },
+   {
+    "day": 5,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Car / Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul  – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Choice of International 5 stars hotel in Seoul (Seoul, 1N)",
+   "Choice of International 5stars hotel in Seoul (Seoul, 1N)",
+   "Choice of accommodation at International 5stars Hotel (Seoul, 1N)",
+   "Choice of accommodation at International 5stars hotel (Seoul, 1N)"
+  ],
+  "shopping_stops": [
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/seoul-atelier"
+ },
+ {
+  "code": "KR8RWG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Rejoice In Korea Winter Holiday",
+  "title_cn": "享乐韩国冬季好时光",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1395,
+   "max": 2643,
+   "currency": "USD",
+   "note": "SGD 1788.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "November 2026 - March 2027",
+  "families": [
+   "K07"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Songwol-dong Fairy Tale Village",
+     "Renoburg Museum",
+     "Sinpo International Market",
+     "Hyundai Premium Outlet Songdo"
+    ],
+    "meals": "LD",
+    "stay": "Incheon",
+    "title": "Incheon"
+   },
+   {
+    "day": 3,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Incheon",
+    "transport": "Bus",
+    "attractions": [
+     "Seongyojang House",
+     "Haslla Art World",
+     "Anmok Beach Café Street",
+     "BTS Spots"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Incheon – Gangneung – Pyeongchang"
+   },
+   {
+    "day": 4,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ski Resort (snow activities)",
+     "Mt Balwang Cable Car (Yongpyong)"
+    ],
+    "meals": "BD",
+    "stay": "Pyeongchang",
+    "title": "Pyeongchang"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Nami Island",
+     "Strawberry Picking",
+     "The Garden of Morning Calm"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Lotte World Adventure",
+     "COEX Mall & Starfield Library",
+     "Dongdaemun Market",
+     "Gangnam"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Incheon Harbor Park Hotel or similar (Incheon, 1N)",
+   "Yongpyong Resort or similar (Pyeongchang, 1N)",
+   "Yongpyong Dragon Resort or similar (Pyeongchang, 1N)",
+   "Novotel Ambassador Seoul Yongsan hotel or similar (Seoul, 3N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/rejoice-in-korea-winter-holiday"
+ },
+ {
+  "code": "KR8SEG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Korea Ski Escapade",
+  "title_cn": "大韩雪花季之旅",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1551,
+   "max": 2877,
+   "currency": "USD",
+   "note": "SGD 1988.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "November 2026 - March 2027",
+  "families": [
+   "K05"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Daegu",
+    "key": "daegu",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Insadong & Ssamziegil"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Seoul – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Seopjikoji",
+     "Teseum Safari",
+     "Tangerine Picking / Jam DIY",
+     "ARTE Museum Jeju",
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Snoopy Garden"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju – Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Daegu",
+    "key": "daegu",
+    "from": "Jeju",
+    "transport": "Flight / Bus",
+    "attractions": [
+     "BIFF Square & Nampo-dong",
+     "Gamcheon Culture Village",
+     "Oryukdo Skywalk",
+     "Dongseongno (Daegu)"
+    ],
+    "meals": "BLD",
+    "stay": "Daegu",
+    "title": "Jeju – Busan – Daegu"
+   },
+   {
+    "day": 5,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Daegu",
+    "transport": "Bus",
+    "attractions": [
+     "Yeongwol Y Park & Hanbando Terrain",
+     "Mt Balwang Cable Car (Yongpyong)",
+     "Yongpyong Resort"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Daegu – Pyeongchang"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Bus",
+    "attractions": [
+     "Ski Resort (snow activities)",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "Pyeongchang – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Lotte World Adventure",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul – Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius hotel or similar (Jeju, 2N)",
+   "Hotel Inter-Burgo Daegu similar (Daegu, 1N)",
+   "Yongpyong Resort (Pyeongchang, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/korea-ski-escapade"
+ },
+ {
+  "code": "KR8GAG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Korea Autumn Edition",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1668,
+   "max": 2877,
+   "currency": "USD",
+   "note": "SGD 2138.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Autumn Foliage",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "October 2026 - November 2026",
+  "families": [
+   "K05"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Daegu",
+    "key": "daegu",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Seoul – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Udo Island",
+     "Geommeolle Beach (Udo)",
+     "Seobin Baeksa Beach (Udo)",
+     "Jeju Herb Dongsan",
+     "Aromatherapy Footbath",
+     "Yongyeon Suspension Bridge",
+     "Snoopy Garden",
+     "Canola Flower Fields",
+     "Seopjikoji",
+     "ARTE Museum Jeju"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Daegu",
+    "key": "daegu",
+    "from": "Jeju",
+    "transport": "Flight / Bus",
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "Dongseongno (Daegu)"
+    ],
+    "meals": "BLD",
+    "stay": "Daegu",
+    "title": "Jeju – Busan – Daegu"
+   },
+   {
+    "day": 5,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Daegu",
+    "transport": "Bus",
+    "attractions": [
+     "Naejangsan National Park",
+     "Baekyangsa Temple",
+     "Jeonju Hanok Village",
+     "Hanbok Dress-up Experience",
+     "Autumn Foliage"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "Daegu – Jeongeup – Jeonju"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": "Bus",
+    "attractions": [
+     "Lotte World Tower Seoul Sky",
+     "Olympic Park",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Jeonju – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius Hotel or similar (Jeju, 2N)",
+   "Hotel Inter-Burgo Daegu or similar (Daegu, 1N)",
+   "Jeonju Lahan Hotel or similar (Jeonju, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/korea-autumn-edition-0"
+ },
+ {
+  "code": "KR8GKG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Grandeur Of Korea",
+  "title_cn": "大韩之旅",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1473,
+   "max": 2877,
+   "currency": "USD",
+   "note": "SGD 1888.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Seasonal Festivals",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "October 2026 - June 2027",
+  "families": [
+   "K05"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Daegu",
+    "key": "daegu",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Gwanghwamun Square",
+     "Cheonggyecheon Stream",
+     "Hyundai Premium Outlet Gimpo"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Seoul – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Seobin Baeksa Beach (Udo)",
+     "Geommeolle Beach (Udo)",
+     "Udo Island",
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "ARTE Museum Jeju",
+     "Snoopy Garden",
+     "Jeju Herb Dongsan",
+     "Aromatherapy Footbath",
+     "Canola Flower Fields",
+     "Jeju Dongmun Market",
+     "Seopjikoji"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju – Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Daegu",
+    "key": "daegu",
+    "from": "Busan",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Dongseongno (Daegu)",
+     "Gamcheon Culture Village",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)"
+    ],
+    "meals": "BLD",
+    "stay": "Daegu",
+    "title": "Busan – Daegu – Busan"
+   },
+   {
+    "day": 5,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Daegu",
+    "transport": "Bus",
+    "attractions": [
+     "Guam Farm (Fruit Picking)",
+     "Jeonju Arboretum",
+     "Jeonju Hanok Village",
+     "Jeondong Catholic Cathedral",
+     "Hanbok Dress-up Experience",
+     "Palgongsan & Donghwasa Temple"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "Daegu – Jeonju"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": "Bus",
+    "attractions": [
+     "Everland",
+     "Starfield Suwon",
+     "COEX Mall & Starfield Library"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Jeonju – Yongin – Suwon – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Myeongdong Shopping Street",
+     "Insadong & Ssamziegil",
+     "Gyeongbokgung Palace"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul – Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius Hotel or similar (Jeju, 2N)",
+   "Hotel Inter-Burgo Daegu or similar (Daegu, 1N)",
+   "Jeonju Lahan Hotel or similar (Jeonju, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/grandeur-of-korea-0"
+ },
+ {
+  "code": "KR8IG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Instagrammable Korea",
+  "title_cn": "INSTAGRAMMABLE 韩国之旅",
+  "days": 8,
+  "nights": 7,
+  "price": {
+   "min": 1161,
+   "max": 3111,
+   "currency": "USD",
+   "note": "SGD 1488.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Instagrammable & Cafés",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "October 2026 - March 2027",
+  "families": [
+   "K01"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 3
+   },
+   {
+    "city": "Yangpyeong",
+    "key": "yangpyeong",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": "D",
+    "stay": "Incheon",
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ganghwa Peace Observatory",
+     "Ganghwa Seaside Resort Luge",
+     "Wolmido"
+    ],
+    "meals": "BLD",
+    "stay": "Incheon",
+    "title": "Incheon"
+   },
+   {
+    "day": 3,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Incheon Open Port Street",
+     "Songwol-dong Fairy Tale Village",
+     "Incheon Chinatown & Jjajangmyeon Museum",
+     "Sinpo International Market",
+     "Songdo Central Park",
+     "Songdo Triple Street",
+     "Hyundai Premium Outlet Songdo"
+    ],
+    "meals": "BL",
+    "stay": "Incheon",
+    "title": "Incheon"
+   },
+   {
+    "day": 4,
+    "city": "Yangpyeong",
+    "key": "yangpyeong",
+    "from": "Seoul",
+    "transport": "Bus",
+    "attractions": [
+     "Gapyeong Cruise",
+     "Jeju/Seoul Concept Café",
+     "Gapyeong Begonia Bird Park"
+    ],
+    "meals": "BD",
+    "stay": "Yangpyeong",
+    "title": "Seoul – Gyeonggi"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Everland",
+     "COEX Mall & Starfield Library",
+     "Gangnam"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "Gyeonggi – Yongin – Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Tongin Market",
+     "Myeongdong Shopping Street",
+     "Hongdae (Hongik Univ. Street)",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Incheon Harbor Park Hotel or similar (Incheon, 1N)",
+   "Incheon Best Western Harbor Park Hotel or similar (Incheon, 1N)",
+   "Incheon Harbor Park Hotel or similar (Incheon, 1N)",
+   "Yangpyeong Bloom Vista hotel or similar (Yangpyeong, 1N)",
+   "Ibis Ambassador Seoul Yongsan hotel or similar (Seoul, 1N)",
+   "Seoul Garden hotel or similar (Seoul, 1N)",
+   "Ibis Ambassador Seoul Yongsan hotel or similar (Seoul, 1N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/instagrammable-korea-0"
+ },
+ {
+  "code": "KR8PQG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8 Days 6 Nights Picturesque Korea",
+  "title_cn": "秀丽韩国之旅",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1629,
+   "max": 2994,
+   "currency": "USD",
+   "note": "SGD 2088.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "October 2026 - November 2026",
+  "families": [
+   "K03",
+   "K14"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 3
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Gimpo DMZ Tour",
+     "Aegibong Peace Ecopark",
+     "Jogang Observatory",
+     "Imjingak Park",
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience",
+     "Hyundai Premium Outlet Gimpo"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Seoul – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Snoopy Garden",
+     "Boromwat Flower Farm",
+     "Sangumburi Crater"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Sanyang Keuneonggot",
+     "Tangerine Picking / Jam DIY",
+     "9.81 Park",
+     "Aewol Café Street"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 5,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Jeju",
+    "transport": "Bus",
+    "attractions": [
+     "Mt Balwang Cable Car (Yongpyong)",
+     "INART Museum",
+     "Spoon Mapping Café",
+     "Yongpyong Resort"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Jeju – Gangneung"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Bus",
+    "attractions": [
+     "Daegwallyeong Sky Ranch",
+     "Woljeongsa Temple & Fir Forest Road",
+     "COEX Mall & Starfield Library",
+     "Gangnam"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Yongpyong – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius Hotel or similar (Jeju, 2N)",
+   "Jeju Sirius or similar (Jeju, 1N)",
+   "Yongpyong Resort or similar (Pyeongchang, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/picturesque-korea-0"
+ },
+ {
+  "code": "KR8SNG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N See Seoul & Busan",
+  "title_cn": "焕然一新看首尔及釜山",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1239,
+   "max": 2799,
+   "currency": "USD",
+   "note": "SGD 1588.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Nature & Scenery",
+   "Shopping & City"
+  ],
+  "season": "October 2026 - June 2027",
+  "families": [
+   "K06"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Daegu",
+    "key": "daegu",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Songwol-dong Fairy Tale Village",
+     "Incheon Chinatown & Jjajangmyeon Museum",
+     "Joyang Bangjik Café (Ganghwa)",
+     "Sinpo International Market",
+     "Songdo Central Park"
+    ],
+    "meals": "LD",
+    "stay": "Incheon",
+    "title": "Incheon"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Incheon",
+    "transport": "Bus / Train",
+    "attractions": [
+     "BIFF Square & Nampo-dong",
+     "Gukje Market",
+     "Busan Subway Experience",
+     "KTX High-speed Train"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "Incheon – Seoul – Busan"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": "Ship",
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Haedong Yonggungsa Temple",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Premium Outlet",
+     "Busan Yacht Tour",
+     "BUSAN X the SKY (LCT)"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "Busan – Busan"
+   },
+   {
+    "day": 5,
+    "city": "Daegu",
+    "key": "daegu",
+    "from": "Busan",
+    "transport": "Bus",
+    "attractions": [
+     "Guam Farm (Fruit Picking)",
+     "Dongseongno (Daegu)",
+     "Homigot Sunrise Square",
+     "Hwanho Park Space Walk"
+    ],
+    "meals": "BLD",
+    "stay": "Daegu",
+    "title": "Busan – Pohang – Daegu"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Daegu",
+    "transport": "Bus",
+    "attractions": [
+     "Oksunbong Peak Suspension Bridge",
+     "Cheongpung Lake Cable Car",
+     "Woraksan National Park",
+     "Danyang Dodamsambong & Mancheonha Skywalk"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Daegu – Jecheon – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Incheon Harbor Park Hotel or similar (Incheon, 1N)",
+   "Asti hotel Busan or similar (Busan, 2N)",
+   "Daegu Inter-burgo ( main building ) hotel or similar (Daegu, 1N)",
+   "Novotel Ambassador Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/see-seoul-busan"
+ },
+ {
+  "code": "KR6FNT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Seoul & Nami Live It Up + 1 Nights Free",
+  "title_cn": null,
+  "days": 6,
+  "nights": 4,
+  "price": {
+   "min": 1239,
+   "max": 1239,
+   "currency": "USD",
+   "note": "SGD 1588.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy",
+   "Heritage & Culture",
+   "Theme Parks & Family"
+  ],
+  "season": null,
+  "families": [
+   "K02"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 4
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": "Coach",
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Incheon – Seoul "
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Coach",
+    "attractions": [
+     "Everland",
+     "Seongsu-dong"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul – Chuncheon – Seoul "
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Deoksugung Palace",
+     "Ginseng Shop",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Coach / Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Golden Seoul Hotel/ Ibis Ambassador Yongsan Hotel or similar (Seoul, 4N)"
+  ],
+  "shopping_stops": [
+   "高丽人参店"
+  ],
+  "inclusions": [
+   "<table style=\"border-collapse:collapse; width:1204px\" width=\"1200\">",
+   "<colgroup>",
+   "<col style=\"width:259pt\" width=\"345\" />",
+   "<col style=\"width:110pt\" width=\"146\" />",
+   "<col style=\"width:38pt\" width=\"50\" />",
+   "<col style=\"width:56pt\" width=\"74\" />",
+   "<col style=\"width:43pt\" width=\"57\" />",
+   "<col span=\"2\" style=\"width:67pt\" width=\"89\" />",
+   "<col style=\"width:84pt\" width=\"112\" />",
+   "<col style=\"width:179pt\" width=\"238\" />",
+   "</colgroup>",
+   "<tbody>",
+   "<tr>",
+   "<td class=\"xl74\" style=\"border-bottom:none; height:20px; width:345px; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\"><span style=\"font-size:19px\"><span style=\"font-weight:700\"><span style=\"text-decoration:underline\"><span style=\"font-family:Arial,sans-serif\"><span style=\"font-style:normal\">Itinerary Inclusion:-</span></span></span></span></span></td>",
+   "<td class=\"xl66\" style=\"border-bottom:none; width:146px; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl66\" style=\"border-bottom:none; width:50px; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl68\" style=\"border-bottom:none; width:74px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl67\" style=\"border-bottom:none; width:57px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl68\" style=\"border-bottom:none; width:89px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl68\" style=\"border-bottom:none; width:89px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl68\" style=\"border-bottom:none; width:112px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td style=\"border-bottom:none; width:238px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "</tr>",
+   "<tr>",
+   "<td class=\"xl71\" style=\"border-bottom:none; height:27px; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\"><span style=\"font-size:19px\"><span style=\"font-family:Arial,sans-serif\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">- Arrival and departure Airport Transfer</span></span></span></span></span></td>",
+   "<td class=\"xl71\" style=\"border-bottom:none; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl71\" style=\"border-bottom:none; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl73\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl73\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "</tr>",
+   "<tr>",
+   "<td class=\"xl71\" style=\"border-bottom:none; height:26px; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\"><span style=\"font-size:19px\"><span style=\"font-family:Arial,sans-serif\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">- 5 Nights in Seoul</span></span></span></span></span></td>",
+   "<td class=\"xl71\" style=\"border-bottom:none; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl71\" style=\"border-bottom:none; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl73\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl72\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "<td class=\"xl73\" style=\"border-bottom:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:none; border-left:none\">&nbsp;</td>",
+   "</tr>",
+   "<tr>",
+   "<td class=\"xl75\" colspan=\"9\" style=\"border-bottom:none; height:50px; width:1200px; text-align:left; vertical-align:middle; white-space:normal; padding-top:1px; padding-right:1px; padding-left:1px; border-top:none; border-right:none; border-left:none\"><span style=\"font-size:19px\"><span style=\"font-family:Arial,sans-serif\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">- Tour with Entrance Fee Included &amp; Meals as per itinerary (** TOUR BASED ON <font><span style=\"font-size:14pt\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:underline\"><span style=\"font-family:Arial,sans-serif\">PRIVATE TOUR ARRANGEMENT </span></span></span></span></span></font><font><span style=\"font-size:14pt\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Arial,sans-serif\">AND </span></span></span></span></span></font><font><span style=\"font-size:14pt\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:underline\"><span style=\"font-family:Arial,sans-serif\">CONDUCTED IN MANDARIN or English (Surcharge $100 per pax)</span></span></span></span></span></font><font><span style=\"font-size:14pt\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Arial,sans-serif\">**)</span></span></span></span></span></font></span></span></span></span></span></td>",
+   "</tr>",
+   "<tr>",
+   "<td class=\"xl71\" colspan=\"9\" style=\"border-bottom:none; height:33px; vertical-align:middle; padding-top:1px; padding-right:1px; padding-left:1px; white-space:nowrap; border-top:none; border-right:none; border-left:none\"><span style=\"font-size:19px\"><span style=\"font-family:Arial,sans-serif\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">- 2 - 5PAXS: Group will&nbsp; be based on Local guide cum Driver// 6 - 10 PAXS: Group will be basesd on Local guide + 1 Driver</span></span></span></span></span></td>",
+   "</tr>",
+   "</tbody>",
+   "</table>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/seoul-nami-live-it-up-1-nights-free"
+ },
+ {
+  "code": "KR8GEG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Grandeur Korea English Guided",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1941,
+   "max": 3111,
+   "currency": "USD",
+   "note": "SGD 2488.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Seasonal Festivals",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "October 2026 - November 2026",
+  "families": [
+   "K05"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Daegu",
+    "key": "daegu",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Gwanghwamun Square",
+     "Cheonggyecheon Stream",
+     "Hyundai Premium Outlet Gimpo"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Seoul – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Udo Island",
+     "Geommeolle Beach (Udo)",
+     "Seobin Baeksa Beach (Udo)",
+     "Snoopy Garden",
+     "Jeju Herb Dongsan",
+     "Aromatherapy Footbath",
+     "Jeju Dongmun Market",
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "ARTE Museum Jeju",
+     "Canola Flower Fields",
+     "Seopjikoji"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Daegu",
+    "key": "daegu",
+    "from": "Jeju",
+    "transport": "Flight / Bus",
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Dongseongno (Daegu)"
+    ],
+    "meals": "BLD",
+    "stay": "Daegu",
+    "title": "Jeju – Busan – Daegu"
+   },
+   {
+    "day": 5,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Daegu",
+    "transport": "Bus",
+    "attractions": [
+     "Guam Farm (Fruit Picking)",
+     "Jeonju Arboretum",
+     "Jeonju Hanok Village",
+     "Jeondong Catholic Cathedral",
+     "Palgongsan & Donghwasa Temple",
+     "Hanbok Dress-up Experience"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "Daegu – Jeonju"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": "Bus",
+    "attractions": [
+     "Everland",
+     "Starfield Suwon",
+     "COEX Mall & Starfield Library"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Jeonju – Yongin – Suwon – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Myeongdong Shopping Street",
+     "Insadong & Ssamziegil"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Arrive In Singapore",
+    "key": "arriveinsingapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – ARRIVE IN SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius Hotel or similar (Jeju, 2N)",
+   "Hotel Inter-Burgo Daegu or similar (Daegu, 1N)",
+   "Jeonju Lahan Hotel or similar (Jeonju, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/grandeur-korea-english-guided-tour"
+ },
+ {
+  "code": "KR8FMG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8 Days 6 Nights Discover Korea Flora Maple Treasures",
+  "title_cn": "探索韩国枫花之旅",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1512,
+   "max": 2877,
+   "currency": "USD",
+   "note": "SGD 1938.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Autumn Foliage",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Nature & Scenery"
+  ],
+  "season": "October 2026 - October 2026",
+  "families": [
+   "K07"
+  ],
+  "route": [
+   {
+    "city": "Hongcheon",
+    "key": "hongcheon",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 3
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Hongcheon",
+    "key": "hongcheon",
+    "from": "Incheon",
+    "transport": "Bus",
+    "attractions": [
+     "Goseokjeong Flower Garden (Cheorwon)",
+     "Pocheon Art Valley"
+    ],
+    "meals": "LD",
+    "stay": "Hongcheon",
+    "title": "Incheon – Seoul – Cheorwon – Chuncheon – Hongcheon"
+   },
+   {
+    "day": 3,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Hongcheon",
+    "transport": "Bus",
+    "attractions": [
+     "The Garden of Morning Calm",
+     "Nami Island",
+     "Autumn Foliage",
+     "Ginkgo Trees"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Hongcheon – Pyeongchang"
+   },
+   {
+    "day": 4,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Mt Balwang Cable Car (Yongpyong)",
+     "Mmango Museum",
+     "Daegwallyeong Sky Ranch",
+     "Woljeongsa Temple & Fir Forest Road",
+     "Spoon Mapping Café",
+     "Autumn Foliage"
+    ],
+    "meals": "BD",
+    "stay": "Pyeongchang",
+    "title": "Pyeongchang"
+   },
+   {
+    "day": 5,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Jeongdongjin (Rail Bike & Station)",
+     "Haslla Art World",
+     "Gangneung Jungang Market",
+     "Anmok Beach Café Street"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Pyeongchang – Gangneung – Pyeongchang"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Bus",
+    "attractions": [
+     "Lotte World Tower Seoul Sky",
+     "Seoul Forest",
+     "Hongdae (Hongik Univ. Street)",
+     "Autumn Foliage",
+     "Pink Muhly Grass"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Pyeongchang – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Changdeokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Hongcheon Sono Hotel & Resort or similar (Hongcheon, 1N)",
+   "Yongpyong Resort or similar (Pyeongchang, 3N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare with airport taxes & fuel charges",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary",
+   "Complimentary basic travel insurance plan for Singapore citizens / residents / employment pass holders"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/discover-korea-flora-maple-treasures"
+ },
+ {
+  "code": "KR8BKG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Blossoms In Korea",
+  "title_cn": "韩国赏樱之旅行",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1551,
+   "max": 2643,
+   "currency": "USD",
+   "note": "SGD 1988.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Cherry Blossom",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "March 2027 - April 2027",
+  "families": [
+   "K05"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 1
+   },
+   {
+    "city": "Daegu",
+    "key": "daegu",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Singapore",
+    "transport": "Flight / Bus",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon – Seoul – Gimpo – Jeju"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Hyundai Premium Outlet Gimpo"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Seoul – Gimpo – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Udo Island",
+     "Geommeolle Beach (Udo)",
+     "Seobin Baeksa Beach (Udo)",
+     "Snoopy Garden",
+     "Boromwat Flower Farm",
+     "Halla Arboretum",
+     "Canola Flower Fields",
+     "Tulip Festival",
+     "Cherry Blossom Viewing"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Jinhae Gunhangje Cherry Blossom Festival",
+     "Songdo Marine Cable Car (Busan Air Cruise)",
+     "Songdo Yonggung Suspension Bridge",
+     "BIFF Square & Nampo-dong",
+     "Gukje Market",
+     "Songdo Beach",
+     "Busan Tower (Yongdusan Park)"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "Jeju – Busan"
+   },
+   {
+    "day": 5,
+    "city": "Daegu",
+    "key": "daegu",
+    "from": "Busan",
+    "transport": "Bus",
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "E-World & 83 Tower",
+     "Dongseongno (Daegu)",
+     "Cherry Blossom Viewing"
+    ],
+    "meals": "BLD",
+    "stay": "Daegu",
+    "title": "Busan – Daegu"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Daegu",
+    "transport": "Bus",
+    "attractions": [
+     "Guam Farm (Fruit Picking)",
+     "Everland",
+     "Palgongsan & Donghwasa Temple"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Daegu – Yongin – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street",
+     "Seokchon Lake",
+     "Cherry Blossom Viewing"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Yeouido Yunjung-ro Cherry Blossom Street",
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius Hotel or similar (Jeju, 2N)",
+   "Asti hotel Busan or similar (Busan, 1N)",
+   "Hotel Inter-Burgo Daegu similar (Daegu, 1N)",
+   "Seoul Novotel Ambassador or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/blossoms-of-korea"
+ },
+ {
+  "code": "KR8SVG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Korea Smart Saver",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": 1239,
+   "max": 2253,
+   "currency": "USD",
+   "note": "SGD 1588.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "February 2027 - March 2027",
+  "families": [
+   "K07"
+  ],
+  "route": [
+   {
+    "city": "Gapyeong",
+    "key": "gapyeong",
+    "nights": 1
+   },
+   {
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 4
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Gapyeong",
+    "key": "gapyeong",
+    "from": "Incheon",
+    "transport": "Bus",
+    "attractions": [
+     "Nami Island",
+     "Gapyeong Italian Village (Pinocchio)",
+     "Strawberry Picking"
+    ],
+    "meals": "LD",
+    "stay": "Gapyeong",
+    "title": "Incheon – Chuncheon – Gangwon-do"
+   },
+   {
+    "day": 3,
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car",
+     "Daepohang Fishery Market",
+     "Jeongdongjin (Rail Bike & Station)",
+     "Haslla Art World",
+     "Ski Resort (snow activities)"
+    ],
+    "meals": "BLD",
+    "stay": "Hoengseong",
+    "title": "Gangwon-do"
+   },
+   {
+    "day": 4,
+    "city": "Hoengseong",
+    "key": "hoengseong",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car",
+     "Daepohang Fishery Market",
+     "Jeongdongjin (Rail Bike & Station)",
+     "Haslla Art World",
+     "Welli Hilli Park"
+    ],
+    "meals": "BLD",
+    "stay": "Hoengseong",
+    "title": "Gangwon-do"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gangwon-Do",
+    "transport": "Bus",
+    "attractions": [
+     "Everland",
+     "COEX Mall & Starfield Library"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "Gangwon-do – Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street",
+     "Duty-free Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Ganghwa Peace Observatory",
+     "Ganghwa Anglican Church",
+     "Yeonmijeong Pavilion (Ganghwa)",
+     "Joyang Bangjik Café (Ganghwa)",
+     "Hongdae (Hongik Univ. Street)",
+     "Healthy Liver Showroom"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Seoul – Incheon – Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gwangmyeong Cave",
+     "Gwangjang Market"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 9,
+    "city": "Arrive In Singapore",
+    "key": "arriveinsingapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Kimchi-making Experience"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – ARRIVE IN SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Soraksan Hanwha Resort or similar (Gapyeong, 1N)",
+   "Welli Hilli Park resort or similar (Hoengseong, 2N)",
+   "Ibis Ambassador Yongsan Seoul or similar (Seoul, 4N)"
+  ],
+  "shopping_stops": [
+   "免税店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary",
+   "Complimentary basic travel insurance plan for Singapore citizens / residents / employment pass holders"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/korea-smart-saver"
+ },
+ {
+  "code": "CB-316692",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Korea Express by Europamundo Vacations (English-guided)",
+  "title_cn": null,
+  "days": 7,
+  "nights": 0,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy",
+   "Heritage & Culture"
+  ],
+  "season": null,
+  "families": [],
+  "route": [],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Deoksugung Palace",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Changdeokgung Palace",
+     "Bukchon Hanok Village",
+     "War Memorial of Korea",
+     "Gangnam",
+     "Lotte World Tower Seoul Sky"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul"
+   },
+   {
+    "day": 3,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Suwon Hwaseong Fortress"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul – Suwon – Jeonju"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Haeundae Beach"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "Jeonju – Daegu – Busan"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Haedong Yonggungsa Temple",
+     "BIFF Square & Nampo-dong",
+     "Busan Tower (Yongdusan Park)",
+     "KTX High-speed Train"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "Busan – Seoul "
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul"
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [
+   "<ul>",
+   "<li>Europamundo General Services: Travel by bus with English speaking guide, hotel and breakfast.</li>",
+   "<li>Includes arrival transfer</li>",
+   "<li>City tour in: Seoul</li>",
+   "<li>Evening Transfer: Myeongdong quarter in Seoul.&nbsp;</li>",
+   "<li>Ticket admission: Metro, Changdeokgung Palace, War Memorial in Seoul, Qyeongbokgung Palace in Seoul, Hanok Village in Jeonju, Buddhist Temple in Haeinsa, haedong Yongung, U.N. Memorial and Yongdusan Park in Busan.&nbsp;</li>",
+   "<li>High Speed Train: Busan - Seoul.&nbsp;</li>",
+   "<li>5 Lunch or Dinner Included in: Seoul, Seoul, Suwon, Daegu, Busan.&nbsp;</li>",
+   "</ul>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/korea-express-by-europamundo-vacations-english-guided"
+ },
+ {
+  "code": "KR8BSG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Seoul Busan Ski Bliss",
+  "title_cn": "8天首尔及釜山滑雪乐",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1395,
+   "max": 2565,
+   "currency": "USD",
+   "note": "SGD 1788.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "December 2026 - March 2027",
+  "families": [
+   "K06"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Incheon",
+    "transport": "Train",
+    "attractions": [
+     "Songwol-dong Fairy Tale Village",
+     "Incheon Chinatown & Jjajangmyeon Museum",
+     "KTX High-speed Train"
+    ],
+    "meals": "LD",
+    "stay": "Busan",
+    "title": "Incheon – Busan"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Gukje Market",
+     "BIFF Square & Nampo-dong",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "Haedong Yonggungsa Temple"
+    ],
+    "meals": "BD",
+    "stay": "Busan",
+    "title": "Busan"
+   },
+   {
+    "day": 4,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Bus",
+    "attractions": [
+     "Bulguksa Temple",
+     "Seokguram Grotto",
+     "Hwangnidan-gil",
+     "Gyochon Hanok Village",
+     "Donggung Palace & Wolji Pond"
+    ],
+    "meals": "BLD",
+    "stay": "Gyeongju",
+    "title": "Busan – Gyeongju"
+   },
+   {
+    "day": 5,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Bus",
+    "attractions": [
+     "Strawberry Picking",
+     "INART Museum",
+     "Spoon Mapping Café",
+     "Tangerine Picking / Jam DIY",
+     "Ski Resort (snow activities)"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Gyeongju – Gangwon-do"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gangwon-Do",
+    "transport": "Bus",
+    "attractions": [
+     "Mt Balwang Cable Car (Yongpyong)",
+     "Ski Resort (snow activities)",
+     "Dongdaemun Market"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "Gangwon-do – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Tongin Market",
+     "Lotte World Adventure",
+     "The Painters Show",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Arrive In Singapore",
+    "key": "arriveinsingapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – ARRIVE IN SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Busan Asti hotel or similar (Busan, 2N)",
+   "Gyeongju Commodore hotel or similar (Gyeongju, 1N)",
+   "Yongpyong ski resort or similar (Pyeongchang, 1N)",
+   "Novotel Ambassador Seoul Yongsan hotel or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/seoul-busan-ski-bliss-0"
+ },
+ {
+  "code": "KR4JT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Jeju Getaway",
+  "title_cn": "济州岛自由行",
+  "days": 4,
+  "nights": 0,
+  "price": {
+   "min": 381,
+   "max": 381,
+   "currency": "USD",
+   "note": "SGD 488.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy"
+  ],
+  "season": null,
+  "families": [
+   "K11"
+  ],
+  "route": [],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": null
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [
+   "<ul>",
+   "<li>Arrival and Departure Airport Transfer (Private Transfer)</li>",
+   "<li>3 Nights Accommodation in Jeju</li>",
+   "</ul>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/jeju-getaway"
+ },
+ {
+  "code": "KR5BJT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Busan & Gyeongju Live It Up",
+  "title_cn": null,
+  "days": 5,
+  "nights": 3,
+  "price": {
+   "min": 1005,
+   "max": 1005,
+   "currency": "USD",
+   "note": "SGD 1288.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy",
+   "Heritage & Culture"
+  ],
+  "season": null,
+  "families": [
+   "K10"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Busan"
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Songdo Marine Cable Car (Busan Air Cruise)",
+     "BIFF Square & Nampo-dong",
+     "Gukje Market",
+     "Oryukdo Skywalk"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "Busan"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": "Car",
+    "attractions": [
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyochon Hanok Village",
+     "Woljeonggyo Bridge"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "Busan – Gyeongju – Busan "
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haedong Yonggungsa Temple",
+     "Premium Outlet",
+     "Dongbaek Island & Nurimaru APEC House",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "Busan"
+   },
+   {
+    "day": 5,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Busan",
+    "transport": "----",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Busan – Singapore"
+   }
+  ],
+  "hotels": [
+   "Overnight in Busan: Kwangsu Hotel or Similar (Busan, 3N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [
+   "<p>- Arrival and Departure Airport Transfer (private transfer)</p>",
+   "<p>- 3 Nights accommodation at in Busan&nbsp;</p>",
+   "<p>- Tour as per itinerary (Tour based on Private Tour and conducted in English or Mandarin *please advice language preferred during booking* and based on DRIVER-GUIDE)</p>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/busan-gyeongju-live-it-up"
+ },
+ {
+  "code": "KR5BGT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Busan & Geoje Island Live It Up",
+  "title_cn": null,
+  "days": 5,
+  "nights": 3,
+  "price": {
+   "min": 924,
+   "max": 927,
+   "currency": "USD",
+   "note": "SGD 1185.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy"
+  ],
+  "season": null,
+  "families": [
+   "K10"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Busan"
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Songdo Marine Cable Car (Busan Air Cruise)",
+     "BIFF Square & Nampo-dong",
+     "Gukje Market",
+     "Oryukdo Skywalk"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "Busan"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": "Car",
+    "attractions": [
+     "Geoje Windy Hill & Oedo Botania"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "Busan – Geoje – Busan"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haedong Yonggungsa Temple",
+     "Premium Outlet",
+     "Dongbaek Island & Nurimaru APEC House",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "Busan"
+   },
+   {
+    "day": 5,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Busan",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Busan – Singapore"
+   }
+  ],
+  "hotels": [
+   "Overnight in Busan: Kwangsu Hotel or Similar (Busan, 3N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [
+   "<ul>",
+   "<li>",
+   "<p>Arrival and departure airport transfer (private transfer)</p>",
+   "</li>",
+   "<li>",
+   "<p><span style=\"font-size: 1.125rem;\">3 nights accommodation in Busan</span></p>",
+   "</li>",
+   "<li>",
+   "<p>Tour as per itinerary (Tour based on Private Tour and conducted in English or Mandarin. <strong>Please advice language preferred during booking</strong>&nbsp;and based on driver-guide)</p>",
+   "</li>",
+   "</ul>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/busan-geoje-island-live-it-up"
+ },
+ {
+  "code": "KR8BG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Blossoms In Seoul And Gangwon",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1473,
+   "max": 2721,
+   "currency": "USD",
+   "note": "SGD 1888.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Cherry Blossom",
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "April 2027 - April 2027",
+  "families": [
+   "K07"
+  ],
+  "route": [
+   {
+    "city": "Goyang (Ilsan)",
+    "key": "goyang",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 3
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Goyang (Ilsan)",
+    "key": "goyang",
+    "from": "Incheon",
+    "transport": "Bus",
+    "attractions": [
+     "Aegibong Peace Ecopark",
+     "Gochujang-making Experience",
+     "Rice Flower's Farmer (Gimpo)",
+     "Strawberry Picking",
+     "Hyundai Premium Outlet Gimpo",
+     "Gimpo DMZ Tour"
+    ],
+    "meals": "LD",
+    "stay": "Goyang (Ilsan)",
+    "title": "Incheon – Gyeonggi"
+   },
+   {
+    "day": 3,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Seoul",
+    "transport": "Bus",
+    "attractions": [
+     "The Garden of Morning Calm"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Gyeonggi – Gangwon-do"
+   },
+   {
+    "day": 4,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongpodae & Gyeongpo Beach",
+     "Cherry Blossom Viewing",
+     "Heo Gyun & Heo Nanseolheon Memorial Park",
+     "Anmok Beach Café Street",
+     "Haslla Art World"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Gangwon-do"
+   },
+   {
+    "day": 5,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Mt Balwang Cable Car (Yongpyong)",
+     "INART Museum",
+     "Daegwallyeong Sky Ranch",
+     "Woljeongsa Temple & Fir Forest Road"
+    ],
+    "meals": "BD",
+    "stay": "Pyeongchang",
+    "title": "Gangwon-do"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gangwon-Do",
+    "transport": "Bus",
+    "attractions": [
+     "Everland",
+     "COEX Mall & Starfield Library",
+     "Gangnam"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Gangwon-do – Yongin – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "National Museum of Korean Contemporary History",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Arrive In Singapore",
+    "key": "arriveinsingapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom",
+     "Yeouido Yunjung-ro Cherry Blossom Street"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – ARRIVE IN SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Sono Calm Goyang hotel or similar (Goyang (Ilsan), 1N)",
+   "Yongpyong resort or similar class resort (Pyeongchang, 3N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare with airport taxes & fuel charges",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary",
+   "Complimentary basic travel insurance plan for Singapore citizens / residents / employment pass holders"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/blossoms-in-seoul-gangwon"
+ },
+ {
+  "code": "KR8TGG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Taste Of Korea With Glamping Journey",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1317,
+   "max": 2877,
+   "currency": "USD",
+   "note": "SGD 1688.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Food",
+   "Instagrammable & Cafés",
+   "Nature & Scenery",
+   "Shopping & City",
+   "Winter & Ski"
+  ],
+  "season": "October 2026 - October 2026",
+  "families": [
+   "K03"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Gapyeong",
+    "key": "gapyeong",
+    "nights": 1
+   },
+   {
+    "city": "Chuncheon",
+    "key": "chuncheon",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Rainbow Coastal Road & Iho Tewoo Beach",
+     "Jeju Dongmun Market",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "Seongsan Ilchulbong (Sunrise Peak)"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Incheon – Gimpo – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Sanbangsan & Yongmeori Coast",
+     "Seongeup Folk Village",
+     "Bonte Museum",
+     "Taekwondo Show"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Gapyeong",
+    "key": "gapyeong",
+    "from": "Jeju",
+    "transport": "Flight / Bus",
+    "attractions": [
+     "Jeju/Seoul Concept Café",
+     "Glamping Stay"
+    ],
+    "meals": "BLD",
+    "stay": "Gapyeong",
+    "title": "Jeju – Gimpo – Gyeonggi"
+   },
+   {
+    "day": 5,
+    "city": "Chuncheon",
+    "key": "chuncheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Jeongseon Rail Bike",
+     "Nami Island",
+     "Chuncheon Myeongdong Dakgalbi Street",
+     "High1 Resort"
+    ],
+    "meals": "BLD",
+    "stay": "Chuncheon",
+    "title": "Gyeonggi"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Culture Station Seoul 284",
+     "Mangwon Market & Mangridan-gil",
+     "Unhyeongung Palace",
+     "Han River Cruise",
+     "Ginseng Shop",
+     "Han River Park"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Gyeonggi – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seaweed Museum",
+     "Hanbok Dress-up Experience",
+     "Mullae-dong Art Village",
+     "Seongsu-dong",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Arrive In Singapore",
+    "key": "arriveinsingapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – ARRIVE IN SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "The Best Jeju Seongsan Hotel or Similar (Jeju, 2N)",
+   "Choochoo Glamping (Gapyeong, 1N)",
+   "Elysian Gangcheon Resort (Chuncheon, 1N)",
+   "Sollago Myeongdong Hotel or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "高丽人参店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/taste-of-korea-with-glamping-journey"
+ },
+ {
+  "code": "CB-8546",
+  "site": "CB",
+  "tour_type": "private_custom",
+  "title_en": "Busan",
+  "title_cn": null,
+  "days": 5,
+  "nights": 0,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Heritage & Culture",
+   "Nature & Scenery"
+  ],
+  "season": null,
+  "families": [
+   "K10"
+  ],
+  "route": [],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Busan Tower (Yongdusan Park)",
+     "Bupyeong Kkangtong Night Market",
+     "BIFF Square & Nampo-dong"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 2,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Bulguksa Temple",
+     "Donggung Palace & Wolji Pond",
+     "Yangdong Folk Village"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 3,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Jagalchi Fish Market",
+     "Taejongdae",
+     "Oryukdo Skywalk",
+     "Gwangalli Beach & Gwangan Bridge",
+     "The Bay 101"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 4,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ulsan Daewangam & Taehwagang Garden",
+     "Premium Outlet"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 5,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": null
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.chanbrothers.com/private-tours/asia/south-korea/busan"
+ },
+ {
+  "code": "CB-8880",
+  "site": "CB",
+  "tour_type": "private_custom",
+  "title_en": "Jeju Island",
+  "title_cn": null,
+  "days": 3,
+  "nights": 0,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Nature & Scenery",
+   "Seasonal Festivals"
+  ],
+  "season": null,
+  "families": [
+   "K11"
+  ],
+  "route": [],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 2,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "O'sulloc Tea Museum & Innisfree House",
+     "Camellia Hill"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 3,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Canola Flower Fields",
+     "Seongeup Folk Village",
+     "Jusangjeolli Cliff",
+     "Jeongbang Waterfall",
+     "Mysterious Road"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.chanbrothers.com/private-tours/asia/south-korea/jeju-island"
+ },
+ {
+  "code": "CB-8885",
+  "site": "CB",
+  "tour_type": "private_custom",
+  "title_en": "Seoul",
+  "title_cn": null,
+  "days": 5,
+  "nights": 0,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Nature & Scenery",
+   "Theme Parks & Family"
+  ],
+  "season": null,
+  "families": [
+   "K02"
+  ],
+  "route": [],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Pocheon Herb Island",
+     "Pocheon Art Valley"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 2,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "National Folk Museum of Korea",
+     "Bukchon Hanok Village",
+     "N Seoul Tower (Namsan)",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 3,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Everland"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 4,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Nami Island",
+     "Petite France"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": null
+   },
+   {
+    "day": 5,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": null
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.chanbrothers.com/private-tours/asia/south-korea/seoul"
+ },
+ {
+  "code": "KR6JLT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Jeju Live It Up",
+  "title_cn": null,
+  "days": 6,
+  "nights": 5,
+  "price": {
+   "min": 1239,
+   "max": 1239,
+   "currency": "USD",
+   "note": "SGD 1588.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Free & Easy",
+   "Instagrammable & Cafés",
+   "Nature & Scenery",
+   "Theme Parks & Family"
+  ],
+  "season": null,
+  "families": [
+   "K11"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 5
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": "Jeju",
+    "title": "Singapore – Jeju"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Horse Riding",
+     "Sanyang Keuneonggot",
+     "O'sulloc Tea Museum & Innisfree House"
+    ],
+    "meals": null,
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Jusangjeolli Cliff",
+     "Jeongbang Waterfall",
+     "Seogwipo Maeil Olle Market"
+    ],
+    "meals": null,
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "9.81 Park",
+     "Aewol Café Street",
+     "Rainbow Coastal Road & Iho Tewoo Beach",
+     "Yongduam (Dragon Head Rock)"
+    ],
+    "meals": null,
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 5,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Tangerine Picking / Jam DIY",
+     "Snoopy Garden",
+     "Jeju Black Pork Street"
+    ],
+    "meals": null,
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 6,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Jeju",
+    "transport": "Plane",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Jeju – Singapore"
+   }
+  ],
+  "hotels": [
+   "Choice of Hotel in Jeju (Jeju, 2N)",
+   "Choice of Accommodation in Jeju (Jeju, 1N)",
+   "Choice of Hotel in Jeju (Jeju, 1N)",
+   "Choice of Accommodation in Jeju (Jeju, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [
+   "<p>- Arrival and departure Airport Transfer (Jeju International Airport - Hotel - Jeju International Airport)</p>",
+   "<p>- 5 Night in accommodation in Jeju</p>",
+   "<p>- 7 seater car (for 6paxs and above, a luggage car will be arrange to to/from airport)</p>",
+   "<p>- Tour &nbsp;as per itinerary (Entrance Fee &amp; Meals Excluded) (** TOUR BASED PRIVATE TOUR, AND TOUR CONDUCTED IN MANDARIN and BASED ON 8 Hours DRIVER-GUIDE for Day 2-5, &nbsp;Overtime charge: SGD 40/hour)</p>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/jeju-live-it-up"
+ },
+ {
+  "code": "KR6FGT",
+  "site": "CB",
+  "tour_type": "self_guided",
+  "title_en": "Seoul & Ganghwa DMZ wz Nami Live It Up",
+  "title_cn": null,
+  "days": 6,
+  "nights": 4,
+  "price": {
+   "min": 1473,
+   "max": 1473,
+   "currency": "USD",
+   "note": "SGD 1888.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Free & Easy",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Shopping & City"
+  ],
+  "season": null,
+  "families": [
+   "K02"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 4
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Singapore",
+    "transport": "Flight / Car",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon – Seoul"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": "Car",
+    "attractions": [
+     "Ganghwa Peace Observatory",
+     "Ganghwa Anglican Church",
+     "Joyang Bangjik Café (Ganghwa)",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Incheon – Gyeonggi – Seoul"
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Car",
+    "attractions": [
+     "Nami Island",
+     "Seongsu-dong"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul  – Chuncheon – Seoul "
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Deoksugung Palace",
+     "Ginseng Shop",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Car / Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Golden Seoul Hotel/ Ibis Ambassador Yongsan Hotel or similar (Seoul, 3N)",
+   "Golden Seoul Hotel/ Ibis Ambassador Yongsan Hotel or sim (Seoul, 1N)"
+  ],
+  "shopping_stops": [
+   "高丽人参店"
+  ],
+  "inclusions": [
+   "<p>- Arrival and departure Airport Transfer</p>",
+   "<p>- 4 Nights in Seoul</p>",
+   "<p>- Including 1 day, 10 hours car use with driver guide in Seoul</p>",
+   "<p>- Tour with Entrance Fee Included &amp; Meals as per itinerary (** TOUR BASED ON PRIVATE TOUR ARRANGEMENT AND CONDUCTED IN MANDARIN or English (Surcharge $100 per pax)**</p>",
+   "<p>- 2 - 5PAXS: Group will &nbsp;be based on Local guide cum Driver// 6 - 10 PAXS: Group will be basesd on Local guide + 1 Driver</p>"
+  ],
+  "url": "https://www.chanbrothers.com/free-easy/asia/south-korea/seoul-ganghwa-dmz-wz-nami-live-it-up"
+ },
+ {
+  "code": "KR8UG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Korea Fine Times Best Finds With Ufm 100.3 Dj Limei",
+  "title_cn": "与 UFM100.3 DJ丽梅同游韩国良辰“梅”景",
+  "days": 8,
+  "nights": 7,
+  "price": {
+   "min": 1941,
+   "max": 2253,
+   "currency": "USD",
+   "note": "SGD 2488.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Shopping & City",
+   "Winter & Ski"
+  ],
+  "season": "November 2026 - December 2026",
+  "families": [
+   "K08",
+   "K13"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Seosan",
+    "key": "seosan",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": "D",
+    "stay": "Incheon",
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Seosan",
+    "key": "seosan",
+    "from": "Incheon",
+    "transport": "Bus",
+    "attractions": [
+     "Apple Farm & DIY Apple Pie",
+     "Yedang Lake Suspension Bridge",
+     "Haemieupseong Fortress"
+    ],
+    "meals": "BLD",
+    "stay": "Seosan",
+    "title": "Incheon – Yesan – Seosan"
+   },
+   {
+    "day": 3,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seosan",
+    "transport": "Bus",
+    "attractions": [
+     "Taean Thalassotherapy & Tulip Festival",
+     "Jeondong Catholic Cathedral",
+     "Jeonju Hanok Village",
+     "Hanbok Dress-up Experience",
+     "Wangyijimil Hanok Stay (Jeonju)"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "Seosan – Taen – Jeonju"
+   },
+   {
+    "day": 4,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Jeonju",
+    "transport": "Bus",
+    "attractions": [
+     "White Dandelion Village (Boeun)",
+     "Beopjusa Temple",
+     "Yongpyong Resort"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Jeonju – Boeun-gun – Pyeongchang"
+   },
+   {
+    "day": 5,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Mt Balwang Cable Car (Yongpyong)",
+     "Yongpyong Resort"
+    ],
+    "meals": "BD",
+    "stay": "Pyeongchang",
+    "title": "Pyeongchang"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Bus",
+    "attractions": [
+     "Tteokbokki Cooking Class",
+     "Lotte World Tower Seoul Sky",
+     "COEX Mall & Starfield Library"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Pyeongchang – Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Harbor Park Hotel or similar (Incheon, 1N)",
+   "Benikea Hotel Seosan or similar (Seosan, 1N)",
+   "Wangyijimil Hanok Stay (Jeonju, 1N)",
+   "Yongpyong Resort or similar class resort (Pyeongchang, 2N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/korea-fine-times-best-finds-with-ufm-1003-dj-limei"
+ },
+ {
+  "code": "KR10EG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "Korea Easy Pace Travel",
+  "title_cn": "韩国慢漫游",
+  "days": 10,
+  "nights": 9,
+  "price": {
+   "min": 1941,
+   "max": 2331,
+   "currency": "USD",
+   "note": "SGD 2488.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Seasonal Festivals",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "November 2026 - June 2027",
+  "families": [
+   "K03",
+   "K08"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 3
+   },
+   {
+    "city": "Seosan",
+    "key": "seosan",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": "D",
+    "stay": "Incheon",
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Aegibong Peace Ecopark",
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience",
+     "Hyundai Premium Outlet Gimpo"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Incheon – Gimpo – Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Udo Island",
+     "Geommeolle Beach (Udo)",
+     "Seobin Baeksa Beach (Udo)",
+     "Snoopy Garden",
+     "Boromwat Flower Farm",
+     "Yongyeon Suspension Bridge",
+     "Canola Flower Fields",
+     "Seopjikoji",
+     "ARTE Museum Jeju"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seogwipo Healing Forest",
+     "Tangerine Picking / Jam DIY",
+     "O'sulloc Tea Museum & Innisfree House",
+     "9.81 Park"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 5,
+    "city": "Seosan",
+    "key": "seosan",
+    "from": "Jeju",
+    "transport": "Flight / Bus",
+    "attractions": [
+     "Pinnacleland",
+     "Apple Farm & DIY Apple Pie"
+    ],
+    "meals": "BLD",
+    "stay": "Seosan",
+    "title": "Jeju – Gimpo – Seosan"
+   },
+   {
+    "day": 6,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seosan",
+    "transport": "Bus",
+    "attractions": [
+     "Yedang Lake Suspension Bridge",
+     "Buyeo Baekje Historic Areas",
+     "Jeonju Hanok Village",
+     "Hanbok Dress-up Experience"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "Seosan – Jeonju"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": "Bus",
+    "attractions": [
+     "White Dandelion Village (Boeun)",
+     "Beopjusa Temple",
+     "Yongpyong Resort"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Jeonju – Boeun-gun – Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Nami Island",
+     "Gimyujeong Rail Bike",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul – Chuncheon – Seoul"
+   },
+   {
+    "day": 9,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 10,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Incheon Harbor Park Hotel or similar (Incheon, 1N)",
+   "Jeju Sirius Hotel or similar (Jeju, 3N)",
+   "Benikea Hotel Seosan or similar (Seosan, 1N)",
+   "Jeonju Wangyijimil Hanok Stay (Jeonju, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 3N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/korea-easy-pace-travel"
+ },
+ {
+  "code": "KR8YYG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "8D6N Yummy Yummy Korea",
+  "title_cn": "Yummy Yummy 韩国",
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1746,
+   "max": 2955,
+   "currency": "USD",
+   "note": "SGD 2238.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Food",
+   "Hands-on Experiences"
+  ],
+  "season": "October 2026 - November 2026",
+  "families": [
+   "K08"
+  ],
+  "route": [
+   {
+    "city": "Mokpo",
+    "key": "mokpo",
+    "nights": 2
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Singapore – Incheon"
+   },
+   {
+    "day": 2,
+    "city": "Mokpo",
+    "key": "mokpo",
+    "from": "Incheon",
+    "transport": "Bus / Train",
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "KTX High-speed Train"
+    ],
+    "meals": "LD",
+    "stay": "Mokpo",
+    "title": "Incheon – Seoul – Mokpo"
+   },
+   {
+    "day": 3,
+    "city": "Mokpo",
+    "key": "mokpo",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Abalone Harvesting Experience",
+     "Wando Marine Healing Centre & Seaweed Museum",
+     "Haenam (Land's End / Daeheungsa)"
+    ],
+    "meals": "BLD",
+    "stay": "Mokpo",
+    "title": "Mokpo – Mokpo"
+   },
+   {
+    "day": 4,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Mokpo",
+    "transport": "Bus",
+    "attractions": [
+     "Jeungdo Taepyeong Salt Farm",
+     "Jeonju Hanok Village",
+     "Choco Pie DIY"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "Mokpo – Jeonju"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": "Bus",
+    "attractions": [
+     "Gunsan Gyeongam-dong Railroad Village",
+     "Lee Sung Dang Bakery"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "Jeonju – Gunsan – Yongin – Seoul"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Seoul"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": "Bus",
+    "attractions": [
+     "Gwangjang Market",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "Seoul – Seoul"
+   },
+   {
+    "day": 8,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Seoul",
+    "transport": "Bus / Flight",
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Seoul – Incheon – Singapore"
+   }
+  ],
+  "hotels": [
+   "Hotel Hyundai by Lahan Mokpo hotel or similar (Mokpo, 2N)",
+   "Jeonju Lahan hotel or similar (Jeonju, 1N)",
+   "Novotel Ambassador Seoul Yongsan or similar (Seoul, 3N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/yummy-yummy-korea"
+ },
+ {
+  "code": "KR6JMG",
+  "site": "CB",
+  "tour_type": "group_coach",
+  "title_en": "6D5N Jeju Moments",
+  "title_cn": "济州好时光",
+  "days": 6,
+  "nights": 5,
+  "price": {
+   "min": 1317,
+   "max": 2097,
+   "currency": "USD",
+   "note": "SGD 1688.0；站点「From」促销价 / 原价，每人、两人一房、含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Instagrammable & Cafés",
+   "Nature & Scenery",
+   "Theme Parks & Family"
+  ],
+  "season": "November 2026 - March 2027",
+  "families": [
+   "K11"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 5
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Singapore",
+    "transport": "Flight",
+    "attractions": [
+     "Hallim Park & Hyeopjae Beach",
+     "Yongduam (Dragon Head Rock)",
+     "Yongyeon Suspension Bridge"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "Singapore – Jeju"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Udo Island",
+     "Seobin Baeksa Beach (Udo)",
+     "Geommeolle Beach (Udo)",
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Jeju Herb Dongsan",
+     "Tangerine Picking / Jam DIY",
+     "Seopjikoji",
+     "ARTE Museum Jeju"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Snoopy Garden",
+     "Horse Riding",
+     "Jeju Donghwa Village",
+     "Jeju Secret Forest",
+     "NANTA Show"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seogwipo Healing Forest",
+     "Seogwipo Maeil Olle Market",
+     "Jusangjeolli Cliff",
+     "Camellia Hill"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 5,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "O'sulloc Tea Museum & Innisfree House",
+     "Sanyang Keuneonggot",
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Gotjawal Forest"
+    ],
+    "meals": "BL",
+    "stay": "Jeju",
+    "title": "Jeju"
+   },
+   {
+    "day": 6,
+    "city": "Singapore",
+    "key": "singapore",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Rainbow Coastal Road & Iho Tewoo Beach",
+     "Aewol Café Street",
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Jeju – Singapore"
+   }
+  ],
+  "hotels": [
+   "Jeju Sirius Hotel or similar (Jeju, 5N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [
+   "Return economy class airfare",
+   "Accommodation, meals & transfers as per the itinerary",
+   "Licensed tour guide & driver",
+   "Sightseeing & admission fees as per itinerary"
+  ],
+  "url": "https://www.chanbrothers.com/package-tours/asia/south-korea/jeju-moments"
+ },
+ {
+  "code": "KRICNW",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "6D4N EASY SEOUL KOREA (NOV-MAR)",
+  "title_cn": null,
+  "days": 6,
+  "nights": 4,
+  "price": {
+   "min": 771,
+   "max": 849,
+   "currency": "USD",
+   "note": "SGD 988.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Instagrammable & Cafés",
+   "Shopping & City",
+   "Winter & Ski"
+  ],
+  "season": "NOV-MAR",
+  "families": [
+   "K01"
+  ],
+  "route": [
+   {
+    "city": "Gimpo",
+    "key": "gimpo",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": null,
+    "key": null,
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "CHECK IN SINGAPORE"
+   },
+   {
+    "day": 2,
+    "city": "Gimpo",
+    "key": "gimpo",
+    "from": "Incheon",
+    "transport": "Flight",
+    "attractions": [
+     "Inspire Entertainment Resort",
+     "Wolmido",
+     "Gochujang-making Experience",
+     "Aegibong Peace Ecopark",
+     "Gimpo La Veniche Street"
+    ],
+    "meals": null,
+    "stay": "Gimpo",
+    "title": "SINGAPORE - INCHEON - GYEONGGIDO - SEOUL (Lunch)"
+   },
+   {
+    "day": 3,
+    "city": "Gimpo",
+    "key": "gimpo",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Ganghwa Anglican Church",
+     "Joyang Bangjik Café (Ganghwa)",
+     "Traditional Brewery Visit",
+     "Ganghwa Seaside Resort Luge",
+     "Premium Outlet"
+    ],
+    "meals": null,
+    "stay": "Gimpo",
+    "title": "SEOUL - GYEONGGIDO - SEOUL (Breakfast, Lunch)"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Duty-free Shop",
+     "Cosmetics Shop",
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Seongsu-dong",
+     "Jeju/Seoul Concept Café"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "SEOUL (Breakfast, Lunch)"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ski Resort (snow activities)"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "SEOUL (breakfast) or SEOUL - SKI RESORT - SEOUL (breakfast)"
+   },
+   {
+    "day": 6,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE (Breakfast)"
+   }
+  ],
+  "hotels": [
+   "Gimpo Marinabay Seoul-Ara Hotel (Gimpo, 2N)",
+   "Seoul Bernoui Hote (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "免税店",
+   "化妆品店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/5d4n-easy-seoul-korea-winter"
+ },
+ {
+  "code": "KRBBUW",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "8D6-7N BEST OF BUSAN KOREA (NOV-MAR)",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1161,
+   "max": 2097,
+   "currency": "USD",
+   "note": "SGD 1488.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Shopping & City"
+  ],
+  "season": "NOV-MAR",
+  "families": [
+   "K06"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Incheon",
+    "transport": "Flight",
+    "attractions": [
+     "KTX High-speed Train",
+     "Gamcheon Culture Village",
+     "Songdo Marine Cable Car (Busan Air Cruise)",
+     "BIFF Square & Nampo-dong"
+    ],
+    "meals": "LD",
+    "stay": "Busan",
+    "title": "INCHEON - SEOUL - BUSAN (Lunch, Dinner)"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "ARTE Museum Jeju",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "CLUBD OASIS (Spa)",
+     "Jjimjilbang (Korean Sauna)",
+     "Gwangalli Beach & Gwangan Bridge"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "BUSAN (BREAKFAST, LUNCH, DINNER)"
+   },
+   {
+    "day": 4,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Guryongpo Japanese House Street",
+     "Hwanho Park Space Walk",
+     "Igidae / Igari Anchor Observatory",
+     "Donggung Palace & Wolji Pond",
+     "Woljeonggyo Bridge"
+    ],
+    "meals": "BLD",
+    "stay": "Gyeongju",
+    "title": "BUSAN - POHANG - GYEONGJU (BREAKFAST, LUNCH, DINNER)"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gyeongju",
+    "transport": null,
+    "attractions": [
+     "Mungyeong Saejae Provincial Park & Drama Set",
+     "Jincheon Nongdari Bridge",
+     "Sogeumsan Suspension Bridge (Wonju)"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "GYEONGJU - MUNGYEONG - JINCHEON - SEOUL (BREAKFAST, LUNCH, DINNER)"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST, LUNCH)"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST)"
+   },
+   {
+    "day": 8,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Healthy Liver Showroom",
+     "Lotte Mart"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE (Breakfast)"
+   }
+  ],
+  "hotels": [
+   "Busan Shilla Stay Seobusan Hotel (Busan, 2N)",
+   "Gyeongju Commodore Hotel (Gyeongju, 1N)",
+   "Seoul Novotel Ambassador Hotel (Seoul, 3N)"
+  ],
+  "shopping_stops": [
+   "乐天超市",
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/8d6-7n-best-of-busan-korea-winter"
+ },
+ {
+  "code": "KRBBFS",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "8D6/7N BUSAN KOREA FIREWORK FESTIVAL (NOV 2026)",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1629,
+   "max": 1629,
+   "currency": "USD",
+   "note": "SGD 2088.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Heritage & Culture",
+   "Seasonal Festivals",
+   "Shopping & City"
+  ],
+  "season": "NOV 2026",
+  "families": [
+   "K06"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Incheon",
+    "transport": "KTX",
+    "attractions": [
+     "KTX High-speed Train",
+     "Haedong Yonggungsa Temple",
+     "Gamcheon Culture Village",
+     "Songdo Marine Cable Car (Busan Air Cruise)",
+     "BIFF Square & Nampo-dong"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "INCHEON - SEOUL - BUSAN (Lunch, Dinner)"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "Gwangalli Beach & Gwangan Bridge",
+     "Busan Fireworks Festival"
+    ],
+    "meals": null,
+    "stay": "Busan",
+    "title": "BUSAN (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 4,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Cheomseongdae Observatory",
+     "Hwangnidan-gil"
+    ],
+    "meals": null,
+    "stay": "Gyeongju",
+    "title": "BUSAN - ULSAN - GYEONGJU (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gyeongju",
+    "transport": null,
+    "attractions": [
+     "Palgongsan & Donghwasa Temple",
+     "Premium Outlet"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "GYEONGJU - DAEGU - GYEONGGI-DO - SEOUL (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ikseon-dong Hanok Street",
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Gwangjang Market",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "SEOUL (Breakfast, Lunch)"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "SEOUL (Breakfast)"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": null,
+    "stay": null,
+    "title": "SEOUL - SINGAPORE (Breakfast)"
+   }
+  ],
+  "hotels": [
+   "Busan Crown Harbor Hotel (Busan, 2N)",
+   "Gyeongju Commodore Hotel (Gyeongju, 1N)",
+   "Seoul Novotel Hotel (Seoul, 3N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/8d6-7n-busan-korea-firework-festival"
+ },
+ {
+  "code": "KRWSKW",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "8D6/7N WINTER SKI KOREA (NOV - MAR)",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1083,
+   "max": 2019,
+   "currency": "USD",
+   "note": "SGD 1388.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family",
+   "Winter & Ski"
+  ],
+  "season": "NOV - MAR",
+  "families": [
+   "K07"
+  ],
+  "route": [
+   {
+    "city": "Sokcho",
+    "key": "sokcho",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   },
+   {
+    "city": "Suwon",
+    "key": "suwon",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Sokcho",
+    "key": "sokcho",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Petite France",
+     "Nami Island",
+     "The Garden of Morning Calm"
+    ],
+    "meals": "LD",
+    "stay": "Sokcho",
+    "title": "INCHEON - GYEONGGIDO - GANGWONDO (Lunch, Dinner)"
+   },
+   {
+    "day": 3,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car",
+     "Alpaca World",
+     "Ski Resort (snow activities)"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "GANGWONDO - SKI RESORT (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 4,
+    "city": "Suwon",
+    "key": "suwon",
+    "from": "Gangwon-do",
+    "transport": null,
+    "attractions": [
+     "Ski Resort (snow activities)"
+    ],
+    "meals": "BD",
+    "stay": "Suwon",
+    "title": "GANGWONDO - GYEONGGIDO (Breakfast, Dinner)"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Starfield Suwon",
+     "Everland",
+     "Dongdaemun Market"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "GYEONGGIDO - SEOUL (Breakfast, Dinner)"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Gyeongbokgung Palace",
+     "Myeongdong Shopping Street",
+     "NANTA Show",
+     "Gwangjang Market"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "SEOUL (Breakfast, Lunch)"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST)"
+   },
+   {
+    "day": 8,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Healthy Liver Showroom",
+     "Lotte Mart"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE (Breakfast)"
+   }
+  ],
+  "hotels": [
+   "Seorak Daemyung Resort (Sokcho, 1N)",
+   "Yongpyong Ski Resort (Pyeongchang, 1N)",
+   "Suwon Value Hotel (Suwon, 1N)",
+   "Seoul Novotel Hotel (Seoul, 3N)"
+  ],
+  "shopping_stops": [
+   "乐天超市",
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/8d67n-winter-ski-korea-winter"
+ },
+ {
+  "code": "KRJBTS",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "8D6N JEJU BUSAN KOREA CHERRY BLOSSOM (MAR - APR)",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1395,
+   "max": 2019,
+   "currency": "USD",
+   "note": "SGD 1788.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Cherry Blossom",
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "MAR - APR",
+  "families": [
+   "K04"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Flight",
+    "attractions": [
+     "Aegibong Peace Ecopark",
+     "Rice Flower's Farmer (Gimpo)",
+     "Cherry Blossom Viewing",
+     "Samseonghyeol Shrine"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "INCHEON - GIMPO - JEJU (LUNCH, DINNER)"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Saebyeol Friends Zoo",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Camellia Hill",
+     "Jeju Water World",
+     "NANTA Show"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Horse Riding",
+     "Jeonnong-ro Cherry Blossom Street",
+     "BIFF Square & Nampo-dong"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "JEJU - BUSAN (BREAKFAST, LUNCH, DINNER)"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "Haedong Yonggungsa Temple",
+     "BUSAN X the SKY (LCT)",
+     "Cherry Blossom Viewing",
+     "CLUBD OASIS (Spa)"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "BUSAN (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Songdo Cloud Walk",
+     "KTX High-speed Train"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "BUSAN - SEOUL (Breakfast, Lunch, Dinner)"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Cherry Blossom Viewing",
+     "N Seoul Tower (Namsan)",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST, LUNCH)"
+   },
+   {
+    "day": 8,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Healthy Liver Showroom",
+     "Cherry Blossom Viewing",
+     "Ilsan Lake Park"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE (Breakfast)"
+   }
+  ],
+  "hotels": [
+   "Jeju Astar Hotel or similar (Jeju, 2N)",
+   "Busan Crown Harbor Hotel or similar (Busan, 2N)",
+   "Seoul Novotel Ambassador Hotel or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/8d6n-jeju-busan-korea-cherry-blossom-summer"
+ },
+ {
+  "code": "KRJBUS",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "8D6N JEJU BUSAN KOREA (APR – NOV)",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 1473,
+   "max": 1863,
+   "currency": "USD",
+   "note": "SGD 1888.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "APR – NOV",
+  "families": [
+   "K04"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": "Flight",
+    "attractions": [
+     "Aegibong Peace Ecopark",
+     "Rice Flower's Farmer (Gimpo)",
+     "Premium Outlet"
+    ],
+    "meals": "LD",
+    "stay": "Jeju",
+    "title": "INCHEON - GIMPO - JEJU ISLAND (Lunch – Bibimbap, Dinner – Mini Hanjeongsik))"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Saebyeol Friends Zoo",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Camellia Hill",
+     "Jeju Water World",
+     "NANTA Show"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND ( Breakfast - Hotel, Lunch - Braised Mackerel, Dinner - Seafood Sashimi Set)"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Horse Riding",
+     "BIFF Square & Nampo-dong"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "JEJU ISLAND - BUSAN (Breakfast – Hotel, Lunch – Jeju Black Pork Bulgogi, Dinner – Lobster Platter + Tteokbokki Ramen)"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "Haedong Yonggungsa Temple",
+     "BUSAN X the SKY (LCT)",
+     "CLUBD OASIS (Spa)",
+     "The Bay 101"
+    ],
+    "meals": "B",
+    "stay": "Busan",
+    "title": "BUSAN (Breakfast – Hotel, Lunch – Busan Pork Soup with Rice, Dinner – Flaming BBQ)"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Songdo Marine Cable Car (Busan Air Cruise)",
+     "KTX High-speed Train"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "BUSAN - GIMPO - SEOUL (Breakfast – Hotel, Lunch – Homemade Tofu Stew, Dinner – Andong Jjimdak)"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ikseon-dong Hanok Street",
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "N Seoul Tower (Namsan)",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST - HOTEL, LUNCH - GINSENG CHICKEN SOUP + ABALONE)"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Healthy Liver Showroom"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - SINGAPORE (BREAKFAST)"
+   }
+  ],
+  "hotels": [
+   "Jeju Best Western Hotel (Jeju, 2N)",
+   "Busan Crown Harbor Hotel (Busan, 2N)",
+   "Seoul Novotel Ambassador Hotel (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/8d6n-jeju-busan-korea-summer"
+ },
+ {
+  "code": "KRSRAS",
+  "site": "EU",
+  "tour_type": "group_coach",
+  "title_en": "8D6N SEOUL REFRESH KOREA (APR - NOV)",
+  "title_cn": null,
+  "days": 8,
+  "nights": 6,
+  "price": {
+   "min": 927,
+   "max": 927,
+   "currency": "USD",
+   "note": "SGD 1188.0；按出发日期成人双人房价，含新加坡往返机票（税燃另计）"
+  },
+  "themes": [
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": "APR - NOV",
+  "families": [
+   "K01"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 6
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Incheon Open Port Street",
+     "Songwol-dong Fairy Tale Village",
+     "Incheon Chinatown & Jjajangmyeon Museum",
+     "Premium Outlet"
+    ],
+    "meals": "LD",
+    "stay": "Seoul",
+    "title": "INCHEON - GYEONGGIDO (LUNCH, DINNER)"
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gapyeong Sheep Farm",
+     "Petite France",
+     "Everland"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "GYEONGGIDO (BREAKFAST, LUNCH)"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Dongdaemun Market",
+     "Mangwon Market & Mangridan-gil"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "GYEONGGIDO - SEOUL (BREAKFAST, LUNCH)"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "N Seoul Tower (Namsan)",
+     "Healthy Liver Showroom",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST, LUNCH)"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST)"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "SEOUL (BREAKFAST)"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - SINGAPORE (BREAKFAST)"
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [
+   "化妆品店",
+   "护肝宝店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.euholidays.com.sg/tours/8d6n-seoul-refresh-korea-summer"
+ },
+ {
+  "code": "KRAT09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "AUTUMN BRILLIANCE OF KOREA",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": 2565,
+   "max": 2565,
+   "currency": "USD",
+   "note": "SGD 3288.0；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Autumn Foliage",
+   "Culture & History",
+   "DMZ",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Nature & Wildlife",
+   "Photography",
+   "Shopping & City"
+  ],
+  "season": null,
+  "families": [
+   "K08"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 4
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Ganghwa Peace Observatory",
+     "Gimpo Hamsang Park"
+    ],
+    "meals": "LD",
+    "stay": "Seoul",
+    "title": "INCHEON - SEOUL"
+   },
+   {
+    "day": 3,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong",
+     "Jeonju Hanok Village",
+     "Gyeonggijeon Shrine"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "SEOUL - GONGJU - JEONJU"
+   },
+   {
+    "day": 4,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Naejangsan National Park",
+     "Autumn Foliage"
+    ],
+    "meals": "BD",
+    "stay": "Jeonju",
+    "title": "JEONJU - JEOLLABUK-DO - JENOJU"
+   },
+   {
+    "day": 5,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Soswaewon Garden",
+     "Damyang Metasequoia Road"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "JEONJU - DAMYANG - JEONJU"
+   },
+   {
+    "day": 6,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Naganeupseong Folk Village",
+     "Suncheon Bay Wetland Reserve"
+    ],
+    "meals": "BLD",
+    "stay": "Jeonju",
+    "title": "JEONJU - SUNCHEON - JEONJU"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeonju",
+    "transport": null,
+    "attractions": [],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "JEONJU - DAEJEON - SEOUL"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Deoksugung Palace",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Gyeongui Line Forest Park",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or similar (Seoul, 1N)",
+   "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar (Jeonju, 2N)",
+   "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or similar (Jeonju, 1N)",
+   "Jeonju Lahan or Jeonju Best Western or Guangju Ramada or Mokpo Hyundai Lahan or similar (Jeonju, 1N)",
+   "Seoul Garden or Amanti Seoul or Amid Hotel Seoul or simila r (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/autumn-brilliance-of-korea"
+ },
+ {
+  "code": "KJJS09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "BEST OF JEJU ISLAND + 2N SEOUL",
+  "title_cn": null,
+  "days": 7,
+  "nights": 5,
+  "price": {
+   "min": 2253,
+   "max": 2253,
+   "currency": "USD",
+   "note": "SGD 2888.0；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Culture & History",
+   "Hands-on Experiences",
+   "Nature & Scenery",
+   "Nature & Wildlife",
+   "Outdoor & Adventure",
+   "Seasonal Festivals",
+   "Theme Parks & Family"
+  ],
+  "season": null,
+  "families": [
+   "K03"
+  ],
+  "route": [
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 5
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Alpaca World",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Halla Arboretum"
+    ],
+    "meals": "L",
+    "stay": "Jeju",
+    "title": "INCHEON - GIMPO - JEJU ISLAND"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "9.81 Park",
+     "Hallasan National Park",
+     "Sanbangsan & Yongmeori Coast",
+     "Tangerine Picking / Jam DIY"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Hallasan National Park",
+     "Hueree Hydrangea Garden",
+     "Aromatherapy Footbath"
+    ],
+    "meals": "BD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND"
+   },
+   {
+    "day": 5,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haenyeo (Women Divers) Show",
+     "Udo Island",
+     "Snoopy Garden"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND"
+   },
+   {
+    "day": 6,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Teseum Safari",
+     "Gotjawal Forest"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "JEJU ISLAND - GIMPO - SEOUL"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Gloucester Hotel Jeju or similar (Jeju, 5N)",
+   "Sollago Hotel Myeongdong or similar (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/best-of-jeju-island-2n-seoul"
+ },
+ {
+  "code": "KGYE09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "BEYOND SEOUL: GYEONGGI ULTIMATE FAMILY FUN",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": 3033,
+   "max": 3033,
+   "currency": "USD",
+   "note": "SGD 3888.0；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "DMZ",
+   "Nature & Scenery",
+   "Theme Parks & Family"
+  ],
+  "season": null,
+  "families": [
+   "K01"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Goyang (Ilsan)",
+    "key": "goyang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Suwon",
+    "key": "suwon",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "D",
+    "stay": "Incheon",
+    "title": "INCHEON"
+   },
+   {
+    "day": 3,
+    "city": "Goyang (Ilsan)",
+    "key": "goyang",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Incheon Open Port Street",
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience",
+     "Aegibong Peace Ecopark",
+     "Jogang Observatory"
+    ],
+    "meals": "LD",
+    "stay": "Goyang (Ilsan)",
+    "title": "INCHEON - GYEONGGI"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Pocheon Art Valley"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "GYEONGGI (GLAMPING)"
+   },
+   {
+    "day": 5,
+    "city": "Suwon",
+    "key": "suwon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Yangpyeong Dumulmeori",
+     "Suwon Hwaseong Fortress",
+     "Premium Outlet"
+    ],
+    "meals": "BLD",
+    "stay": "Suwon",
+    "title": "GYEONGGI"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Samsung Transportation Museum",
+     "Everland"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "GYEONGGI - SEOUL"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gapyeong Begonia Bird Park",
+     "Samaksan Lake Cable Car",
+     "Dongdaemun Market"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 9,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCEHON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Nest Hotel or similar property (Incheon, 1N)",
+   "Sono Calm Goyang or similar property (Goyang (Ilsan), 1N)",
+   "Glamping or similar property (Seoul, 1N)",
+   "Novotel Ambassador Suwon or similar property (Suwon, 1N)",
+   "Sofitel Ambassador Seoul Hotel or similar property (Seoul, 3N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/beyond-seoul-gyeonggi-ultimate-family-fun"
+ },
+ {
+  "code": "KBJC09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "BUSAN JEOLLANAMDO CHERRY BLOSSOM",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Cherry Blossom",
+   "Culture & History",
+   "Nature & Scenery",
+   "Nature & Wildlife",
+   "Shopping & City",
+   "Wellness"
+  ],
+  "season": null,
+  "families": [
+   "K09"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Yeosu",
+    "key": "yeosu",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 3
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - BUSAN"
+   },
+   {
+    "day": 2,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gamcheon Culture Village",
+     "Shinsegae Centum City & Spaland",
+     "Busan Yacht Tour",
+     "Gwangalli Beach & Gwangan Bridge",
+     "The Bay 101"
+    ],
+    "meals": "D",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Cheongsapo Daritdol Skywalk",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Haedong Yonggungsa Temple",
+     "Duty-free Shop"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 4,
+    "city": "Yeosu",
+    "key": "yeosu",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Gurye Seomjingang Cherry Blossom Road",
+     "Yeosu Odongdo & Maritime Cable Car"
+    ],
+    "meals": "BL",
+    "stay": "Yeosu",
+    "title": "BUSAN - GURYE - YEOSU"
+   },
+   {
+    "day": 5,
+    "city": "Yeosu",
+    "key": "yeosu",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Yeosu Odongdo & Maritime Cable Car",
+     "Naganeupseong Folk Village",
+     "Suncheon Bay Wetland Reserve"
+    ],
+    "meals": "BLD",
+    "stay": "Yeosu",
+    "title": "YEOSU - SUNCHEON - YEOSU"
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Yeosu",
+    "transport": null,
+    "attractions": [
+     "Jinhae Gunhangje Cherry Blossom Festival",
+     "Seomyeon & Jeonpo Café Street"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "YEOSU - JINHAE - BUSAN"
+   },
+   {
+    "day": 7,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Taejongdae",
+     "BIFF Square & Nampo-dong",
+     "Jagalchi Fish Market",
+     "Bupyeong Kkangtong Night Market"
+    ],
+    "meals": "BD",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 8,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 9,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "BUSAN - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Asti Busan or Crown Harbor or Solaria Busan or similar property (Busan, 2N)",
+   "Shilla Stay Yeosu or Utop Marina Hotel or Venezia Yeosu or similar (Yeosu, 2N)",
+   "Asti Busan or Crown Harbor or Solaria Busan or similar property (Busan, 3N)"
+  ],
+  "shopping_stops": [
+   "免税店"
+  ],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/busan-jeollanamdo-cherry-blossom"
+ },
+ {
+  "code": "KRDB06",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "DAEJEON & BUYEO: THE DUAL JOURNEY OF WELLNESS & CULTURE",
+  "title_cn": null,
+  "days": 6,
+  "nights": 5,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Culture & History",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Off-the-beaten Path",
+   "Seasonal Festivals",
+   "Shopping & City",
+   "Wellness"
+  ],
+  "season": null,
+  "families": [
+   "K13"
+  ],
+  "route": [
+   {
+    "city": "Daejeon",
+    "key": "daejeon",
+    "nights": 2
+   },
+   {
+    "city": "Buyeo",
+    "key": "buyeo",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Daejeon",
+    "key": "daejeon",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Aromatherapy Footbath",
+     "Daejeon Shinsegae Art & Science",
+     "Daejeon Expo Science Park",
+     "Yeosu Odongdo & Maritime Cable Car"
+    ],
+    "meals": null,
+    "stay": "Daejeon",
+    "title": "SINGAPORE - INCHEON - DAEJEON"
+   },
+   {
+    "day": 2,
+    "city": "Daejeon",
+    "key": "daejeon",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Cheongnamdae",
+     "Gyejoksan Red Clay Trail",
+     "Korean Chuna Therapy",
+     "Premium Outlet"
+    ],
+    "meals": "BD",
+    "stay": "Daejeon",
+    "title": "DAEJEON"
+   },
+   {
+    "day": 3,
+    "city": "Buyeo",
+    "key": "buyeo",
+    "from": "Daejeon",
+    "transport": null,
+    "attractions": [
+     "Boryeong Mud Festival / Daecheon Beach",
+     "Scalp Care Clinic",
+     "Daejeon Eunhaeng-dong / Soje-dong",
+     "Myeongdong Shopping Street",
+     "Sungsimdang Bakery"
+    ],
+    "meals": "B",
+    "stay": "Buyeo",
+    "title": "DAEJEON - BUYEO"
+   },
+   {
+    "day": 4,
+    "city": "Buyeo",
+    "key": "buyeo",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Buyeo Baekje Historic Areas",
+     "Baekmagang River Hwangpo Sailboat"
+    ],
+    "meals": "L",
+    "stay": "Buyeo",
+    "title": "BUYEO"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Buyeo",
+    "transport": null,
+    "attractions": [
+     "Seongsu-dong"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "BUYEO - SEOUL"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCEHON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Hotel Onoma Daejon Autograph Collection or similar (Daejeon, 2N)",
+   "Buyeowa Hanok or Naseong Hanok or Seodong Seonhwa Hanok or similar (Buyeo, 2N)",
+   "Sotetsu Splaisir Myeongdong or Glad Mapo or Seoul Garden or similar (Seoul, 1N)"
+  ],
+  "shopping_stops": [
+   "头皮护理体验"
+  ],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/daejeon-buyeo-the-dual-journey-of-wellness-culture"
+ },
+ {
+  "code": "KGYE08",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "GYEONGGI'S HIDDEN FAMILY CHARMS",
+  "title_cn": null,
+  "days": 8,
+  "nights": 7,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "SGD None；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Luxury Lifestyle",
+   "Nature & Scenery",
+   "Nature & Wildlife",
+   "Off-the-beaten Path",
+   "Shopping & City",
+   "Theme Parks & Family"
+  ],
+  "season": null,
+  "families": [
+   "K01"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 7
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": null,
+    "attractions": [
+     "Incheon Open Port Street",
+     "Rice Flower's Farmer (Gimpo)",
+     "Gochujang-making Experience",
+     "Aegibong Peace Ecopark",
+     "Jogang Observatory"
+    ],
+    "meals": "LD",
+    "stay": "Seoul",
+    "title": "SINGAPORE - INCHEON - GYEONGGI"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Paju Tofu Village",
+     "Pocheon Art Valley",
+     "Strawberry Picking"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "GYEONGGI"
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Yangpyeong Dumulmeori",
+     "Premium Outlet",
+     "Glamping Stay"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "GYEONGGI (GLAMPING)"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Everland",
+     "Suwon Hwaseong Fortress"
+    ],
+    "meals": "BD",
+    "stay": "Seoul",
+    "title": "GYEONGGI (GLAMPING) - SEOUL"
+   },
+   {
+    "day": 5,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gapyeong Begonia Bird Park",
+     "Samaksan Lake Cable Car",
+     "Dongdaemun Market"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 6,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "COEX Mall & Starfield Library",
+     "Lotte World Tower Seoul Sky",
+     "Goto Mall (Express Bus Terminal)",
+     "Gangnam",
+     "Gwangjang Market",
+     "JUMP / Hero Show"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Hanbok Dress-up Experience",
+     "Ikseon-dong Hanok Street",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCEHON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Stay Folio or similar (Seoul, 2N)",
+   "Glamping or similar (Seoul, 1N)",
+   "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel or similar (Seoul, 4N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/gyeonggis-hidden-family-charms"
+ },
+ {
+  "code": "KGUB09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "GYEONGSANGNAM-DO, ULSAN & BUSAN",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": 2487,
+   "max": 2487,
+   "currency": "USD",
+   "note": "SGD 3188.0；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Cherry Blossom",
+   "Citylife",
+   "Culture & History",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Nature & Wildlife"
+  ],
+  "season": null,
+  "families": [
+   "K09"
+  ],
+  "route": [
+   {
+    "city": "Namhae",
+    "key": "namhae",
+    "nights": 2
+   },
+   {
+    "city": "Hadong",
+    "key": "hadong",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 4
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - BUSAN"
+   },
+   {
+    "day": 2,
+    "city": "Namhae",
+    "key": "namhae",
+    "from": "Busan",
+    "transport": null,
+    "attractions": [
+     "Aromatherapy Footbath",
+     "Jinhae Gunhangje Cherry Blossom Festival",
+     "Pink Muhly Grass",
+     "Sacheon Namildae Beach"
+    ],
+    "meals": "LD",
+    "stay": "Namhae",
+    "title": "BUSAN - NAMHAE"
+   },
+   {
+    "day": 3,
+    "city": "Namhae",
+    "key": "namhae",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Namhae Geumsan Boriam Hermitage",
+     "Namhae German Village",
+     "Namhae Coast (Treasure Island Observatory)"
+    ],
+    "meals": "LD",
+    "stay": "Namhae",
+    "title": "NAMHAE"
+   },
+   {
+    "day": 4,
+    "city": "Hadong",
+    "key": "hadong",
+    "from": "Namhae",
+    "transport": null,
+    "attractions": [
+     "Hadong Samseonggung & Hwagae Market",
+     "Hadong (Green Tea & Choi Champan House)"
+    ],
+    "meals": "BD",
+    "stay": "Hadong",
+    "title": "NAMHAE - HADONG"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Hadong",
+    "transport": null,
+    "attractions": [
+     "Hydrangea Viewing"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "HADONG - SANCHEONG - HAPCHEON - BUSAN"
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ulsan Daewangam & Taehwagang Garden",
+     "Ulsan Onggi Village",
+     "Jagalchi Fish Market"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "BUSAN - ULSAN - BUSAN"
+   },
+   {
+    "day": 7,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": "Flight",
+    "attractions": [
+     "Taejongdae",
+     "ARTE Museum Jeju",
+     "Oryukdo Skywalk",
+     "Jagalchi Fish Market",
+     "BIFF Square & Nampo-dong"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 8,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Ginseng Shop",
+     "Cosmetics Shop",
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Cheongsapo Daritdol Skywalk",
+     "CLUBD OASIS (Spa)",
+     "Jjimjilbang (Korean Sauna)"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 9,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "BUSAN - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Pension Style (Namhae, 2N)",
+   "Kensington Hotel & Resort Hadong or similar property (Hadong, 1N)",
+   "Avani Central Hotel or similar property (Busan, 3N)",
+   "Avani Central Hotel or similar proeprty (Busan, 1N)"
+  ],
+  "shopping_stops": [
+   "化妆品店",
+   "高丽人参店"
+  ],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/gyeongsangnam-do-ulsan-busan"
+ },
+ {
+  "code": "KRKA09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "KOREAN ADVENTURE",
+  "title_cn": null,
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": 2565,
+   "max": 2565,
+   "currency": "USD",
+   "note": "SGD 3288.0；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Citylife",
+   "Culture & History",
+   "Heritage & Culture",
+   "Nature & Scenery",
+   "Outdoor & Adventure",
+   "Shopping & City"
+  ],
+  "season": null,
+  "families": [
+   "K04"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "D",
+    "stay": "Seoul",
+    "title": "ARRIVAL IN SEOUL - A DAY OF DISCOVERIES"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Seoul",
+    "transport": "Flight",
+    "attractions": [
+     "Yongduam (Dragon Head Rock)",
+     "Mysterious Road",
+     "Jeju Dongmun Market"
+    ],
+    "meals": "BL",
+    "stay": "Jeju",
+    "title": "SEOUL TO JEJU ISLAND - A DAY OF DISCOVERIES"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Seongeup Folk Village",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Cheonjiyeon / Cheonjeyeon Falls"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "UNVEILING JEJU’S NATURAL WONDERS"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Gamcheon Culture Village",
+     "BIFF Square & Nampo-dong",
+     "Myeongdong Shopping Street",
+     "Jagalchi Fish Market",
+     "Gukje Market"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "JEJU ISLAND TO BUSAN - A JOURNEY OF CONTRASTS"
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "BUSAN X the SKY (LCT)",
+     "Haedong Yonggungsa Temple",
+     "The Bay 101",
+     "Busan Yacht Tour",
+     "Shinsegae Centum City & Spaland"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "BUSAN’S COASTAL CHARMS"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "Flight",
+    "attractions": [
+     "Seongsu-dong",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "BUSAN TO SEOUL - A RETURN TO THE CAPITAL"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Cheong Wa Dae (Blue House)",
+     "Ikseon-dong Hanok Street",
+     "Gwangjang Market"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "A JOURNEY THROUGH SEOUL’S HISTORIC AND CULTURAL TREASURES"
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Hanbok Dress-up Experience",
+     "Starfield Suwon"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property (Seoul, 1N)",
+   "Best Western Hotel or similar property (Jeju, 2N)",
+   "Asti Hotel or Crown Harbor or similar property (Busan, 2N)",
+   "Amanty Hotel or Seoul Garden or Seoul Dragon City or similar property (Seoul, 2N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/korean-adventure"
+ },
+ {
+  "code": "KRKG09",
+  "site": "DYN",
+  "tour_type": "group_coach",
+  "title_en": "THE KOREAN GRAND TOUR",
+  "title_cn": "韩国精致之旅",
+  "days": 9,
+  "nights": 7,
+  "price": {
+   "min": 3813,
+   "max": 3813,
+   "currency": "USD",
+   "note": "SGD 4888.0；站点「From」价，每人、两人一房、含新加坡往返机票"
+  },
+  "themes": [
+   "Citylife",
+   "Culture & History",
+   "Nature & Scenery",
+   "Photography",
+   "Shopping & City"
+  ],
+  "season": null,
+  "families": [
+   "K04"
+  ],
+  "route": [
+   {
+    "city": "Incheon",
+    "key": "incheon",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 2
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "SINGAPORE - INCHEON"
+   },
+   {
+    "day": 2,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": null,
+    "transport": null,
+    "attractions": [],
+    "meals": "D",
+    "stay": "Incheon",
+    "title": "INCHEON"
+   },
+   {
+    "day": 3,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Seoul",
+    "transport": "Flight",
+    "attractions": [
+     "Yongduam (Dragon Head Rock)",
+     "ARTE Museum Jeju",
+     "Jeju Dongmun Market"
+    ],
+    "meals": "BL",
+    "stay": "Jeju",
+    "title": "SEOUL - GIMPO - JEJU ISLAND"
+   },
+   {
+    "day": 4,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Seongsan Ilchulbong (Sunrise Peak)",
+     "Jeongbang Waterfall"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "JEJU ISLAND"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Jeju",
+    "transport": "Flight",
+    "attractions": [
+     "Taejongdae",
+     "Gamcheon Culture Village",
+     "BIFF Square & Nampo-dong",
+     "Jagalchi Fish Market",
+     "Busan Tower (Yongdusan Park)",
+     "Bupyeong Kkangtong Night Market"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "JEJU ISLAND - BUSAN"
+   },
+   {
+    "day": 6,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+     "Shinsegae Centum City & Spaland",
+     "Jjimjilbang (Korean Sauna)"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "BUSAN"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "Flight",
+    "attractions": [
+     "Insadong & Ssamziegil",
+     "N Seoul Tower (Namsan)",
+     "Myeongdong Shopping Street",
+     "Cosmetics Shop"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "BUSAN - GIMPO - SEOUL"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gyeongbokgung Palace",
+     "Ikseon-dong Hanok Street",
+     "Hongdae (Hongik Univ. Street)"
+    ],
+    "meals": "BLD",
+    "stay": "Seoul",
+    "title": "SEOUL"
+   },
+   {
+    "day": 9,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": null,
+    "attractions": [
+     "Starfield Suwon"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "SEOUL - INCHEON - SINGAPORE"
+   }
+  ],
+  "hotels": [
+   "Lotte Myeongdong (Main Tower) / Westin Josun or similar property (Incheon, 1N)",
+   "Grand Hyatt or similar property (Jeju, 2N)",
+   "Lotte Hotel or similar property (Busan, 2N)",
+   "Lotte Myeongdong (Main Tower) / Westin Josun or similar property (Seoul, 2N)"
+  ],
+  "shopping_stops": [
+   "化妆品店"
+  ],
+  "inclusions": [],
+  "url": "https://www.dynastytravel.com.sg/tour/the-korean-grand-tour"
+ },
+ {
+  "code": "KTE-RT7",
+  "site": "KTE",
+  "tour_type": "join_in_group",
+  "title_en": "Korea Round Tour 7 Days All-inclusive Package",
+  "title_cn": "韩国环岛 7 天全包拼团",
+  "days": 7,
+  "nights": 6,
+  "price": {
+   "min": 1373,
+   "max": 1724,
+   "currency": "USD",
+   "note": "USD 1373；Essential US$2,746 / All-inclusive US$3,448 每房（两人）→ 每人；首尔出发、不含机票"
+  },
+  "themes": [
+   "Heritage & Culture",
+   "Nature & Scenery"
+  ],
+  "season": "2026-03 ~ 2026-11 每周六出发",
+  "families": [
+   "K12"
+  ],
+  "route": [
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Gwangju",
+    "key": "gwangju",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong"
+    ],
+    "meals": "LD",
+    "stay": "Jeonju",
+    "title": "Seoul > Gongju > Jeonju"
+   },
+   {
+    "day": 2,
+    "city": "Gwangju",
+    "key": "gwangju",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Jeonju Hanok Village",
+     "Baekyangsa Temple"
+    ],
+    "meals": "BLD",
+    "stay": "Gwangju",
+    "title": "Jeonju > Jangseong > Gwangju"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Gwangju",
+    "transport": "Coach",
+    "attractions": [
+     "Boseong Green Tea Plantation",
+     "Suncheon Bay Wetland Reserve",
+     "Naganeupseong Folk Village"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "Boseong > Suncheon > Busan"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "UN Memorial Cemetery",
+     "Jagalchi Fish Market",
+     "Songdo Marine Cable Car (Busan Air Cruise)"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "Busan city tour"
+   },
+   {
+    "day": 5,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Dongbaek Island & Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "meals": "BLD",
+    "stay": "Gyeongju",
+    "title": "Busan > Gyeongju"
+   },
+   {
+    "day": 6,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Coach",
+    "attractions": [
+     "Daegu Korean Traditional Culture Center",
+     "Donggung Palace & Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Daegu or Gyeongju > Andong > Pyeongchang"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Coach",
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car"
+    ],
+    "meals": "BL",
+    "stay": null,
+    "title": "Pyeongchang > Yangyang > Seoul"
+   }
+  ],
+  "hotels": [
+   "Lahan Hotel Jeonju (Jeonju, 1N)",
+   "Holiday Inn Gwangju (Gwangju, 1N)",
+   "Grand Josun Busan (Busan, 2N)",
+   "Lahan Select Gyeongju (Gyeongju, 1N)",
+   "InterContinental Alpensia Pyeongchang (Pyeongchang, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.koreatraveleasy.com/product/korea-round-tour-7-days-all-inclusive-package/"
+ },
+ {
+  "code": "KTE-W4",
+  "site": "KTE",
+  "tour_type": "join_in_group",
+  "title_en": "Western Korea 4-Day Tour (Gongju–Jeonju–Gwangju–Busan)",
+  "title_cn": "韩国西线 4 天拼团（公州·全州·光州·釜山）",
+  "days": 4,
+  "nights": 3,
+  "price": {
+   "min": 655,
+   "max": 655,
+   "currency": "USD",
+   "note": "USD 655；US$1,309 起每房（两人）→ 每人；首尔出发、末日 KTX/包车回首尔"
+  },
+  "themes": [
+   "Heritage & Culture"
+  ],
+  "season": "2026-03 ~ 2026-11 每周六出发",
+  "families": [
+   "K12"
+  ],
+  "route": [
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Gwangju",
+    "key": "gwangju",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong"
+    ],
+    "meals": "LD",
+    "stay": "Jeonju",
+    "title": "Seoul > Gongju > Jeonju"
+   },
+   {
+    "day": 2,
+    "city": "Gwangju",
+    "key": "gwangju",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Jeonju Hanok Village",
+     "Baekyangsa Temple"
+    ],
+    "meals": "BLD",
+    "stay": "Gwangju",
+    "title": "Jeonju > Jangseong > Gwangju"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Gwangju",
+    "transport": "Coach",
+    "attractions": [
+     "Boseong Green Tea Plantation",
+     "Suncheon Bay Wetland Reserve",
+     "Naganeupseong Folk Village"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "Boseong > Suncheon > Busan"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "KTX (≤9 pax) / Coach",
+    "attractions": [
+     "UN Memorial Cemetery"
+    ],
+    "meals": "BL",
+    "stay": null,
+    "title": "Busan > Seoul"
+   }
+  ],
+  "hotels": [
+   "Lahan Hotel Jeonju (Jeonju, 1N)",
+   "Holiday Inn Gwangju (Gwangju, 1N)",
+   "Grand Josun Busan (Busan, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.koreatraveleasy.com/product/eastern-western-korea-tour-4-days-all-inclusive-package/"
+ },
+ {
+  "code": "KTE-E4",
+  "site": "KTE",
+  "tour_type": "join_in_group",
+  "title_en": "Eastern Korea 4-Day Tour (Busan–Gyeongju–Andong–Seorak)",
+  "title_cn": "韩国东线 4 天拼团（釜山·庆州·安东·雪岳山）",
+  "days": 4,
+  "nights": 3,
+  "price": {
+   "min": 655,
+   "max": 655,
+   "currency": "USD",
+   "note": "USD 655；US$1,309 起每房（两人）→ 每人；首尔出发 KTX(≤9 pax)/包车"
+  },
+  "themes": [
+   "Heritage & Culture"
+  ],
+  "season": "2026-03 ~ 2026-11 每周二出发",
+  "families": [
+   "K12"
+  ],
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 1
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Seoul",
+    "transport": "KTX (≤9 pax) / Coach",
+    "attractions": [
+     "Jagalchi Fish Market",
+     "Songdo Marine Cable Car (Busan Air Cruise)"
+    ],
+    "meals": "L",
+    "stay": "Busan",
+    "title": "Seoul > Busan"
+   },
+   {
+    "day": 2,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Dongbaek Island & Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "meals": "BLD",
+    "stay": "Gyeongju",
+    "title": "Busan > Gyeongju"
+   },
+   {
+    "day": 3,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Coach",
+    "attractions": [
+     "Daegu Korean Traditional Culture Center",
+     "Donggung Palace & Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Daegu or Gyeongju > Andong > Pyeongchang"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Coach",
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car"
+    ],
+    "meals": "BL",
+    "stay": null,
+    "title": "Pyeongchang > Yangyang > Seoul"
+   }
+  ],
+  "hotels": [
+   "Grand Josun Busan (Busan, 1N)",
+   "Lahan Select Gyeongju (Gyeongju, 1N)",
+   "InterContinental Alpensia Pyeongchang (Pyeongchang, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.koreatraveleasy.com/product/eastern-western-korea-tour-4-days-all-inclusive-package/"
+ },
+ {
+  "code": "KTE-UK16",
+  "site": "KTE",
+  "tour_type": "join_in_group",
+  "title_en": "Ultimate Korea & Jeju Island All-inclusive 16 Days",
+  "title_cn": "韩国全境 + 济州岛 16 天全包",
+  "days": 16,
+  "nights": 15,
+  "price": {
+   "min": 3939,
+   "max": 3939,
+   "currency": "USD",
+   "note": "USD 3939；US$7,878 每房（两人）→ 每人；含首尔进出、济州往返国内段，不含国际机票"
+  },
+  "themes": [
+   "DMZ",
+   "Hands-on Experiences",
+   "Heritage & Culture",
+   "Nature & Scenery"
+  ],
+  "season": "2026-03 ~ 2026-11",
+  "families": [
+   "K12"
+  ],
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Gwangju",
+    "key": "gwangju",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 5
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": "Airport transfer",
+    "attractions": [],
+    "meals": null,
+    "stay": "Seoul",
+    "title": "Arrive Incheon > Seoul"
+   },
+   {
+    "day": 2,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong"
+    ],
+    "meals": "LD",
+    "stay": "Jeonju",
+    "title": "Seoul > Gongju > Jeonju"
+   },
+   {
+    "day": 3,
+    "city": "Gwangju",
+    "key": "gwangju",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Jeonju Hanok Village",
+     "Hanbok Dress-up Experience",
+     "Baekyangsa Temple"
+    ],
+    "meals": "BLD",
+    "stay": "Gwangju",
+    "title": "Jeonju > Jangseong > Gwangju"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Gwangju",
+    "transport": "Coach",
+    "attractions": [
+     "Boseong Green Tea Plantation",
+     "Suncheon Bay Wetland Reserve",
+     "Naganeupseong Folk Village"
+    ],
+    "meals": "BLD",
+    "stay": "Busan",
+    "title": "Boseong > Suncheon > Busan"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "UN Memorial Cemetery",
+     "Jagalchi Fish Market",
+     "Songdo Marine Cable Car (Busan Air Cruise)"
+    ],
+    "meals": "BL",
+    "stay": "Busan",
+    "title": "Busan city tour"
+   },
+   {
+    "day": 6,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Dongbaek Island & Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "meals": "BLD",
+    "stay": "Gyeongju",
+    "title": "Busan > Gyeongju"
+   },
+   {
+    "day": 7,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Coach",
+    "attractions": [
+     "Daegu Korean Traditional Culture Center",
+     "Donggung Palace & Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "meals": "BLD",
+    "stay": "Pyeongchang",
+    "title": "Daegu or Gyeongju > Andong > Pyeongchang"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Coach",
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car"
+    ],
+    "meals": "BL",
+    "stay": "Seoul",
+    "title": "Pyeongchang > Yangyang > Seoul"
+   },
+   {
+    "day": 9,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Seoul",
+    "transport": "Flight (GMP-CJU)",
+    "attractions": [
+     "Jeju Stone Park",
+     "Bijarim Forest",
+     "Seongsan Ilchulbong (Sunrise Peak)"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Seoul > Jeju"
+   },
+   {
+    "day": 10,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Jusangjeolli Cliff",
+     "Cheonjiyeon / Cheonjeyeon Falls",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Gotjawal Forest",
+     "Aromatherapy Footbath",
+     "Hallim Park & Hyeopjae Beach"
+    ],
+    "meals": "BLD",
+    "stay": "Jeju",
+    "title": "Jeju full day"
+   },
+   {
+    "day": 11,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeju",
+    "transport": "Flight (CJU-GMP)",
+    "attractions": [],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Jeju > Seoul"
+   },
+   {
+    "day": 12,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gwanghwamun Square",
+     "Jogyesa Temple",
+     "Gyeongbokgung Palace",
+     "National Folk Museum of Korea"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Seoul morning tour"
+   },
+   {
+    "day": 13,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Imjingak Park",
+     "The 3rd Tunnel (DMZ)",
+     "Dora Observatory",
+     "NANTA Show",
+     "Myeongdong Shopping Street"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "DMZ & NANTA"
+   },
+   {
+    "day": 14,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Nami Island",
+     "Lotte World Tower Seoul Sky"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Nami Island & Seoul Sky"
+   },
+   {
+    "day": 15,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Han River Park",
+     "Han River Cruise"
+    ],
+    "meals": "B",
+    "stay": "Seoul",
+    "title": "Han River night"
+   },
+   {
+    "day": 16,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": "Airport transfer",
+    "attractions": [],
+    "meals": "B",
+    "stay": null,
+    "title": "Depart Incheon"
+   }
+  ],
+  "hotels": [
+   "Lahan Hotel Jeonju (Jeonju, 1N)",
+   "Holiday Inn Gwangju (Gwangju, 1N)",
+   "Grand Josun Busan (Busan, 2N)",
+   "Lahan Select Gyeongju (Gyeongju, 1N)",
+   "InterContinental Alpensia Pyeongchang (Pyeongchang, 1N)"
+  ],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.koreatraveleasy.com/product/ultimate-korea-jeju-island-all-inclusive-tour-package/"
+ },
+ {
+  "code": "KTE-ULL3",
+  "site": "KTE",
+  "tour_type": "join_in_group",
+  "title_en": "Ulleungdo 3D2N from Seoul (Pohang / Dokdo)",
+  "title_cn": "郁陵岛 3 天 2 夜（首尔出发，浦项夜船）",
+  "days": 3,
+  "nights": 1,
+  "price": {
+   "min": 420,
+   "max": 420,
+   "currency": "USD",
+   "note": "USD 420；US$420 起每人；首尔出发，含往返船票，第 1 晚在船上"
+  },
+  "themes": [],
+  "season": "夏季指定日期",
+  "families": [
+   "K14"
+  ],
+  "route": [
+   {
+    "city": "Ulleungdo",
+    "key": "ulleungdo",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Pohang",
+    "key": "pohang",
+    "from": "Seoul",
+    "transport": "Coach + overnight ferry",
+    "attractions": [],
+    "meals": null,
+    "stay": null,
+    "title": "Seoul > Pohang (night ferry)"
+   },
+   {
+    "day": 2,
+    "city": "Ulleungdo",
+    "key": "ulleungdo",
+    "from": "Pohang",
+    "transport": "Ferry",
+    "attractions": [
+     "Ulleungdo & Dokdo"
+    ],
+    "meals": "BLD",
+    "stay": "Ulleungdo",
+    "title": "Ulleungdo"
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Ulleungdo",
+    "transport": "Ferry to Gangneung + Coach",
+    "attractions": [
+     "Ulleungdo & Dokdo"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Ulleungdo > Gangneung > Seoul"
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.koreatraveleasy.com/product/ulleungdo-tour-package-from-seoul-3-days-2-nights-pohang-dokdo/"
+ },
+ {
+  "code": "KTE-GW2",
+  "site": "KTE",
+  "tour_type": "join_in_group",
+  "title_en": "Summer Gangwon-do 2D1N (Donghae–Gangneung)",
+  "title_cn": "江原道夏季 2 天 1 夜（东海·江陵）",
+  "days": 2,
+  "nights": 1,
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "USD None；价格见页面选项"
+  },
+  "themes": [
+   "Instagrammable & Cafés",
+   "Nature & Scenery"
+  ],
+  "season": "夏季指定日期",
+  "families": [
+   "K14"
+  ],
+  "route": [
+   {
+    "city": "Gangneung",
+    "key": "gangneung",
+    "nights": 1
+   }
+  ],
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Donghae",
+    "key": "donghae",
+    "from": "Seoul",
+    "transport": "KTX",
+    "attractions": [
+     "Cheongok Cave",
+     "Mukho Port & Nongoldam-gil",
+     "Chuam Candlestick Rock"
+    ],
+    "meals": "L",
+    "stay": "Gangneung",
+    "title": "Seoul > Donghae"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gangneung",
+    "transport": "KTX",
+    "attractions": [
+     "Jeongdongjin (Rail Bike & Station)",
+     "Gangneung Jungang Market",
+     "Ojukheon House",
+     "Gyeongpodae & Gyeongpo Beach",
+     "Anmok Beach Café Street"
+    ],
+    "meals": "B",
+    "stay": null,
+    "title": "Gangneung > Seoul"
+   }
+  ],
+  "hotels": [],
+  "shopping_stops": [],
+  "inclusions": [],
+  "url": "https://www.koreatraveleasy.com/product/summer-gangwondo-2d-1n-all-inclusive-overnight-tour/"
+ }
+]

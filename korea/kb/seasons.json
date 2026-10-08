@@ -1,0 +1,217 @@
+[
+ {
+  "match": "cherry blossom|sakura|yeouido|yunjung|seokchon|e-?world",
+  "name_cn": "樱花（首尔/京畿）",
+  "best": "3 月底–4 月上旬",
+  "months": [
+   3,
+   4
+  ],
+  "note": "首尔通常 4/1 前后满开，年际浮动 ±1 周"
+ },
+ {
+  "match": "jinhae|gunhangje|yeojwacheon|gyeonghwa",
+  "name_cn": "镇海军港节樱花",
+  "best": "3 月下旬–4 月上旬（约 10 天）",
+  "months": [
+   3,
+   4
+  ],
+  "note": "固定节期，酒店与停车极紧，地接需提早锁位"
+ },
+ {
+  "match": "jeonnong|canola|gasiri|boromwat",
+  "name_cn": "济州樱花 / 油菜花",
+  "best": "3 月中–4 月上旬",
+  "months": [
+   3,
+   4
+  ],
+  "note": "油菜花期比首尔樱花早 1–2 周"
+ },
+ {
+  "match": "maehwa|gwangyang|sansuyu",
+  "name_cn": "光阳梅花 / 求礼山茱萸",
+  "best": "3 月上中旬",
+  "months": [
+   3
+  ],
+  "note": ""
+ },
+ {
+  "match": "tulip|taean",
+  "name_cn": "泰安郁金香节",
+  "best": "4 月中–5 月上旬",
+  "months": [
+   4,
+   5
+  ],
+  "note": ""
+ },
+ {
+  "match": "hydrangea|hueree",
+  "name_cn": "济州绣球花",
+  "best": "6 月中–7 月中",
+  "months": [
+   6,
+   7
+  ],
+  "note": ""
+ },
+ {
+  "match": "mud festival|daecheon",
+  "name_cn": "保宁泥浆节",
+  "best": "7 月中下旬（约 10 天）",
+  "months": [
+   7
+  ],
+  "note": "固定节期"
+ },
+ {
+  "match": "pink muhly",
+  "name_cn": "粉黛乱子草",
+  "best": "9 月下旬–10 月",
+  "months": [
+   9,
+   10
+  ],
+  "note": ""
+ },
+ {
+  "match": "maple|foliage|autumn|naejang|seorak|gwongeumseong|ginkgo|hongcheon ginkgo",
+  "name_cn": "赏枫 / 银杏",
+  "best": "10 月中–11 月中（雪岳山最早、内藏山最晚）",
+  "months": [
+   10,
+   11
+  ],
+  "note": "雪岳山 10 月中旬、首尔 10 月底、内藏山 11 月上旬；洪川银杏林只在 10 月开放"
+ },
+ {
+  "match": "firework",
+  "name_cn": "釜山烟花节",
+  "best": "11 月初（单日）",
+  "months": [
+   11
+  ],
+  "note": "固定日期，广安里一带封路，需地接订观赏位"
+ },
+ {
+  "match": "ski|yongpyong|alpensia|phoenix|vivaldi|elysian|welli|high1|jisan|snow",
+  "name_cn": "滑雪",
+  "best": "12 月中–2 月底",
+  "months": [
+   12,
+   1,
+   2
+  ],
+  "note": "雪场开放约 12 月上旬–3 月上旬，3 月雪况不稳"
+ },
+ {
+  "match": "ice fishing|sancheoneo",
+  "name_cn": "华川山鳟鱼冰钓节",
+  "best": "1 月（约 3 周）",
+  "months": [
+   1
+  ],
+  "note": "冰层不足会延期或取消"
+ },
+ {
+  "match": "eobi",
+  "name_cn": "鱼飞溪谷冰瀑",
+  "best": "12 月底–2 月",
+  "months": [
+   12,
+   1,
+   2
+  ],
+  "note": ""
+ },
+ {
+  "match": "strawberr",
+  "name_cn": "草莓采摘",
+  "best": "12 月–5 月",
+  "months": [
+   12,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "note": ""
+ },
+ {
+  "match": "tangerine|hallabong",
+  "name_cn": "济州柑橘采摘",
+  "best": "11 月–2 月",
+  "months": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "note": "汉拿峰 1–3 月"
+ },
+ {
+  "match": "udo|geommeolle|seobin",
+  "name_cn": "牛岛（渡轮）",
+  "best": "全年，冬季风浪大常停航",
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "note": "EU/CB 均写 12–3 月改为城山日出峰 + ARTE Museum"
+ },
+ {
+  "match": "ulleung|dokdo",
+  "name_cn": "郁陵岛 / 独岛航线",
+  "best": "4 月–10 月",
+  "months": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "note": "冬季航班少且常因风浪停航"
+ },
+ {
+  "match": "hallasan",
+  "name_cn": "汉拿山登山",
+  "best": "全年（冬季需冬季装备、预约制步道）",
+  "months": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "note": "城板岳/观音寺路线需提前网上预约"
+ },
+ {
+  "match": "caribbean bay|water world",
+  "name_cn": "水上乐园",
+  "best": "6 月–9 月（室外区）",
+  "months": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "note": ""
+ }
+]

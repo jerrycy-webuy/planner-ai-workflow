@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ItinerarySpec (生成行程的最小 TourSpec)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["code", "title_en", "title_cn", "days", "nights", "entry_airport", "exit_airport", "route", "days_detail"],
+  "properties": {
+    "code": {"type": "string", "description": "草稿代码，如 DRAFT-KR8-01"},
+    "title_en": {"type": "string"},
+    "title_cn": {"type": "string"},
+    "family": {"type": ["string", "null"], "description": "参照的家族 ID，如 F03"},
+    "based_on": {"type": "array", "items": {"type": "string"}, "description": "参照的线路代码"},
+    "bu": {"type": ["string", "null"], "enum": ["WEBUY_SG", "ALTITUDE", "WETRIP", null]},
+    "tour_type": {"type": "string", "enum": ["group_coach", "self_guided", "private_custom", "join_in_group"]},
+    "season": {"type": ["string", "null"]},
+    "travel_month": {"type": ["integer", "null"], "minimum": 1, "maximum": 12},
+    "days": {"type": "integer", "minimum": 2, "maximum": 21},
+    "nights": {"type": "integer", "minimum": 1, "maximum": 20},
+    "entry_airport": {"type": "string", "description": "如 Incheon (ICN)、Seoul Gimpo (GMP)、Busan (PUS)、Jeju (CJU)、Daegu (TAE)"},
+    "exit_airport": {"type": "string"},
+    "route": {
+      "type": "array", "minItems": 1,
+      "items": {"type": "object", "additionalProperties": false, "required": ["city", "nights"],
+        "properties": {"city": {"type": "string", "description": "城市英文名（与 city_graph 节点一致）"}, "city_cn": {"type": ["string", "null"]}, "nights": {"type": "integer", "minimum": 1}, "hotel": {"type": ["string", "null"]}, "hotel_tier": {"type": ["string", "null"]}}}
+    },
+    "days_detail": {
+      "type": "array", "minItems": 2,
+      "items": {"type": "object", "additionalProperties": false, "required": ["day", "city", "title_cn", "attractions"],
+        "properties": {
+          "day": {"type": "integer", "minimum": 1},
+          "city": {"type": "string", "description": "当天主要活动/过夜城市（英文）"},
+          "from": {"type": ["string", "null"], "description": "当天出发城市（有移动时）"},
+          "transport": {"type": ["string", "null"], "description": "交通：Coach / KTX / Flight（写航段如 GMP-CJU）/ Ferry / Private van / Walk"},
+          "title_cn": {"type": "string"},
+          "title_en": {"type": ["string", "null"]},
+          "attractions": {"type": "array", "items": {"type": "string"}, "description": "景点英文名（优先用 attractions.json 里的名称）"},
+          "optional": {"type": "array", "items": {"type": "string"}, "description": "自费/可选项"},
+          "meals": {"type": ["string", "null"], "description": "B/L/D 组合，如 BL"},
+          "stay": {"type": ["string", "null"], "description": "过夜城市；离境日与红眼航班机上过夜日为 null"},
+          "notes_cn": {"type": ["string", "null"]}
+        }}
+    },
+    "inclusions": {"type": "array", "items": {"type": "string"}},
+    "exclusions": {"type": "array", "items": {"type": "string"}},
+    "highlights_cn": {"type": "array", "items": {"type": "string"}},
+    "price_band_usd": {"type": ["object", "null"], "additionalProperties": false, "properties": {"min": {"type": "number"}, "max": {"type": "number"}}},
+    "assumptions_cn": {"type": "array", "items": {"type": "string"}, "description": "模型做的假设与需人工核实项"}
+  }
+}

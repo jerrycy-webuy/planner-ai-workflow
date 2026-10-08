@@ -1,0 +1,10305 @@
+[
+ {
+  "name_en": "Kimchi-making Experience",
+  "name_cn": "腌泡菜体验",
+  "city": "arriveinsingapore",
+  "city_key": "arriveinsingapore",
+  "city_cn": null,
+  "region": null,
+  "region_cn": null,
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8SVG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "arriveinsingapore"
+  ]
+ },
+ {
+  "name_en": "Ski Resort (snow activities)",
+  "name_cn": "滑雪场（雪地活动）",
+  "city": "gangwon_region",
+  "city_key": "gangwon_region",
+  "city_cn": null,
+  "region": null,
+  "region_cn": null,
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K01",
+   "K05",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR6NST",
+   "KR8RWG",
+   "KR8SEG",
+   "KR8SVG",
+   "KR8BSG",
+   "KRICNW",
+   "KRWSKW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "hoengseong",
+   "pyeongchang",
+   "seoul",
+   "suwon"
+  ]
+ },
+ {
+  "name_en": "Alpaca World",
+  "name_cn": "羊驼世界",
+  "city": "gangwon_region",
+  "city_key": "gangwon_region",
+  "city_cn": null,
+  "region": null,
+  "region_cn": null,
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K07"
+  ],
+  "tours": [
+   "KRWSKW",
+   "KJJS09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeju",
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Healthy Liver Showroom",
+  "name_cn": "护肝宝店",
+  "city": "singapore",
+  "city_key": "singapore",
+  "city_cn": null,
+  "region": null,
+  "region_cn": null,
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "core",
+  "tour_count": 23,
+  "families": [
+   "K01",
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K11",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8IG",
+   "KR8PQG",
+   "KR8SNG",
+   "KR8GEG",
+   "KR8FMG",
+   "KR8BKG",
+   "KR8SVG",
+   "KR8BSG",
+   "KR8BG",
+   "KR8UG",
+   "KR10EG",
+   "KR8YYG",
+   "KR6JMG",
+   "KRBBUW",
+   "KRBBFS",
+   "KRWSKW",
+   "KRJBTS",
+   "KRJBUS",
+   "KRSRAS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "arriveinsingapore",
+   "incheon",
+   "seoul",
+   "singapore"
+  ]
+ },
+ {
+  "name_en": "Asan Oeam Folk Village",
+  "name_cn": "牙山外岩民俗村",
+  "city": "Asan",
+  "city_key": "asan",
+  "city_cn": "牙山",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Beopjusa Temple",
+  "name_cn": "法住寺",
+  "city": "Boeun",
+  "city_key": "boeun",
+  "city_cn": "报恩",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "White Dandelion Village (Boeun)",
+  "name_cn": "报恩白蒲公英村",
+  "city": "Boeun",
+  "city_key": "boeun",
+  "city_cn": "报恩",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Boryeong Mud Festival / Daecheon Beach",
+  "name_cn": "保宁泥浆节·大川海水浴场",
+  "city": "Boryeong",
+  "city_key": "boryeong",
+  "city_cn": "保宁",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "buyeo"
+  ]
+ },
+ {
+  "name_en": "Buyeo Baekje Historic Areas",
+  "name_cn": "扶余百济历史遗迹区",
+  "city": "Buyeo",
+  "city_key": "buyeo",
+  "city_cn": "扶余",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR10EG",
+   "KRDB06"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "buyeo",
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Baekmagang River Hwangpo Sailboat",
+  "name_cn": "白马江黄布帆船",
+  "city": "Buyeo",
+  "city_key": "buyeo",
+  "city_cn": "扶余",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "buyeo"
+  ]
+ },
+ {
+  "name_en": "Scalp Care Clinic",
+  "name_cn": "头皮护理体验",
+  "city": "Buyeo",
+  "city_key": "buyeo",
+  "city_cn": "扶余",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "buyeo"
+  ]
+ },
+ {
+  "name_en": "Cheongnamdae",
+  "name_cn": "青南台",
+  "city": "Cheongju",
+  "city_key": "cheongju",
+  "city_cn": "清州",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daejeon"
+  ]
+ },
+ {
+  "name_en": "Chungju Lake / Tangeumdae",
+  "name_cn": "忠州湖·弹琴台",
+  "city": "Chungju",
+  "city_key": "chungju",
+  "city_cn": "忠州",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Suanbo Hot Spring",
+  "name_cn": "水安堡温泉",
+  "city": "Chungju",
+  "city_key": "chungju",
+  "city_cn": "忠州",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Daejeon Eunhaeng-dong / Soje-dong",
+  "name_cn": "大田银杏洞·苏堤洞",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "buyeo"
+  ]
+ },
+ {
+  "name_en": "Daejeon Expo Science Park",
+  "name_cn": "大田世博科学公园",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daejeon"
+  ]
+ },
+ {
+  "name_en": "Daejeon Shinsegae Art & Science",
+  "name_cn": "大田新世界 Art & Science",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daejeon"
+  ]
+ },
+ {
+  "name_en": "Gyejoksan Red Clay Trail",
+  "name_cn": "鸡足山黄土路",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daejeon"
+  ]
+ },
+ {
+  "name_en": "Korean Chuna Therapy",
+  "name_cn": "韩式推拿",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "daejeon"
+  ]
+ },
+ {
+  "name_en": "Sungsimdang Bakery",
+  "name_cn": "圣心堂面包",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K13"
+  ],
+  "tours": [
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "buyeo"
+  ]
+ },
+ {
+  "name_en": "Jangtaesan Recreational Forest",
+  "name_cn": "长泰山休养林",
+  "city": "Daejeon",
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Danyang Dodamsambong & Mancheonha Skywalk",
+  "name_cn": "丹阳岛潭三峰·万天下天空步道",
+  "city": "Danyang",
+  "city_key": "danyang",
+  "city_cn": "丹阳",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gongju Gongsanseong & Tomb of King Muryeong",
+  "name_cn": "公州公山城·武宁王陵",
+  "city": "Gongju",
+  "city_key": "gongju",
+  "city_cn": "公州",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K08",
+   "K12"
+  ],
+  "tours": [
+   "KRAT09",
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Cheongpung Lake Cable Car",
+  "name_cn": "清风湖缆车",
+  "city": "Jecheon",
+  "city_key": "jecheon",
+  "city_cn": "堤川",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Oksunbong Peak Suspension Bridge",
+  "name_cn": "玉筍峰出口吊桥",
+  "city": "Jecheon",
+  "city_key": "jecheon",
+  "city_cn": "堤川",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Woraksan National Park",
+  "name_cn": "月岳山国立公园",
+  "city": "Jecheon",
+  "city_key": "jecheon",
+  "city_cn": "堤川",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jincheon Nongdari Bridge",
+  "name_cn": "镇川农桥",
+  "city": "Jincheon",
+  "city_key": "jincheon",
+  "city_cn": "镇川",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KRBBUW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Apple Farm & DIY Apple Pie",
+  "name_cn": "苹果农场·苹果派 DIY",
+  "city": "Seosan",
+  "city_key": "seosan",
+  "city_cn": "瑞山",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "seosan"
+  ]
+ },
+ {
+  "name_en": "Haemieupseong Fortress",
+  "name_cn": "海美邑城",
+  "city": "Seosan",
+  "city_key": "seosan",
+  "city_cn": "瑞山",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seosan"
+  ]
+ },
+ {
+  "name_en": "Taean Thalassotherapy & Tulip Festival",
+  "name_cn": "泰安海洋疗养·郁金香节",
+  "city": "Taean",
+  "city_key": "taean",
+  "city_cn": "泰安",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Yedang Lake Suspension Bridge",
+  "name_cn": "礼唐湖出口吊桥",
+  "city": "Yesan",
+  "city_key": "yesan",
+  "city_cn": "礼山",
+  "region": "Chungcheong",
+  "region_cn": "忠清道",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju",
+   "seosan"
+  ]
+ },
+ {
+  "name_en": "Goseokjeong Flower Garden (Cheorwon)",
+  "name_cn": "高石亭花园（铁原）",
+  "city": "Cheorwon",
+  "city_key": "cheorwon",
+  "city_cn": "铁原",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8FMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hongcheon"
+  ]
+ },
+ {
+  "name_en": "Samaksan Lake Cable Car",
+  "name_cn": "三岳山湖缆车",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Chuncheon Myeongdong Dakgalbi Street",
+  "name_cn": "春川明洞辣炒鸡排街",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "chuncheon"
+  ]
+ },
+ {
+  "name_en": "Gimyujeong Rail Bike",
+  "name_cn": "金裕贞铁路自行车",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03",
+   "K08"
+  ],
+  "tours": [
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Elysian Gangchon",
+  "name_cn": "江村伊利森滑雪场",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gangchon Rail Park",
+  "name_cn": "江村铁路自行车",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Legoland Korea",
+  "name_cn": "乐高乐园",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Soyang River Skywalk",
+  "name_cn": "昭阳江天空步道",
+  "city": "Chuncheon",
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Cheongok Cave",
+  "name_cn": "天谷洞窟",
+  "city": "Donghae",
+  "city_key": "donghae",
+  "city_cn": "东海",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K14"
+  ],
+  "tours": [
+   "KTE-GW2"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "donghae"
+  ]
+ },
+ {
+  "name_en": "Chuam Candlestick Rock",
+  "name_cn": "湫岩烛台岩",
+  "city": "Donghae",
+  "city_key": "donghae",
+  "city_cn": "东海",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K14"
+  ],
+  "tours": [
+   "KTE-GW2"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "donghae"
+  ]
+ },
+ {
+  "name_en": "Mukho Port & Nongoldam-gil",
+  "name_cn": "墨湖港·论谷潭路",
+  "city": "Donghae",
+  "city_key": "donghae",
+  "city_cn": "东海",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K14"
+  ],
+  "tours": [
+   "KTE-GW2"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "donghae"
+  ]
+ },
+ {
+  "name_en": "Anmok Beach Café Street",
+  "name_cn": "安木海边咖啡街",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "cafe",
+  "category_cn": "网红咖啡/拍照点",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8FMG",
+   "KR8BG",
+   "KTE-GW2"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Haslla Art World",
+  "name_cn": "哈瑟拉艺术世界",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8FMG",
+   "KR8SVG",
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hoengseong",
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "INART Museum",
+  "name_cn": "INART 美术馆",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K06",
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8BSG",
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Jeongdongjin (Rail Bike & Station)",
+  "name_cn": "正东津（铁路自行车）",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8FMG",
+   "KR8SVG",
+   "KTE-GW2"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hoengseong",
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Spoon Mapping Café",
+  "name_cn": "Spoon Mapping 咖啡",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "cafe",
+  "category_cn": "网红咖啡/拍照点",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K06",
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8FMG",
+   "KR8BSG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Gangneung Jungang Market",
+  "name_cn": "江陵中央市场",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8FMG",
+   "KTE-GW2"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gyeongpodae & Gyeongpo Beach",
+  "name_cn": "镜浦台·镜浦海边",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8BG",
+   "KTE-GW2"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Heo Gyun & Heo Nanseolheon Memorial Park",
+  "name_cn": "许筠许兰雪轩纪念公园",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Ojukheon House",
+  "name_cn": "乌竹轩",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K14"
+  ],
+  "tours": [
+   "KTE-GW2"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Seongyojang House",
+  "name_cn": "船桥庄",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Jumunjin (BTS Bus Stop)",
+  "name_cn": "注文津（BTS 公交站）",
+  "city": "Gangneung",
+  "city_key": "gangneung",
+  "city_cn": "江陵",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Welli Hilli Park",
+  "name_cn": "Welli Hilli 滑雪场",
+  "city": "Hoengseong",
+  "city_key": "hoengseong",
+  "city_cn": "横城",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR6NST",
+   "KR8SVG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hoengseong"
+  ]
+ },
+ {
+  "name_en": "Hongcheon Ginkgo Forest",
+  "name_cn": "洪川银杏林",
+  "city": "Hongcheon",
+  "city_key": "hongcheon",
+  "city_cn": "洪川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Sono Vivaldi Park",
+  "name_cn": "大明维瓦尔第滑雪场",
+  "city": "Hongcheon",
+  "city_key": "hongcheon",
+  "city_cn": "洪川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Hwacheon Sancheoneo Ice Festival",
+  "name_cn": "华川山鳟鱼冰钓节",
+  "city": "Hwacheon",
+  "city_key": "hwacheon",
+  "city_cn": "华川",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "High1 Resort",
+  "name_cn": "High1 滑雪场",
+  "city": "Jeongseon",
+  "city_key": "jeongseon",
+  "city_cn": "旌善",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "chuncheon"
+  ]
+ },
+ {
+  "name_en": "Jeongseon Rail Bike",
+  "name_cn": "旌善铁路自行车",
+  "city": "Jeongseon",
+  "city_key": "jeongseon",
+  "city_cn": "旌善",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "chuncheon"
+  ]
+ },
+ {
+  "name_en": "Nami Island",
+  "name_cn": "南怡岛",
+  "city": "Nami Island",
+  "city_key": "namiisland",
+  "city_cn": "南怡岛",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "island",
+  "category_cn": "海岛",
+  "level": "core",
+  "tour_count": 10,
+  "families": [
+   "K02",
+   "K03",
+   "K07",
+   "K08",
+   "K12"
+  ],
+  "tours": [
+   "KR6NST",
+   "KR8RWG",
+   "KR8FMG",
+   "KR8SVG",
+   "KR8TGG",
+   "CB-8885",
+   "KR6FGT",
+   "KR10EG",
+   "KRWSKW",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "chuncheon",
+   "gapyeong",
+   "hoengseong",
+   "pyeongchang",
+   "seoul",
+   "sokcho"
+  ]
+ },
+ {
+  "name_en": "Mt Balwang Cable Car (Yongpyong)",
+  "name_cn": "发旺山缆车",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K03",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8SEG",
+   "KR8PQG",
+   "KR8FMG",
+   "KR8BSG",
+   "KR8BG",
+   "KR8UG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Yongpyong Resort",
+  "name_cn": "龙平滑雪度假村",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8PQG",
+   "KR8UG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Daegwallyeong Sky Ranch",
+  "name_cn": "大关岭天空牧场",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8FMG",
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Woljeongsa Temple & Fir Forest Road",
+  "name_cn": "月精寺·冷杉林路",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8FMG",
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Ginkgo Trees",
+  "name_cn": "银杏",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8FMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Mmango Museum",
+  "name_cn": "Mmango 博物馆",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8FMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Alpensia Resort",
+  "name_cn": "阿尔卑西亚度假村",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Phoenix Pyeongchang",
+  "name_cn": "凤凰平昌滑雪场",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Woljeongsa Fir Forest Road",
+  "name_cn": "月精寺冷杉林路",
+  "city": "Pyeongchang",
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Samcheok Ocean Cable Car",
+  "name_cn": "三陟海洋缆车",
+  "city": "Samcheok",
+  "city_key": "samcheok",
+  "city_cn": "三陟",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Seoraksan National Park & Gwongeumseong Cable Car",
+  "name_cn": "雪岳山国立公园·权金城缆车",
+  "city": "Sokcho",
+  "city_key": "sokcho",
+  "city_cn": "束草",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K07",
+   "K12"
+  ],
+  "tours": [
+   "KR8SVG",
+   "KRWSKW",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hoengseong",
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Daepohang Fishery Market",
+  "name_cn": "大浦港水产市场",
+  "city": "Sokcho",
+  "city_key": "sokcho",
+  "city_cn": "束草",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8SVG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hoengseong"
+  ]
+ },
+ {
+  "name_en": "Sokcho Jungang Market & Abai Village",
+  "name_cn": "束草中央市场·阿爸村",
+  "city": "Sokcho",
+  "city_key": "sokcho",
+  "city_cn": "束草",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Sogeumsan Suspension Bridge (Wonju)",
+  "name_cn": "小金山出口吊桥",
+  "city": "Wonju",
+  "city_key": "wonju",
+  "city_cn": "原州",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KRBBUW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Naksansa Temple",
+  "name_cn": "洛山寺",
+  "city": "Yangyang",
+  "city_key": "yangyang",
+  "city_cn": "襄阳",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Yeongwol Y Park & Hanbando Terrain",
+  "name_cn": "宁越 Y Park",
+  "city": "Yeongwol",
+  "city_key": "yeongwol",
+  "city_cn": "宁越",
+  "region": "Gangwon",
+  "region_cn": "江原道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8SEG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Andong Hahoe Folk Village",
+  "name_cn": "安东河回村",
+  "city": "Andong",
+  "city_key": "andong",
+  "city_cn": "安东",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Andong Confucian Academies / Woryeonggyo",
+  "name_cn": "安东书院·月映桥",
+  "city": "Andong",
+  "city_key": "andong",
+  "city_cn": "安东",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Cheongdo Wine Tunnel",
+  "name_cn": "清道红酒隧道",
+  "city": "Cheongdo",
+  "city_key": "cheongdo",
+  "city_cn": "清道",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Dongseongno (Daegu)",
+  "name_cn": "东城路（大邱）",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K05",
+   "K06"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8SNG",
+   "KR8GEG",
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daegu"
+  ]
+ },
+ {
+  "name_en": "Palgongsan & Donghwasa Temple",
+  "name_cn": "八公山·桐华寺",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K05",
+   "K06"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG",
+   "KR8BKG",
+   "KRBBFS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Daegu Korean Traditional Culture Center",
+  "name_cn": "大邱传统文化体验馆",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "E-World & 83 Tower",
+  "name_cn": "E-World·83塔",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daegu"
+  ]
+ },
+ {
+  "name_en": "Daegu Spa Valley",
+  "name_cn": "大邱 Spa Valley",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Kim Kwang-seok Street",
+  "name_cn": "金光石街",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Seomun Market",
+  "name_cn": "西门市场",
+  "city": "Daegu",
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Bulguksa Temple",
+  "name_cn": "佛国寺",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K06",
+   "K10",
+   "K12"
+  ],
+  "tours": [
+   "KR8BSG",
+   "KR5BJT",
+   "CB-8546",
+   "KRBBFS",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Donggung Palace & Wolji Pond",
+  "name_cn": "东宫与月池（雁鸭池）",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K06",
+   "K10",
+   "K12"
+  ],
+  "tours": [
+   "KR8BSG",
+   "CB-8546",
+   "KRBBUW",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju",
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Daereungwon Tomb Complex",
+  "name_cn": "大陵苑",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K06",
+   "K10",
+   "K12"
+  ],
+  "tours": [
+   "KR5BJT",
+   "KRBBFS",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Cheomseongdae Observatory",
+  "name_cn": "瞻星台",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K06",
+   "K12"
+  ],
+  "tours": [
+   "KRBBFS",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Gyeongju National Museum",
+  "name_cn": "国立庆州博物馆",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Gyochon Hanok Village",
+  "name_cn": "校村韩屋村",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K06",
+   "K10"
+  ],
+  "tours": [
+   "KR8BSG",
+   "KR5BJT"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Hwangnidan-gil",
+  "name_cn": "皇理团路",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8BSG",
+   "KRBBFS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Woljeonggyo Bridge",
+  "name_cn": "月精桥",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K06",
+   "K10"
+  ],
+  "tours": [
+   "KR5BJT",
+   "KRBBUW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Seokguram Grotto",
+  "name_cn": "石窟庵",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8BSG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Yangdong Folk Village",
+  "name_cn": "良洞民俗村",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K10"
+  ],
+  "tours": [
+   "CB-8546"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Bomun Lake Resort",
+  "name_cn": "普门湖",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gyeongju World",
+  "name_cn": "庆州世界乐园",
+  "city": "Gyeongju",
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Mungyeong Saejae Provincial Park & Drama Set",
+  "name_cn": "闻庆鸟岭·电视剧拍摄地",
+  "city": "Mungyeong",
+  "city_key": "mungyeong",
+  "city_cn": "闻庆",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KRBBUW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Hwanho Park Space Walk",
+  "name_cn": "环湖公园太空漫步",
+  "city": "Pohang",
+  "city_key": "pohang",
+  "city_cn": "浦项",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG",
+   "KRBBUW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daegu",
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Guryongpo Japanese House Street",
+  "name_cn": "九龙浦日式房屋街",
+  "city": "Pohang",
+  "city_key": "pohang",
+  "city_cn": "浦项",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KRBBUW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Homigot Sunrise Square",
+  "name_cn": "虎尾串日出广场",
+  "city": "Pohang",
+  "city_key": "pohang",
+  "city_cn": "浦项",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daegu"
+  ]
+ },
+ {
+  "name_en": "Jukdo Market",
+  "name_cn": "竹岛市场",
+  "city": "Pohang",
+  "city_key": "pohang",
+  "city_cn": "浦项",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Ulleungdo & Dokdo",
+  "name_cn": "郁陵岛·独岛",
+  "city": "Ulleungdo",
+  "city_key": "ulleungdo",
+  "city_cn": "郁陵岛",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "island",
+  "category_cn": "海岛",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K14"
+  ],
+  "tours": [
+   "KTE-ULL3"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul",
+   "ulleungdo"
+  ]
+ },
+ {
+  "name_en": "Yeongju Buseoksa Temple",
+  "name_cn": "荣州浮石寺",
+  "city": "Yeongju",
+  "city_key": "yeongju",
+  "city_cn": "荣州",
+  "region": "Gyeongsangbuk-do / Daegu",
+  "region_cn": "庆尚北道·大邱",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gamcheon Culture Village",
+  "name_cn": "甘川洞文化村",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "core",
+  "tour_count": 17,
+  "families": [
+   "K04",
+   "K05",
+   "K06",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8SNG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR8BSG",
+   "KR5BJT",
+   "KR5BGT",
+   "CB-8546",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS",
+   "KBJC09",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "daegu",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Haeundae Blue Line Park (Sky Capsule & Beach Train)",
+  "name_cn": "海云台蓝线公园（天空胶囊·海边列车）",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "core",
+  "tour_count": 17,
+  "families": [
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8SNG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR8BSG",
+   "KR5BJT",
+   "KR5BGT",
+   "KR8TGG",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS",
+   "KBJC09",
+   "KGUB09",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "daegu",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "BIFF Square & Nampo-dong",
+  "name_cn": "BIFF 广场·南浦洞",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 16,
+  "families": [
+   "K04",
+   "K05",
+   "K06",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8SNG",
+   "KR8BKG",
+   "CB-316692",
+   "KR8BSG",
+   "KR5BJT",
+   "KR5BGT",
+   "CB-8546",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS",
+   "KBJC09",
+   "KGUB09",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "daegu",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Premium Outlet",
+  "name_cn": "名品奥特莱斯",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "core",
+  "tour_count": 11,
+  "families": [
+   "K01",
+   "K04",
+   "K06",
+   "K10",
+   "K13"
+  ],
+  "tours": [
+   "KR8SNG",
+   "KR5BJT",
+   "KR5BGT",
+   "CB-8546",
+   "KRICNW",
+   "KRBBFS",
+   "KRJBUS",
+   "KRSRAS",
+   "KGYE09",
+   "KRDB06",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "daejeon",
+   "gimpo",
+   "jeju",
+   "seoul",
+   "suwon"
+  ]
+ },
+ {
+  "name_en": "Cheongsapo Daritdol Skywalk",
+  "name_cn": "青沙浦踏石展望台",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "core",
+  "tour_count": 10,
+  "families": [
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K09"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8BKG",
+   "KR8BSG",
+   "KR8TGG",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS",
+   "KBJC09",
+   "KGUB09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "daegu",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Haedong Yonggungsa Temple",
+  "name_cn": "海东龙宫寺",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "core",
+  "tour_count": 10,
+  "families": [
+   "K04",
+   "K06",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "KR8SNG",
+   "CB-316692",
+   "KR8BSG",
+   "KR5BJT",
+   "KR5BGT",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS",
+   "KBJC09",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Songdo Marine Cable Car (Busan Air Cruise)",
+  "name_cn": "松岛海上缆车",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "core",
+  "tour_count": 9,
+  "families": [
+   "K04",
+   "K05",
+   "K06",
+   "K10",
+   "K12"
+  ],
+  "tours": [
+   "KR8BKG",
+   "KR5BJT",
+   "KR5BGT",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBUS",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jagalchi Fish Market",
+  "name_cn": "札嘎其鱼市场",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "core",
+  "tour_count": 8,
+  "families": [
+   "K04",
+   "K09",
+   "K10",
+   "K12"
+  ],
+  "tours": [
+   "CB-8546",
+   "KBJC09",
+   "KGUB09",
+   "KRKA09",
+   "KRKG09",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "KTX High-speed Train",
+  "name_cn": "KTX 高铁",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "core",
+  "tour_count": 8,
+  "families": [
+   "K04",
+   "K06",
+   "K08"
+  ],
+  "tours": [
+   "KR8SNG",
+   "CB-316692",
+   "KR8BSG",
+   "KR8YYG",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "mokpo",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gukje Market",
+  "name_cn": "国际市场",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K04",
+   "K05",
+   "K06",
+   "K10"
+  ],
+  "tours": [
+   "KR8SNG",
+   "KR8BKG",
+   "KR8BSG",
+   "KR5BJT",
+   "KR5BGT",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Dongbaek Island & Nurimaru APEC House",
+  "name_cn": "冬柏岛·APEC世峰楼",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K10",
+   "K12"
+  ],
+  "tours": [
+   "KR5BJT",
+   "KR5BGT",
+   "KTE-RT7",
+   "KTE-E4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Oryukdo Skywalk",
+  "name_cn": "五六岛天空步道",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K05",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR5BJT",
+   "KR5BGT",
+   "CB-8546",
+   "KGUB09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "daegu"
+  ]
+ },
+ {
+  "name_en": "BUSAN X the SKY (LCT)",
+  "name_cn": "釜山 X the SKY 观景台",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG",
+   "KRJBTS",
+   "KRJBUS",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Busan Tower (Yongdusan Park)",
+  "name_cn": "釜山塔（龙头山公园）",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K05",
+   "K10"
+  ],
+  "tours": [
+   "KR8BKG",
+   "CB-316692",
+   "CB-8546",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "CLUBD OASIS (Spa)",
+  "name_cn": "CLUBD OASIS 水疗",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K06",
+   "K09"
+  ],
+  "tours": [
+   "KRBBUW",
+   "KRJBTS",
+   "KRJBUS",
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Gwangalli Beach & Gwangan Bridge",
+  "name_cn": "广安里海滩·广安大桥",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K06",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "CB-8546",
+   "KRBBUW",
+   "KRBBFS",
+   "KBJC09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Taejongdae",
+  "name_cn": "太宗台",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "CB-8546",
+   "KBJC09",
+   "KGUB09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "The Bay 101",
+  "name_cn": "The Bay 101 海云台夜景",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "CB-8546",
+   "KRJBUS",
+   "KBJC09",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Bupyeong Kkangtong Night Market",
+  "name_cn": "富平罐头夜市",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K04",
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "CB-8546",
+   "KBJC09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Busan Yacht Tour",
+  "name_cn": "釜山游艇",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K04",
+   "K06",
+   "K09"
+  ],
+  "tours": [
+   "KR8SNG",
+   "KBJC09",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Jjimjilbang (Korean Sauna)",
+  "name_cn": "汗蒸幕",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K04",
+   "K06",
+   "K09"
+  ],
+  "tours": [
+   "KRBBUW",
+   "KGUB09",
+   "KRKG09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Shinsegae Centum City & Spaland",
+  "name_cn": "新世界 Centum 城·Spaland",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K04",
+   "K09"
+  ],
+  "tours": [
+   "KBJC09",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "UN Memorial Cemetery",
+  "name_cn": "联合国纪念公园",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Busan Fireworks Festival",
+  "name_cn": "釜山烟花节",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KRBBFS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Busan Subway Experience",
+  "name_cn": "釜山地铁体验",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Haeundae Beach",
+  "name_cn": "海云台海水浴场",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [],
+  "tours": [
+   "CB-316692"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Hydrangea Viewing",
+  "name_cn": "赏绣球花",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Igidae / Igari Anchor Observatory",
+  "name_cn": "二妓台·锚形展望台",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KRBBUW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gyeongju"
+  ]
+ },
+ {
+  "name_en": "Seomyeon & Jeonpo Café Street",
+  "name_cn": "西面·田浦咖啡街",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KBJC09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Songdo Beach",
+  "name_cn": "松岛海水浴场",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Songdo Yonggung Suspension Bridge",
+  "name_cn": "松岛龙宫云桥",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Huinnyeoul Culture Village",
+  "name_cn": "白浅滩文化村",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Lotte Premium Outlet Dongbusan",
+  "name_cn": "乐天名品奥特莱斯（东釜山）",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Lotte World Adventure Busan",
+  "name_cn": "釜山乐天世界",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Skyline Luge Busan",
+  "name_cn": "Skyline 斜坡滑车",
+  "city": "Busan",
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Jinhae Gunhangje Cherry Blossom Festival",
+  "name_cn": "镇海军港节樱花（余佐川·庆和站）",
+  "city": "Changwon (Jinhae)",
+  "city_key": "changwon",
+  "city_cn": "昌原（镇海）",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K05",
+   "K09"
+  ],
+  "tours": [
+   "KR8BKG",
+   "KBJC09",
+   "KGUB09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "namhae"
+  ]
+ },
+ {
+  "name_en": "Geoje Windy Hill & Oedo Botania",
+  "name_cn": "巨济风之丘·外岛",
+  "city": "Geoje",
+  "city_key": "geoje",
+  "city_cn": "巨济",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "island",
+  "category_cn": "海岛",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K10"
+  ],
+  "tours": [
+   "KR5BGT"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Gimhae Gaya Theme Park",
+  "name_cn": "金海伽倻主题公园",
+  "city": "Gimhae",
+  "city_key": "gimhae",
+  "city_cn": "金海",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Hadong (Green Tea & Choi Champan House)",
+  "name_cn": "河东（绿茶·崔参判宅）",
+  "city": "Hadong",
+  "city_key": "hadong",
+  "city_cn": "河东",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hadong"
+  ]
+ },
+ {
+  "name_en": "Hadong Samseonggung & Hwagae Market",
+  "name_cn": "河东三圣宫·花开市场",
+  "city": "Hadong",
+  "city_key": "hadong",
+  "city_cn": "河东",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hadong"
+  ]
+ },
+ {
+  "name_en": "Jinju Fortress",
+  "name_cn": "晋州城",
+  "city": "Jinju",
+  "city_key": "jinju",
+  "city_cn": "晋州",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Miryang Yeongnamnu",
+  "name_cn": "密阳岭南楼",
+  "city": "Miryang",
+  "city_key": "miryang",
+  "city_cn": "密阳",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Namhae Coast (Treasure Island Observatory)",
+  "name_cn": "南海海岸（宝物岛展望台）",
+  "city": "Namhae",
+  "city_key": "namhae",
+  "city_cn": "南海",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "namhae"
+  ]
+ },
+ {
+  "name_en": "Namhae German Village",
+  "name_cn": "南海德国村",
+  "city": "Namhae",
+  "city_key": "namhae",
+  "city_cn": "南海",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "namhae"
+  ]
+ },
+ {
+  "name_en": "Namhae Geumsan Boriam Hermitage",
+  "name_cn": "南海锦山菩提庵",
+  "city": "Namhae",
+  "city_key": "namhae",
+  "city_cn": "南海",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "namhae"
+  ]
+ },
+ {
+  "name_en": "Sacheon Namildae Beach",
+  "name_cn": "泗川南一台海水浴场",
+  "city": "Sacheon",
+  "city_key": "sacheon",
+  "city_cn": "泗川",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "namhae"
+  ]
+ },
+ {
+  "name_en": "Tongyeong Cable Car & Dongpirang Village",
+  "name_cn": "统营缆车·东皮郎壁画村",
+  "city": "Tongyeong",
+  "city_key": "tongyeong",
+  "city_cn": "统营",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Ulsan Daewangam & Taehwagang Garden",
+  "name_cn": "蔚山大王岩·太和江国家庭园",
+  "city": "Ulsan",
+  "city_key": "ulsan",
+  "city_cn": "蔚山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K09",
+   "K10"
+  ],
+  "tours": [
+   "CB-8546",
+   "KGUB09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Ulsan Onggi Village",
+  "name_cn": "蔚山瓮器村",
+  "city": "Ulsan",
+  "city_key": "ulsan",
+  "city_cn": "蔚山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KGUB09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Tongdosa Temple",
+  "name_cn": "通度寺",
+  "city": "Yangsan",
+  "city_key": "yangsan",
+  "city_cn": "梁山",
+  "region": "Gyeongsangnam-do / Busan / Ulsan",
+  "region_cn": "庆尚南道·釜山·蔚山",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Seongsan Ilchulbong (Sunrise Peak)",
+  "name_cn": "城山日出峰",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 12,
+  "families": [
+   "K03",
+   "K04",
+   "K05",
+   "K11",
+   "K12"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR8TGG",
+   "CB-8880",
+   "KR6JLT",
+   "KR6JMG",
+   "KRJBTS",
+   "KRJBUS",
+   "KRKA09",
+   "KRKG09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Snoopy Garden",
+  "name_cn": "史努比花园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "core",
+  "tour_count": 10,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11",
+   "K14"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8PQG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR6JLT",
+   "KR10EG",
+   "KR6JMG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "ARTE Museum Jeju",
+  "name_cn": "ARTE 光影美术馆（济州/釜山/江陵/丽水均有）",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "core",
+  "tour_count": 9,
+  "families": [
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K08",
+   "K09",
+   "K11"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR10EG",
+   "KR6JMG",
+   "KRBBUW",
+   "KGUB09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Aromatherapy Footbath",
+  "name_cn": "香薰足浴",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K03",
+   "K05",
+   "K09",
+   "K12",
+   "K13"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KJJS09",
+   "KRDB06",
+   "KGUB09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "daejeon",
+   "jeju",
+   "namhae"
+  ]
+ },
+ {
+  "name_en": "Gochujang-making Experience",
+  "name_cn": "辣椒酱制作体验",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K01",
+   "K03",
+   "K05",
+   "K07",
+   "K08",
+   "K14"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8PQG",
+   "KR8BG",
+   "KR10EG",
+   "KRICNW",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "gimpo",
+   "goyang",
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Tangerine Picking / Jam DIY",
+  "name_cn": "柑橘采摘·果酱 DIY",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K03",
+   "K05",
+   "K06",
+   "K08",
+   "K11",
+   "K14"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8PQG",
+   "KR8BSG",
+   "KR6JLT",
+   "KR10EG",
+   "KR6JMG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "pyeongchang"
+  ]
+ },
+ {
+  "name_en": "Canola Flower Fields",
+  "name_cn": "油菜花田",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR8BKG",
+   "CB-8880",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Seopjikoji",
+  "name_cn": "涉地可支",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR10EG",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Dongmun Market",
+  "name_cn": "东门传统市场",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K03",
+   "K04",
+   "K05"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG",
+   "KR8TGG",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "NANTA Show",
+  "name_cn": "乱打秀",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "show",
+  "category_cn": "演出",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K04",
+   "K07",
+   "K11",
+   "K12"
+  ],
+  "tours": [
+   "KR6JMG",
+   "KRWSKW",
+   "KRJBTS",
+   "KRJBUS",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "9.81 Park",
+  "name_cn": "9.81 公园（无动力赛车）",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K03",
+   "K08",
+   "K11",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR6JLT",
+   "KR10EG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Horse Riding",
+  "name_cn": "骑马体验",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K11"
+  ],
+  "tours": [
+   "KR6JLT",
+   "KR6JMG",
+   "KRJBTS",
+   "KRJBUS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Yongduam (Dragon Head Rock)",
+  "name_cn": "龙头岩",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K11"
+  ],
+  "tours": [
+   "KR6JLT",
+   "KR6JMG",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Aewol Café Street",
+  "name_cn": "涯月咖啡街",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "cafe",
+  "category_cn": "网红咖啡/拍照点",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K11",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR6JLT",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "singapore"
+  ]
+ },
+ {
+  "name_en": "Boromwat Flower Farm",
+  "name_cn": "宝伦瓦特花园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8BKG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Cherry Blossom Viewing",
+  "name_cn": "赏樱",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K04",
+   "K05",
+   "K07"
+  ],
+  "tours": [
+   "KR8BKG",
+   "KR8BG",
+   "KRJBTS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "daegu",
+   "incheon",
+   "jeju",
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gotjawal Forest",
+  "name_cn": "Gotjawal 原始林",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K11",
+   "K12"
+  ],
+  "tours": [
+   "KR6JMG",
+   "KJJS09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Rainbow Coastal Road & Iho Tewoo Beach",
+  "name_cn": "彩虹海岸路·梨湖海边",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K11"
+  ],
+  "tours": [
+   "KR8TGG",
+   "KR6JLT",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "singapore"
+  ]
+ },
+ {
+  "name_en": "Sanyang Keuneonggot",
+  "name_cn": "山阳大洞穴（Keuneonggot）",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K11",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR6JLT",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Yongyeon Suspension Bridge",
+  "name_cn": "龙渊吊桥",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR10EG",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Halla Arboretum",
+  "name_cn": "汉拿树木园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K05"
+  ],
+  "tours": [
+   "KR8BKG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Hallim Park & Hyeopjae Beach",
+  "name_cn": "翰林公园·挟才海水浴场",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K11",
+   "K12"
+  ],
+  "tours": [
+   "KR6JMG",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Water World",
+  "name_cn": "济州水世界",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRJBTS",
+   "KRJBUS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Mysterious Road",
+  "name_cn": "神秘之路",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K04",
+   "K11"
+  ],
+  "tours": [
+   "CB-8880",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Saebyeol Friends Zoo",
+  "name_cn": "新别动物农场",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRJBTS",
+   "KRJBUS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Teseum Safari",
+  "name_cn": "Teseum 野生动物园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K05"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Bijarim Forest",
+  "name_cn": "榧子林",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Haenyeo (Women Divers) Show",
+  "name_cn": "海女表演",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "show",
+  "category_cn": "演出",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KJJS09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Hallasan National Park",
+  "name_cn": "汉拿山国立公园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KJJS09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Black Pork Street",
+  "name_cn": "黑猪肉一条街",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K11"
+  ],
+  "tours": [
+   "KR6JLT"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Donghwa Village",
+  "name_cn": "济州童话村",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K11"
+  ],
+  "tours": [
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Secret Forest",
+  "name_cn": "济州秘密森林",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K11"
+  ],
+  "tours": [
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Stone Park",
+  "name_cn": "济州石文化公园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeonnong-ro Cherry Blossom Street",
+  "name_cn": "典农路樱花街",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRJBTS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Samseonghyeol Shrine",
+  "name_cn": "三姓穴",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRJBTS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Sangumburi Crater",
+  "name_cn": "山君不离",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Taekwondo Show",
+  "name_cn": "跆拳道表演",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "show",
+  "category_cn": "演出",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Tulip Festival",
+  "name_cn": "郁金香节",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Duty-free",
+  "name_cn": "济州免税店",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Jeju Loveland",
+  "name_cn": "济州爱情乐园",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Saryeoni Forest Path",
+  "name_cn": "思连伊林荫道",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Woljeong-ri Beach",
+  "name_cn": "月汀里海边",
+  "city": "Jeju",
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "O'sulloc Tea Museum & Innisfree House",
+  "name_cn": "雪绿茶博物馆·悦诗风吟",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "core",
+  "tour_count": 9,
+  "families": [
+   "K03",
+   "K04",
+   "K08",
+   "K11",
+   "K12"
+  ],
+  "tours": [
+   "CB-8880",
+   "KR6JLT",
+   "KR10EG",
+   "KR6JMG",
+   "KRJBTS",
+   "KRJBUS",
+   "KJJS09",
+   "KRKA09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Camellia Hill",
+  "name_cn": "山茶花之丘",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K11"
+  ],
+  "tours": [
+   "CB-8880",
+   "KR6JMG",
+   "KRJBTS",
+   "KRJBUS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeju Herb Dongsan",
+  "name_cn": "济州香草园",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K05",
+   "K11"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jusangjeolli Cliff",
+  "name_cn": "柱状节理带",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K11",
+   "K12"
+  ],
+  "tours": [
+   "CB-8880",
+   "KR6JLT",
+   "KR6JMG",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jeongbang Waterfall",
+  "name_cn": "正房瀑布",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K04",
+   "K11"
+  ],
+  "tours": [
+   "CB-8880",
+   "KR6JLT",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Seongeup Folk Village",
+  "name_cn": "城邑民俗村",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K03",
+   "K04",
+   "K11"
+  ],
+  "tours": [
+   "KR8TGG",
+   "CB-8880",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Cheonjiyeon / Cheonjeyeon Falls",
+  "name_cn": "天地渊/天帝渊瀑布",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K04",
+   "K12"
+  ],
+  "tours": [
+   "KRKA09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Sanbangsan & Yongmeori Coast",
+  "name_cn": "山房山·龙头海岸",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Seogwipo Healing Forest",
+  "name_cn": "西归浦治愈森林",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR10EG",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Seogwipo Maeil Olle Market",
+  "name_cn": "西归浦每日偶来市场",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K11"
+  ],
+  "tours": [
+   "KR6JLT",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Bonte Museum",
+  "name_cn": "本态博物馆",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Hueree Hydrangea Garden",
+  "name_cn": "休爱里绣球花园",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KJJS09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Pinnacleland",
+  "name_cn": "Pinnacleland 树木园",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03",
+   "K08"
+  ],
+  "tours": [
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seosan"
+  ]
+ },
+ {
+  "name_en": "Jeju Folk Village",
+  "name_cn": "济州民俗村",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Songaksan",
+  "name_cn": "松岳山",
+  "city": "Seogwipo",
+  "city_key": "seogwipo",
+  "city_cn": "西归浦",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Udo Island",
+  "name_cn": "牛岛",
+  "city": "Udo Island",
+  "city_key": "udo",
+  "city_cn": "牛岛",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "island",
+  "category_cn": "海岛",
+  "level": "core",
+  "tour_count": 7,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR10EG",
+   "KR6JMG",
+   "KJJS09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Geommeolle Beach (Udo)",
+  "name_cn": "黑沙滩（牛岛）",
+  "city": "Udo Island",
+  "city_key": "udo",
+  "city_cn": "牛岛",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR10EG",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Seobin Baeksa Beach (Udo)",
+  "name_cn": "西滨白沙（牛岛）",
+  "city": "Udo Island",
+  "city_key": "udo",
+  "city_cn": "牛岛",
+  "region": "Jeju",
+  "region_cn": "济州",
+  "category": "beach",
+  "category_cn": "海岸/海滩",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K11"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR10EG",
+   "KR6JMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Boseong Green Tea Plantation",
+  "name_cn": "宝城绿茶园",
+  "city": "Boseong",
+  "city_key": "boseong",
+  "city_cn": "宝城",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan"
+  ]
+ },
+ {
+  "name_en": "Damyang Metasequoia Road",
+  "name_cn": "潭阳水杉林道",
+  "city": "Damyang",
+  "city_key": "damyang",
+  "city_cn": "潭阳",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KRAT09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Soswaewon Garden",
+  "name_cn": "潇洒园",
+  "city": "Damyang",
+  "city_key": "damyang",
+  "city_cn": "潭阳",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KRAT09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Damyang Juknokwon Bamboo Forest",
+  "name_cn": "潭阳竹绿苑",
+  "city": "Damyang",
+  "city_key": "damyang",
+  "city_cn": "潭阳",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gunsan Gyeongam-dong Railroad Village",
+  "name_cn": "群山京岩洞铁路村",
+  "city": "Gunsan",
+  "city_key": "gunsan",
+  "city_cn": "群山",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Lee Sung Dang Bakery",
+  "name_cn": "李圣堂面包（群山）",
+  "city": "Gunsan",
+  "city_key": "gunsan",
+  "city_cn": "群山",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gurye Seomjingang Cherry Blossom Road",
+  "name_cn": "求礼蟾津江樱花路",
+  "city": "Gurye",
+  "city_key": "gurye",
+  "city_cn": "求礼",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K09"
+  ],
+  "tours": [
+   "KBJC09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "yeosu"
+  ]
+ },
+ {
+  "name_en": "Gwangju 1913 Songjeong Station Market",
+  "name_cn": "光州 1913 松汀站市场",
+  "city": "Gwangju",
+  "city_key": "gwangju",
+  "city_cn": "光州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gwangju Yangnim-dong / ACC",
+  "name_cn": "光州杨林洞·亚洲文化殿堂",
+  "city": "Gwangju",
+  "city_key": "gwangju",
+  "city_cn": "光州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gwangyang Maehwa (Plum) Village",
+  "name_cn": "光阳梅花村",
+  "city": "Gwangyang",
+  "city_key": "gwangyang",
+  "city_cn": "光阳",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Haenam (Land's End / Daeheungsa)",
+  "name_cn": "海南（地端村·大兴寺）",
+  "city": "Haenam",
+  "city_key": "haenam",
+  "city_cn": "海南",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "mokpo"
+  ]
+ },
+ {
+  "name_en": "Baekyangsa Temple",
+  "name_cn": "白羊寺",
+  "city": "Jangseong",
+  "city_key": "jangseong",
+  "city_cn": "长城",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K05",
+   "K12"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gwangju",
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Naejangsan National Park",
+  "name_cn": "内藏山国立公园",
+  "city": "Jeongeup",
+  "city_key": "jeongeup",
+  "city_cn": "井邑",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K05",
+   "K08"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KRAT09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Hanbok Dress-up Experience",
+  "name_cn": "韩服体验",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "core",
+  "tour_count": 20,
+  "families": [
+   "K01",
+   "K02",
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K12",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8PQG",
+   "KR8SNG",
+   "KR8GEG",
+   "KR8FMG",
+   "KR8BKG",
+   "KR8SVG",
+   "KR8BG",
+   "KR8TGG",
+   "CB-8885",
+   "KR8UG",
+   "KR10EG",
+   "KRICNW",
+   "KRBBUW",
+   "KRBBFS",
+   "KRSRAS",
+   "KGYE08",
+   "KRKA09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "gwangju",
+   "incheon",
+   "jeju",
+   "jeonju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jeonju Hanok Village",
+  "name_cn": "全州韩屋村",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "core",
+  "tour_count": 10,
+  "families": [
+   "K03",
+   "K05",
+   "K08",
+   "K12",
+   "K13"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8GKG",
+   "KR8GEG",
+   "KR8UG",
+   "KR10EG",
+   "KR8YYG",
+   "KRAT09",
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gwangju",
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Guam Farm (Fruit Picking)",
+  "name_cn": "九岩农场（采摘）",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K05",
+   "K06"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8SNG",
+   "KR8GEG",
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "daegu",
+   "jeonju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Autumn Foliage",
+  "name_cn": "赏枫",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K05",
+   "K07",
+   "K08"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8FMG",
+   "KRAT09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeonju",
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jeondong Catholic Cathedral",
+  "name_cn": "殿洞天主教堂",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K05",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG",
+   "KR8UG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Jeonju Arboretum",
+  "name_cn": "全州树木园",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Choco Pie DIY",
+  "name_cn": "巧克力派 DIY",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Gyeonggijeon Shrine",
+  "name_cn": "庆基殿",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KRAT09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Wangyijimil Hanok Stay (Jeonju)",
+  "name_cn": "全州王的家韩屋住宿",
+  "city": "Jeonju",
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Abalone Harvesting Experience",
+  "name_cn": "捕鲍鱼体验",
+  "city": "Mokpo",
+  "city_key": "mokpo",
+  "city_cn": "木浦",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "mokpo"
+  ]
+ },
+ {
+  "name_en": "Mokpo Marine Cable Car",
+  "name_cn": "木浦海上缆车",
+  "city": "Mokpo",
+  "city_key": "mokpo",
+  "city_cn": "木浦",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Namwon Gwanghallu Garden",
+  "name_cn": "南原广寒楼苑",
+  "city": "Namwon",
+  "city_key": "namwon",
+  "city_cn": "南原",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Jeungdo Taepyeong Salt Farm",
+  "name_cn": "曾岛太平盐田",
+  "city": "Sinan (Jeungdo)",
+  "city_key": "sinan",
+  "city_cn": "新安（曾岛）",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju"
+  ]
+ },
+ {
+  "name_en": "Naganeupseong Folk Village",
+  "name_cn": "乐安邑城民俗村",
+  "city": "Suncheon",
+  "city_key": "suncheon",
+  "city_cn": "顺天",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K08",
+   "K09",
+   "K12"
+  ],
+  "tours": [
+   "KRAT09",
+   "KBJC09",
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "jeonju",
+   "yeosu"
+  ]
+ },
+ {
+  "name_en": "Suncheon Bay Wetland Reserve",
+  "name_cn": "顺天湾湿地",
+  "city": "Suncheon",
+  "city_key": "suncheon",
+  "city_cn": "顺天",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K08",
+   "K09",
+   "K12"
+  ],
+  "tours": [
+   "KRAT09",
+   "KBJC09",
+   "KTE-RT7",
+   "KTE-W4",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "jeonju",
+   "yeosu"
+  ]
+ },
+ {
+  "name_en": "Suncheon Bay National Garden",
+  "name_cn": "顺天湾国家庭园",
+  "city": "Suncheon",
+  "city_key": "suncheon",
+  "city_cn": "顺天",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Wando Marine Healing Centre & Seaweed Museum",
+  "name_cn": "莞岛海洋治愈中心·海藻博物馆",
+  "city": "Wando",
+  "city_key": "wando",
+  "city_cn": "莞岛",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KR8YYG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "mokpo"
+  ]
+ },
+ {
+  "name_en": "Wanju Ogung Hanok Village (BTS)",
+  "name_cn": "完州五宫韩屋村",
+  "city": "Wanju",
+  "city_key": "wanju",
+  "city_cn": "完州",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Yeosu Odongdo & Maritime Cable Car",
+  "name_cn": "丽水梧桐岛·海上缆车",
+  "city": "Yeosu",
+  "city_key": "yeosu",
+  "city_cn": "丽水",
+  "region": "Jeolla",
+  "region_cn": "全罗道",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K09",
+   "K13"
+  ],
+  "tours": [
+   "KBJC09",
+   "KRDB06"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "daejeon",
+   "yeosu"
+  ]
+ },
+ {
+  "name_en": "Ganghwa Peace Observatory",
+  "name_cn": "江华和平展望台",
+  "city": "Ganghwa",
+  "city_key": "ganghwa",
+  "city_cn": "江华岛",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K01",
+   "K02",
+   "K07",
+   "K08"
+  ],
+  "tours": [
+   "KR8IG",
+   "KR8SVG",
+   "KR6FGT",
+   "KRAT09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Joyang Bangjik Café (Ganghwa)",
+  "name_cn": "江华朝阳纺织咖啡",
+  "city": "Ganghwa",
+  "city_key": "ganghwa",
+  "city_cn": "江华岛",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "cafe",
+  "category_cn": "网红咖啡/拍照点",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K01",
+   "K02",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR8SNG",
+   "KR8SVG",
+   "KR6FGT",
+   "KRICNW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo",
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Ganghwa Anglican Church",
+  "name_cn": "江华圣公会圣堂",
+  "city": "Ganghwa",
+  "city_key": "ganghwa",
+  "city_cn": "江华岛",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01",
+   "K02",
+   "K07"
+  ],
+  "tours": [
+   "KR8SVG",
+   "KR6FGT",
+   "KRICNW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Ganghwa Seaside Resort Luge",
+  "name_cn": "江华斜坡滑车（Luge）",
+  "city": "Ganghwa",
+  "city_key": "ganghwa",
+  "city_cn": "江华岛",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KR8IG",
+   "KRICNW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo",
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Yeonmijeong Pavilion (Ganghwa)",
+  "name_cn": "燕尾亭（江华）",
+  "city": "Ganghwa",
+  "city_key": "ganghwa",
+  "city_cn": "江华岛",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8SVG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "The Garden of Morning Calm",
+  "name_cn": "晨静树木园",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8FMG",
+   "KR8BG",
+   "KRWSKW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul",
+   "sokcho"
+  ]
+ },
+ {
+  "name_en": "Gapyeong Begonia Bird Park",
+  "name_cn": "加平秋海棠鸟园",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KR8IG",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul",
+   "yangpyeong"
+  ]
+ },
+ {
+  "name_en": "Petite France",
+  "name_cn": "小法国村",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01",
+   "K02",
+   "K07"
+  ],
+  "tours": [
+   "CB-8885",
+   "KRWSKW",
+   "KRSRAS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul",
+   "sokcho"
+  ]
+ },
+ {
+  "name_en": "Gapyeong Cruise",
+  "name_cn": "加平游船",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KR8IG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "yangpyeong"
+  ]
+ },
+ {
+  "name_en": "Gapyeong Italian Village (Pinocchio)",
+  "name_cn": "意大利村（皮诺曹村）",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8SVG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gapyeong"
+  ]
+ },
+ {
+  "name_en": "Gapyeong Sheep Farm",
+  "name_cn": "加平羊群牧场",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KRSRAS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Eobi Ice Valley",
+  "name_cn": "鱼飞溪谷冰瀑",
+  "city": "Gapyeong",
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Aegibong Peace Ecopark",
+  "name_cn": "爱妓峰和平生态公园",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "core",
+  "tour_count": 8,
+  "families": [
+   "K01",
+   "K03",
+   "K04",
+   "K07",
+   "K08",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8BG",
+   "KR10EG",
+   "KRICNW",
+   "KRJBTS",
+   "KRJBUS",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo",
+   "goyang",
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Rice Flower's Farmer (Gimpo)",
+  "name_cn": "金浦米花农场",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "core",
+  "tour_count": 8,
+  "families": [
+   "K01",
+   "K03",
+   "K04",
+   "K05",
+   "K07",
+   "K08",
+   "K14"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8PQG",
+   "KR8BG",
+   "KR10EG",
+   "KRJBTS",
+   "KRJBUS",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "goyang",
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Hyundai Premium Outlet Gimpo",
+  "name_cn": "金浦现代名品奥特莱斯",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K03",
+   "K05",
+   "K07",
+   "K08",
+   "K14"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8PQG",
+   "KR8GEG",
+   "KR8BKG",
+   "KR8BG",
+   "KR10EG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "goyang",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Jogang Observatory",
+  "name_cn": "祖江展望台",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01",
+   "K03",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "goyang",
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gimpo DMZ Tour",
+  "name_cn": "金浦 DMZ 观光",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "goyang",
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Gimpo Hamsang Park",
+  "name_cn": "金浦舰上公园",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KRAT09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gimpo La Veniche Street",
+  "name_cn": "金浦拉维尼斯水岸街",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KRICNW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo"
+  ]
+ },
+ {
+  "name_en": "Gyeongin Ara Waterway",
+  "name_cn": "京仁阿拉运河",
+  "city": "Gimpo",
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Ilsan Lake Park",
+  "name_cn": "一山湖水公园",
+  "city": "Goyang (Ilsan)",
+  "city_key": "goyang",
+  "city_cn": "高阳（一山）",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRJBTS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "One Mount",
+  "name_cn": "One Mount 乐园",
+  "city": "Goyang (Ilsan)",
+  "city_key": "goyang",
+  "city_cn": "高阳（一山）",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Gwangmyeong Cave",
+  "name_cn": "光明洞窟",
+  "city": "Gwangmyeong",
+  "city_key": "gwangmyeong",
+  "city_cn": "光明",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8SVG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jisan Forest Resort",
+  "name_cn": "芝山滑雪场",
+  "city": "Icheon",
+  "city_key": "icheon",
+  "city_cn": "利川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "ski",
+  "category_cn": "滑雪场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Songwol-dong Fairy Tale Village",
+  "name_cn": "松月洞童话村",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K01",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8IG",
+   "KR8SNG",
+   "KR8BSG",
+   "KRSRAS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Incheon Chinatown & Jjajangmyeon Museum",
+  "name_cn": "仁川中华街·炸酱面博物馆",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K01",
+   "K06"
+  ],
+  "tours": [
+   "KR8IG",
+   "KR8SNG",
+   "KR8BSG",
+   "KRSRAS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Incheon Open Port Street",
+  "name_cn": "仁川开港场街",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KR8IG",
+   "KRSRAS",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "goyang",
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Sinpo International Market",
+  "name_cn": "新浦国际市场",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8IG",
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Hyundai Premium Outlet Songdo",
+  "name_cn": "松岛现代名品奥特莱斯",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01",
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8IG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Lotte Mart",
+  "name_cn": "乐天超市",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KRBBUW",
+   "KRWSKW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Songdo Central Park",
+  "name_cn": "松岛中央公园",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01",
+   "K06"
+  ],
+  "tours": [
+   "KR8IG",
+   "KR8SNG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Wolmido",
+  "name_cn": "月尾岛",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KR8IG",
+   "KRICNW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo",
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Inspire Entertainment Resort",
+  "name_cn": "Inspire 度假村",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KRICNW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "gimpo"
+  ]
+ },
+ {
+  "name_en": "Renoburg Museum",
+  "name_cn": "Renoburg 博物馆",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Songdo Cloud Walk",
+  "name_cn": "松岛云端步道",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRJBTS"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Songdo Triple Street",
+  "name_cn": "松岛 Triple Street",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KR8IG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "Paradise City",
+  "name_cn": "百乐达斯城",
+  "city": "Incheon",
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Imjingak Park",
+  "name_cn": "临津阁",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K12",
+   "K14"
+  ],
+  "tours": [
+   "KR8PQG",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Dora Observatory",
+  "name_cn": "都罗展望台",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Paju Tofu Village",
+  "name_cn": "坡州豆腐村",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KGYE08"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "The 3rd Tunnel (DMZ)",
+  "name_cn": "第三地道",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "DMZ Tour",
+  "name_cn": "DMZ 非军事区",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "dmz",
+  "category_cn": "安保观光（DMZ）",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": true,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Heyri Art Valley",
+  "name_cn": "Heyri 艺术村",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Paju Provence Village",
+  "name_cn": "坡州普罗旺斯村",
+  "city": "Paju",
+  "city_key": "paju",
+  "city_cn": "坡州",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Pocheon Art Valley",
+  "name_cn": "抱川艺谷",
+  "city": "Pocheon",
+  "city_key": "pocheon",
+  "city_cn": "抱川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K01",
+   "K02",
+   "K07"
+  ],
+  "tours": [
+   "KR8FMG",
+   "CB-8885",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "hongcheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Pocheon Herb Island",
+  "name_cn": "抱川香草岛",
+  "city": "Pocheon",
+  "city_key": "pocheon",
+  "city_cn": "抱川",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K02"
+  ],
+  "tours": [
+   "CB-8885"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Myeongdong Shopping Street",
+  "name_cn": "明洞购物街",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 33,
+  "families": [
+   "K01",
+   "K02",
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K12",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8IG",
+   "KR8PQG",
+   "KR8SNG",
+   "KR6FNT",
+   "KR8GEG",
+   "KR8FMG",
+   "KR8BKG",
+   "KR8SVG",
+   "CB-316692",
+   "KR8BSG",
+   "KR8BG",
+   "KR8TGG",
+   "CB-8885",
+   "KR6FGT",
+   "KR8UG",
+   "KR10EG",
+   "KR8YYG",
+   "KRBBUW",
+   "KRBBFS",
+   "KRWSKW",
+   "KRJBTS",
+   "KRJBUS",
+   "KRSRAS",
+   "KRAT09",
+   "KGYE09",
+   "KRDB06",
+   "KGYE08",
+   "KRKA09",
+   "KRKG09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "busan",
+   "buyeo",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gyeongbokgung Palace",
+  "name_cn": "景福宫",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "palace",
+  "category_cn": "宫殿",
+  "level": "core",
+  "tour_count": 26,
+  "families": [
+   "K01",
+   "K02",
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K12",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8SEG",
+   "KR8GAG",
+   "KR8GKG",
+   "KR8PQG",
+   "KR8SNG",
+   "KR6FNT",
+   "KR8GEG",
+   "KR8BKG",
+   "KR8SVG",
+   "CB-316692",
+   "KR8BG",
+   "CB-8885",
+   "KR6FGT",
+   "KR8UG",
+   "KR10EG",
+   "KR8YYG",
+   "KRICNW",
+   "KRBBUW",
+   "KRBBFS",
+   "KRWSKW",
+   "KRSRAS",
+   "KGYE08",
+   "KRKA09",
+   "KRKG09",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "jeonju",
+   "mokpo",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Cosmetics Shop",
+  "name_cn": "化妆品店",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "core",
+  "tour_count": 21,
+  "families": [
+   "K01",
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K09",
+   "K11",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8SEG",
+   "KR8IG",
+   "KR8PQG",
+   "KR8SNG",
+   "KR8BSG",
+   "KR8UG",
+   "KR10EG",
+   "KR8YYG",
+   "KR6JMG",
+   "KRICNW",
+   "KRBBUW",
+   "KRBBFS",
+   "KRWSKW",
+   "KRJBTS",
+   "KRJBUS",
+   "KRSRAS",
+   "KRAT09",
+   "KJJS09",
+   "KGUB09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Ikseon-dong Hanok Street",
+  "name_cn": "益善洞韩屋街",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "core",
+  "tour_count": 17,
+  "families": [
+   "K01",
+   "K03",
+   "K04",
+   "K05",
+   "K06",
+   "K07",
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8GAG",
+   "KR8FMG",
+   "KR8BKG",
+   "KR8SVG",
+   "KR8UG",
+   "KR10EG",
+   "KR8YYG",
+   "KRBBUW",
+   "KRBBFS",
+   "KRJBTS",
+   "KRJBUS",
+   "KRSRAS",
+   "KGYE09",
+   "KGYE08",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "mokpo",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Ginseng Shop",
+  "name_cn": "高丽人参店",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "core",
+  "tour_count": 15,
+  "families": [
+   "K01",
+   "K02",
+   "K03",
+   "K04",
+   "K06",
+   "K07",
+   "K08",
+   "K09",
+   "K11"
+  ],
+  "tours": [
+   "KR5SA",
+   "KR6FNT",
+   "KR8TGG",
+   "KR6FGT",
+   "KR6JMG",
+   "KRICNW",
+   "KRBBUW",
+   "KRBBFS",
+   "KRWSKW",
+   "KRJBTS",
+   "KRJBUS",
+   "KRSRAS",
+   "KRAT09",
+   "KJJS09",
+   "KGUB09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "COEX Mall & Starfield Library",
+  "name_cn": "COEX 星空图书馆",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "core",
+  "tour_count": 9,
+  "families": [
+   "K01",
+   "K03",
+   "K05",
+   "K07",
+   "K08",
+   "K13",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8GKG",
+   "KR8IG",
+   "KR8PQG",
+   "KR8GEG",
+   "KR8SVG",
+   "KR8BG",
+   "KR8UG",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Hongdae (Hongik Univ. Street)",
+  "name_cn": "弘大",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 9,
+  "families": [
+   "K01",
+   "K02",
+   "K03",
+   "K04",
+   "K05",
+   "K07",
+   "K08"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GAG",
+   "KR8IG",
+   "KR8FMG",
+   "KR8SVG",
+   "KR6FGT",
+   "KR10EG",
+   "KRAT09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Dongdaemun Market",
+  "name_cn": "东大门市场",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K01",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8BSG",
+   "KRWSKW",
+   "KRSRAS",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gangnam",
+  "name_cn": "江南",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K01",
+   "K03",
+   "K07",
+   "K14"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8IG",
+   "KR8PQG",
+   "CB-316692",
+   "KR8BG",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gwangjang Market",
+  "name_cn": "广藏市场",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K01",
+   "K04",
+   "K06",
+   "K07",
+   "K08"
+  ],
+  "tours": [
+   "KR8SVG",
+   "KR8YYG",
+   "KRBBFS",
+   "KRWSKW",
+   "KGYE08",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Lotte World Tower Seoul Sky",
+  "name_cn": "乐天世界塔 Seoul Sky",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K01",
+   "K05",
+   "K07",
+   "K08",
+   "K12",
+   "K13"
+  ],
+  "tours": [
+   "KR8GAG",
+   "KR8FMG",
+   "CB-316692",
+   "KR8UG",
+   "KGYE08",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Seongsu-dong",
+  "name_cn": "圣水洞",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 6,
+  "families": [
+   "K01",
+   "K02",
+   "K03",
+   "K04",
+   "K13"
+  ],
+  "tours": [
+   "KR6FNT",
+   "KR8TGG",
+   "KR6FGT",
+   "KRICNW",
+   "KRDB06",
+   "KRKA09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "N Seoul Tower (Namsan)",
+  "name_cn": "N首尔塔（南山塔）",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "observatory",
+  "category_cn": "观景台/塔",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K01",
+   "K02",
+   "K04"
+  ],
+  "tours": [
+   "CB-8885",
+   "KRJBTS",
+   "KRJBUS",
+   "KRSRAS",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Strawberry Picking",
+  "name_cn": "草莓采摘",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "farm",
+  "category_cn": "农场/采摘",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K01",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8SVG",
+   "KR8BSG",
+   "KR8BG",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "gapyeong",
+   "goyang",
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Deoksugung Palace",
+  "name_cn": "德寿宫",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "palace",
+  "category_cn": "宫殿",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K02",
+   "K08"
+  ],
+  "tours": [
+   "KR6FNT",
+   "CB-316692",
+   "KR6FGT",
+   "KRAT09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Insadong & Ssamziegil",
+  "name_cn": "仁寺洞·森吉街",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "core",
+  "tour_count": 4,
+  "families": [
+   "K04",
+   "K05"
+  ],
+  "tours": [
+   "KR8SEG",
+   "KR8GKG",
+   "KR8GEG",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Bukchon Hanok Village",
+  "name_cn": "北村韩屋村",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K02"
+  ],
+  "tours": [
+   "KR5SA",
+   "CB-316692",
+   "CB-8885"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Duty-free Shop",
+  "name_cn": "免税店",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01",
+   "K07",
+   "K09"
+  ],
+  "tours": [
+   "KR8SVG",
+   "KRICNW",
+   "KBJC09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "busan",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gwanghwamun Square",
+  "name_cn": "光化门广场",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K05",
+   "K12"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jeju/Seoul Concept Café",
+  "name_cn": "主题网红咖啡",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "cafe",
+  "category_cn": "网红咖啡/拍照点",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01",
+   "K03"
+  ],
+  "tours": [
+   "KR8IG",
+   "KR8TGG",
+   "KRICNW"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "gapyeong",
+   "seoul",
+   "yangpyeong"
+  ]
+ },
+ {
+  "name_en": "Lotte World Adventure",
+  "name_cn": "乐天世界",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K05",
+   "K06",
+   "K07"
+  ],
+  "tours": [
+   "KR8RWG",
+   "KR8SEG",
+   "KR8BSG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "BTS Spots",
+  "name_cn": "BTS 圣地巡礼",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K02",
+   "K07"
+  ],
+  "tours": [
+   "KR5SA",
+   "KR8RWG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "pyeongchang",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Changdeokgung Palace",
+  "name_cn": "昌德宫",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "palace",
+  "category_cn": "宫殿",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8FMG",
+   "CB-316692"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Cheonggyecheon Stream",
+  "name_cn": "清溪川",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeju"
+  ]
+ },
+ {
+  "name_en": "Glamping Stay",
+  "name_cn": "豪华露营",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01",
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "gapyeong",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Han River Cruise",
+  "name_cn": "汉江游船",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "ride",
+  "category_cn": "缆车/游船/小火车",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K12"
+  ],
+  "tours": [
+   "KR8TGG",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Han River Park",
+  "name_cn": "汉江公园",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K03",
+   "K12"
+  ],
+  "tours": [
+   "KR8TGG",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Mangwon Market & Mangridan-gil",
+  "name_cn": "望远市场·望理团路",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01",
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG",
+   "KRSRAS"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "National Folk Museum of Korea",
+  "name_cn": "国立民俗博物馆",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K02",
+   "K12"
+  ],
+  "tours": [
+   "CB-8885",
+   "KTE-UK16"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Pink Muhly Grass",
+  "name_cn": "粉黛乱子草",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K07",
+   "K09"
+  ],
+  "tours": [
+   "KR8FMG",
+   "KGUB09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "namhae",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Tongin Market",
+  "name_cn": "通仁市场",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01",
+   "K06"
+  ],
+  "tours": [
+   "KR8IG",
+   "KR8BSG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Yeouido Yunjung-ro Cherry Blossom Street",
+  "name_cn": "汝矣岛轮中路樱花街",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "festival",
+  "category_cn": "节庆/季节限定",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K05",
+   "K07"
+  ],
+  "tours": [
+   "KR8BKG",
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "arriveinsingapore",
+   "singapore"
+  ]
+ },
+ {
+  "name_en": "Cheong Wa Dae (Blue House)",
+  "name_cn": "青瓦台",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K04"
+  ],
+  "tours": [
+   "KRKA09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Culture Station Seoul 284",
+  "name_cn": "文化站首尔284（旧首尔站）",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Goto Mall (Express Bus Terminal)",
+  "name_cn": "高速巴士客运站地下商街",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KGYE08"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Gyeongui Line Forest Park",
+  "name_cn": "京义线林荫道",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08"
+  ],
+  "tours": [
+   "KRAT09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon"
+  ]
+ },
+ {
+  "name_en": "JUMP / Hero Show",
+  "name_cn": "武术喜剧秀",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "show",
+  "category_cn": "演出",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KGYE08"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Jogyesa Temple",
+  "name_cn": "曹溪寺",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K12"
+  ],
+  "tours": [
+   "KTE-UK16"
+  ],
+  "sites": [
+   "koreatraveleasy.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "K-pop Spots",
+  "name_cn": "K-pop 打卡点",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K02"
+  ],
+  "tours": [
+   "KR5SA"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Mullae-dong Art Village",
+  "name_cn": "文来洞艺术村",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "National Museum of Korean Contemporary History",
+  "name_cn": "大韩民国历史博物馆",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8BG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Olympic Park",
+  "name_cn": "奥林匹克公园",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8GAG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Seaweed Museum",
+  "name_cn": "海藻博物馆",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Seokchon Lake",
+  "name_cn": "石村湖",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K05"
+  ],
+  "tours": [
+   "KR8BKG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Seoul Forest",
+  "name_cn": "首尔林",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "park",
+  "category_cn": "公园/花园/树木园",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K07"
+  ],
+  "tours": [
+   "KR8FMG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "The Painters Show",
+  "name_cn": "画家秀（The Painters）",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "show",
+  "category_cn": "演出",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K06"
+  ],
+  "tours": [
+   "KR8BSG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Traditional Brewery Visit",
+  "name_cn": "传统酒坊参观",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KRICNW"
+  ],
+  "sites": [
+   "euholidays.com.sg"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "gimpo"
+  ]
+ },
+ {
+  "name_en": "Tteokbokki Cooking Class",
+  "name_cn": "炒年糕料理课",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "experience",
+  "category_cn": "体验",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K08",
+   "K13"
+  ],
+  "tours": [
+   "KR8UG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": true,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Unhyeongung Palace",
+  "name_cn": "云岘宫",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "palace",
+  "category_cn": "宫殿",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K03"
+  ],
+  "tours": [
+   "KR8TGG"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "War Memorial of Korea",
+  "name_cn": "战争纪念馆",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [],
+  "tours": [
+   "CB-316692"
+  ],
+  "sites": [
+   "chanbrothers.com"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Amethyst Showroom",
+  "name_cn": "紫水晶店",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "shopstop",
+  "category_cn": "团队购物站",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": true,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Bongeunsa Temple",
+  "name_cn": "奉恩寺",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "temple",
+  "category_cn": "寺庙",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Changgyeonggung Palace",
+  "name_cn": "昌庆宫",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "palace",
+  "category_cn": "宫殿",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Dongdaemun Design Plaza (DDP)",
+  "name_cn": "东大门设计广场 DDP",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Garosu-gil",
+  "name_cn": "林荫道（新沙洞）",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Itaewon",
+  "name_cn": "梨泰院",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "district",
+  "category_cn": "街区/商圈",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Myeongdong Cathedral",
+  "name_cn": "明洞天主教堂",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Namdaemun Market",
+  "name_cn": "南大门市场",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "market",
+  "category_cn": "传统市场",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "National Museum of Korea",
+  "name_cn": "国立中央博物馆",
+  "city": "Seoul",
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Starfield Suwon",
+  "name_cn": "水原星空图书馆（Starfield）",
+  "city": "Suwon",
+  "city_key": "suwon",
+  "city_cn": "水原",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "outlet",
+  "category_cn": "奥特莱斯/商场",
+  "level": "core",
+  "tour_count": 5,
+  "families": [
+   "K04",
+   "K05",
+   "K07"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8GEG",
+   "KRWSKW",
+   "KRKA09",
+   "KRKG09"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "incheon",
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Suwon Hwaseong Fortress",
+  "name_cn": "水原华城",
+  "city": "Suwon",
+  "city_key": "suwon",
+  "city_cn": "水原",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "heritage",
+  "category_cn": "史迹/世界遗产",
+  "level": "common",
+  "tour_count": 3,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "CB-316692",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "jeonju",
+   "seoul",
+   "suwon"
+  ]
+ },
+ {
+  "name_en": "Yangpyeong Dumulmeori",
+  "name_cn": "杨平两水头",
+  "city": "Yangpyeong",
+  "city_key": "yangpyeong",
+  "city_cn": "杨平",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "nature",
+  "category_cn": "自然风景",
+  "level": "common",
+  "tour_count": 2,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul",
+   "suwon"
+  ]
+ },
+ {
+  "name_en": "Everland",
+  "name_cn": "爱宝乐园",
+  "city": "Yongin",
+  "city_key": "yongin",
+  "city_cn": "龙仁",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "core",
+  "tour_count": 12,
+  "families": [
+   "K01",
+   "K02",
+   "K05",
+   "K07"
+  ],
+  "tours": [
+   "KR8GKG",
+   "KR8IG",
+   "KR6FNT",
+   "KR8GEG",
+   "KR8BKG",
+   "KR8SVG",
+   "KR8BG",
+   "CB-8885",
+   "KRWSKW",
+   "KRSRAS",
+   "KGYE09",
+   "KGYE08"
+  ],
+  "sites": [
+   "chanbrothers.com",
+   "dynastytravel.com.sg",
+   "euholidays.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Samsung Transportation Museum",
+  "name_cn": "三星交通博物馆",
+  "city": "Yongin",
+  "city_key": "yongin",
+  "city_cn": "龙仁",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "museum",
+  "category_cn": "博物馆/美术馆",
+  "level": "optional",
+  "tour_count": 1,
+  "families": [
+   "K01"
+  ],
+  "tours": [
+   "KGYE09"
+  ],
+  "sites": [
+   "dynastytravel.com.sg"
+  ],
+  "generic": false,
+  "cities_seen": [
+   "seoul"
+  ]
+ },
+ {
+  "name_en": "Caribbean Bay",
+  "name_cn": "加勒比海湾水上乐园",
+  "city": "Yongin",
+  "city_key": "yongin",
+  "city_cn": "龙仁",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "themepark",
+  "category_cn": "主题乐园",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ },
+ {
+  "name_en": "Korean Folk Village",
+  "name_cn": "韩国民俗村",
+  "city": "Yongin",
+  "city_key": "yongin",
+  "city_cn": "龙仁",
+  "region": "Seoul Capital Area",
+  "region_cn": "首都圈（首尔/仁川/京畿）",
+  "category": "village",
+  "category_cn": "传统村落/韩屋村",
+  "level": "optional",
+  "tour_count": 0,
+  "families": [],
+  "tours": [],
+  "sites": [
+   "词典（未见在售线路）"
+  ],
+  "generic": false,
+  "cities_seen": []
+ }
+]

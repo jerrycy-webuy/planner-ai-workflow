@@ -1,0 +1,1594 @@
+{
+ "nodes": [
+  {
+   "key": "hoengseong",
+   "name_en": "Hoengseong",
+   "name_cn": "横城",
+   "region": "Gangwon",
+   "region_cn": "江原道",
+   "stays": 2,
+   "tours": [
+    "KR6NST",
+    "KR8SVG"
+   ],
+   "tour_count": 2,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 3
+  },
+  {
+   "key": "seoul",
+   "name_en": "Seoul",
+   "name_cn": "首尔",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 42,
+   "tours": [
+    "KR6NST",
+    "KR5MXT",
+    "KR5SA",
+    "KR8RWG",
+    "KR8SEG",
+    "KR8GAG",
+    "KR8GKG",
+    "KR8IG",
+    "KR8PQG",
+    "KR8SNG",
+    "KR6FNT",
+    "KR8GEG",
+    "KR8FMG",
+    "KR8BKG",
+    "KR8SVG",
+    "KR8BSG",
+    "KR8BG",
+    "KR8TGG",
+    "KR6FGT",
+    "KR8UG",
+    "KR10EG",
+    "KR8YYG",
+    "KRICNW",
+    "KRBBUW",
+    "KRBBFS",
+    "KRWSKW",
+    "KRJBTS",
+    "KRJBUS",
+    "KRSRAS",
+    "KRAT09",
+    "KJJS09",
+    "KGYE09",
+    "KRDB06",
+    "KGYE08",
+    "KRKA09",
+    "KRKG09",
+    "KTE-UK16"
+   ],
+   "tour_count": 37,
+   "nights_typical": 2,
+   "nights_min": 1,
+   "nights_max": 7
+  },
+  {
+   "key": "incheon",
+   "name_en": "Incheon",
+   "name_cn": "仁川",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 7,
+   "tours": [
+    "KR8RWG",
+    "KR8IG",
+    "KR8SNG",
+    "KR8UG",
+    "KR10EG",
+    "KGYE09",
+    "KRKG09"
+   ],
+   "tour_count": 7,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 3
+  },
+  {
+   "key": "pyeongchang",
+   "name_en": "Pyeongchang",
+   "name_cn": "平昌",
+   "region": "Gangwon",
+   "region_cn": "江原道",
+   "stays": 11,
+   "tours": [
+    "KR8RWG",
+    "KR8SEG",
+    "KR8PQG",
+    "KR8FMG",
+    "KR8BSG",
+    "KR8BG",
+    "KR8UG",
+    "KRWSKW",
+    "KTE-RT7",
+    "KTE-E4",
+    "KTE-UK16"
+   ],
+   "tour_count": 11,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 3
+  },
+  {
+   "key": "jeju",
+   "name_en": "Jeju",
+   "name_cn": "济州",
+   "region": "Jeju",
+   "region_cn": "济州",
+   "stays": 16,
+   "tours": [
+    "KR8SEG",
+    "KR8GAG",
+    "KR8GKG",
+    "KR8PQG",
+    "KR8GEG",
+    "KR8BKG",
+    "KR8TGG",
+    "KR6JLT",
+    "KR10EG",
+    "KR6JMG",
+    "KRJBTS",
+    "KRJBUS",
+    "KJJS09",
+    "KRKA09",
+    "KRKG09",
+    "KTE-UK16"
+   ],
+   "tour_count": 16,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 5
+  },
+  {
+   "key": "daegu",
+   "name_en": "Daegu",
+   "name_cn": "大邱",
+   "region": "Gyeongsangbuk-do / Daegu",
+   "region_cn": "庆尚北道·大邱",
+   "stays": 6,
+   "tours": [
+    "KR8SEG",
+    "KR8GAG",
+    "KR8GKG",
+    "KR8SNG",
+    "KR8GEG",
+    "KR8BKG"
+   ],
+   "tour_count": 6,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "jeonju",
+   "name_en": "Jeonju",
+   "name_cn": "全州",
+   "region": "Jeolla",
+   "region_cn": "全罗道",
+   "stays": 10,
+   "tours": [
+    "KR8GAG",
+    "KR8GKG",
+    "KR8GEG",
+    "KR8UG",
+    "KR10EG",
+    "KR8YYG",
+    "KRAT09",
+    "KTE-RT7",
+    "KTE-W4",
+    "KTE-UK16"
+   ],
+   "tour_count": 10,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 4
+  },
+  {
+   "key": "yangpyeong",
+   "name_en": "Yangpyeong",
+   "name_cn": "杨平",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 1,
+   "tours": [
+    "KR8IG"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "busan",
+   "name_en": "Busan",
+   "name_cn": "釜山",
+   "region": "Gyeongsangnam-do / Busan / Ulsan",
+   "region_cn": "庆尚南道·釜山·蔚山",
+   "stays": 18,
+   "tours": [
+    "KR8SNG",
+    "KR8BKG",
+    "KR8BSG",
+    "KR5BJT",
+    "KR5BGT",
+    "KRBBUW",
+    "KRBBFS",
+    "KRJBTS",
+    "KRJBUS",
+    "KBJC09",
+    "KGUB09",
+    "KRKA09",
+    "KRKG09",
+    "KTE-RT7",
+    "KTE-W4",
+    "KTE-E4",
+    "KTE-UK16"
+   ],
+   "tour_count": 17,
+   "nights_typical": 2,
+   "nights_min": 1,
+   "nights_max": 4
+  },
+  {
+   "key": "hongcheon",
+   "name_en": "Hongcheon",
+   "name_cn": "洪川",
+   "region": "Gangwon",
+   "region_cn": "江原道",
+   "stays": 1,
+   "tours": [
+    "KR8FMG"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "gapyeong",
+   "name_en": "Gapyeong",
+   "name_cn": "加平",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 2,
+   "tours": [
+    "KR8SVG",
+    "KR8TGG"
+   ],
+   "tour_count": 2,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "gyeongju",
+   "name_en": "Gyeongju",
+   "name_cn": "庆州",
+   "region": "Gyeongsangbuk-do / Daegu",
+   "region_cn": "庆尚北道·大邱",
+   "stays": 6,
+   "tours": [
+    "KR8BSG",
+    "KRBBUW",
+    "KRBBFS",
+    "KTE-RT7",
+    "KTE-E4",
+    "KTE-UK16"
+   ],
+   "tour_count": 6,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "goyang",
+   "name_en": "Goyang (Ilsan)",
+   "name_cn": "高阳（一山）",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 2,
+   "tours": [
+    "KR8BG",
+    "KGYE09"
+   ],
+   "tour_count": 2,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "chuncheon",
+   "name_en": "Chuncheon",
+   "name_cn": "春川",
+   "region": "Gangwon",
+   "region_cn": "江原道",
+   "stays": 1,
+   "tours": [
+    "KR8TGG"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "seosan",
+   "name_en": "Seosan",
+   "name_cn": "瑞山",
+   "region": "Chungcheong",
+   "region_cn": "忠清道",
+   "stays": 2,
+   "tours": [
+    "KR8UG",
+    "KR10EG"
+   ],
+   "tour_count": 2,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "mokpo",
+   "name_en": "Mokpo",
+   "name_cn": "木浦",
+   "region": "Jeolla",
+   "region_cn": "全罗道",
+   "stays": 1,
+   "tours": [
+    "KR8YYG"
+   ],
+   "tour_count": 1,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 2
+  },
+  {
+   "key": "gimpo",
+   "name_en": "Gimpo",
+   "name_cn": "金浦",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 1,
+   "tours": [
+    "KRICNW"
+   ],
+   "tour_count": 1,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 2
+  },
+  {
+   "key": "sokcho",
+   "name_en": "Sokcho",
+   "name_cn": "束草",
+   "region": "Gangwon",
+   "region_cn": "江原道",
+   "stays": 1,
+   "tours": [
+    "KRWSKW"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "suwon",
+   "name_en": "Suwon",
+   "name_cn": "水原",
+   "region": "Seoul Capital Area",
+   "region_cn": "首都圈（首尔/仁川/京畿）",
+   "stays": 2,
+   "tours": [
+    "KRWSKW",
+    "KGYE09"
+   ],
+   "tour_count": 2,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "yeosu",
+   "name_en": "Yeosu",
+   "name_cn": "丽水",
+   "region": "Jeolla",
+   "region_cn": "全罗道",
+   "stays": 1,
+   "tours": [
+    "KBJC09"
+   ],
+   "tour_count": 1,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 2
+  },
+  {
+   "key": "daejeon",
+   "name_en": "Daejeon",
+   "name_cn": "大田",
+   "region": "Chungcheong",
+   "region_cn": "忠清道",
+   "stays": 1,
+   "tours": [
+    "KRDB06"
+   ],
+   "tour_count": 1,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 2
+  },
+  {
+   "key": "buyeo",
+   "name_en": "Buyeo",
+   "name_cn": "扶余",
+   "region": "Chungcheong",
+   "region_cn": "忠清道",
+   "stays": 1,
+   "tours": [
+    "KRDB06"
+   ],
+   "tour_count": 1,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 2
+  },
+  {
+   "key": "namhae",
+   "name_en": "Namhae",
+   "name_cn": "南海",
+   "region": "Gyeongsangnam-do / Busan / Ulsan",
+   "region_cn": "庆尚南道·釜山·蔚山",
+   "stays": 1,
+   "tours": [
+    "KGUB09"
+   ],
+   "tour_count": 1,
+   "nights_typical": 2,
+   "nights_min": 2,
+   "nights_max": 2
+  },
+  {
+   "key": "hadong",
+   "name_en": "Hadong",
+   "name_cn": "河东",
+   "region": "Gyeongsangnam-do / Busan / Ulsan",
+   "region_cn": "庆尚南道·釜山·蔚山",
+   "stays": 1,
+   "tours": [
+    "KGUB09"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "gwangju",
+   "name_en": "Gwangju",
+   "name_cn": "光州",
+   "region": "Jeolla",
+   "region_cn": "全罗道",
+   "stays": 3,
+   "tours": [
+    "KTE-RT7",
+    "KTE-W4",
+    "KTE-UK16"
+   ],
+   "tour_count": 3,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "ulleungdo",
+   "name_en": "Ulleungdo",
+   "name_cn": "郁陵岛",
+   "region": "Gyeongsangbuk-do / Daegu",
+   "region_cn": "庆尚北道·大邱",
+   "stays": 1,
+   "tours": [
+    "KTE-ULL3"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  },
+  {
+   "key": "gangneung",
+   "name_en": "Gangneung",
+   "name_cn": "江陵",
+   "region": "Gangwon",
+   "region_cn": "江原道",
+   "stays": 1,
+   "tours": [
+    "KTE-GW2"
+   ],
+   "tour_count": 1,
+   "nights_typical": 1,
+   "nights_min": 1,
+   "nights_max": 1
+  }
+ ],
+ "edges": [
+  {
+   "from": "pyeongchang",
+   "to": "seoul",
+   "tour_count": 8,
+   "modes": {
+    "Coach": 1,
+    "Bus": 6,
+    "Flight (CJU-GMP)": 1
+   },
+   "examples": [
+    "KR8RWG",
+    "KR8SEG",
+    "KR8PQG",
+    "KR8FMG",
+    "KR8BSG"
+   ]
+  },
+  {
+   "from": "jeonju",
+   "to": "seoul",
+   "tour_count": 6,
+   "modes": {
+    "Bus": 5,
+    "Coach": 1
+   },
+   "examples": [
+    "KR8GAG",
+    "KR8GKG",
+    "KR8GEG",
+    "KR10EG",
+    "KR8YYG"
+   ]
+  },
+  {
+   "from": "busan",
+   "to": "gyeongju",
+   "tour_count": 6,
+   "modes": {
+    "Bus": 1,
+    "Coach": 5
+   },
+   "examples": [
+    "KR8BSG",
+    "KRBBUW",
+    "KRBBFS",
+    "KTE-RT7",
+    "KTE-E4"
+   ]
+  },
+  {
+   "from": "jeju",
+   "to": "busan",
+   "tour_count": 5,
+   "modes": {
+    "Flight": 5
+   },
+   "examples": [
+    "KR8BKG",
+    "KRJBTS",
+    "KRJBUS",
+    "KRKA09",
+    "KRKG09"
+   ]
+  },
+  {
+   "from": "jeju",
+   "to": "daegu",
+   "tour_count": 4,
+   "modes": {
+    "Flight / Bus": 3,
+    "Bus / Flight": 1
+   },
+   "examples": [
+    "KR8SEG",
+    "KR8GAG",
+    "KR8GKG",
+    "KR8GEG"
+   ]
+  },
+  {
+   "from": "gyeongju",
+   "to": "pyeongchang",
+   "tour_count": 4,
+   "modes": {
+    "Bus": 1,
+    "Coach": 3
+   },
+   "examples": [
+    "KR8BSG",
+    "KTE-RT7",
+    "KTE-E4",
+    "KTE-UK16"
+   ]
+  },
+  {
+   "from": "busan",
+   "to": "seoul",
+   "tour_count": 4,
+   "modes": {
+    "Coach": 2,
+    "Flight": 2
+   },
+   "examples": [
+    "KRJBTS",
+    "KRJBUS",
+    "KRKA09",
+    "KRKG09"
+   ]
+  },
+  {
+   "from": "daegu",
+   "to": "jeonju",
+   "tour_count": 3,
+   "modes": {
+    "Bus": 3
+   },
+   "examples": [
+    "KR8GAG",
+    "KR8GKG",
+    "KR8GEG"
+   ]
+  },
+  {
+   "from": "jeonju",
+   "to": "gwangju",
+   "tour_count": 3,
+   "modes": {
+    "Coach": 3
+   },
+   "examples": [
+    "KTE-RT7",
+    "KTE-W4",
+    "KTE-UK16"
+   ]
+  },
+  {
+   "from": "gwangju",
+   "to": "busan",
+   "tour_count": 3,
+   "modes": {
+    "Coach": 3
+   },
+   "examples": [
+    "KTE-RT7",
+    "KTE-W4",
+    "KTE-UK16"
+   ]
+  },
+  {
+   "from": "hoengseong",
+   "to": "seoul",
+   "tour_count": 2,
+   "modes": {
+    "Car": 1,
+    "Bus": 1
+   },
+   "examples": [
+    "KR6NST",
+    "KR8SVG"
+   ]
+  },
+  {
+   "from": "busan",
+   "to": "daegu",
+   "tour_count": 2,
+   "modes": {
+    "Bus": 2
+   },
+   "examples": [
+    "KR8SNG",
+    "KR8BKG"
+   ]
+  },
+  {
+   "from": "daegu",
+   "to": "seoul",
+   "tour_count": 2,
+   "modes": {
+    "Bus": 2
+   },
+   "examples": [
+    "KR8SNG",
+    "KR8BKG"
+   ]
+  },
+  {
+   "from": "seosan",
+   "to": "jeonju",
+   "tour_count": 2,
+   "modes": {
+    "Bus": 2
+   },
+   "examples": [
+    "KR8UG",
+    "KR10EG"
+   ]
+  },
+  {
+   "from": "incheon",
+   "to": "jeju",
+   "tour_count": 2,
+   "modes": {
+    "Bus / Flight": 1,
+    "Flight": 1
+   },
+   "examples": [
+    "KR10EG",
+    "KRKG09"
+   ]
+  },
+  {
+   "from": "gyeongju",
+   "to": "seoul",
+   "tour_count": 2,
+   "modes": {
+    "Coach": 2
+   },
+   "examples": [
+    "KRBBUW",
+    "KRBBFS"
+   ]
+  },
+  {
+   "from": "suwon",
+   "to": "seoul",
+   "tour_count": 2,
+   "modes": {
+    "Coach": 2
+   },
+   "examples": [
+    "KRWSKW",
+    "KGYE09"
+   ]
+  },
+  {
+   "from": "seoul",
+   "to": "jeonju",
+   "tour_count": 2,
+   "modes": {
+    "Coach": 2
+   },
+   "examples": [
+    "KRAT09",
+    "KTE-UK16"
+   ]
+  },
+  {
+   "from": "jeju",
+   "to": "seoul",
+   "tour_count": 2,
+   "modes": {
+    "Flight": 1,
+    "Flight (CJU-GMP)": 1
+   },
+   "examples": [
+    "KJJS09",
+    "KTE-UK16"
+   ]
+  },
+  {
+   "from": "seoul",
+   "to": "jeju",
+   "tour_count": 2,
+   "modes": {
+    "Flight": 1,
+    "Flight (GMP-CJU)": 1
+   },
+   "examples": [
+    "KRKA09",
+    "KTE-UK16"
+   ]
+  },
+  {
+   "from": "incheon",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8RWG"
+   ]
+  },
+  {
+   "from": "daegu",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8SEG"
+   ]
+  },
+  {
+   "from": "incheon",
+   "to": "yangpyeong",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8IG"
+   ]
+  },
+  {
+   "from": "yangpyeong",
+   "to": "seoul",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KR8IG"
+   ]
+  },
+  {
+   "from": "jeju",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8PQG"
+   ]
+  },
+  {
+   "from": "incheon",
+   "to": "busan",
+   "tour_count": 1,
+   "modes": {
+    "Bus / Train": 1
+   },
+   "examples": [
+    "KR8SNG"
+   ]
+  },
+  {
+   "from": "hongcheon",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8FMG"
+   ]
+  },
+  {
+   "from": "gapyeong",
+   "to": "hoengseong",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KR8SVG"
+   ]
+  },
+  {
+   "from": "goyang",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8BG"
+   ]
+  },
+  {
+   "from": "jeju",
+   "to": "gapyeong",
+   "tour_count": 1,
+   "modes": {
+    "Flight / Bus": 1
+   },
+   "examples": [
+    "KR8TGG"
+   ]
+  },
+  {
+   "from": "gapyeong",
+   "to": "chuncheon",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KR8TGG"
+   ]
+  },
+  {
+   "from": "chuncheon",
+   "to": "seoul",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KR8TGG"
+   ]
+  },
+  {
+   "from": "incheon",
+   "to": "seosan",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8UG"
+   ]
+  },
+  {
+   "from": "jeonju",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8UG"
+   ]
+  },
+  {
+   "from": "jeju",
+   "to": "seosan",
+   "tour_count": 1,
+   "modes": {
+    "Flight / Bus": 1
+   },
+   "examples": [
+    "KR10EG"
+   ]
+  },
+  {
+   "from": "mokpo",
+   "to": "jeonju",
+   "tour_count": 1,
+   "modes": {
+    "Bus": 1
+   },
+   "examples": [
+    "KR8YYG"
+   ]
+  },
+  {
+   "from": "gimpo",
+   "to": "seoul",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KRICNW"
+   ]
+  },
+  {
+   "from": "sokcho",
+   "to": "pyeongchang",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KRWSKW"
+   ]
+  },
+  {
+   "from": "pyeongchang",
+   "to": "suwon",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KRWSKW"
+   ]
+  },
+  {
+   "from": "incheon",
+   "to": "goyang",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KGYE09"
+   ]
+  },
+  {
+   "from": "goyang",
+   "to": "seoul",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KGYE09"
+   ]
+  },
+  {
+   "from": "seoul",
+   "to": "suwon",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KGYE09"
+   ]
+  },
+  {
+   "from": "busan",
+   "to": "yeosu",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KBJC09"
+   ]
+  },
+  {
+   "from": "yeosu",
+   "to": "busan",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KBJC09"
+   ]
+  },
+  {
+   "from": "daejeon",
+   "to": "buyeo",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KRDB06"
+   ]
+  },
+  {
+   "from": "buyeo",
+   "to": "seoul",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KRDB06"
+   ]
+  },
+  {
+   "from": "namhae",
+   "to": "hadong",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KGUB09"
+   ]
+  },
+  {
+   "from": "hadong",
+   "to": "busan",
+   "tour_count": 1,
+   "modes": {
+    "Coach": 1
+   },
+   "examples": [
+    "KGUB09"
+   ]
+  }
+ ],
+ "daytrip_reach": [
+  {
+   "base": "jeju",
+   "spot_city": "seogwipo",
+   "count": 32
+  },
+  {
+   "base": "jeju",
+   "spot_city": "udo",
+   "count": 19
+  },
+  {
+   "base": "jeju",
+   "spot_city": "gimpo",
+   "count": 16
+  },
+  {
+   "base": "daegu",
+   "spot_city": "busan",
+   "count": 13
+  },
+  {
+   "base": "seoul",
+   "spot_city": "yongin",
+   "count": 12
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "gangneung",
+   "count": 11
+  },
+  {
+   "base": "seoul",
+   "spot_city": "ganghwa",
+   "count": 8
+  },
+  {
+   "base": "jeju",
+   "spot_city": "seoul",
+   "count": 7
+  },
+  {
+   "base": "goyang",
+   "spot_city": "gimpo",
+   "count": 7
+  },
+  {
+   "base": "busan",
+   "spot_city": "suncheon",
+   "count": 6
+  },
+  {
+   "base": "seoul",
+   "spot_city": "gapyeong",
+   "count": 5
+  },
+  {
+   "base": "seoul",
+   "spot_city": "incheon",
+   "count": 5
+  },
+  {
+   "base": "seoul",
+   "spot_city": "namiisland",
+   "count": 4
+  },
+  {
+   "base": "seoul",
+   "spot_city": "suwon",
+   "count": 4
+  },
+  {
+   "base": "seoul",
+   "spot_city": "pyeongchang",
+   "count": 4
+  },
+  {
+   "base": "hoengseong",
+   "spot_city": "sokcho",
+   "count": 4
+  },
+  {
+   "base": "hoengseong",
+   "spot_city": "gangneung",
+   "count": 4
+  },
+  {
+   "base": "busan",
+   "spot_city": "gyeongju",
+   "count": 4
+  },
+  {
+   "base": "gyeongju",
+   "spot_city": "busan",
+   "count": 4
+  },
+  {
+   "base": "seoul",
+   "spot_city": "gimpo",
+   "count": 4
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "gongju",
+   "count": 4
+  },
+  {
+   "base": "seoul",
+   "spot_city": "paju",
+   "count": 4
+  },
+  {
+   "base": "incheon",
+   "spot_city": "ganghwa",
+   "count": 3
+  },
+  {
+   "base": "seoul",
+   "spot_city": "jecheon",
+   "count": 3
+  },
+  {
+   "base": "seoul",
+   "spot_city": "chuncheon",
+   "count": 3
+  },
+  {
+   "base": "gimpo",
+   "spot_city": "ganghwa",
+   "count": 3
+  },
+  {
+   "base": "busan",
+   "spot_city": "jeju",
+   "count": 3
+  },
+  {
+   "base": "seoul",
+   "spot_city": "busan",
+   "count": 3
+  },
+  {
+   "base": "gwangju",
+   "spot_city": "jeonju",
+   "count": 3
+  },
+  {
+   "base": "gwangju",
+   "spot_city": "jangseong",
+   "count": 3
+  },
+  {
+   "base": "busan",
+   "spot_city": "boseong",
+   "count": 3
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "daegu",
+   "count": 3
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "gyeongju",
+   "count": 3
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "andong",
+   "count": 3
+  },
+  {
+   "base": "gangneung",
+   "spot_city": "donghae",
+   "count": 3
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "jeongeup",
+   "count": 2
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "daegu",
+   "count": 2
+  },
+  {
+   "base": "yangpyeong",
+   "spot_city": "gapyeong",
+   "count": 2
+  },
+  {
+   "base": "daegu",
+   "spot_city": "pohang",
+   "count": 2
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "gapyeong",
+   "count": 2
+  },
+  {
+   "base": "busan",
+   "spot_city": "changwon",
+   "count": 2
+  },
+  {
+   "base": "seoul",
+   "spot_city": "daegu",
+   "count": 2
+  },
+  {
+   "base": "busan",
+   "spot_city": "incheon",
+   "count": 2
+  },
+  {
+   "base": "jeju",
+   "spot_city": "busan",
+   "count": 2
+  },
+  {
+   "base": "chuncheon",
+   "spot_city": "jeongseon",
+   "count": 2
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "boeun",
+   "count": 2
+  },
+  {
+   "base": "seoul",
+   "spot_city": "boeun",
+   "count": 2
+  },
+  {
+   "base": "mokpo",
+   "spot_city": "seoul",
+   "count": 2
+  },
+  {
+   "base": "seoul",
+   "spot_city": "gunsan",
+   "count": 2
+  },
+  {
+   "base": "gimpo",
+   "spot_city": "incheon",
+   "count": 2
+  },
+  {
+   "base": "gyeongju",
+   "spot_city": "pohang",
+   "count": 2
+  },
+  {
+   "base": "sokcho",
+   "spot_city": "gapyeong",
+   "count": 2
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "damyang",
+   "count": 2
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "suncheon",
+   "count": 2
+  },
+  {
+   "base": "seoul",
+   "spot_city": "pocheon",
+   "count": 2
+  },
+  {
+   "base": "yeosu",
+   "spot_city": "suncheon",
+   "count": 2
+  },
+  {
+   "base": "buyeo",
+   "spot_city": "daejeon",
+   "count": 2
+  },
+  {
+   "base": "busan",
+   "spot_city": "ulsan",
+   "count": 2
+  },
+  {
+   "base": "hoengseong",
+   "spot_city": "namiisland",
+   "count": 1
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "yeongwol",
+   "count": 1
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "jangseong",
+   "count": 1
+  },
+  {
+   "base": "jeju",
+   "spot_city": "paju",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "danyang",
+   "count": 1
+  },
+  {
+   "base": "hongcheon",
+   "spot_city": "cheorwon",
+   "count": 1
+  },
+  {
+   "base": "hongcheon",
+   "spot_city": "pocheon",
+   "count": 1
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "namiisland",
+   "count": 1
+  },
+  {
+   "base": "gapyeong",
+   "spot_city": "namiisland",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "gwangmyeong",
+   "count": 1
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "jeju",
+   "count": 1
+  },
+  {
+   "base": "busan",
+   "spot_city": "geoje",
+   "count": 1
+  },
+  {
+   "base": "chuncheon",
+   "spot_city": "namiisland",
+   "count": 1
+  },
+  {
+   "base": "seosan",
+   "spot_city": "yesan",
+   "count": 1
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "taean",
+   "count": 1
+  },
+  {
+   "base": "seosan",
+   "spot_city": "seogwipo",
+   "count": 1
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "yesan",
+   "count": 1
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "buyeo",
+   "count": 1
+  },
+  {
+   "base": "mokpo",
+   "spot_city": "wando",
+   "count": 1
+  },
+  {
+   "base": "mokpo",
+   "spot_city": "haenam",
+   "count": 1
+  },
+  {
+   "base": "jeonju",
+   "spot_city": "sinan",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "mungyeong",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "jincheon",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "wonju",
+   "count": 1
+  },
+  {
+   "base": "sokcho",
+   "spot_city": "namiisland",
+   "count": 1
+  },
+  {
+   "base": "pyeongchang",
+   "spot_city": "sokcho",
+   "count": 1
+  },
+  {
+   "base": "goyang",
+   "spot_city": "incheon",
+   "count": 1
+  },
+  {
+   "base": "suwon",
+   "spot_city": "yangpyeong",
+   "count": 1
+  },
+  {
+   "base": "yeosu",
+   "spot_city": "gurye",
+   "count": 1
+  },
+  {
+   "base": "daejeon",
+   "spot_city": "yeosu",
+   "count": 1
+  },
+  {
+   "base": "daejeon",
+   "spot_city": "cheongju",
+   "count": 1
+  },
+  {
+   "base": "buyeo",
+   "spot_city": "boryeong",
+   "count": 1
+  },
+  {
+   "base": "buyeo",
+   "spot_city": "seoul",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "yangpyeong",
+   "count": 1
+  },
+  {
+   "base": "namhae",
+   "spot_city": "changwon",
+   "count": 1
+  },
+  {
+   "base": "namhae",
+   "spot_city": "sacheon",
+   "count": 1
+  },
+  {
+   "base": "busan",
+   "spot_city": "seoul",
+   "count": 1
+  },
+  {
+   "base": "seoul",
+   "spot_city": "sokcho",
+   "count": 1
+  }
+ ],
+ "transport_notes_cn": {
+  "seoul-busan": "KTX 约 2h30m；内陆航班 GMP–PUS 约 1h",
+  "seoul-jeju": "GMP–CJU 约 1h10m，班次极密",
+  "busan-jeju": "PUS–CJU 约 1h",
+  "seoul-gangneung": "KTX 约 1h50m；大巴约 2h30m",
+  "seoul-jeonju": "大巴约 2h45m；KTX 至全州站约 1h40m",
+  "busan-gyeongju": "大巴约 1h；KTX 新庆州站约 30m",
+  "seoul-pyeongchang": "大巴约 2h30m；KTX 珍富站约 1h40m",
+  "jeju-gangwon": "无直达陆路，需飞金浦或襄阳",
+  "pohang-ulleungdo": "高速船约 3h（冬季常停航）",
+  "coach_limit": "韩国旅游大巴司机每日驾驶建议 ≤ 10 小时，跨道长途日景点 ≤ 3 个"
+ }
+}

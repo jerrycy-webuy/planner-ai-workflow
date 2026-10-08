@@ -1,0 +1,1762 @@
+[
+ {
+  "code": "KTE-RT7",
+  "url": "https://www.koreatraveleasy.com/product/korea-round-tour-7-days-all-inclusive-package/",
+  "tour_type": "join_in_group",
+  "style": "Join-in group (English, from Seoul)",
+  "title_en": "Korea Round Tour 7 Days All-inclusive Package",
+  "title_cn": "韩国环岛 7 天全包拼团",
+  "season": "2026-03 ~ 2026-11 每周六出发",
+  "price": {
+   "min": 1373,
+   "max": 1724,
+   "currency": "USD",
+   "note": "Essential US$2,746 / All-inclusive US$3,448 每房（两人）→ 每人；首尔出发、不含机票"
+  },
+  "hotels_note": "All-inclusive 4–5★：Lahan Hotel Jeonju · Holiday Inn Gwangju · Grand Josun Busan (2N) · Lahan Select Gyeongju · InterContinental Pyeongchang",
+  "site": "KTE",
+  "source": "koreatraveleasy.com",
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gongju Gongsanseong & Tomb of King Muryeong",
+      "name_cn": "公州公山城·武宁王陵",
+      "city_key": "gongju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "Gongsanseong Fortress",
+     "Tomb of King Muryeong",
+     "Gongju National Museum"
+    ],
+    "meals": "LD",
+    "meals_desc": [],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Lahan Hotel Jeonju",
+    "title": "Seoul > Gongju > Jeonju",
+    "desc": "Gongsanseong Fortress ; Tomb of King Muryeong ; Gongju National Museum"
+   },
+   {
+    "day": 2,
+    "city": "Gwangju",
+    "key": "gwangju",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Jeonju Hanok Village",
+     "Baekyangsa Temple"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jeonju Hanok Village",
+      "name_cn": "全州韩屋村",
+      "city_key": "jeonju",
+      "category": "village"
+     },
+     {
+      "name_en": "Baekyangsa Temple",
+      "name_cn": "白羊寺",
+      "city_key": "jangseong",
+      "category": "temple"
+     }
+    ],
+    "highlights_raw": [
+     "Jeonju Hanok Village",
+     "Baekyangsa Temple (Jangseong)"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Gwangju",
+    "stay_key": "gwangju",
+    "hotel": "Holiday Inn Gwangju",
+    "title": "Jeonju > Jangseong > Gwangju",
+    "desc": "Jeonju Hanok Village ; Baekyangsa Temple (Jangseong)"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Gwangju",
+    "transport": "Coach",
+    "attractions": [
+     "Boseong Green Tea Plantation",
+     "Suncheon Bay Wetland Reserve",
+     "Naganeupseong Folk Village"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Boseong Green Tea Plantation",
+      "name_cn": "宝城绿茶园",
+      "city_key": "boseong",
+      "category": "nature"
+     },
+     {
+      "name_en": "Suncheon Bay Wetland Reserve",
+      "name_cn": "顺天湾湿地",
+      "city_key": "suncheon",
+      "category": "nature"
+     },
+     {
+      "name_en": "Naganeupseong Folk Village",
+      "name_cn": "乐安邑城民俗村",
+      "city_key": "suncheon",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [
+     "Boseong Green Tea Plantation (Daehan Dawon)",
+     "Suncheon Bay Wetland (Naganeupseong Folk Village on last Monday)"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Grand Josun Busan",
+    "title": "Boseong > Suncheon > Busan",
+    "desc": "Boseong Green Tea Plantation (Daehan Dawon) ; Suncheon Bay Wetland (Naganeupseong Folk Village on last Monday)"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "UN Memorial Cemetery",
+     "Jagalchi Fish Market",
+     "Songdo Marine Cable Car (Busan Air Cruise)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "UN Memorial Cemetery",
+      "name_cn": "联合国纪念公园",
+      "city_key": "busan",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "Songdo Marine Cable Car (Busan Air Cruise)",
+      "name_cn": "松岛海上缆车",
+      "city_key": "busan",
+      "category": "ride"
+     }
+    ],
+    "highlights_raw": [
+     "UN Memorial Cemetery",
+     "Jagalchi Market",
+     "Songdo Sea Cable Car"
+    ],
+    "meals": "BL",
+    "meals_desc": [],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Grand Josun Busan",
+    "title": "Busan city tour",
+    "desc": "UN Memorial Cemetery ; Jagalchi Market ; Songdo Sea Cable Car"
+   },
+   {
+    "day": 5,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Dongbaek Island & Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Dongbaek Island & Nurimaru APEC House",
+      "name_cn": "冬柏岛·APEC世峰楼",
+      "city_key": "busan",
+      "category": "park"
+     },
+     {
+      "name_en": "Bulguksa Temple",
+      "name_cn": "佛国寺",
+      "city_key": "gyeongju",
+      "category": "temple"
+     },
+     {
+      "name_en": "Daereungwon Tomb Complex",
+      "name_cn": "大陵苑",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Gyeongju National Museum",
+      "name_cn": "国立庆州博物馆",
+      "city_key": "gyeongju",
+      "category": "museum"
+     },
+     {
+      "name_en": "Cheomseongdae Observatory",
+      "name_cn": "瞻星台",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Ancient Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Gyeongju",
+    "stay_key": "gyeongju",
+    "hotel": "Lahan Select Gyeongju",
+    "title": "Busan > Gyeongju",
+    "desc": "Nurimaru APEC House ; Bulguksa Temple ; Daereungwon Ancient Tomb Complex ; Gyeongju National Museum ; Cheomseongdae Observatory"
+   },
+   {
+    "day": 6,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Coach",
+    "attractions": [
+     "Daegu Korean Traditional Culture Center",
+     "Donggung Palace & Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Daegu Korean Traditional Culture Center",
+      "name_cn": "大邱传统文化体验馆",
+      "city_key": "daegu",
+      "category": "experience"
+     },
+     {
+      "name_en": "Donggung Palace & Wolji Pond",
+      "name_cn": "东宫与月池（雁鸭池）",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Andong Hahoe Folk Village",
+      "name_cn": "安东河回村",
+      "city_key": "andong",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [
+     "Daegu Korean Traditional Culture Center (8+ pax) / Donggung Palace and Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Pyeongchang",
+    "stay_key": "pyeongchang",
+    "hotel": "InterContinental Alpensia Pyeongchang",
+    "title": "Daegu or Gyeongju > Andong > Pyeongchang",
+    "desc": "Daegu Korean Traditional Culture Center (8+ pax) / Donggung Palace and Wolji Pond ; Andong Hahoe Folk Village"
+   },
+   {
+    "day": 7,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Coach",
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seoraksan National Park & Gwongeumseong Cable Car",
+      "name_cn": "雪岳山国立公园·权金城缆车",
+      "city_key": "sokcho",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [
+     "Seoraksan National Park (Jujeongol Valley)"
+    ],
+    "meals": "BL",
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Pyeongchang > Yangyang > Seoul",
+    "desc": "Seoraksan National Park (Jujeongol Valley)"
+   }
+  ],
+  "days": 7,
+  "nights": 6,
+  "route": [
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Gwangju",
+    "key": "gwangju",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Lahan Hotel Jeonju",
+    "city": "Jeonju",
+    "city_key": "jeonju",
+    "nights": 1
+   },
+   {
+    "name": "Holiday Inn Gwangju",
+    "city": "Gwangju",
+    "city_key": "gwangju",
+    "nights": 1
+   },
+   {
+    "name": "Grand Josun Busan",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 2
+   },
+   {
+    "name": "Lahan Select Gyeongju",
+    "city": "Gyeongju",
+    "city_key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "name": "InterContinental Alpensia Pyeongchang",
+    "city": "Pyeongchang",
+    "city_key": "pyeongchang",
+    "nights": 1
+   }
+  ]
+ },
+ {
+  "code": "KTE-W4",
+  "url": "https://www.koreatraveleasy.com/product/eastern-western-korea-tour-4-days-all-inclusive-package/",
+  "tour_type": "join_in_group",
+  "style": "Join-in group (English, from Seoul)",
+  "title_en": "Western Korea 4-Day Tour (Gongju–Jeonju–Gwangju–Busan)",
+  "title_cn": "韩国西线 4 天拼团（公州·全州·光州·釜山）",
+  "season": "2026-03 ~ 2026-11 每周六出发",
+  "price": {
+   "min": 655,
+   "max": 655,
+   "currency": "USD",
+   "note": "US$1,309 起每房（两人）→ 每人；首尔出发、末日 KTX/包车回首尔"
+  },
+  "site": "KTE",
+  "source": "koreatraveleasy.com",
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gongju Gongsanseong & Tomb of King Muryeong",
+      "name_cn": "公州公山城·武宁王陵",
+      "city_key": "gongju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "Gongsanseong Fortress",
+     "Tomb of King Muryeong",
+     "Gongju National Museum"
+    ],
+    "meals": "LD",
+    "meals_desc": [],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Lahan Hotel Jeonju",
+    "title": "Seoul > Gongju > Jeonju",
+    "desc": "Gongsanseong Fortress ; Tomb of King Muryeong ; Gongju National Museum"
+   },
+   {
+    "day": 2,
+    "city": "Gwangju",
+    "key": "gwangju",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Jeonju Hanok Village",
+     "Baekyangsa Temple"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jeonju Hanok Village",
+      "name_cn": "全州韩屋村",
+      "city_key": "jeonju",
+      "category": "village"
+     },
+     {
+      "name_en": "Baekyangsa Temple",
+      "name_cn": "白羊寺",
+      "city_key": "jangseong",
+      "category": "temple"
+     }
+    ],
+    "highlights_raw": [
+     "Jeonju Hanok Village",
+     "Baekyangsa Temple (Jangseong)"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Gwangju",
+    "stay_key": "gwangju",
+    "hotel": "Holiday Inn Gwangju",
+    "title": "Jeonju > Jangseong > Gwangju",
+    "desc": "Jeonju Hanok Village ; Baekyangsa Temple (Jangseong)"
+   },
+   {
+    "day": 3,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Gwangju",
+    "transport": "Coach",
+    "attractions": [
+     "Boseong Green Tea Plantation",
+     "Suncheon Bay Wetland Reserve",
+     "Naganeupseong Folk Village"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Boseong Green Tea Plantation",
+      "name_cn": "宝城绿茶园",
+      "city_key": "boseong",
+      "category": "nature"
+     },
+     {
+      "name_en": "Suncheon Bay Wetland Reserve",
+      "name_cn": "顺天湾湿地",
+      "city_key": "suncheon",
+      "category": "nature"
+     },
+     {
+      "name_en": "Naganeupseong Folk Village",
+      "name_cn": "乐安邑城民俗村",
+      "city_key": "suncheon",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [
+     "Boseong Green Tea Plantation (Daehan Dawon)",
+     "Suncheon Bay Wetland (Naganeupseong Folk Village on last Monday)"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Grand Josun Busan",
+    "title": "Boseong > Suncheon > Busan",
+    "desc": "Boseong Green Tea Plantation (Daehan Dawon) ; Suncheon Bay Wetland (Naganeupseong Folk Village on last Monday)"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Busan",
+    "transport": "KTX (≤9 pax) / Coach",
+    "attractions": [
+     "UN Memorial Cemetery"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "UN Memorial Cemetery",
+      "name_cn": "联合国纪念公园",
+      "city_key": "busan",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "UN Memorial Cemetery"
+    ],
+    "meals": "BL",
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Busan > Seoul",
+    "desc": "UN Memorial Cemetery"
+   }
+  ],
+  "days": 4,
+  "nights": 3,
+  "route": [
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Gwangju",
+    "key": "gwangju",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 1
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Lahan Hotel Jeonju",
+    "city": "Jeonju",
+    "city_key": "jeonju",
+    "nights": 1
+   },
+   {
+    "name": "Holiday Inn Gwangju",
+    "city": "Gwangju",
+    "city_key": "gwangju",
+    "nights": 1
+   },
+   {
+    "name": "Grand Josun Busan",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 1
+   }
+  ]
+ },
+ {
+  "code": "KTE-E4",
+  "url": "https://www.koreatraveleasy.com/product/eastern-western-korea-tour-4-days-all-inclusive-package/",
+  "tour_type": "join_in_group",
+  "style": "Join-in group (English, from Seoul)",
+  "title_en": "Eastern Korea 4-Day Tour (Busan–Gyeongju–Andong–Seorak)",
+  "title_cn": "韩国东线 4 天拼团（釜山·庆州·安东·雪岳山）",
+  "season": "2026-03 ~ 2026-11 每周二出发",
+  "price": {
+   "min": 655,
+   "max": 655,
+   "currency": "USD",
+   "note": "US$1,309 起每房（两人）→ 每人；首尔出发 KTX(≤9 pax)/包车"
+  },
+  "site": "KTE",
+  "source": "koreatraveleasy.com",
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Seoul",
+    "transport": "KTX (≤9 pax) / Coach",
+    "attractions": [
+     "Jagalchi Fish Market",
+     "Songdo Marine Cable Car (Busan Air Cruise)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "Songdo Marine Cable Car (Busan Air Cruise)",
+      "name_cn": "松岛海上缆车",
+      "city_key": "busan",
+      "category": "ride"
+     }
+    ],
+    "highlights_raw": [
+     "Jagalchi Market",
+     "Songdo Sea Cable Car"
+    ],
+    "meals": "L",
+    "meals_desc": [],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Grand Josun Busan",
+    "title": "Seoul > Busan",
+    "desc": "Jagalchi Market ; Songdo Sea Cable Car"
+   },
+   {
+    "day": 2,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Dongbaek Island & Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Dongbaek Island & Nurimaru APEC House",
+      "name_cn": "冬柏岛·APEC世峰楼",
+      "city_key": "busan",
+      "category": "park"
+     },
+     {
+      "name_en": "Bulguksa Temple",
+      "name_cn": "佛国寺",
+      "city_key": "gyeongju",
+      "category": "temple"
+     },
+     {
+      "name_en": "Daereungwon Tomb Complex",
+      "name_cn": "大陵苑",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Gyeongju National Museum",
+      "name_cn": "国立庆州博物馆",
+      "city_key": "gyeongju",
+      "category": "museum"
+     },
+     {
+      "name_en": "Cheomseongdae Observatory",
+      "name_cn": "瞻星台",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Ancient Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Gyeongju",
+    "stay_key": "gyeongju",
+    "hotel": "Lahan Select Gyeongju",
+    "title": "Busan > Gyeongju",
+    "desc": "Nurimaru APEC House ; Bulguksa Temple ; Daereungwon Ancient Tomb Complex ; Gyeongju National Museum ; Cheomseongdae Observatory"
+   },
+   {
+    "day": 3,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Coach",
+    "attractions": [
+     "Daegu Korean Traditional Culture Center",
+     "Donggung Palace & Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Daegu Korean Traditional Culture Center",
+      "name_cn": "大邱传统文化体验馆",
+      "city_key": "daegu",
+      "category": "experience"
+     },
+     {
+      "name_en": "Donggung Palace & Wolji Pond",
+      "name_cn": "东宫与月池（雁鸭池）",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Andong Hahoe Folk Village",
+      "name_cn": "安东河回村",
+      "city_key": "andong",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [
+     "Daegu Korean Traditional Culture Center (8+ pax) / Donggung Palace and Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Pyeongchang",
+    "stay_key": "pyeongchang",
+    "hotel": "InterContinental Alpensia Pyeongchang",
+    "title": "Daegu or Gyeongju > Andong > Pyeongchang",
+    "desc": "Daegu Korean Traditional Culture Center (8+ pax) / Donggung Palace and Wolji Pond ; Andong Hahoe Folk Village"
+   },
+   {
+    "day": 4,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Coach",
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seoraksan National Park & Gwongeumseong Cable Car",
+      "name_cn": "雪岳山国立公园·权金城缆车",
+      "city_key": "sokcho",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [
+     "Seoraksan National Park (Jujeongol Valley)"
+    ],
+    "meals": "BL",
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Pyeongchang > Yangyang > Seoul",
+    "desc": "Seoraksan National Park (Jujeongol Valley)"
+   }
+  ],
+  "days": 4,
+  "nights": 3,
+  "route": [
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 1
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Grand Josun Busan",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 1
+   },
+   {
+    "name": "Lahan Select Gyeongju",
+    "city": "Gyeongju",
+    "city_key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "name": "InterContinental Alpensia Pyeongchang",
+    "city": "Pyeongchang",
+    "city_key": "pyeongchang",
+    "nights": 1
+   }
+  ]
+ },
+ {
+  "code": "KTE-UK16",
+  "url": "https://www.koreatraveleasy.com/product/ultimate-korea-jeju-island-all-inclusive-tour-package/",
+  "tour_type": "join_in_group",
+  "style": "Join-in group (English) + private transfers",
+  "title_en": "Ultimate Korea & Jeju Island All-inclusive 16 Days",
+  "title_cn": "韩国全境 + 济州岛 16 天全包",
+  "season": "2026-03 ~ 2026-11",
+  "price": {
+   "min": 3939,
+   "max": 3939,
+   "currency": "USD",
+   "note": "US$7,878 每房（两人）→ 每人；含首尔进出、济州往返国内段，不含国际机票"
+  },
+  "site": "KTE",
+  "source": "koreatraveleasy.com",
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Incheon",
+    "transport": "Airport transfer",
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "Arrive Incheon > Seoul",
+    "desc": ""
+   },
+   {
+    "day": 2,
+    "city": "Jeonju",
+    "key": "jeonju",
+    "from": "Seoul",
+    "transport": "Coach",
+    "attractions": [
+     "Gongju Gongsanseong & Tomb of King Muryeong"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gongju Gongsanseong & Tomb of King Muryeong",
+      "name_cn": "公州公山城·武宁王陵",
+      "city_key": "gongju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "Gongsanseong Fortress",
+     "Tomb of King Muryeong",
+     "Gongju National Museum"
+    ],
+    "meals": "LD",
+    "meals_desc": [],
+    "stay": "Jeonju",
+    "stay_key": "jeonju",
+    "hotel": "Lahan Hotel Jeonju",
+    "title": "Seoul > Gongju > Jeonju",
+    "desc": "Gongsanseong Fortress ; Tomb of King Muryeong ; Gongju National Museum"
+   },
+   {
+    "day": 3,
+    "city": "Gwangju",
+    "key": "gwangju",
+    "from": "Jeonju",
+    "transport": "Coach",
+    "attractions": [
+     "Jeonju Hanok Village",
+     "Hanbok Dress-up Experience",
+     "Baekyangsa Temple"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jeonju Hanok Village",
+      "name_cn": "全州韩屋村",
+      "city_key": "jeonju",
+      "category": "village"
+     },
+     {
+      "name_en": "Hanbok Dress-up Experience",
+      "name_cn": "韩服体验",
+      "city_key": "gwangju",
+      "category": "experience"
+     },
+     {
+      "name_en": "Baekyangsa Temple",
+      "name_cn": "白羊寺",
+      "city_key": "jangseong",
+      "category": "temple"
+     }
+    ],
+    "highlights_raw": [
+     "Jeonju Hanok Village with Hanbok experience",
+     "Baekyangsa Temple tea ceremony"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Gwangju",
+    "stay_key": "gwangju",
+    "hotel": "Holiday Inn Gwangju",
+    "title": "Jeonju > Jangseong > Gwangju",
+    "desc": "Jeonju Hanok Village with Hanbok experience ; Baekyangsa Temple tea ceremony"
+   },
+   {
+    "day": 4,
+    "city": "Busan",
+    "key": "busan",
+    "from": "Gwangju",
+    "transport": "Coach",
+    "attractions": [
+     "Boseong Green Tea Plantation",
+     "Suncheon Bay Wetland Reserve",
+     "Naganeupseong Folk Village"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Boseong Green Tea Plantation",
+      "name_cn": "宝城绿茶园",
+      "city_key": "boseong",
+      "category": "nature"
+     },
+     {
+      "name_en": "Suncheon Bay Wetland Reserve",
+      "name_cn": "顺天湾湿地",
+      "city_key": "suncheon",
+      "category": "nature"
+     },
+     {
+      "name_en": "Naganeupseong Folk Village",
+      "name_cn": "乐安邑城民俗村",
+      "city_key": "suncheon",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [
+     "Boseong Green Tea Plantation (Daehan Dawon)",
+     "Suncheon Bay Wetland (Naganeupseong Folk Village on last Monday)"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Grand Josun Busan",
+    "title": "Boseong > Suncheon > Busan",
+    "desc": "Boseong Green Tea Plantation (Daehan Dawon) ; Suncheon Bay Wetland (Naganeupseong Folk Village on last Monday)"
+   },
+   {
+    "day": 5,
+    "city": "Busan",
+    "key": "busan",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "UN Memorial Cemetery",
+     "Jagalchi Fish Market",
+     "Songdo Marine Cable Car (Busan Air Cruise)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "UN Memorial Cemetery",
+      "name_cn": "联合国纪念公园",
+      "city_key": "busan",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Jagalchi Fish Market",
+      "name_cn": "札嘎其鱼市场",
+      "city_key": "busan",
+      "category": "market"
+     },
+     {
+      "name_en": "Songdo Marine Cable Car (Busan Air Cruise)",
+      "name_cn": "松岛海上缆车",
+      "city_key": "busan",
+      "category": "ride"
+     }
+    ],
+    "highlights_raw": [
+     "UN Memorial Cemetery",
+     "Jagalchi Market",
+     "Songdo Sea Cable Car"
+    ],
+    "meals": "BL",
+    "meals_desc": [],
+    "stay": "Busan",
+    "stay_key": "busan",
+    "hotel": "Grand Josun Busan",
+    "title": "Busan city tour",
+    "desc": "UN Memorial Cemetery ; Jagalchi Market ; Songdo Sea Cable Car"
+   },
+   {
+    "day": 6,
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "from": "Busan",
+    "transport": "Coach",
+    "attractions": [
+     "Dongbaek Island & Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Dongbaek Island & Nurimaru APEC House",
+      "name_cn": "冬柏岛·APEC世峰楼",
+      "city_key": "busan",
+      "category": "park"
+     },
+     {
+      "name_en": "Bulguksa Temple",
+      "name_cn": "佛国寺",
+      "city_key": "gyeongju",
+      "category": "temple"
+     },
+     {
+      "name_en": "Daereungwon Tomb Complex",
+      "name_cn": "大陵苑",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Gyeongju National Museum",
+      "name_cn": "国立庆州博物馆",
+      "city_key": "gyeongju",
+      "category": "museum"
+     },
+     {
+      "name_en": "Cheomseongdae Observatory",
+      "name_cn": "瞻星台",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     }
+    ],
+    "highlights_raw": [
+     "Nurimaru APEC House",
+     "Bulguksa Temple",
+     "Daereungwon Ancient Tomb Complex",
+     "Gyeongju National Museum",
+     "Cheomseongdae Observatory"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Gyeongju",
+    "stay_key": "gyeongju",
+    "hotel": "Lahan Select Gyeongju",
+    "title": "Busan > Gyeongju",
+    "desc": "Nurimaru APEC House ; Bulguksa Temple ; Daereungwon Ancient Tomb Complex ; Gyeongju National Museum ; Cheomseongdae Observatory"
+   },
+   {
+    "day": 7,
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "from": "Gyeongju",
+    "transport": "Coach",
+    "attractions": [
+     "Daegu Korean Traditional Culture Center",
+     "Donggung Palace & Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Daegu Korean Traditional Culture Center",
+      "name_cn": "大邱传统文化体验馆",
+      "city_key": "daegu",
+      "category": "experience"
+     },
+     {
+      "name_en": "Donggung Palace & Wolji Pond",
+      "name_cn": "东宫与月池（雁鸭池）",
+      "city_key": "gyeongju",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Andong Hahoe Folk Village",
+      "name_cn": "安东河回村",
+      "city_key": "andong",
+      "category": "village"
+     }
+    ],
+    "highlights_raw": [
+     "Daegu Korean Traditional Culture Center (8+ pax) / Donggung Palace and Wolji Pond",
+     "Andong Hahoe Folk Village"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Pyeongchang",
+    "stay_key": "pyeongchang",
+    "hotel": "InterContinental Alpensia Pyeongchang",
+    "title": "Daegu or Gyeongju > Andong > Pyeongchang",
+    "desc": "Daegu Korean Traditional Culture Center (8+ pax) / Donggung Palace and Wolji Pond ; Andong Hahoe Folk Village"
+   },
+   {
+    "day": 8,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Pyeongchang",
+    "transport": "Coach",
+    "attractions": [
+     "Seoraksan National Park & Gwongeumseong Cable Car"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Seoraksan National Park & Gwongeumseong Cable Car",
+      "name_cn": "雪岳山国立公园·权金城缆车",
+      "city_key": "sokcho",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [
+     "Seoraksan National Park (Jujeongol Valley)"
+    ],
+    "meals": "BL",
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "Pyeongchang > Yangyang > Seoul",
+    "desc": "Seoraksan National Park (Jujeongol Valley)"
+   },
+   {
+    "day": 9,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": "Seoul",
+    "transport": "Flight (GMP-CJU)",
+    "attractions": [
+     "Jeju Stone Park",
+     "Bijarim Forest",
+     "Seongsan Ilchulbong (Sunrise Peak)"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jeju Stone Park",
+      "name_cn": "济州石文化公园",
+      "city_key": "jeju",
+      "category": "park"
+     },
+     {
+      "name_en": "Bijarim Forest",
+      "name_cn": "榧子林",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Seongsan Ilchulbong (Sunrise Peak)",
+      "name_cn": "城山日出峰",
+      "city_key": "jeju",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [
+     "Jeju Stone Park",
+     "Bijarim Forest",
+     "Seongsan Ilchulbong"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": null,
+    "title": "Seoul > Jeju",
+    "desc": "Jeju Stone Park ; Bijarim Forest ; Seongsan Ilchulbong"
+   },
+   {
+    "day": 10,
+    "city": "Jeju",
+    "key": "jeju",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Jusangjeolli Cliff",
+     "Cheonjiyeon / Cheonjeyeon Falls",
+     "O'sulloc Tea Museum & Innisfree House",
+     "Gotjawal Forest",
+     "Aromatherapy Footbath",
+     "Hallim Park & Hyeopjae Beach"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jusangjeolli Cliff",
+      "name_cn": "柱状节理带",
+      "city_key": "seogwipo",
+      "category": "nature"
+     },
+     {
+      "name_en": "Cheonjiyeon / Cheonjeyeon Falls",
+      "name_cn": "天地渊/天帝渊瀑布",
+      "city_key": "seogwipo",
+      "category": "nature"
+     },
+     {
+      "name_en": "O'sulloc Tea Museum & Innisfree House",
+      "name_cn": "雪绿茶博物馆·悦诗风吟",
+      "city_key": "seogwipo",
+      "category": "museum"
+     },
+     {
+      "name_en": "Gotjawal Forest",
+      "name_cn": "Gotjawal 原始林",
+      "city_key": "jeju",
+      "category": "nature"
+     },
+     {
+      "name_en": "Aromatherapy Footbath",
+      "name_cn": "香薰足浴",
+      "city_key": "jeju",
+      "category": "experience"
+     },
+     {
+      "name_en": "Hallim Park & Hyeopjae Beach",
+      "name_cn": "翰林公园·挟才海水浴场",
+      "city_key": "jeju",
+      "category": "beach"
+     }
+    ],
+    "highlights_raw": [
+     "Jusangjeolli Cliff",
+     "Cheonjeyeon Falls",
+     "O'Sulloc Tea Museum",
+     "Gotjawal Jeju Fantasy Forest foot bath",
+     "Hallim Park"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Jeju",
+    "stay_key": "jeju",
+    "hotel": null,
+    "title": "Jeju full day",
+    "desc": "Jusangjeolli Cliff ; Cheonjeyeon Falls ; O'Sulloc Tea Museum ; Gotjawal Jeju Fantasy Forest foot bath ; Hallim Park"
+   },
+   {
+    "day": 11,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Jeju",
+    "transport": "Flight (CJU-GMP)",
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "Jeju > Seoul",
+    "desc": ""
+   },
+   {
+    "day": 12,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Gwanghwamun Square",
+     "Jogyesa Temple",
+     "Gyeongbokgung Palace",
+     "National Folk Museum of Korea"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Gwanghwamun Square",
+      "name_cn": "光化门广场",
+      "city_key": "seoul",
+      "category": "district"
+     },
+     {
+      "name_en": "Jogyesa Temple",
+      "name_cn": "曹溪寺",
+      "city_key": "seoul",
+      "category": "temple"
+     },
+     {
+      "name_en": "Gyeongbokgung Palace",
+      "name_cn": "景福宫",
+      "city_key": "seoul",
+      "category": "palace"
+     },
+     {
+      "name_en": "National Folk Museum of Korea",
+      "name_cn": "国立民俗博物馆",
+      "city_key": "seoul",
+      "category": "museum"
+     }
+    ],
+    "highlights_raw": [
+     "Gwanghwamun Square",
+     "Jogyesa Temple",
+     "Gyeongbokgung Palace",
+     "National Folk Museum"
+    ],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "Seoul morning tour",
+    "desc": "Gwanghwamun Square ; Jogyesa Temple ; Gyeongbokgung Palace ; National Folk Museum"
+   },
+   {
+    "day": 13,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Imjingak Park",
+     "The 3rd Tunnel (DMZ)",
+     "Dora Observatory",
+     "NANTA Show",
+     "Myeongdong Shopping Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Imjingak Park",
+      "name_cn": "临津阁",
+      "city_key": "paju",
+      "category": "dmz"
+     },
+     {
+      "name_en": "The 3rd Tunnel (DMZ)",
+      "name_cn": "第三地道",
+      "city_key": "paju",
+      "category": "dmz"
+     },
+     {
+      "name_en": "Dora Observatory",
+      "name_cn": "都罗展望台",
+      "city_key": "paju",
+      "category": "dmz"
+     },
+     {
+      "name_en": "NANTA Show",
+      "name_cn": "乱打秀",
+      "city_key": "seoul",
+      "category": "show"
+     },
+     {
+      "name_en": "Myeongdong Shopping Street",
+      "name_cn": "明洞购物街",
+      "city_key": "seoul",
+      "category": "district"
+     }
+    ],
+    "highlights_raw": [
+     "Imjingak Park",
+     "3rd Tunnel",
+     "Dora Observatory",
+     "NANTA show Myeongdong"
+    ],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "DMZ & NANTA",
+    "desc": "Imjingak Park ; 3rd Tunnel ; Dora Observatory ; NANTA show Myeongdong"
+   },
+   {
+    "day": 14,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Nami Island",
+     "Lotte World Tower Seoul Sky"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Nami Island",
+      "name_cn": "南怡岛",
+      "city_key": "namiisland",
+      "category": "island"
+     },
+     {
+      "name_en": "Lotte World Tower Seoul Sky",
+      "name_cn": "乐天世界塔 Seoul Sky",
+      "city_key": "seoul",
+      "category": "observatory"
+     }
+    ],
+    "highlights_raw": [
+     "Nami Island",
+     "Lotte World Tower Seoul Sky"
+    ],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "Nami Island & Seoul Sky",
+    "desc": "Nami Island ; Lotte World Tower Seoul Sky"
+   },
+   {
+    "day": 15,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": null,
+    "transport": null,
+    "attractions": [
+     "Han River Park",
+     "Han River Cruise"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Han River Park",
+      "name_cn": "汉江公园",
+      "city_key": "seoul",
+      "category": "park"
+     },
+     {
+      "name_en": "Han River Cruise",
+      "name_cn": "汉江游船",
+      "city_key": "seoul",
+      "category": "ride"
+     }
+    ],
+    "highlights_raw": [
+     "Han River Park",
+     "Han River night cruise"
+    ],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": "Seoul",
+    "stay_key": "seoul",
+    "hotel": null,
+    "title": "Han River night",
+    "desc": "Han River Park ; Han River night cruise"
+   },
+   {
+    "day": 16,
+    "city": "Incheon",
+    "key": "incheon",
+    "from": "Seoul",
+    "transport": "Airport transfer",
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Depart Incheon",
+    "desc": ""
+   }
+  ],
+  "days": 16,
+  "nights": 15,
+  "route": [
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeonju",
+    "key": "jeonju",
+    "nights": 1
+   },
+   {
+    "city": "Gwangju",
+    "key": "gwangju",
+    "nights": 1
+   },
+   {
+    "city": "Busan",
+    "key": "busan",
+    "nights": 2
+   },
+   {
+    "city": "Gyeongju",
+    "key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "city": "Pyeongchang",
+    "key": "pyeongchang",
+    "nights": 1
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 1
+   },
+   {
+    "city": "Jeju",
+    "key": "jeju",
+    "nights": 2
+   },
+   {
+    "city": "Seoul",
+    "key": "seoul",
+    "nights": 5
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Lahan Hotel Jeonju",
+    "city": "Jeonju",
+    "city_key": "jeonju",
+    "nights": 1
+   },
+   {
+    "name": "Holiday Inn Gwangju",
+    "city": "Gwangju",
+    "city_key": "gwangju",
+    "nights": 1
+   },
+   {
+    "name": "Grand Josun Busan",
+    "city": "Busan",
+    "city_key": "busan",
+    "nights": 2
+   },
+   {
+    "name": "Lahan Select Gyeongju",
+    "city": "Gyeongju",
+    "city_key": "gyeongju",
+    "nights": 1
+   },
+   {
+    "name": "InterContinental Alpensia Pyeongchang",
+    "city": "Pyeongchang",
+    "city_key": "pyeongchang",
+    "nights": 1
+   }
+  ]
+ },
+ {
+  "code": "KTE-ULL3",
+  "url": "https://www.koreatraveleasy.com/product/ulleungdo-tour-package-from-seoul-3-days-2-nights-pohang-dokdo/",
+  "tour_type": "join_in_group",
+  "style": "Join-in group (from Seoul, overnight ferry)",
+  "title_en": "Ulleungdo 3D2N from Seoul (Pohang / Dokdo)",
+  "title_cn": "郁陵岛 3 天 2 夜（首尔出发，浦项夜船）",
+  "season": "夏季指定日期",
+  "price": {
+   "min": 420,
+   "max": 420,
+   "currency": "USD",
+   "note": "US$420 起每人；首尔出发，含往返船票，第 1 晚在船上"
+  },
+  "site": "KTE",
+  "source": "koreatraveleasy.com",
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Pohang",
+    "key": "pohang",
+    "from": "Seoul",
+    "transport": "Coach + overnight ferry",
+    "attractions": [],
+    "attractions_detail": [],
+    "highlights_raw": [],
+    "meals": null,
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Seoul > Pohang (night ferry)",
+    "desc": ""
+   },
+   {
+    "day": 2,
+    "city": "Ulleungdo",
+    "key": "ulleungdo",
+    "from": "Pohang",
+    "transport": "Ferry",
+    "attractions": [
+     "Ulleungdo & Dokdo"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ulleungdo & Dokdo",
+      "name_cn": "郁陵岛·独岛",
+      "city_key": "ulleungdo",
+      "category": "island"
+     }
+    ],
+    "highlights_raw": [
+     "Dodong / Jeodong (Dokdo Observatory)",
+     "Nari Basin",
+     "Taeha sunset trek",
+     "Ulleungdo"
+    ],
+    "meals": "BLD",
+    "meals_desc": [],
+    "stay": "Ulleungdo",
+    "stay_key": "ulleungdo",
+    "hotel": null,
+    "title": "Ulleungdo",
+    "desc": "Dodong / Jeodong (Dokdo Observatory) ; Nari Basin ; Taeha sunset trek ; Ulleungdo"
+   },
+   {
+    "day": 3,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Ulleungdo",
+    "transport": "Ferry to Gangneung + Coach",
+    "attractions": [
+     "Ulleungdo & Dokdo"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Ulleungdo & Dokdo",
+      "name_cn": "郁陵岛·独岛",
+      "city_key": "ulleungdo",
+      "category": "island"
+     }
+    ],
+    "highlights_raw": [
+     "Jeodong Port"
+    ],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Ulleungdo > Gangneung > Seoul",
+    "desc": "Jeodong Port"
+   }
+  ],
+  "days": 3,
+  "nights": 1,
+  "route": [
+   {
+    "city": "Ulleungdo",
+    "key": "ulleungdo",
+    "nights": 1
+   }
+  ],
+  "hotels": []
+ },
+ {
+  "code": "KTE-GW2",
+  "url": "https://www.koreatraveleasy.com/product/summer-gangwondo-2d-1n-all-inclusive-overnight-tour/",
+  "tour_type": "join_in_group",
+  "style": "Join-in group (KTX from Seoul)",
+  "title_en": "Summer Gangwon-do 2D1N (Donghae–Gangneung)",
+  "title_cn": "江原道夏季 2 天 1 夜（东海·江陵）",
+  "season": "夏季指定日期",
+  "price": {
+   "min": null,
+   "max": null,
+   "currency": "USD",
+   "note": "价格见页面选项"
+  },
+  "site": "KTE",
+  "source": "koreatraveleasy.com",
+  "days_detail": [
+   {
+    "day": 1,
+    "city": "Donghae",
+    "key": "donghae",
+    "from": "Seoul",
+    "transport": "KTX",
+    "attractions": [
+     "Cheongok Cave",
+     "Mukho Port & Nongoldam-gil",
+     "Chuam Candlestick Rock"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Cheongok Cave",
+      "name_cn": "天谷洞窟",
+      "city_key": "donghae",
+      "category": "nature"
+     },
+     {
+      "name_en": "Mukho Port & Nongoldam-gil",
+      "name_cn": "墨湖港·论谷潭路",
+      "city_key": "donghae",
+      "category": "district"
+     },
+     {
+      "name_en": "Chuam Candlestick Rock",
+      "name_cn": "湫岩烛台岩",
+      "city_key": "donghae",
+      "category": "nature"
+     }
+    ],
+    "highlights_raw": [
+     "Cheongok Golden Bat Cave",
+     "Nongoldam-gil",
+     "Mukho Market",
+     "Chuam Candlestick Rock"
+    ],
+    "meals": "L",
+    "meals_desc": [],
+    "stay": "Gangneung",
+    "stay_key": "gangneung",
+    "hotel": null,
+    "title": "Seoul > Donghae",
+    "desc": "Cheongok Golden Bat Cave ; Nongoldam-gil ; Mukho Market ; Chuam Candlestick Rock"
+   },
+   {
+    "day": 2,
+    "city": "Seoul",
+    "key": "seoul",
+    "from": "Gangneung",
+    "transport": "KTX",
+    "attractions": [
+     "Jeongdongjin (Rail Bike & Station)",
+     "Gangneung Jungang Market",
+     "Ojukheon House",
+     "Gyeongpodae & Gyeongpo Beach",
+     "Anmok Beach Café Street"
+    ],
+    "attractions_detail": [
+     {
+      "name_en": "Jeongdongjin (Rail Bike & Station)",
+      "name_cn": "正东津（铁路自行车）",
+      "city_key": "gangneung",
+      "category": "ride"
+     },
+     {
+      "name_en": "Gangneung Jungang Market",
+      "name_cn": "江陵中央市场",
+      "city_key": "gangneung",
+      "category": "market"
+     },
+     {
+      "name_en": "Ojukheon House",
+      "name_cn": "乌竹轩",
+      "city_key": "gangneung",
+      "category": "heritage"
+     },
+     {
+      "name_en": "Gyeongpodae & Gyeongpo Beach",
+      "name_cn": "镜浦台·镜浦海边",
+      "city_key": "gangneung",
+      "category": "beach"
+     },
+     {
+      "name_en": "Anmok Beach Café Street",
+      "name_cn": "安木海边咖啡街",
+      "city_key": "gangneung",
+      "category": "cafe"
+     }
+    ],
+    "highlights_raw": [
+     "Jeongdongjin Badabuchae-gil",
+     "Gangneung Jungang Market",
+     "Ojukheon House",
+     "Gyeongpodae Beach",
+     "Anmok Beach coffee street"
+    ],
+    "meals": "B",
+    "meals_desc": [],
+    "stay": null,
+    "stay_key": null,
+    "hotel": null,
+    "title": "Gangneung > Seoul",
+    "desc": "Jeongdongjin Badabuchae-gil ; Gangneung Jungang Market ; Ojukheon House ; Gyeongpodae Beach ; Anmok Beach coffee street"
+   }
+  ],
+  "days": 2,
+  "nights": 1,
+  "route": [
+   {
+    "city": "Gangneung",
+    "key": "gangneung",
+    "nights": 1
+   }
+  ],
+  "hotels": []
+ }
+]

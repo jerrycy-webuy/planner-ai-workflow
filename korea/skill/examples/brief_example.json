@@ -1,0 +1,17 @@
+{
+  "name": "韩国济州釜山首尔 8 天（WEBUY 跟团，春季）",
+  "bu": "WEBUY_SG",
+  "tour_type": "group_coach",
+  "days": 8,
+  "entry_airport": "Incheon (ICN)",
+  "exit_airport": "Incheon (ICN)",
+  "travel_month": 4,
+  "season": "spring",
+  "themes": ["cherry blossom", "family", "heritage"],
+  "must_cities": ["Jeju", "Busan"],
+  "must_attractions": ["Seongsan Ilchulbong", "Gamcheon Culture Village", "Gyeongbokgung Palace"],
+  "avoid": ["ski"],
+  "pax_profile": "30–55 岁华人家庭，带小孩，首次访韩",
+  "target_price_sgd": 1988,
+  "notes": "新加坡红眼航班去程；常规版含 3 个购物站，另出纯玩版；每天不超过 6 个点"
+}

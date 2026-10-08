@@ -1,0 +1,318 @@
+[
+ {
+  "city_key": "seoul",
+  "city_cn": "首尔",
+  "tiers": {
+   "fit": [
+    "Golden Seoul Hotel/ Ibis Ambassador Yongsan Hotel"
+   ],
+   "group_standard": [
+    "Ibis Ambassador Yongsan Seoul",
+    "Novotel Ambassador Seoul Yongsan",
+    "Novotel Ambassador Yongsan",
+    "Seoul Bernoui Hote",
+    "Seoul Garden hotel",
+    "Seoul Novotel Ambassador",
+    "Seoul Novotel Hotel",
+    "Sollago Myeongdong Hotel"
+   ],
+   "premium": [
+    "Amanti Seoul",
+    "Amanty Hotel",
+    "Amid Hotel Seoul",
+    "Glad Mapo",
+    "Glamping",
+    "Lotte Myeongdong (Main Tower)",
+    "Seoul Dragon City",
+    "Seoul Garden",
+    "Sofitel Ambassador Seoul Hotel",
+    "Sollago Hotel Myeongdong",
+    "Sotetsu Hotel Splasir Seoul Myeongdong, Sollago Myeongdong Hotel",
+    "Sotetsu Splaisir Myeongdong",
+    "Stay Folio",
+    "Westin Josun"
+   ]
+  }
+ },
+ {
+  "city_key": "busan",
+  "city_cn": "釜山",
+  "tiers": {
+   "group_standard": [
+    "Busan Asti hotel",
+    "Busan Crown Harbor Hotel",
+    "Busan Shilla Stay Seobusan Hotel"
+   ],
+   "fit": [
+    "Kwangsu Hotel"
+   ],
+   "premium": [
+    "Asti Busan",
+    "Asti Hotel",
+    "Avani Central Hotel",
+    "Crown Harbor",
+    "Lotte Hotel",
+    "Solaria Busan"
+   ],
+   "join_in": [
+    "Grand Josun Busan"
+   ]
+  }
+ },
+ {
+  "city_key": "jeju",
+  "city_cn": "济州",
+  "tiers": {
+   "group_standard": [
+    "Jeju Astar Hotel",
+    "Jeju Best Western Hotel",
+    "Jeju Sirius",
+    "The Best Jeju Seongsan Hotel"
+   ],
+   "premium": [
+    "Best Western Hotel",
+    "Gloucester Hotel Jeju",
+    "Grand Hyatt"
+   ]
+  }
+ },
+ {
+  "city_key": "jeonju",
+  "city_cn": "全州",
+  "tiers": {
+   "group_standard": [
+    "Jeonju Lahan Hotel",
+    "Jeonju Wangyijimil Hanok Stay",
+    "Wangyijimil Hanok Stay"
+   ],
+   "premium": [
+    "Guangju Ramada",
+    "Jeonju Best Western",
+    "Jeonju Lahan",
+    "Mokpo Hyundai Lahan"
+   ],
+   "join_in": [
+    "Lahan Hotel Jeonju"
+   ]
+  }
+ },
+ {
+  "city_key": "incheon",
+  "city_cn": "仁川",
+  "tiers": {
+   "group_standard": [
+    "Harbor Park Hotel",
+    "Incheon Best Western Harbor Park Hotel",
+    "Incheon Harbor Park Hotel"
+   ],
+   "premium": [
+    "Lotte Myeongdong (Main Tower)",
+    "Nest Hotel",
+    "Westin Josun"
+   ]
+  }
+ },
+ {
+  "city_key": "pyeongchang",
+  "city_cn": "平昌",
+  "tiers": {
+   "group_standard": [
+    "Yongpyong Dragon Resort",
+    "Yongpyong Resort",
+    "Yongpyong ski resort"
+   ],
+   "join_in": [
+    "InterContinental Alpensia Pyeongchang"
+   ]
+  }
+ },
+ {
+  "city_key": "gyeongju",
+  "city_cn": "庆州",
+  "tiers": {
+   "group_standard": [
+    "Gyeongju Commodore hotel"
+   ],
+   "join_in": [
+    "Lahan Select Gyeongju"
+   ]
+  }
+ },
+ {
+  "city_key": "yeosu",
+  "city_cn": "丽水",
+  "tiers": {
+   "premium": [
+    "Shilla Stay Yeosu",
+    "Utop Marina Hotel",
+    "Venezia Yeosu"
+   ]
+  }
+ },
+ {
+  "city_key": "buyeo",
+  "city_cn": "扶余",
+  "tiers": {
+   "premium": [
+    "Buyeowa Hanok",
+    "Naseong Hanok",
+    "Seodong Seonhwa Hanok"
+   ]
+  }
+ },
+ {
+  "city_key": "hoengseong",
+  "city_cn": "横城",
+  "tiers": {
+   "fit": [
+    "Welli Hilli Snow Park"
+   ],
+   "group_standard": [
+    "Welli Hilli Park resort"
+   ]
+  }
+ },
+ {
+  "city_key": "daegu",
+  "city_cn": "大邱",
+  "tiers": {
+   "group_standard": [
+    "Daegu Inter-burgo ( main building ) hotel",
+    "Hotel Inter-Burgo Daegu"
+   ]
+  }
+ },
+ {
+  "city_key": "gapyeong",
+  "city_cn": "加平",
+  "tiers": {
+   "group_standard": [
+    "Choochoo Glamping",
+    "Soraksan Hanwha Resort"
+   ]
+  }
+ },
+ {
+  "city_key": "goyang",
+  "city_cn": "高阳（一山）",
+  "tiers": {
+   "group_standard": [
+    "Sono Calm Goyang hotel"
+   ],
+   "premium": [
+    "Sono Calm Goyang"
+   ]
+  }
+ },
+ {
+  "city_key": "suwon",
+  "city_cn": "水原",
+  "tiers": {
+   "group_standard": [
+    "Suwon Value Hotel"
+   ],
+   "premium": [
+    "Novotel Ambassador Suwon"
+   ]
+  }
+ },
+ {
+  "city_key": "yangpyeong",
+  "city_cn": "杨平",
+  "tiers": {
+   "group_standard": [
+    "Yangpyeong Bloom Vista hotel"
+   ]
+  }
+ },
+ {
+  "city_key": "hongcheon",
+  "city_cn": "洪川",
+  "tiers": {
+   "group_standard": [
+    "Hongcheon Sono Hotel & Resort"
+   ]
+  }
+ },
+ {
+  "city_key": "chuncheon",
+  "city_cn": "春川",
+  "tiers": {
+   "group_standard": [
+    "Elysian Gangcheon Resort"
+   ]
+  }
+ },
+ {
+  "city_key": "seosan",
+  "city_cn": "瑞山",
+  "tiers": {
+   "group_standard": [
+    "Benikea Hotel Seosan"
+   ]
+  }
+ },
+ {
+  "city_key": "mokpo",
+  "city_cn": "木浦",
+  "tiers": {
+   "group_standard": [
+    "Hotel Hyundai by Lahan Mokpo hotel"
+   ]
+  }
+ },
+ {
+  "city_key": "gimpo",
+  "city_cn": "金浦",
+  "tiers": {
+   "group_standard": [
+    "Gimpo Marinabay Seoul-Ara Hotel"
+   ]
+  }
+ },
+ {
+  "city_key": "sokcho",
+  "city_cn": "束草",
+  "tiers": {
+   "group_standard": [
+    "Seorak Daemyung Resort"
+   ]
+  }
+ },
+ {
+  "city_key": "daejeon",
+  "city_cn": "大田",
+  "tiers": {
+   "premium": [
+    "Hotel Onoma Daejon Autograph Collection"
+   ]
+  }
+ },
+ {
+  "city_key": "namhae",
+  "city_cn": "南海",
+  "tiers": {
+   "premium": [
+    "Pension Style"
+   ]
+  }
+ },
+ {
+  "city_key": "hadong",
+  "city_cn": "河东",
+  "tiers": {
+   "premium": [
+    "Kensington Hotel & Resort Hadong"
+   ]
+  }
+ },
+ {
+  "city_key": "gwangju",
+  "city_cn": "光州",
+  "tiers": {
+   "join_in": [
+    "Holiday Inn Gwangju"
+   ]
+  }
+ }
+]

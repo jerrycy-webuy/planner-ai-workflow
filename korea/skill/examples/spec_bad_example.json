@@ -1,0 +1,12 @@
+{"code": "DRAFT-KR8-BAD", "title_en": "Tamper test", "title_cn": "篡改样本", "days": 8, "nights": 6, "entry_airport": "Incheon (ICN)", "exit_airport": "Incheon (ICN)",
+ "tour_type": "group_coach", "travel_month": 7,
+ "route": [{"city": "Jeju", "nights": 2}, {"city": "Busan", "nights": 2}, {"city": "Seoul", "nights": 2}],
+ "days_detail": [
+  {"day": 1, "city": "Incheon", "title_cn": "新加坡 > 仁川（红眼）", "attractions": [], "stay": null},
+  {"day": 2, "city": "Jeju", "from": "Incheon", "transport": "Coach", "title_cn": "仁川 > 济州", "attractions": ["Gyeongbokgung Palace", "Seongsan Ilchulbong"], "stay": "Jeju"},
+  {"day": 3, "city": "Jeju", "title_cn": "济州", "attractions": ["Udo Island", "Snoopy Garden", "Yongpyong Resort"], "stay": "Jeju"},
+  {"day": 4, "city": "Busan", "from": "Jeju", "transport": "Flight CJU-PUS", "title_cn": "济州 > 釜山", "attractions": ["Gamcheon Culture Village"], "stay": "Busan"},
+  {"day": 5, "city": "Busan", "title_cn": "釜山", "attractions": ["Haedong Yonggungsa Temple", "Ginseng Shop", "Healthy Liver Showroom", "Cosmetics Shop", "Duty-free Shop", "Amethyst Showroom"], "stay": "Busan"},
+  {"day": 6, "city": "Seoul", "from": "Busan", "transport": "KTX", "title_cn": "釜山 > 首尔", "attractions": ["N Seoul Tower"], "stay": "Seoul"},
+  {"day": 7, "city": "Seoul", "title_cn": "首尔", "attractions": ["Nami Island", "Hwacheon Sancheoneo Ice Festival"], "stay": "Seoul"},
+  {"day": 8, "city": "Incheon", "from": "Seoul", "title_cn": "返程", "attractions": [], "stay": null}]}
