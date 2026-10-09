@@ -81,6 +81,21 @@ tracking.tracking_clicks ◄─short_code─ tracking.lead_stage_history   track
 5. **确认 Private Tour 规则**(Product + Marketing):默认 “广告系列或广告名含 private” + Respond.io lifecycle `tour private` + travel type `Private Trip`。如果广告命名约定是 `PT_` 前缀,往 `reporting.pt_rules` 加一行 `('campaign_name_ilike', 'PT\_%')`。
 6. **部署**(owner):公司 Vercel team 新建项目 `private-tour-dashboard`,Root Directory 选 `dashboards/private-tour`,配 `.env.example` 里的 3 个变量。Supabase 凭据按 `ai-project-template/COMPLIANCE/access-request.md` 申请,不要自己注册账号。
 
+## 接入数据中台
+
+先跑只读体检 `supabase/checks/preflight.sql`(只输出聚合数):确认函数依赖的列都在、各市场近 30 天的点击 / SQL / 订单量、SQL 能归因到广告的比例、哪些市场已有 purchase 事件。结果没问题再执行迁移。
+
+让 AI 助手(Claude Code 云端会话)直接查数据中台,二选一:
+
+| 方式 | 怎么开 | 权限 |
+|---|---|---|
+| **Supabase 连接器(推荐)** | claude.ai → Settings → Connectors 添加 Supabase,用公司 Supabase 组织账号授权;或自定义连接器 `https://mcp.supabase.com/mcp?project_ref=<数据中台 ref>&read_only=true` | 只读、只限数据中台这一个 project |
+| 环境变量 | 云端环境设置 → Edit → 环境变量 `DATA_PLATFORM_SUPABASE_URL` + 只读凭据 | 取决于凭据;不要用 service_role / 个人 access token |
+
+凭据按 `ai-project-template/COMPLIANCE/access-request.md` 找 IT lead 申请,不要贴进聊天。云端环境只放行 HTTPS,Postgres 直连端口(5432 / 6543)不通,所以 `psql` 连接串在云端用不了。
+
+迁移本身(`supabase/migrations/`)按 tracking 仓库的惯例由数据中台 DBA review 后执行,AI 只读接入不负责写库。
+
 ## 本地运行
 
 ```bash
@@ -109,6 +124,7 @@ dashboards/private-tour/
 │   └── demo-data.ts             合成示例数据
 ├── supabase/
 │   ├── migrations/              reporting schema:输入表 + 两个看板函数
+│   ├── checks/preflight.sql     接入前只读体检
 │   └── tests/functions.test.mjs SQL 口径测试
 ├── CLAUDE.md · PROJECT.md       ai-project-template 要求的项目文件
 └── .env.example
