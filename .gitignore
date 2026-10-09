@@ -9,3 +9,4 @@ node_modules/
 *.xlsx
 *.xls
 !dmc_templates/*.xlsx
+!.env.example
