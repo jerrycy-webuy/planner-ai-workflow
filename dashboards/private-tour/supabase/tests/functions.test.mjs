@@ -1,6 +1,6 @@
-// 用 PGlite(内嵌 Postgres)跑两份迁移 + 合成数据,校验两个看板函数的口径。
+// 用 PGlite(内嵌 Postgres)跑三份迁移 + 合成数据,校验快照与两个看板函数的口径和权限。
 // 运行:npm run test:sql
-// tracking.* 只建了函数用到的列;auth.jwt() 用 request.jwt.claims 模拟 Supabase。
+// semantic / curated 只建了函数用到的列;auth.jwt() 用 request.jwt.claims 模拟 Supabase。
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -11,60 +11,90 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const migrations = path.join(here, '..', 'migrations');
 const db = new PGlite();
 
+const hot = (name) => `create table curated.${name} (contact_id text, sender_role text, message_at timestamptz, date_sgt date);`;
 await db.exec(`
   create role anon; create role authenticated;
   create schema auth;
   create function auth.jwt() returns jsonb language sql stable as $$
     select coalesce(nullif(current_setting('request.jwt.claims', true), ''), '{}')::jsonb $$;
-  create schema tracking;
-  create table tracking.tracking_clicks (event_id text primary key, market text, event_time timestamptz,
-    short_code text, ad_id text, is_test_traffic boolean not null default false);
-  create table tracking.lead_stage_history (event_id text primary key, market text, respond_io_contact_id text,
-    contact_id text, stage text, occurred_at timestamptz, short_code text);
-  create table tracking.order_conversion_events (event_id text, market text, event_name text, occurred_at timestamptz,
-    order_ref text, value numeric(18,2), currency text, short_code text, product_id text, primary key (market, event_id));
+  create schema curated; create schema semantic;
+  create table curated.meta_ad_daily_metrics (date date, account_id text, campaign_id text, campaign_name text,
+    adset_id text, adset_name text, ad_id text, ad_name text, currency text, spend numeric);
+  create table curated.meta_ad_dimension (account_id text, account_region text, campaign_name text, adset_name text,
+    ad_id text, ad_name text, last_seen_at timestamptz);
+  create table curated.ad_campaigns (source_system text, account_id text, account_region text, campaign_id text,
+    campaign_name text, group_id text, group_name text, date date, cost numeric, currency text);
+  create table semantic.respondio_contact_attribution_fact (region text, respondio_contact_id text, lead_date date,
+    ad_id text, adset_id text, campaign_id text, confirmed_ad boolean);
+  create table semantic.respondio_auto_sql_contact_fact (region text, respondio_contact_id text, auto_sql_date date);
+  create table semantic.contact_order_link (region text, respondio_account text, respondio_contact_id text,
+    order_business_entity text, order_id bigint, booking_date date, match_confidence numeric);
+  create table semantic.order_sales_view (legal_entity text, order_id bigint, booking_date date, total_amount numeric,
+    order_currency text, pax_type int, is_effective boolean, is_wetrip_order boolean);
+  create table semantic.respondio_contact_assignee (account_id text, contact_id text, assignee_id text, assignee_name text);
+  ${hot('respondio_sg_webuytravel_message_hot_30d')}
+  ${hot('respondio_wetrip_message_hot_30d')}
+  ${hot('respondio_id_webuytravel_message_hot_30d')}
 `);
 for (const f of fs.readdirSync(migrations).sort()) await db.exec(fs.readFileSync(path.join(migrations, f), 'utf8'));
 
 await db.exec(`
-  insert into reporting.pt_rules (rule_type, pattern) values ('product_id', 'PT-001');
-  insert into reporting.dashboard_viewers (email, markets) values ('viewer@webuy.global', '{sg}');
+  insert into reporting.dashboard_viewers (email, markets) values ('viewer@webuy.global', '{wetrip,sg}');
 
-  -- A1 / A2 命中 private 命名规则;N1 不是 PT 广告;A1 的 9 月花费不在区间内
-  insert into reporting.ad_spend_daily (report_date, market, platform, campaign_name, ad_id, ad_name, spend, currency) values
-    ('2026-10-01','sg','meta','SG_PrivateTour_Japan','A1','JP family video',100,'SGD'),
-    ('2026-10-02','sg','meta','SG_PrivateTour_Japan','A1','JP family video',100,'SGD'),
-    ('2026-09-01','sg','meta','SG_PrivateTour_Japan','A1','JP family video',999,'SGD'),
-    ('2026-10-01','sg','google_ads','Search KR','A2','Private Tour Korea',50,'SGD'),
-    ('2026-10-01','sg','meta','Group Tour Bali','N1','Bali group',80,'SGD');
+  -- 广告:W1 = WeTrip 账号,S1 = SG 账号。A1 / A2 / SA 命中 PT 正则,N1 不命中
+  insert into curated.meta_ad_dimension values
+    ('W1','wetrip','[Standard PT]-WhatsApp-US','set','A1','pt video', now()),
+    ('W1','wetrip','SPT-在投','set','A2','x', now()),
+    ('W1','wetrip','Group Tour Bali','set','N1','bali', now()),
+    ('S1','sg','[NP01]Private tour - 17 Apr','set','SA','guangzhou', now());
+  insert into curated.meta_ad_daily_metrics (date, account_id, campaign_name, adset_name, ad_id, ad_name, currency, spend) values
+    ('2026-10-01','W1','[Standard PT]-WhatsApp-US','set','A1','pt video','SGD',100),
+    ('2026-10-02','W1','[Standard PT]-WhatsApp-US','set','A1','pt video','SGD',50),
+    ('2026-09-01','W1','[Standard PT]-WhatsApp-US','set','A1','pt video','SGD',999),
+    ('2026-10-01','W1','SPT-在投','set','A2','x','SGD',30),
+    ('2026-10-01','W1','Group Tour Bali','set','N1','bali','SGD',80),
+    ('2026-10-01','S1','[NP01]Private tour - 17 Apr','set','SA','guangzhou','SGD',40);
 
-  insert into tracking.tracking_clicks (event_id, market, event_time, short_code, ad_id, is_test_traffic) values
-    ('c1','sg','2026-10-01 02:00+00','AAAA1111','A1',false),
-    ('c2','sg','2026-10-01 03:00+00','BBBB2222','A2',false),
-    ('c3','sg','2026-10-01 04:00+00','CCCC3333','N1',false),
-    ('c4','sg','2026-10-01 05:00+00','DDDD4444','A1',true);   -- 测试流量,必须忽略
+  insert into semantic.respondio_contact_attribution_fact values
+    ('wetrip','c1','2026-10-01','A1',null,null,true),
+    ('wetrip','c2','2026-10-02','A1',null,null,true),
+    ('wetrip','c3','2026-10-03','A2',null,null,true),
+    ('wetrip','c4','2026-10-03','N1',null,null,true),    -- 不是 PT 广告,但后来买了 PT
+    ('wetrip','c5','2026-09-01','A1',null,null,true),    -- lead 在区间前:不进 cohort,但首次 SQL 在区间内
+    ('wetrip','c6','2026-10-02','A1',null,null,false),   -- 非硬归因,不算
+    ('sg','c7','2026-10-01','SA',null,null,true);
+  insert into semantic.respondio_auto_sql_contact_fact values
+    ('wetrip','c1','2026-10-02'), ('wetrip','c1','2026-10-06'),
+    ('wetrip','c3','2026-10-05'), ('wetrip','c4','2026-10-04'), ('wetrip','c5','2026-10-03'),
+    ('sg','c7','2026-10-02');
 
-  insert into tracking.lead_stage_history (event_id, market, respond_io_contact_id, contact_id, stage, occurred_at, short_code) values
-    ('l1a','sg','1',null,'WA_Contact','2026-10-01 02:05+00','AAAA1111'),       -- SQL 事件本身没码,沿用此前的码
-    ('l1b','sg','1',null,'SQL','2026-10-02 02:00+00',null),
-    ('l2','sg','2','respondio:2','SQL','2026-10-02 03:00+00','BBBB2222'),
-    ('l3','sg','3','respondio:3','SQL','2026-10-03 03:00+00','CCCC3333'),       -- 非 PT 广告,但 lifecycle = tour private
-    ('l4','sg','4','respondio:4','SQL','2026-10-03 03:00+00','DDDD4444'),       -- 只有测试流量点击,且不是 PT 联系人
-    ('l5a','sg','5','respondio:5','SQL','2026-09-03 03:00+00','EEEE5555'),      -- 首次 SQL 在区间前,不算
-    ('l5b','sg','5','respondio:5','SQL','2026-10-03 03:00+00','EEEE5555');
+  insert into semantic.order_sales_view values
+    ('wbt_sg',1,'2026-10-10',8000,'USD',5,true,true),    -- c1 的 PT 单
+    ('wbt_sg',2,'2026-10-11',2000,'USD',4,true,true),    -- c1 的 W-Group:其他团型
+    ('wbt_sg',3,'2026-10-12',5000,'USD',5,true,true),    -- 链不到联系人
+    ('wbt_sg',4,'2026-10-13',3000,'USD',5,true,true),    -- c4(非 PT 广告)的 PT 单
+    ('wbt_sg',5,'2026-10-14',9999,'USD',5,false,true),   -- 已取消,不算
+    ('wbt_sg',6,'2026-10-14',1000,'USD',9,true,true),    -- WFIT,只有低置信匹配
+    ('wbt_sg',7,'2026-10-05',1500,'SGD',1,true,false),   -- SG:c7 的跟团单(其他团型)
+    ('wbt_sg',8,'2026-10-06',7000,'SGD',6,true,false);   -- SG:Altitude PRV,链不到
+  insert into semantic.contact_order_link values
+    ('wetrip','wetrip','c1','wbt_sg',1,'2026-10-10',0.95),
+    ('wetrip','wetrip','c1','wbt_sg',2,'2026-10-11',0.95),
+    ('wetrip','wetrip','c4','wbt_sg',4,'2026-10-13',0.95),
+    ('wetrip','wetrip','c1','wbt_sg',5,'2026-10-14',0.95),
+    ('wetrip','wetrip','c3','wbt_sg',6,'2026-10-14',0.60),
+    ('sg','sg_webuytravel','c7','wbt_sg',7,'2026-10-05',0.95);
 
-  insert into tracking.order_conversion_events (event_id, market, event_name, occurred_at, order_ref, value, currency, short_code, product_id) values
-    ('o1','sg','purchase','2026-10-05 03:00+00','O1',8000,'SGD','AAAA1111',null),
-    ('o1dup','sg','purchase','2026-10-05 04:00+00','O1',8000,'SGD','AAAA1111',null),  -- 同一订单重复事件
-    ('o2','sg','purchase','2026-10-05 03:00+00','O2',5000,'SGD','CCCC3333',null),
-    ('o3','sg','purchase','2026-10-06 03:00+00','O3',3000,'SGD',null,'PT-001'),       -- 靠产品规则算 PT
-    ('o4','sg','deposit_paid','2026-10-06 03:00+00','O4',500,'SGD','AAAA1111',null);  -- 订金不算成交
+  insert into semantic.respondio_contact_assignee values
+    ('wetrip','c1','u1','Amy'), ('wetrip','c3','u2','Ben'), ('wetrip','c4','u1','Amy'), ('wetrip','c5','u2','Ben');
+  insert into curated.respondio_wetrip_message_hot_30d values
+    ('c1','customer','2026-10-01 10:00+08','2026-10-01'), ('c1','sales-agent','2026-10-01 10:10+08','2026-10-01'),
+    ('c2','customer','2026-10-02 10:00+08','2026-10-02'),
+    ('c3','customer','2026-10-03 10:00+08','2026-10-03'), ('c3','sales-agent','2026-10-03 11:00+08','2026-10-03'),
+    ('c4','sales-agent','2026-10-04 09:00+08','2026-10-04'),   -- 客户来消息之前的销售消息不算回复
+    ('c4','customer','2026-10-04 10:00+08','2026-10-04'), ('c4','sales-agent','2026-10-04 10:01+08','2026-10-04');
 
-  insert into reporting.lead_sales_facts (market, contact_id, sales_key, sales_name, lifecycle, travel_type, first_customer_msg_at, first_agent_reply_at) values
-    ('sg','respondio:1','s1','Amy',null,null,'2026-10-01 02:06+00','2026-10-01 02:16+00'),
-    ('sg','respondio:2','s2','Ben',null,null,'2026-10-01 03:01+00','2026-10-01 03:46+00'),
-    ('sg','respondio:3','s1','Amy','Tour Private',null,'2026-10-01 04:01+00',null),
-    ('sg','respondio:6',null,null,null,'private trip','2026-10-02 04:01+00','2026-10-02 04:06+00');
+  select reporting.refresh_pt_facts();
 `);
 
 // 三类调用方(PGlite 默认是超级用户,超级用户对 pg_has_role 恒为 true,所以测试都切到普通登录):
@@ -77,55 +107,68 @@ await db.exec(`
   create role other_login login; grant authenticated to other_login;
 `);
 const switchTo = (role, claims = {}) => db.exec(`
-  reset session authorization;
+  set session authorization postgres;
   set session authorization ${role};
   set request.jwt.claims = '${JSON.stringify(claims)}';
 `);
-const as = (email) => switchTo('web_user', { email });
-const rows = async (sql) => (await db.query(sql)).rows.map((r) =>
-  Object.fromEntries(Object.entries(r).map(([k, v]) => [k, typeof v === 'string' && /^-?\d+(\.\d+)?$/.test(v) ? Number(v) : v])));
+const num = (v) => (typeof v === 'string' && /^-?\d+(\.\d+)?$/.test(v) ? Number(v) : v);
+const rows = async (sql) => (await db.query(sql)).rows.map((r) => Object.fromEntries(Object.entries(r).map(([k, v]) => [k, num(v)])));
+const pick = (r, keys) => keys.map((k) => r[k]);
 
-await as('Viewer@webuy.global'); // 邮箱大小写不敏感
+await switchTo('web_user', { email: 'Viewer@webuy.global' }); // 邮箱大小写不敏感
 
-const ads = await rows(`select * from reporting.pt_ad_performance('sg', '2026-10-01', '2026-10-31') order by row_type, ad_id`);
+// ---- 表 1:WeTrip ----
+const ads = await rows(`select * from reporting.pt_ad_performance('wetrip', '2026-10-01', '2026-10-31')`);
 const byAd = Object.fromEntries(ads.map((r) => [r.ad_id ?? r.row_type, r]));
-assert.equal(ads.length, 3, 'A1、A2、未归因三行;N1 不是 PT 广告');
-assert.deepEqual(
-  [byAd.A1.spend, byAd.A1.sql_count, byAd.A1.orders, byAd.A1.revenue], [200, 1, 1, 8000],
-  'A1:区间内花费、SQL(联系人 1)、订单 O1 去重');
-assert.deepEqual([byAd.A2.spend, byAd.A2.sql_count, byAd.A2.orders, byAd.A2.revenue], [50, 1, 0, 0]);
-assert.deepEqual(
-  [byAd.unattributed.sql_count, byAd.unattributed.orders, byAd.unattributed.revenue], [1, 2, 8000],
-  '未归因:联系人 3(lifecycle)+ 订单 O2(联系人 3)+ O3(产品规则)');
+assert.deepEqual(Object.keys(byAd).sort(), ['A1', 'A2', 'unattributed'], 'N1 不是 PT 广告,SA 是 SG 的');
+const KEYS = ['spend', 'contacts', 'sql_count', 'orders', 'other_orders', 'revenue', 'revenue_currency'];
+assert.deepEqual(pick(byAd.A1, KEYS), [150, 2, 1, 1, 1, 8000, 'USD'],
+  'A1:区间内花费;cohort c1+c2(c5 lead 在区间前、c6 非硬归因不算);c1 成为 SQL;PT 单 1、其他团型 1;取消单不算');
+assert.deepEqual(pick(byAd.A2, KEYS), [30, 1, 1, 0, 0, 0, 'USD'], 'A2:c3 的 WFIT 单只有低置信匹配,不算成交');
+assert.equal(byAd.A1.spend_currency, 'SGD', '花费按广告账户原币');
+assert.deepEqual(pick(byAd.unattributed, ['sql_count', 'orders', 'revenue']), [null, 3, 9000],
+  '未归因:区间内 PT 单里不是从 PT 广告来的 —— 3 号(无链接)、4 号(c4 来自非 PT 广告)、6 号(低置信)');
+assert.ok(byAd.A1.snapshot_at, '带快照时间');
 
-const sales = await rows(`select * from reporting.pt_sales_performance('sg', '2026-10-01', '2026-10-31')`);
+// ---- 表 1:SG(市场隔离)----
+const sgAds = await rows(`select * from reporting.pt_ad_performance('sg', '2026-10-01', '2026-10-31')`);
+const sgBy = Object.fromEntries(sgAds.map((r) => [r.ad_id ?? r.row_type, r]));
+assert.deepEqual(pick(sgBy.SA, KEYS), [40, 1, 1, 0, 1, 0, 'SGD'], 'SG:PT 广告带来的人买了跟团单 → 其他团型 1');
+assert.deepEqual(pick(sgBy.unattributed, ['orders', 'revenue']), [1, 7000], 'SG:Altitude PRV 算 PT');
+
+// ---- 表 2:WeTrip ----
+const sales = await rows(`select * from reporting.pt_sales_performance('wetrip', '2026-10-01', '2026-10-31')`);
 const bySales = Object.fromEntries(sales.map((r) => [r.sales_key, r]));
-assert.deepEqual(
-  [bySales.s1.sql_count, bySales.s1.conversations, bySales.s1.replied, bySales.s1.avg_first_response_sec, bySales.s1.late_count, bySales.s1.orders, bySales.s1.revenue],
-  [2, 2, 1, 600, 1, 2, 13000], 'Amy:联系人 1+3;未回复计入超时;订单 O1+O2');
-assert.deepEqual(
-  [bySales.s2.sql_count, bySales.s2.avg_first_response_sec, bySales.s2.late_count, bySales.s2.orders], [1, 2700, 1, 0],
-  'Ben:45 分钟回复算超时');
-assert.deepEqual(
-  [bySales.__unassigned.sales_name, bySales.__unassigned.conversations, bySales.__unassigned.late_count, bySales.__unassigned.orders, bySales.__unassigned.revenue],
-  ['(未分配)', 1, 0, 1, 3000], '未分配:联系人 6 + 没有联系人的订单 O3');
+const SK = ['sales_name', 'sql_count', 'conversations', 'replied', 'avg_first_response_sec', 'median_first_response_sec', 'late_count', 'orders', 'revenue'];
+assert.deepEqual(pick(bySales.u1, SK), ['Amy', 2, 2, 2, 330, 330, 0, 2, 11000],
+  'Amy:SQL c1 + c4(c4 因买了 PT 算 PT 联系人);首响 600s / 60s;SQL 之后的 PT 单 1 号 + 4 号');
+assert.deepEqual(pick(bySales.u2, SK), ['Ben', 2, 1, 1, 3600, 3600, 1, 0, 0],
+  'Ben:SQL c3 + c5(c5 lead 早但首次 SQL 在区间内);c3 首响 1 小时算超时');
+assert.deepEqual(pick(bySales.__unassigned, ['sales_name', 'sql_count', 'conversations', 'replied', 'late_count']),
+  ['(未分配)', 0, 1, 0, 1], '未分配:c2 没回复,计入超时');
+assert.deepEqual(pick(bySales.__offline, ['sql_count', 'orders', 'revenue']), [null, 2, 6000],
+  '未链接 Respond:3 号(无链接)+ 6 号(只有低置信)');
 
+// ---- 权限与参数 ----
 await assert.rejects(db.query(`select * from reporting.pt_ad_performance('id', '2026-10-01', '2026-10-31')`), /not allowed/, '没授权的市场');
 await assert.rejects(db.query(`select * from reporting.pt_ad_performance('sg', '2026-10-31', '2026-10-01')`), /date range/, '日期倒置');
-await as('someone@webuy.global');
-await assert.rejects(db.query(`select * from reporting.pt_sales_performance('sg', '2026-10-01', '2026-10-31')`), /not allowed/, '不在白名单');
+await assert.rejects(db.query(`select count(*) from reporting.pt_contact_mv`), /permission denied/, '网页用户读不到快照');
+await switchTo('web_user', { email: 'someone@webuy.global' });
+await assert.rejects(db.query(`select * from reporting.pt_sales_performance('wetrip', '2026-10-01', '2026-10-31')`), /not allowed/, '不在白名单');
 
-// 只读登录:不需要 JWT,能看全部市场;但读不到原始表、白名单表和内部函数
 await switchTo('bi_reader');
-assert.equal((await rows(`select * from reporting.pt_ad_performance('sg', '2026-10-01', '2026-10-31')`)).length, 3, '只读登录看 SG');
+assert.equal((await rows(`select * from reporting.pt_ad_performance('wetrip', '2026-10-01', '2026-10-31')`)).length, 3, '只读登录看 WeTrip');
 assert.ok(await rows(`select * from reporting.pt_sales_performance('id', '2026-10-01', '2026-10-31')`), '只读登录看 ID');
-await assert.rejects(db.query(`select count(*) from tracking.lead_stage_history`), /permission denied/, '只读登录读不到原始表');
+await assert.rejects(db.query(`select count(*) from semantic.contact_order_link`), /permission denied/, '只读登录读不到语义层原表');
+await assert.rejects(db.query(`select count(*) from reporting.pt_order_mv`), /permission denied/, '只读登录读不到快照');
 await assert.rejects(db.query(`select count(*) from reporting.dashboard_viewers`), /permission denied/, '只读登录读不到白名单');
-await assert.rejects(db.query(`select * from reporting._sql_attributed('sg', '2026-10-01', '2026-10-31')`), /permission denied/, '内部函数不对外');
+await assert.rejects(db.query(`select reporting.refresh_pt_facts()`), /permission denied/, '只读登录不能刷新快照');
 
-// 普通登录:没有白名单邮箱也不在只读组
 await switchTo('other_login');
 await assert.rejects(db.query(`select * from reporting.pt_ad_performance('sg', '2026-10-01', '2026-10-31')`), /not allowed/, '普通登录被拒');
-await db.exec('reset session authorization');
 
-console.log('reporting functions: all assertions passed');
+// ---- 快照可重复刷新(第二次走 CONCURRENTLY)----
+await db.exec('set session authorization postgres');
+await db.exec('select reporting.refresh_pt_facts()');
+
+console.log('reporting snapshots + functions: all assertions passed');

@@ -7,8 +7,7 @@ name: private-tour-dashboard
 description: Private Tour 广告 → SQL → 成交漏斗 + 销售跟进表现的内部看板
 type: INTERNAL_TOOL
 playbook:
-  - PLAYBOOKS/04-internal-tool.md        # 看板本体
-  - PLAYBOOKS/05-data-pipeline.md        # 广告花费 / 销售事实两张输入表的同步任务
+  - PLAYBOOKS/04-internal-tool.md        # 看板本体;数据读数据中台语义层,快照由数据中台 pg_cron 每小时刷新
 ```
 
 ## 业务信息
@@ -19,8 +18,8 @@ owner_email: jerry@webuy.global
 backup_contact: TBD
 team: Commercial · Product
 reviewers:
-  data_platform_owner: 显方        # 执行 reporting 迁移、暴露 schema、维护白名单
-  tracking_owner: Luna            # tracking schema(点击 / 线索阶段 / 订单事件)
+  data_platform_owner: 显方        # 执行 reporting 迁移、挂 pg_cron、暴露 schema、维护白名单
+  data_access: Vincent            # SEABEAR token / 飞书登录问题
 lifecycle:
   status: planning
   expected_lifetime: 长期
@@ -45,7 +44,7 @@ pii_details: >
   看板只读两个 SECURITY DEFINER 函数的聚合结果(按广告 / 按销售)。
   不返回任何客户手机号、邮箱、姓名、contact id。
   销售姓名属于员工信息,只对白名单内的人可见。
-cross_region_data_transfer: NO      # 不复制数据;读的是数据平台已有的 market 分区数据
+cross_region_data_transfer: NO      # 不复制数据;快照留在数据中台同一个库里
 production_impact: NO               # 只读,不写 tracking / SkyBear / Respond.io
 compliance_level: MEDIUM            # 含销售个人绩效
 access_control:
@@ -61,7 +60,7 @@ access_control:
 stack:
   frontend: Next.js 14 (App Router)
   backend: Next.js Server Components → Supabase RPC
-  database: Supabase Postgres(数据平台 project,schema reporting;读 schema tracking)
+  database: Supabase Postgres(数据中台 project;新建 schema reporting,只读 semantic / curated)
   storage: 不需要
   auth: Supabase Auth
   hosting: Vercel(公司 team)

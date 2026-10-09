@@ -51,13 +51,19 @@ function allocate(total: number, weights: number[]): number[] {
   return parts;
 }
 
+// 广告账户币种:WeTrip 账户按 SGD 计花费,订单是 USD(与数据中台一致,ROI 会显示"币种不同")
+const SPEND_CURRENCY: Record<Market, string> = { sg: 'SGD', id: 'IDR', wetrip: 'SGD' };
+const SPEND_FX_FROM_SGD: Record<Market, number> = { sg: 1, id: 12000, wetrip: 1 };
+
 export function demoData(q: Query): { ads: AdRow[]; sales: SalesRow[] } {
   const rand = rng(`${q.market}|${q.from}|${q.to}`);
   const fx = FX_FROM_SGD[q.market];
   const cur = MARKET_CURRENCY[q.market];
+  const spendCur = SPEND_CURRENCY[q.market];
   const n = days(q);
   const jitter = (base: number, spread = 0.25) => base * (1 - spread + rand() * spread * 2);
   const money = (sgd: number) => Math.round(sgd * fx);
+  const snapshot = new Date(Date.now() - 20 * 60 * 1000).toISOString();
 
   let adSql = 0;
   let adOrders = 0;
@@ -65,6 +71,7 @@ export function demoData(q: Query): { ads: AdRow[]; sales: SalesRow[] } {
   const ads: AdRow[] = DEMO_ADS.map((a, i) => {
     const spendSgd = jitter(a.dailySpend * n);
     const sql = Math.round(spendSgd / jitter(a.cpsql, 0.2));
+    const contacts = Math.round(sql / jitter(0.6, 0.2));
     const orders = Math.round(sql * jitter(a.conv, 0.3));
     const revenue = money(orders * jitter(a.aov, 0.15));
     adSql += sql;
@@ -76,17 +83,20 @@ export function demoData(q: Query): { ads: AdRow[]; sales: SalesRow[] } {
       campaign_name: a.campaign,
       ad_id: `demo-ad-${i + 1}`,
       ad_name: a.name,
-      spend: money(spendSgd),
-      spend_currency: cur,
+      spend: Math.round(spendSgd * SPEND_FX_FROM_SGD[q.market]),
+      spend_currency: spendCur,
+      contacts,
       sql_count: sql,
       orders,
+      other_orders: Math.round(sql * jitter(0.03, 0.5)),
       revenue,
       revenue_currency: cur,
+      snapshot_at: snapshot,
     };
   });
 
-  const unSql = Math.round(adSql * jitter(0.22));
-  const unOrders = Math.round(unSql * jitter(0.12));
+  // 其他来源的 PT 订单(按下单日期):非 PT 广告 / 自然流量 / 门店
+  const unOrders = Math.round(adOrders * jitter(1.6, 0.2));
   const unRevenue = money(unOrders * jitter(9000, 0.15));
   ads.push({
     row_type: 'unattributed',
@@ -96,17 +106,20 @@ export function demoData(q: Query): { ads: AdRow[]; sales: SalesRow[] } {
     ad_name: null,
     spend: 0,
     spend_currency: cur,
-    sql_count: unSql,
+    contacts: null,
+    sql_count: null,
     orders: unOrders,
+    other_orders: null,
     revenue: unRevenue,
     revenue_currency: cur,
+    snapshot_at: snapshot,
   });
 
-  const totalSql = adSql + unSql;
-  const totalOrders = adOrders + unOrders;
-  const totalRevenue = adRevenue + unRevenue;
+  // 销售表:PT 联系人 = PT 广告来的 + 后来买了 PT 的,所以 SQL 比广告表多一些
+  const totalSql = Math.round(adSql * jitter(1.15, 0.05));
+  const totalOrders = adOrders + Math.round(unOrders * 0.4);
+  const totalRevenue = adRevenue + Math.round(unRevenue * 0.4);
 
-  // 销售表与广告表对得上:总 SQL / 订单按权重分给各销售(含未分配),余数给权重最大的
   const sqlWeights = [...DEMO_SALES.map((s) => jitter(s.share, 0.1)), 0.03];
   const orderWeights = sqlWeights.map((w, i) => (i < DEMO_SALES.length ? w * (DEMO_SALES[i].conv / 0.13) : 0));
   const sqlAlloc = allocate(totalSql, sqlWeights);
@@ -114,33 +127,31 @@ export function demoData(q: Query): { ads: AdRow[]; sales: SalesRow[] } {
   const revenueAlloc = allocate(totalRevenue, orderAlloc.map((o) => o * jitter(1, 0.1)));
 
   const sales: SalesRow[] = DEMO_SALES.map((s, i) => {
-    const sql = sqlAlloc[i];
-    const conversations = Math.round(sql * jitter(2.3, 0.15));
+    const conversations = Math.round(sqlAlloc[i] * jitter(4, 0.15));
     const replied = Math.round(conversations * jitter(0.93, 0.05));
     const avg = jitter(s.respMin * 60, 0.2);
     const lateShare = Math.min(0.9, Math.max(0.02, (s.respMin / 60) * jitter(0.9, 0.2)));
-    const orders = orderAlloc[i];
     return {
       sales_key: s.key,
       sales_name: s.name,
-      sql_count: sql,
+      sql_count: sqlAlloc[i],
       conversations,
       replied,
       avg_first_response_sec: avg,
       median_first_response_sec: avg * jitter(0.7, 0.1),
       late_count: Math.min(conversations, Math.round(replied * lateShare) + (conversations - replied)),
-      orders,
+      orders: orderAlloc[i],
       revenue: revenueAlloc[i],
       revenue_currency: cur,
+      snapshot_at: snapshot,
     };
   });
 
-  const unassignedSql = sqlAlloc[DEMO_SALES.length];
-  const unassignedConvs = Math.max(unassignedSql, Math.round(totalSql * 0.1));
+  const unassignedConvs = Math.max(sqlAlloc[DEMO_SALES.length], Math.round(totalSql * 0.3));
   sales.push({
     sales_key: '__unassigned',
     sales_name: '(未分配)',
-    sql_count: unassignedSql,
+    sql_count: sqlAlloc[DEMO_SALES.length],
     conversations: unassignedConvs,
     replied: Math.round(unassignedConvs * 0.6),
     avg_first_response_sec: jitter(55 * 60),
@@ -149,6 +160,21 @@ export function demoData(q: Query): { ads: AdRow[]; sales: SalesRow[] } {
     orders: 0,
     revenue: 0,
     revenue_currency: cur,
+    snapshot_at: snapshot,
+  });
+  sales.push({
+    sales_key: '__offline',
+    sales_name: '未链接 Respond 的 PT 订单',
+    sql_count: null,
+    conversations: null,
+    replied: null,
+    avg_first_response_sec: null,
+    median_first_response_sec: null,
+    late_count: null,
+    orders: Math.round(unOrders * 0.6),
+    revenue: Math.round(unRevenue * 0.6),
+    revenue_currency: cur,
+    snapshot_at: snapshot,
   });
 
   return { ads, sales };

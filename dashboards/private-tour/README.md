@@ -1,103 +1,108 @@
 # Private Tour 数据看板
 
-盯 Private Tour 的投放和销售跟进:哪条广告带来 SQL、每个 SQL 花多少钱、最后成交多少;每个销售接了多少 SQL、回复多快、成交多少。
+盯 Private Tour 的投放和销售跟进:哪条广告带来 SQL、每个 SQL 花多少钱、最后成交多少;每个销售接了多少 SQL、回复多快、成交多少。数据来自**数据中台**(与 SEABEAR 同一套语义层口径)。
 
 ![示例数据预览](docs/preview.png)
 
-> 截图是**示例数据**(合成的广告、销售和数字)。没配 Supabase 时看板自动进入示例模式,用来确认版式和口径。
+> 截图是**示例数据**(合成的广告、销售和数字)。没配数据中台连接时看板自动进入示例模式,用来确认版式和口径。
 
 ## 看板内容
 
-**顶部 6 个数**:广告花费 · SQL · CPSQL · 成交 · 成交金额 · ROI(每个数下面附 “广告归因” 的那部分)。
+**顶部 6 个数**:广告花费 · SQL · CPSQL · 成交 · 成交金额 · ROI,和表 1 的“广告合计”同一口径。
 
-**表 1:Private Tour 广告**
+**表 1:Private Tour 广告**(cohort 口径:日期 = 线索进来的日期)
 
 | 列 | 算法 |
 |---|---|
 | 广告名称 | 广告名 + 平台 + 广告系列 |
-| 花费 | 区间内该广告花费 |
-| SQL | 区间内**首次**成为 SQL、且 last-touch 是这条广告的联系人数 |
+| 花费 | 区间内该广告花费(广告账户原币) |
+| 线索 | 区间内成为 lead、**硬归因**(广告 ID 匹配)到这条广告的 Respond 联系人 |
+| SQL | 上述线索里后来成为 AUTO SQL 的人数 |
 | CPSQL | 花费 ÷ SQL |
-| 成交 | 区间内付款、last-touch 是这条广告的订单数 |
-| 金额 | 上述订单金额合计 |
+| 成交 | 上述线索后来下的 Private Tour 有效订单 |
+| 金额 | 上述订单金额(订单原币) |
 | 转化率 | 成交 ÷ SQL |
-| ROI | 金额 ÷ 花费(倍数;未扣成本。要毛利 ROI 需接成本数据) |
+| ROI | 金额 ÷ 花费(倍数,未扣成本;花费和订单币种不同时不计算) |
+| 其他团型成交 | 上述线索后来买的**不是** Private Tour(跟团 / 单项等) |
 
-末尾固定一行 **“未归因到 PT 广告”**:命中 Private Tour 规则(lifecycle / travel type / 产品)但不是从 PT 广告进来的线索和订单,不丢。合计分两行:广告合计、Private Tour 总计(含未归因,混合口径)。
+末尾固定一行 **“其他来源的 PT 订单”**:按下单日期统计、不是从 PT 广告进来的 Private Tour 订单(其他广告 / 自然流量 / 门店 / 链不到 Respond),不丢。
 
-**表 2:销售表现**
+**表 2:销售表现**(日期 = 首次 AUTO SQL 的日期)
 
 | 列 | 算法 |
 |---|---|
-| 销售 | Respond.io 当前分配人(→ SkyBear salesId);没分配的归 “(未分配)” |
-| SQL | 区间内首次成为 SQL 的 Private Tour 联系人 |
-| 会话数 | 首条客户消息落在区间内的 Private Tour 会话 |
-| 平均首响 / 中位首响 | 客户第一条消息 → 销售第一次回复;未回复不进平均值 |
+| 销售 | Respond 当前分配人;没分配的归“(未分配)” |
+| SQL | 区间内首次成为 AUTO SQL 的 Private Tour 联系人(来自 PT 广告,或后来买了 PT) |
+| 会话数 | 区间内客户首次来消息的会话(近 30 天内,不限 Private Tour) |
+| 平均首响 / 中位首响 | 客户第一条消息 → 之后第一条销售消息;未回复不进平均值 |
 | 超时率 | 未回复或首响 > 30 分钟的会话占比(与 sales-leads-quality-hub 日报同阈值) |
-| 订单 / 销售额 | 区间内付款的 Private Tour 订单,归给该联系人的销售 |
+| 订单 / 销售额 | 这些 SQL 联系人之后下的 Private Tour 有效订单 |
 | 转化率 | 订单 ÷ SQL |
 
-两张表都能点表头排序、导出 CSV;可切市场(Webuy SG / Webuy ID / WeTrip)和日期(近 7 天 / 近 30 天 / 本月 / 上月 / 自定义)。日期按市场本地时区切日。
+末尾固定一行 **“未链接 Respond 的 PT 订单”**:按下单日期统计、电话匹配不到本市场 Respond 联系人的 PT 订单(门店 / 线下 / 缺电话)。
 
-## 数据怎么连(读 `webuytravel/ai-project-template` 得出的接法)
+两张表都能点表头排序、导出 CSV;可切市场(Webuy SG / Webuy ID / WeTrip)和日期(近 7 天 / 近 30 天 / 本月 / 上月 / 自定义)。
 
-按模板的决策树:内部 dashboard = **INTERNAL_TOOL → PLAYBOOK 04 → Vercel + Supabase**,数据放在公司**数据平台 Supabase**(模板 infra map:“Supabase = 中央数据平台,Dashboards 从这里读”)。不直连华为云 Travel MySQL(模板禁止在核心后台做分析查询),也不新建账号 / 新库(F21–F22)。
+## 口径
 
-广告 → 线索 → 订单的归因数据,`webuy-tracking-system` 已经写在数据平台的 `tracking` schema 里,看板直接复用:
+全部沿用数据中台 catalog 的业务铁律(`describe` 里的 business_rules):
+
+- **市场**:SG = `wbt_sg` 非 WeTrip 订单(WebuyTravel + Altitude,SGD)+ Respond `sg_webuytravel`;WeTrip = `is_wetrip_order`(USD)+ Respond `wetrip`;ID = `wbt_id`(IDR)+ Respond `id_webuytravel`。不同币种不相加。
+- **Private Tour 订单** = `order_sales_view.is_effective` 且团型命中规则:SG 的 WebuyTravel PRV(3)、Altitude PRV(6);WeTrip 的 WPRV(5)、WFIT(9,WeTrip 统一口径计入 Private Tour);ID 的 PRV(3)。
+- **Private Tour 广告** = 广告系列 / 广告组 / 广告名命中正则(Private Tour、[Standard PT]、SPT、私家定制)。
+- 规则都在 `reporting.pt_rules`,改规则不用改代码,下次快照刷新生效。
+- **SQL** = `respondio_auto_sql_contact_fact`(Respond AUTO SQL,已排除人工剔除的误报)。
+- **成交**:`contact_order_link` 高置信匹配(`match_confidence >= 0.95`),下单不早于咨询;一张订单只记给一个联系人,不在广告之间重复计。
+- **归因**:默认 cohort(数据中台 `ad_business_attribution` 的默认口径),只算 `confirmed_ad` 的硬归因。
+
+## 数据怎么连
+
+按 `webuytravel/ai-project-template` 的决策树:内部 dashboard = **INTERNAL_TOOL → PLAYBOOK 04 → Vercel + Supabase**,数据读公司**数据中台 Supabase**,不直连华为云 Travel MySQL,不新建账号或新库。
 
 ```
-广告点击(网站 / CTWA)                Respond.io                     支付回调
-        │ short_code + ad_id              │ 阶段 WA_Contact/SQL/Deal       │ purchase + 金额
-        ▼                                 ▼                                ▼
-tracking.tracking_clicks ◄─short_code─ tracking.lead_stage_history   tracking.order_conversion_events
-        │                                 │                                │
-        └──────────────── reporting.pt_ad_performance / pt_sales_performance ┘
-                                 ▲                 ▲
-              reporting.ad_spend_daily     reporting.lead_sales_facts      ← 本项目新增的两张输入表
-              (Meta / Google 花费)         (销售归属 + 首响时间)
-                                 │
-                       Next.js 看板(Vercel,Supabase Auth 登录)
+数据中台语义层(semantic / curated,只读)
+  meta_ad_daily_metrics · ad_campaigns           广告与花费
+  respondio_contact_attribution_fact            联系人 → 广告
+  respondio_auto_sql_contact_fact               AUTO SQL
+  contact_order_link · order_sales_view         联系人 ↔ 订单、订单真值(团型)
+  respondio_contact_assignee · message_hot_30d  销售归属、首响
+        │  pg_cron 每小时 reporting.refresh_pt_facts()
+        ▼
+reporting.pt_*_mv  五张小快照(只含 Private Tour 相关行)
+        │  SECURITY DEFINER,入口查白名单 / 只读组
+        ▼
+reporting.pt_ad_performance · reporting.pt_sales_performance
+        │
+        ├── Next.js 看板(Vercel,Supabase Auth 公司邮箱登录,PostgREST)
+        └── BI / AI 只读体检(专用只读登录 + pt_dashboard_readonly 组)
 ```
 
-| 指标 | 来源 | 状态 |
-|---|---|---|
-| 广告点击、ad_id、追踪码 | `tracking.tracking_clicks` | ✅ 已有 |
-| SQL | `tracking.lead_stage_history`(stage = 'SQL') | ✅ 已有 |
-| 成交、金额 | `tracking.order_conversion_events`(purchase) | 🟡 目前只接了 ID 和 WeTrip,**SG 订单还没进** |
-| 广告花费 | `reporting.ad_spend_daily` | 🟡 新表,需要同步任务 |
-| 销售归属、首响时间、lifecycle | `reporting.lead_sales_facts` | 🟡 新表,需要 Respond.io 轮询顺带写 |
-| 什么算 Private Tour | `reporting.pt_rules` | ✅ 新表,带默认规则,可改 |
+**为什么用快照**:口径要串好几个大视图,现场算一次 10–20 秒,超过 PostgREST 给网页请求的超时。快照和数据中台 V194 联系人匹配快照是同一做法,看板只在小表上汇总,页面打开是毫秒级。
 
-看板本身**只能调两个函数**,不读任何表:函数是 `SECURITY DEFINER`,入口只放行两类调用方:网页登录用户按 `reporting.dashboard_viewers`(邮箱 × 市场白名单)放行,SG、ID 按人分别授权;数据库只读登录要被 DBA 授予 `pt_dashboard_readonly` 组。输出只有聚合数,不含客户手机号 / 邮箱 / 姓名 / contact id。
+**权限**:看板用户和只读组都读不到任何表和快照,只能调两个函数。网页用户按 `reporting.dashboard_viewers`(邮箱 × 市场)放行,SG / ID / WeTrip 分开授权;数据库只读登录要被 DBA 授予 `pt_dashboard_readonly` 组(和 IDN 漏斗看板的 `idn_funnel_readonly` 同一做法)。输出只有聚合数,不含客户姓名、电话、contact id。
 
-## 上线前还要做的事
+**AI 问数**走数据中台的 SEABEAR MCP:claude.ai → Settings → Connectors → SEABEAR → Connect(飞书登录);Claude Code 等命令行工具用个人 token(找 Vincent 要)。步骤见飞书文档《SEABEAR 数据中台 · 接入指南》。token 不进 git、不贴聊天;Claude Code 云端会话把 token 配在环境变量 `SEABEAR_MCP_TOKEN`。
 
-按先后顺序。括号里是建议的负责人(来自各仓库 PROJECT.md)。
+## 已知缺口
 
-1. **执行迁移**(数据平台 DBA · 显方):`supabase/migrations/` 两个文件;在 Supabase → API → Exposed schemas 加 `reporting`;把看板用户加进 `reporting.dashboard_viewers`。
-2. **广告花费同步**(Marketing Tech):每天把 Meta Insights(level=ad)和 Google Ads(ad_group_ad, cost_micros)写进 `reporting.ad_spend_daily`。按 PLAYBOOK 05 做成 Cloudflare Worker cron(`webuy-pt-ad-spend-sync-prod`)。数据平台如果已有广告花费 / 广告维表,建一个同名 view 指过去就行,函数不用改。
-3. **销售事实**(Sales Ops / Respond.io 轮询 owner):把 `assignee` → salesId、`lifecycle`、首条客户消息时间、首次回复时间写进 `reporting.lead_sales_facts`。`sales-leads-quality-hub` 的日报已经在算首响(`daily-report.js`),逻辑可直接搬。
-4. **SG 订单**(tracking · Luna):`order_conversion_events` 目前只允许 `id` / `wetrip`。SG 看板要有成交数,需要把 SkyBear SG 的付款事件也接进来(同一个 webhook 契约)。在这之前 SG 的成交 / 金额 / ROI 会显示 0。
-5. **确认 Private Tour 规则**(Product + Marketing):默认 “广告系列或广告名含 private” + Respond.io lifecycle `tour private` + travel type `Private Trip`。如果广告命名约定是 `PT_` 前缀,往 `reporting.pt_rules` 加一行 `('campaign_name_ilike', 'PT\_%')`。
-6. **部署**(owner):公司 Vercel team 新建项目 `private-tour-dashboard`,Root Directory 选 `dashboards/private-tour`,配 `.env.example` 里的 3 个变量。Supabase 凭据按 `ai-project-template/COMPLIANCE/access-request.md` 申请,不要自己注册账号。
+- **AI Sales 平台的会话 / SQL 还没算进来**。数据中台把 AI Sales 和 Respond 当成两个独立来源,规定分开统计。部分广告(如 WeTrip `SPT-在投`、带 `AI-WA` 的)把会话引到 AI Sales,在 Respond 里没有线索,所以表 1 会低估这些广告。要补的话,按数据中台规则单独加一套 AI Sales 口径(`semantic.ai_sales_*`),和 Respond 并列展示。
+- **首响含自动回复**:消息表 `sender_name` 采集侧为空,分不出人工 / 自动回复 / AI;而且只保留近 30 天。要算真人首响,需要数据中台在消息表补发送方类型。
+- **WeTrip 的 ROI 不显示**:广告花费是 SGD、订单是 USD,数据中台规定未换汇不能相除。需要数据中台提供汇率表,或约定固定汇率。
+- **很多 SG 的 PT 订单链不到 Respond**(门店 / 线下 / 缺电话),这些单进了“其他来源”和“未链接 Respond”两行,算不到具体广告和销售头上。
+- **Google Ads 目前没有命中 PT 规则的系列**;代码已支持 Google 广告组粒度,有了就会出现。
 
-## 接入数据中台
+## 上线步骤
 
-数据中台对外有两种只读接法,看板分别都能用上:
+按先后顺序。括号里是建议的负责人。
 
-| 谁 | 怎么连 | 能看到什么 |
-|---|---|---|
-| **AI 助手 / 业务同事问数** | **SEABEAR** MCP(数据中台自己的只读服务)。claude.ai → Settings → Connectors → SEABEAR → Connect,用公司飞书账号登录;Claude Code 等命令行工具用个人静态 token(找 Vincent 要)。步骤见飞书文档《SEABEAR 数据中台 · 接入指南》 | 数据中台 catalog 里的数据,只读 |
-| **BI 工具 / 只读体检** | 数据库专用只读登录 + `pt_dashboard_readonly` 组(和 IDN 漏斗看板的 `idn_funnel_readonly` 同一做法) | **只能**调两个看板函数,全部市场;读不到原始表 |
-| **看板网页** | Supabase Auth 公司邮箱登录 → PostgREST 调两个看板函数 | 按 `reporting.dashboard_viewers` 白名单分市场 |
-
-接入前先跑只读体检 `supabase/checks/preflight.sql`(只输出聚合数):函数依赖的列在不在、各市场近 30 天点击 / SQL / 订单量、SQL 能归因到广告的比例、哪些市场已有 purchase 事件。可以经 SEABEAR 问,也可以让 DBA 在 SQL Editor 里跑。
-
-几条规矩:
-
-- token、密码都不进 git、不贴聊天。Claude Code 云端会话要用 SEABEAR token,配在云端环境设置的环境变量里(变量名 `SEABEAR_MCP_TOKEN`),新开会话生效。
-- 云端会话只放行 HTTPS:SEABEAR 能连,`psql` 直连 Postgres(5432 / 6543)不通。
-- 迁移(`supabase/migrations/`)按 tracking 仓库的惯例由数据中台 DBA review 后执行;DBA 执行完再 `GRANT pt_dashboard_readonly TO "<已有的只读登录>"`,验证语句在第二份迁移末尾。AI 只读接入,不写库。
+1. **只读体检**(任何人,经 SEABEAR 或 SQL Editor):跑 `supabase/checks/preflight.sql`,确认依赖的列都在、数据新鲜。
+2. **执行迁移**(数据中台 DBA · 显方):按顺序执行 `supabase/migrations/` 的三个文件,然后:
+   - `select reporting.refresh_pt_facts();` 首次填充快照(联系人快照全量约 15 秒);
+   - `select cron.schedule('reporting-pt-refresh', '35 * * * *', 'select reporting.refresh_pt_facts()');` 每小时刷新(错开数据中台 :25 的联系人快照);
+   - Supabase → API settings → Exposed schemas 加 `reporting`;
+   - 把看板用户加进 `reporting.dashboard_viewers`,BI 只读登录 `GRANT pt_dashboard_readonly TO "<已有只读登录>"`(验证语句在第三份迁移末尾)。
+3. **确认 Private Tour 规则**(Product + Marketing):团型和广告命名正则是否符合业务;有新的命名约定,往 `reporting.pt_rules` 加一行。
+4. **部署**(owner):公司 Vercel team 新建项目 `private-tour-dashboard`,Root Directory 选 `dashboards/private-tour`,配 `.env.example` 里的 3 个变量。Supabase 凭据按 `ai-project-template/COMPLIANCE/access-request.md` 申请,不要自己注册账号。
 
 ## 本地运行
 
@@ -106,10 +111,10 @@ cd dashboards/private-tour
 npm ci
 npm run dev          # http://localhost:3000;不配 .env.local 就是示例数据模式
 npm run typecheck
-npm run test:sql     # 用内嵌 Postgres 跑迁移 + 合成数据,校验两个函数的口径和权限
+npm run test:sql     # 内嵌 Postgres 跑三份迁移 + 合成数据,校验快照、两个函数的口径和权限
 ```
 
-连真实数据:复制 `.env.example` 为 `.env.local`(已 gitignore),填 Supabase URL 和 anon key,用白名单里的公司邮箱登录。
+连真实数据:复制 `.env.example` 为 `.env.local`(已 gitignore),填数据中台 Supabase URL 和 anon key,用白名单里的公司邮箱登录。
 
 ## 文件
 
@@ -126,9 +131,12 @@ dashboards/private-tour/
 │   ├── query.ts                 URL 参数 → 市场与日期
 │   └── demo-data.ts             合成示例数据
 ├── supabase/
-│   ├── migrations/              reporting schema:输入表 + 两个看板函数
-│   ├── checks/preflight.sql     接入前只读体检
-│   └── tests/functions.test.mjs SQL 口径测试
+│   ├── migrations/
+│   │   ├── …0001_reporting_config.sql     PT 规则、白名单、只读组
+│   │   ├── …0002_reporting_pt_facts.sql   五张小时级快照 + 刷新函数
+│   │   └── …0003_reporting_pt_functions.sql  两个看板函数 + 权限
+│   ├── checks/preflight.sql     执行迁移前的只读体检
+│   └── tests/functions.test.mjs SQL 口径与权限测试
 ├── CLAUDE.md · PROJECT.md       ai-project-template 要求的项目文件
 └── .env.example
 ```

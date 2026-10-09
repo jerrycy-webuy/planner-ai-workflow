@@ -1,76 +1,61 @@
--- 接入数据中台前的只读体检(不建表、不写数据,只输出聚合数,不含任何客户字段)
--- 用途:执行 reporting 迁移之前,确认 tracking schema 的字段和数据量撑得起看板口径。
--- 可在 Supabase SQL Editor 里整段执行,也可以用只读连接逐段跑。
+-- 执行迁移前的只读体检(不建表、不写数据,只输出聚合数,不含任何客户字段)
+-- 用途:确认快照依赖的数据中台对象和列都在、数据是新鲜的。可在 SQL Editor 整段执行,
+-- 也可以经 SEABEAR run_sql 逐段跑(每段都在 15 秒内)。
 
--- 1) 函数依赖的列是否都在(缺列会让迁移里的函数创建失败)
-with need(table_name, column_name) as (values
-  ('tracking_clicks', 'market'), ('tracking_clicks', 'event_time'), ('tracking_clicks', 'short_code'),
-  ('tracking_clicks', 'ad_id'), ('tracking_clicks', 'is_test_traffic'),
-  ('lead_stage_history', 'market'), ('lead_stage_history', 'contact_id'),
-  ('lead_stage_history', 'respond_io_contact_id'), ('lead_stage_history', 'stage'),
-  ('lead_stage_history', 'occurred_at'), ('lead_stage_history', 'short_code'),
-  ('order_conversion_events', 'market'), ('order_conversion_events', 'event_name'),
-  ('order_conversion_events', 'occurred_at'), ('order_conversion_events', 'order_ref'),
-  ('order_conversion_events', 'value'), ('order_conversion_events', 'currency'),
-  ('order_conversion_events', 'short_code'), ('order_conversion_events', 'product_id')
+-- 1) 快照依赖的列是否都在(缺列会让 202610090002 的物化视图创建失败)
+with need(obj, column_name) as (values
+  ('curated.meta_ad_daily_metrics', 'date'), ('curated.meta_ad_daily_metrics', 'account_id'),
+  ('curated.meta_ad_daily_metrics', 'campaign_name'), ('curated.meta_ad_daily_metrics', 'adset_name'),
+  ('curated.meta_ad_daily_metrics', 'ad_id'), ('curated.meta_ad_daily_metrics', 'ad_name'),
+  ('curated.meta_ad_daily_metrics', 'spend'), ('curated.meta_ad_daily_metrics', 'currency'),
+  ('curated.meta_ad_dimension', 'account_region'), ('curated.meta_ad_dimension', 'last_seen_at'),
+  ('curated.ad_campaigns', 'source_system'), ('curated.ad_campaigns', 'account_region'),
+  ('curated.ad_campaigns', 'group_id'), ('curated.ad_campaigns', 'group_name'), ('curated.ad_campaigns', 'cost'),
+  ('semantic.respondio_contact_attribution_fact', 'region'), ('semantic.respondio_contact_attribution_fact', 'respondio_contact_id'),
+  ('semantic.respondio_contact_attribution_fact', 'lead_date'), ('semantic.respondio_contact_attribution_fact', 'ad_id'),
+  ('semantic.respondio_contact_attribution_fact', 'adset_id'), ('semantic.respondio_contact_attribution_fact', 'confirmed_ad'),
+  ('semantic.respondio_auto_sql_contact_fact', 'region'), ('semantic.respondio_auto_sql_contact_fact', 'auto_sql_date'),
+  ('semantic.contact_order_link', 'region'), ('semantic.contact_order_link', 'order_business_entity'),
+  ('semantic.contact_order_link', 'match_confidence'), ('semantic.contact_order_link', 'booking_date'),
+  ('semantic.order_sales_view', 'is_effective'), ('semantic.order_sales_view', 'is_wetrip_order'),
+  ('semantic.order_sales_view', 'pax_type'), ('semantic.order_sales_view', 'order_currency'),
+  ('semantic.respondio_contact_assignee', 'assignee_id'), ('semantic.respondio_contact_assignee', 'assignee_name'),
+  ('curated.respondio_sg_webuytravel_message_hot_30d', 'sender_role'),
+  ('curated.respondio_wetrip_message_hot_30d', 'sender_role'),
+  ('curated.respondio_id_webuytravel_message_hot_30d', 'sender_role')
 )
-select n.table_name, n.column_name, (c.column_name is not null) as present
+-- 用 pg_attribute 而不是 information_schema:后者不列物化视图的列(归因事实、联系人订单匹配都是物化视图)
+select n.obj, n.column_name,
+       exists (select 1 from pg_attribute a
+               where a.attrelid = to_regclass(n.obj) and a.attname = n.column_name and not a.attisdropped) as present
 from need n
-left join information_schema.columns c
-  on c.table_schema = 'tracking' and c.table_name = n.table_name and c.column_name = n.column_name
-order by present, n.table_name, n.column_name;
+order by present, n.obj, n.column_name;
 
 -- 2) reporting schema 是否已存在(已存在说明有人建过,迁移前先对一下)
 select exists (select 1 from information_schema.schemata where schema_name = 'reporting') as reporting_exists;
 
--- 3) 近 30 天广告点击:总量、带 ad_id 的比例、测试流量比例、名称字段是否有值
-select market,
-       count(*)                                              as clicks,
-       count(*) filter (where ad_id is not null)             as clicks_with_ad_id,
-       count(*) filter (where is_test_traffic)               as test_clicks,
-       count(*) filter (where short_code is not null)        as clicks_with_short_code,
-       count(*) filter (where campaign_name is not null)     as clicks_with_campaign_name,
-       min(event_time)::date as first_day, max(event_time)::date as last_day
-from tracking.tracking_clicks
-where event_time >= now() - interval '30 days'
-group by market order by market;
+-- 3) 数据新鲜度(以数据中台水位视图为准)
+select object_name, column_group, data_as_of, is_stale
+from semantic.data_freshness
+where object_name ~* '(respond|attribution|contact_order|order_sales|meta_ad|auto_sql|ad_campaign|message)'
+order by object_name;
 
--- 4) 线索阶段的取值(确认 'SQL' / 'Deal' 拼写)和近 30 天人数
-select market, stage,
-       count(distinct coalesce(contact_id, 'respondio:' || respond_io_contact_id)) as contacts,
-       count(*) filter (where short_code is not null) as events_with_short_code
-from tracking.lead_stage_history
-where occurred_at >= now() - interval '30 days'
-group by market, stage order by market, stage;
+-- 4) 各市场近 180 天有效 Private Tour 订单(团型口径与 reporting.pt_rules 一致)
+select case when is_wetrip_order then 'wetrip' when legal_entity = 'wbt_id' then 'id' else 'sg' end as market,
+       pax_type, order_currency, count(*) as orders, round(sum(total_amount)) as amount
+from semantic.order_sales_view
+where is_effective and booking_date >= current_date - 180
+  and ((legal_entity = 'wbt_sg' and not is_wetrip_order and pax_type in (3, 6))
+    or (is_wetrip_order and pax_type in (5, 9))
+    or (legal_entity = 'wbt_id' and pax_type = 3))
+group by 1, 2, 3 order by 1, 2;
 
--- 5) 近 30 天首次 SQL 的联系人里,能连回带 ad_id 点击的比例(= 广告表能归因的上限)
-with first_sql as (
-  select market, coalesce(contact_id, 'respondio:' || respond_io_contact_id) as cid, min(occurred_at) as sql_at
-  from tracking.lead_stage_history
-  where stage = 'SQL'
-  group by 1, 2
-  having min(occurred_at) >= now() - interval '30 days'
-), codes as (
-  select distinct h.market, coalesce(h.contact_id, 'respondio:' || h.respond_io_contact_id) as cid, h.short_code
-  from tracking.lead_stage_history h
-  where h.short_code is not null
-)
-select f.market,
-       count(distinct f.cid) as sql_contacts,
-       count(distinct f.cid) filter (where exists (
-         select 1 from codes c
-         join tracking.tracking_clicks k
-           on k.market = c.market and k.short_code = c.short_code
-          and k.ad_id is not null and not k.is_test_traffic and k.event_time <= f.sql_at
-         where c.market = f.market and c.cid = f.cid)) as sql_attributable_to_ad
-from first_sql f
-group by f.market order by f.market;
-
--- 6) 近 30 天订单事件:各市场有没有 purchase、带 short_code 的比例、币种
-select market, event_name, currency,
-       count(distinct order_ref)                              as orders,
-       count(distinct order_ref) filter (where short_code is not null) as orders_with_short_code,
-       sum(value)                                             as total_value
-from tracking.order_conversion_events
-where occurred_at >= now() - interval '30 days'
-group by market, event_name, currency order by market, event_name;
+-- 5) 近 90 天名字命中 PT 规则、且有花费的 Meta 广告(按账号)
+select account_id, max(account_name) as account_name, currency,
+       count(distinct ad_id) as pt_ads, round(sum(spend)) as spend
+from curated.meta_ad_daily_metrics
+where date >= current_date - 90 and spend > 0
+  and (campaign_name ~* '(private|\mprv\M|\m[s]?pt\M|私家|定制)'
+    or adset_name    ~* '(private|\mprv\M|\m[s]?pt\M|私家|定制)'
+    or ad_name       ~* '(private|\mprv\M|\m[s]?pt\M|私家|定制)')
+group by account_id, currency order by spend desc;

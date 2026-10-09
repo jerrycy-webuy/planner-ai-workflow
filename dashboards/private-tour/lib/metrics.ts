@@ -9,48 +9,61 @@ export const LATE_THRESHOLD_SEC = 30 * 60;
 
 export function adDerived(r: Pick<AdRow, 'spend' | 'sql_count' | 'orders' | 'revenue' | 'spend_currency' | 'revenue_currency'>) {
   const sameCurrency = r.spend_currency === r.revenue_currency;
+  const sql = r.sql_count ?? 0;
   return {
-    cpsql: ratio(r.spend, r.sql_count),
-    conversion: ratio(r.orders, r.sql_count),
-    // ROI = 金额 / 花费(倍数)。币种不同不硬算。
+    cpsql: r.sql_count === null ? null : ratio(r.spend, sql),
+    conversion: r.sql_count === null ? null : ratio(r.orders, sql),
+    // ROI = 金额 / 花费(倍数)。币种不同(WeTrip 花费 SGD、订单 USD)不硬算。
     roi: sameCurrency ? ratio(r.revenue, r.spend) : null,
-    currencyMismatch: !sameCurrency && r.spend > 0 && r.revenue > 0,
+    currencyMismatch: !sameCurrency && r.spend > 0,
   };
 }
 
-export function sumAds(rows: AdRow[], currency: string) {
-  const t = rows.reduce(
+/** 广告合计:只加 row_type = 'ad' 的行(都是同一 cohort 口径) */
+export function sumAds(rows: AdRow[]) {
+  const ads = rows.filter((r) => r.row_type === 'ad');
+  const t = ads.reduce(
     (acc, r) => ({
       spend: acc.spend + r.spend,
-      sql_count: acc.sql_count + r.sql_count,
+      contacts: acc.contacts + (r.contacts ?? 0),
+      sql_count: acc.sql_count + (r.sql_count ?? 0),
       orders: acc.orders + r.orders,
+      other_orders: acc.other_orders + (r.other_orders ?? 0),
       revenue: acc.revenue + r.revenue,
     }),
-    { spend: 0, sql_count: 0, orders: 0, revenue: 0 },
+    { spend: 0, contacts: 0, sql_count: 0, orders: 0, other_orders: 0, revenue: 0 },
   );
-  return { ...t, spend_currency: currency, revenue_currency: currency };
+  return {
+    ...t,
+    count: ads.length,
+    spend_currency: ads[0]?.spend_currency ?? '',
+    revenue_currency: ads[0]?.revenue_currency ?? '',
+  };
 }
 
 export function salesDerived(r: SalesRow) {
   return {
-    conversion: ratio(r.orders, r.sql_count),
-    lateRate: ratio(r.late_count, r.conversations),
+    conversion: r.sql_count === null ? null : ratio(r.orders, r.sql_count),
+    lateRate: r.late_count === null || r.conversations === null ? null : ratio(r.late_count, r.conversations),
   };
 }
 
+/** 销售合计:只加 Respond 联系人口径的行;"未链接 Respond 的 PT 订单"单独展示,不混进转化率 */
 export function sumSales(rows: SalesRow[]) {
-  const t = rows.reduce(
-    (acc, r) => ({
-      sql_count: acc.sql_count + r.sql_count,
-      conversations: acc.conversations + r.conversations,
-      replied: acc.replied + r.replied,
-      responseSecTotal: acc.responseSecTotal + (r.avg_first_response_sec ?? 0) * r.replied,
-      late_count: acc.late_count + r.late_count,
-      orders: acc.orders + r.orders,
-      revenue: acc.revenue + r.revenue,
-    }),
-    { sql_count: 0, conversations: 0, replied: 0, responseSecTotal: 0, late_count: 0, orders: 0, revenue: 0 },
-  );
+  const t = rows
+    .filter((r) => r.sales_key !== '__offline')
+    .reduce(
+      (acc, r) => ({
+        sql_count: acc.sql_count + (r.sql_count ?? 0),
+        conversations: acc.conversations + (r.conversations ?? 0),
+        replied: acc.replied + (r.replied ?? 0),
+        responseSecTotal: acc.responseSecTotal + (r.avg_first_response_sec ?? 0) * (r.replied ?? 0),
+        late_count: acc.late_count + (r.late_count ?? 0),
+        orders: acc.orders + r.orders,
+        revenue: acc.revenue + r.revenue,
+      }),
+      { sql_count: 0, conversations: 0, replied: 0, responseSecTotal: 0, late_count: 0, orders: 0, revenue: 0 },
+    );
   return {
     ...t,
     // 加权平均:按已回复会话数加权;中位数无法从分组结果合并,合计行不显示
@@ -79,7 +92,8 @@ export function fmtMoneyCompact(v: number | null, currency: string): string {
   return `${currency} ${v.toLocaleString('en-US', { notation: 'compact', maximumFractionDigits: 1 })}`;
 }
 
-export function fmtInt(v: number): string {
+export function fmtInt(v: number | null): string {
+  if (v === null || !Number.isFinite(v)) return DASH;
   return v.toLocaleString('en-US');
 }
 

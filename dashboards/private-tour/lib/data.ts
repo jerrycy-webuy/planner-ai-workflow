@@ -16,10 +16,13 @@ function toAdRow(r: Record<string, unknown>): AdRow {
     ad_name: (r.ad_name as string | null) ?? null,
     spend: num(r.spend),
     spend_currency: String(r.spend_currency ?? ''),
-    sql_count: num(r.sql_count),
+    contacts: numOrNull(r.contacts),
+    sql_count: numOrNull(r.sql_count),
     orders: num(r.orders),
+    other_orders: numOrNull(r.other_orders),
     revenue: num(r.revenue),
     revenue_currency: String(r.revenue_currency ?? ''),
+    snapshot_at: (r.snapshot_at as string | null) ?? null,
   };
 }
 
@@ -27,15 +30,16 @@ function toSalesRow(r: Record<string, unknown>): SalesRow {
   return {
     sales_key: String(r.sales_key ?? ''),
     sales_name: String(r.sales_name ?? ''),
-    sql_count: num(r.sql_count),
-    conversations: num(r.conversations),
-    replied: num(r.replied),
+    sql_count: numOrNull(r.sql_count),
+    conversations: numOrNull(r.conversations),
+    replied: numOrNull(r.replied),
     avg_first_response_sec: numOrNull(r.avg_first_response_sec),
     median_first_response_sec: numOrNull(r.median_first_response_sec),
-    late_count: num(r.late_count),
+    late_count: numOrNull(r.late_count),
     orders: num(r.orders),
     revenue: num(r.revenue),
     revenue_currency: String(r.revenue_currency ?? ''),
+    snapshot_at: (r.snapshot_at as string | null) ?? null,
   };
 }
 
