@@ -17,6 +17,7 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | Lark Base 实建 | 🟡 8 张表已建；7 张字段 100%，Departures 25/29（剩 4 个公式列） |
 | planner-suite skill 包 | 🟡 韩国线 A5 知识包 + 校验器已落地（[korea/](korea/)）；地接填写模板（[dmc_templates/](dmc_templates/)）已出，为 A3 报价转录铺路；A3 / A4 未开始 |
 | Skybear 写 API 联调 | ⬜ 等 IT 上线后启动 |
+| Private Tour 数据看板 | 🟡 看板 + 数据层 SQL 已出（[dashboards/private-tour/](dashboards/private-tour/)，示例数据可预览）；等数据平台执行迁移、补广告花费 / 销售事实同步 |
 
 ## 文档
 
@@ -28,6 +29,7 @@ WEBUY Group Commercial · Product 线 Planner 工作流 AI 化项目。
 | [docs/overview.html](docs/overview.html) | 一页总览（可直接在浏览器打开） |
 | [korea/](korea/) | **韩国线行程知识库**（按日本版方法）：新加坡 3 家旅行社 + 首尔地接 53 条在售线路、14 个行程家族、城市交通图、359 个按城市 tag 的景点、酒店、季节约束，配检索器、校验器、生成驱动与 skill |
 | [dmc_templates/](dmc_templates/) | **地接社填写模板**：韩国版（中/英/韩，按知识库预填）与台湾版（繁中/英），字段对齐 Lark Suppliers / Quotes / Quote_Lines |
+| [dashboards/private-tour/](dashboards/private-tour/) | **Private Tour 数据看板**：广告表（SQL / CPSQL / 成交 / 金额 / 转化率 / ROI）+ 销售表（SQL / 首响 / 订单 / 转化率 / 销售额）；Next.js + Supabase，数据来自数据平台 `tracking` schema |
 
 ## 架构一句话
 
