@@ -68,7 +68,7 @@ tracking.tracking_clicks ◄─short_code─ tracking.lead_stage_history   track
 | 销售归属、首响时间、lifecycle | `reporting.lead_sales_facts` | 🟡 新表,需要 Respond.io 轮询顺带写 |
 | 什么算 Private Tour | `reporting.pt_rules` | ✅ 新表,带默认规则,可改 |
 
-看板本身**只能调两个函数**,不读任何表:函数是 `SECURITY DEFINER`,入口先查 `reporting.dashboard_viewers`(邮箱 × 市场白名单),输出只有聚合数,不含客户手机号 / 邮箱 / 姓名 / contact id。SG、ID 数据按人分别授权。
+看板本身**只能调两个函数**,不读任何表:函数是 `SECURITY DEFINER`,入口只放行两类调用方:网页登录用户按 `reporting.dashboard_viewers`(邮箱 × 市场白名单)放行,SG、ID 按人分别授权;数据库只读登录要被 DBA 授予 `pt_dashboard_readonly` 组。输出只有聚合数,不含客户手机号 / 邮箱 / 姓名 / contact id。
 
 ## 上线前还要做的事
 
@@ -83,18 +83,21 @@ tracking.tracking_clicks ◄─short_code─ tracking.lead_stage_history   track
 
 ## 接入数据中台
 
-先跑只读体检 `supabase/checks/preflight.sql`(只输出聚合数):确认函数依赖的列都在、各市场近 30 天的点击 / SQL / 订单量、SQL 能归因到广告的比例、哪些市场已有 purchase 事件。结果没问题再执行迁移。
+数据中台对外有两种只读接法,看板分别都能用上:
 
-让 AI 助手(Claude Code 云端会话)直接查数据中台,二选一:
-
-| 方式 | 怎么开 | 权限 |
+| 谁 | 怎么连 | 能看到什么 |
 |---|---|---|
-| **Supabase 连接器(推荐)** | claude.ai → Settings → Connectors 添加 Supabase,用公司 Supabase 组织账号授权;或自定义连接器 `https://mcp.supabase.com/mcp?project_ref=<数据中台 ref>&read_only=true` | 只读、只限数据中台这一个 project |
-| 环境变量 | 云端环境设置 → Edit → 环境变量 `DATA_PLATFORM_SUPABASE_URL` + 只读凭据 | 取决于凭据;不要用 service_role / 个人 access token |
+| **AI 助手 / 业务同事问数** | **SEABEAR** MCP(数据中台自己的只读服务)。claude.ai → Settings → Connectors → SEABEAR → Connect,用公司飞书账号登录;Claude Code 等命令行工具用个人静态 token(找 Vincent 要)。步骤见飞书文档《SEABEAR 数据中台 · 接入指南》 | 数据中台 catalog 里的数据,只读 |
+| **BI 工具 / 只读体检** | 数据库专用只读登录 + `pt_dashboard_readonly` 组(和 IDN 漏斗看板的 `idn_funnel_readonly` 同一做法) | **只能**调两个看板函数,全部市场;读不到原始表 |
+| **看板网页** | Supabase Auth 公司邮箱登录 → PostgREST 调两个看板函数 | 按 `reporting.dashboard_viewers` 白名单分市场 |
 
-凭据按 `ai-project-template/COMPLIANCE/access-request.md` 找 IT lead 申请,不要贴进聊天。云端环境只放行 HTTPS,Postgres 直连端口(5432 / 6543)不通,所以 `psql` 连接串在云端用不了。
+接入前先跑只读体检 `supabase/checks/preflight.sql`(只输出聚合数):函数依赖的列在不在、各市场近 30 天点击 / SQL / 订单量、SQL 能归因到广告的比例、哪些市场已有 purchase 事件。可以经 SEABEAR 问,也可以让 DBA 在 SQL Editor 里跑。
 
-迁移本身(`supabase/migrations/`)按 tracking 仓库的惯例由数据中台 DBA review 后执行,AI 只读接入不负责写库。
+几条规矩:
+
+- token、密码都不进 git、不贴聊天。Claude Code 云端会话要用 SEABEAR token,配在云端环境设置的环境变量里(变量名 `SEABEAR_MCP_TOKEN`),新开会话生效。
+- 云端会话只放行 HTTPS:SEABEAR 能连,`psql` 直连 Postgres(5432 / 6543)不通。
+- 迁移(`supabase/migrations/`)按 tracking 仓库的惯例由数据中台 DBA review 后执行;DBA 执行完再 `GRANT pt_dashboard_readonly TO "<已有的只读登录>"`,验证语句在第二份迁移末尾。AI 只读接入,不写库。
 
 ## 本地运行
 

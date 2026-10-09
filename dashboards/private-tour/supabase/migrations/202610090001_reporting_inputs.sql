@@ -105,13 +105,24 @@ create table if not exists reporting.dashboard_viewers (
   note     text
 );
 
+-- ---------------------------------------------------------------------------
+-- 5) 只读组(与 IDN 漏斗看板的 idn_funnel_readonly 同一做法):不能登录、没有密码、
+--    读不到任何原始表,只能调下一份迁移里的两个看板函数(全部市场)。
+--    用途:BI 工具 / AI 只读体检。DBA 把它授给已有的专用只读登录,见下一份迁移末尾。
+-- ---------------------------------------------------------------------------
+do $$ begin
+  if not exists (select 1 from pg_roles where rolname = 'pt_dashboard_readonly') then
+    create role pt_dashboard_readonly nologin nosuperuser nocreatedb nocreaterole nobypassrls;
+  end if;
+end $$;
+
 alter table reporting.ad_spend_daily    enable row level security;
 alter table reporting.lead_sales_facts  enable row level security;
 alter table reporting.pt_rules          enable row level security;
 alter table reporting.dashboard_viewers enable row level security;
 
--- 看板用户(authenticated)不直接读任何表,只能调下一份迁移里的两个函数。
-revoke all on all tables in schema reporting from public, anon, authenticated;
+-- 看板用户(authenticated)和只读组都不直接读任何表,只能调下一份迁移里的两个函数。
+revoke all on all tables in schema reporting from public, anon, authenticated, pt_dashboard_readonly;
 -- 写入方角色的 grant 由 DBA 按环境单独下发(与 tracking_worker 同样做法)。
 
 commit;

@@ -51,6 +51,8 @@ compliance_level: MEDIUM            # 含销售个人绩效
 access_control:
   auth: Supabase Auth(公司邮箱登录链接)
   authorization: reporting.dashboard_viewers(email × markets 白名单),在函数入口校验
+  bi_and_ai_readonly: 只读组 pt_dashboard_readonly(DBA 授给已有只读登录;只能 EXECUTE 两个看板函数)
+  ai_data_access: SEABEAR 数据中台 MCP(飞书登录 / 个人 token,只读)
 ```
 
 ## 技术栈

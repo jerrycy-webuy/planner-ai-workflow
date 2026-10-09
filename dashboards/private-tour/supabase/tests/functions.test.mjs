@@ -67,7 +67,21 @@ await db.exec(`
     ('sg','respondio:6',null,null,null,'private trip','2026-10-02 04:01+00','2026-10-02 04:06+00');
 `);
 
-const as = (email) => db.exec(`set request.jwt.claims = '${JSON.stringify({ email })}'`);
+// 三类调用方(PGlite 默认是超级用户,超级用户对 pg_has_role 恒为 true,所以测试都切到普通登录):
+//   web_user    看板网页经 PostgREST 来的已登录用户(authenticated),靠 JWT 邮箱白名单
+//   bi_reader   DBA 授予了 pt_dashboard_readonly 的只读登录,没有 JWT
+//   other_login 普通已登录角色,既不在白名单也不在只读组
+await db.exec(`
+  create role web_user login;    grant authenticated to web_user;
+  create role bi_reader login;   grant pt_dashboard_readonly to bi_reader;
+  create role other_login login; grant authenticated to other_login;
+`);
+const switchTo = (role, claims = {}) => db.exec(`
+  reset session authorization;
+  set session authorization ${role};
+  set request.jwt.claims = '${JSON.stringify(claims)}';
+`);
+const as = (email) => switchTo('web_user', { email });
 const rows = async (sql) => (await db.query(sql)).rows.map((r) =>
   Object.fromEntries(Object.entries(r).map(([k, v]) => [k, typeof v === 'string' && /^-?\d+(\.\d+)?$/.test(v) ? Number(v) : v])));
 
@@ -100,5 +114,18 @@ await assert.rejects(db.query(`select * from reporting.pt_ad_performance('id', '
 await assert.rejects(db.query(`select * from reporting.pt_ad_performance('sg', '2026-10-31', '2026-10-01')`), /date range/, '日期倒置');
 await as('someone@webuy.global');
 await assert.rejects(db.query(`select * from reporting.pt_sales_performance('sg', '2026-10-01', '2026-10-31')`), /not allowed/, '不在白名单');
+
+// 只读登录:不需要 JWT,能看全部市场;但读不到原始表、白名单表和内部函数
+await switchTo('bi_reader');
+assert.equal((await rows(`select * from reporting.pt_ad_performance('sg', '2026-10-01', '2026-10-31')`)).length, 3, '只读登录看 SG');
+assert.ok(await rows(`select * from reporting.pt_sales_performance('id', '2026-10-01', '2026-10-31')`), '只读登录看 ID');
+await assert.rejects(db.query(`select count(*) from tracking.lead_stage_history`), /permission denied/, '只读登录读不到原始表');
+await assert.rejects(db.query(`select count(*) from reporting.dashboard_viewers`), /permission denied/, '只读登录读不到白名单');
+await assert.rejects(db.query(`select * from reporting._sql_attributed('sg', '2026-10-01', '2026-10-31')`), /permission denied/, '内部函数不对外');
+
+// 普通登录:没有白名单邮箱也不在只读组
+await switchTo('other_login');
+await assert.rejects(db.query(`select * from reporting.pt_ad_performance('sg', '2026-10-01', '2026-10-31')`), /not allowed/, '普通登录被拒');
+await db.exec('reset session authorization');
 
 console.log('reporting functions: all assertions passed');
